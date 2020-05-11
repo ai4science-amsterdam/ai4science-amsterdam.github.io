@@ -2664,7 +2664,8 @@
 	}
 	header.special {
 	    text-align: center;
-	    margin-bottom: 4rem;
+	    margin-top: 3em;
+	    margin-bottom: 2em;
 	}
 	header.special p {
 	    max-width: 75%;
@@ -3689,7 +3690,7 @@
 	}
 
 	#one {
-	    padding: 6em 0 4em 0;
+	    padding: 3em 0 2em 0;
 	}
 
 	@media screen and (max-width: 980px) {

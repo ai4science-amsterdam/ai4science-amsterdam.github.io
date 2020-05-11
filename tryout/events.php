@@ -2,7 +2,6 @@
 $Name = $_POST["Name"];
 $Email= $_POST["Email"];
 $Institute= $_POST["Institute"];
-$City= $_POST["City"];
 $Informed= $_POST["Informed"];
 ?>
 <!DOCTYPE HTML>
@@ -133,36 +132,15 @@ $Informed= $_POST["Informed"];
   </div>
   </section>
 
-  <?php 
-  if (!isset($_POST['submit'])) { 
-  ?>
-
-  <?php 
-    }
-    if( empty($Name) || empty($Email) || empty($Institute) ||
-	empty($City) ){
-      if( isset($_POST['submit']) ){
-        echo "<p><strong>Please fill out the indicated fields and resubmit </strong></p>";
-      }
-  ?>   
-
+  
   <!-- Form -->
   <section id="one">
   <div class="inner">
     <h3>Registration form</h3>
-    <form method="post" action="<?php echo $PHP_SELF;?>">
+    <form method="post" action="#">
       <div class="row uniform 50%">
         <div class="6u 12u$(xsmall)">
-	  <?php
-	  if( (isset($_POST['submit'])) && (empty($Name)) ){
-	    echo "<input type='text' name='Name' id="Name" placeholder='Name'>";
-            echo "<span style='color:red; font-weight: bold;'>**required field</span>";
-	  }else{
-            echo "<input type='text' name='Name' id="Name" value='$Name'>";
-	  }
-	  ?>
-<!--	  <input type="text" name="Name" id="Name" value=""
-  placeholder="Name" /> -->
+          <input type="text" name="Name" id="Name" value="" placeholder="Name" />
         </div>
         <div class="6u$ 12u$(xsmall)">
           <input type="email" name="Email" id="Email" value="" placeholder="Email" />
@@ -196,52 +174,12 @@ $Informed= $_POST["Informed"];
         </div>
         <div class="12u$">
           <ul class="actions">
-            <li><input type="submit" value="submit" name="submit" class="special" /></li>
-            <li><input type="reset" value="Reset" name="reset" /></li>
+            <li><input type="submit" value="Submit" class="special" /></li>
+            <li><input type="reset" value="Reset" /></li>
           </ul>
         </div>
       </div>
     </form>
-
-    <?php
-      } else { 
-         echo "<p>Thank you for your registration <br />";
-         echo "A confirmation email has been send to your adres at ".$Email.".<br />";
-         echo "We are looking forward to see at the AI4Science Kickoff
-      Workshop.</p />";
-
-      $message = "
-        Dear ".$Name.",
-        
-        Thank you for registering for the AI4Science Kickoff Workshop.
-
-        We received the following information from you:
-          Name: ".$Fname." ".$Lname." 
-          E-mail: ".$Email."
-          Institute: ".$Institute."
-          City, Country: ".$City."
-          Stay connected: ".$Informed."
-
-        You will be informed on how to connect to the online Workshop
-        in a separate email, not later than July 1st.
-      
-        Sincerely,
-
-        Bernd Ensing
-        Patrick Forre
-
-        (please do not reply to this email as it was generated automatically)
-       ";
-
-      mail( "acmm.han@gmail.com", "AI4Science Kickoff Workshop registration",
-            $message, "From: acmm.han@gmail.com" );
-      mail( $Email, "AI4Science Kickoff Workshop registration",
-            $message, "From: acmm.han@gmail.com" );
-
-      }
-     ?>
-
-      
   </div>
   </section>
   
