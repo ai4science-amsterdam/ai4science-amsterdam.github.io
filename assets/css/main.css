@@ -1751,10 +1751,15 @@
 			overflow-x: auto;
 		}
 
-	hr {
-		border: 0;
-		border-bottom: solid 1px;
-		margin: -3em 0 3em 0;
+        hr {
+                border: 0;
+                border-top: solid 1px;
+                margin: 0 0 3em 0;
+        }
+	hr.double {
+	        border-top: 3px double #8c8c8c;
+		border-bottom: none
+		margin: 0em 0 3em 0;
 	}
 
 	hr.major {
