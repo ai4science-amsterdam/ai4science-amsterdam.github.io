@@ -222,7 +222,7 @@ The Ai4Science Colloquiem is a bi-weekly event in which we will invite pronounce
 </div>
  </section>
 
-[1]: https://ellis.ai
+[1]: https://ellis.eu
 [2]: https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/faculty-of-science.html
 [3]: https://www.uva.nl
 [4]: https://ivi.uva.nl
