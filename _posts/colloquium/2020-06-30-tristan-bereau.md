@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tristan Bureau"
+title: "Tristan Bereau"
 subheadline: "30 June 2020"
 teaser: "Physically-motivated machine learning for multiscale molecular simulations"
 categories:

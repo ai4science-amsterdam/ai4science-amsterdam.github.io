@@ -47,4 +47,4 @@ For an overview of previous colloquia, please have a look at out [blog][2].
 
 [1]: https://bereau.group/
 [2]: /blog/
-[9]: /laboratory/
+[9]: /contact/
