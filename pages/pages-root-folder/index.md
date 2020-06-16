@@ -151,27 +151,6 @@ The Ai4Science Colloquiem is a bi-weekly event in which we will invite pronounce
 <section id="tworev">
  <div class="inner">
 
-    <article>
-    <div class="content">
-      <header>
-        <h3>Project Teodora</h3>
-      </header>
-      <div class="image fit">
-        <img src="images/fig_project1.png" alt="Gravitational waves" />
-      </div>
-      <p>The breakthrough discovery of the first gravitational wave
-      signal in September 2015 (Nobel Prize 2017) has opened a new
-      window to the Universe. Analyses of the signal waveforms during
-      the initial inspiral, merger and final ringdown phase provide
-      crucial information about the properties of superheavy stellar objects.</p>
-      <p>
-      <ul class="actions">
-        <a href="/highlights" class="button">Learn More</a>
-      </ul>
-      </p>
-    </div>
-    </article>
-
     <article class="alt">
     <div class="content">
       <header>
@@ -198,28 +177,6 @@ The Ai4Science Colloquiem is a bi-weekly event in which we will invite pronounce
     </article>
 
  </div>
- </section>
-
-<section id="tworev">
-<div class="inner">
-    <article>
-    <div class="content">
-      <header>
-        <h3>Project Fiona</h3>
-      </header>
-      <div class="image fit">
-        <img src="images/fig_project1.png" alt="Gravitational waves" />
-      </div>
-      <p>
-      crucial information about the properties of superheavy stellar objects.</p>
-      <p>
-      <ul class="actions">
-        <a href="/highlight" class="button">Learn More</a>
-      </ul>
-      </p>
-    </div>
-    </article>
-</div>
  </section>
 
 [1]: https://ellis.eu
