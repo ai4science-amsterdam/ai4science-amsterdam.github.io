@@ -186,6 +186,7 @@ The Ai4Science Colloquiem is a bi-weekly event in which we will invite pronounce
       </div>
       <p>Gene regulatory networks (GRNs) model the biological interactions between genes and provide a better understanding of the cellular processes and regulation pathways. Correctly constructed GRNs can play a fundamental role in solving various biological and biomedical problems, such as tracking disease development. The great amount of gene expression data available on the GEO database suggests using AI-based techniques for processing and modeling such networks.
       </p>
+      <p>
       <ul class="actions">
         <a href="/highlights" class="button">Learn More</a>
       </ul>
