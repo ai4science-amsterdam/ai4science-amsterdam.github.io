@@ -93,6 +93,11 @@ There are multiple areas where ML can assist with solving the task at hand and t
 
 <br/>
 
+<img src="../images/fig_project4a.png"
+     alt="Project1"
+     width="400"
+     style="float: right; margin-right: 10px;" />
+
 Causal discovery to reveal complex gene regulation networks from vast transcriptome datasets
 Gene regulatory networks (GRNs) model the biological interactions between genes and provide a better understanding of the cellular processes and regulation pathways. Correctly constructed GRNs can play a fundamental role in solving various biological and biomedical problems, such as tracking disease development. Technological advances of high-throughput molecular biology have opened a new research frontier for inferring GRNs in a completely data-driven way. The great amount of gene expression data available on the GEO database suggests using AI-based techniques for processing and modeling such networks.
 In this project, we focus on Bacillus subtilis, a well-studied Gram-positive bacterium with more than 3,000 publicly available transcriptome datasets. Combining these datasets alongside with reconstructing the known GRNs can be a very challenging task due to the (un)observable batch effects in the data that result from the varying data generating process across experiments. By tackling these issues and applying novel causal discovery techniques we aim for a better interpretation of the genes functions and their organization in hierarchical structures or even revealing unknown regulatory networks.
