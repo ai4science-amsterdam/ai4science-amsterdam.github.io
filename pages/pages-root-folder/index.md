@@ -179,7 +179,7 @@ The Ai4Science Colloquiem is a bi-weekly event in which we will invite pronounce
     <article>
     <div class="content">
       <header>
-        <h3>Gene Regulatory Networksy</h3>
+        <h3>Gene Regulatory Networks</h3>
       </header>
       <div class="image fit">
         <img src="images/fig_project3b_s.png" alt="Radio astronomy" />
