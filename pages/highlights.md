@@ -93,7 +93,7 @@ There are multiple areas where ML can assist with solving the task at hand and t
 
 <br/>
 
-<img src="../images/figa.png"
+<img src="../images/fig_project4a.png"
      alt="Project1"
      width="400"
      style="float: right; margin-right: 10px;" />
