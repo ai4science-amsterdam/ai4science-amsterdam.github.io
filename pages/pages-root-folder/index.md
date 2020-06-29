@@ -83,12 +83,27 @@ We develop and use machine learning techniques to discover patterns in data stre
 
 __________________________________________
 
+<center> <h1>AI4Science Consortium</h1> </center>
+
+The AI4Science Laboratory is the center of a rapidly growing multidisciplinary 
+consortium of students, researchers, and experts interested in the 
+development and application of artificial intelligence tools for the 
+analysis of scientific data. We keep each other informed about interesting 
+challenges and new developments. Our activities include organising seminars 
+and workshops, and helping each other with acquiring funding for AI4Science 
+spin-offs. Interested in joining the AI4Science consortium? 
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/consortium/">Learn More›</a>
+
+<!--
+__________________________________________
+
 <center> <h1>AI4Science Colloquium</h1> </center>
 
 The Ai4Science Colloquiem is a bi-weekly event in which we will invite pronounced speakers active in the field of Artificial Intelligence and Science. 
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/Colloquium/">Learn More›</a>
-
+-->
 -----------------------------------------
 
 <center> <h1>Projects</h1> </center>
