@@ -1,4 +1,4 @@
-I"Û<center> <h1>Highlights</h1> </center>
+I"s<center> <h1>Highlights</h1> </center>
 
 <h2 id="gravitational-waves">Gravitational Waves</h2>
 <p><br /></p>
@@ -50,5 +50,19 @@
 <p><img src="../people/DavidRuhe.jpg" alt="David Ruhe" width="100" style="float: center; margin-right: 10px; border-radius:50%;" /></p>
 
 <hr />
+
+<h2 id="gene-regulatory-networks">Gene Regulatory Networks</h2>
+
+<p><br /></p>
+
+<p><img src="../images/fig_project4b.png" alt="Project1" width="400" style="float: right; margin-right: 10px;" /></p>
+
+<p>Causal discovery to reveal complex gene regulation networks from vast transcriptome datasets
+Gene regulatory networks (GRNs) model the biological interactions between genes and provide a better understanding of the cellular processes and regulation pathways. Correctly constructed GRNs can play a fundamental role in solving various biological and biomedical problems, such as tracking disease development. Technological advances of high-throughput molecular biology have opened a new research frontier for inferring GRNs in a completely data-driven way. The great amount of gene expression data available on the GEO database suggests using AI-based techniques for processing and modeling such networks.
+In this project, we focus on Bacillus subtilis, a well-studied Gram-positive bacterium with more than 3,000 publicly available transcriptome datasets. Combining these datasets alongside with reconstructing the known GRNs can be a very challenging task due to the (un)observable batch effects in the data that result from the varying data generating process across experiments. By tackling these issues and applying novel causal discovery techniques we aim for a better interpretation of the genes functions and their organization in hierarchical structures or even revealing unknown regulatory networks.</p>
+
+<p>By Teodora Pandeva</p>
+
+<p><img src="../people/TeodoraPandeva.jpg" alt="TeodoraPandeva" width="100" style="float: center; margin-right: 10px; border-radius:50%;" /></p>
 
 :ET
