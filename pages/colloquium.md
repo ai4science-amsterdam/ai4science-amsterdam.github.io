@@ -11,7 +11,6 @@ permalink: "/colloquium/"
 ---
 > Knowledge Shared = Knowledge<sup>2</sup>
 
-TODO: Some info text here
 
 ## Next Colloquium
 
@@ -39,8 +38,6 @@ In this talk I will show how incorporating physics in machine-learning models ca
 
 ## Email List
 To stay up to date with our activities and be invited to our biweekly AI4Science colloquium series, you may send a request to be included in our emaillist via [an email to us][9] with your name, affiliation and a one-sentence motivation for joining.
-
-TODO: Better url to email list, perhaps some form to get added to the google groups straight away?
 
 ## Previous Colloquia
 For an overview of previous colloquia, please have a look at out [blog][2].
