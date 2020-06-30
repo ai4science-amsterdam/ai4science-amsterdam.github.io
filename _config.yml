@@ -22,7 +22,9 @@ We develop and use machine learning techniques to discover patterns in data stre
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 #credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
-credits: '<p> © 2020 UvA FNWI AI4Science Laboratory. All Rights Reserved |Design: <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p> © 2020 UvA FNWI AI4Science Laboratory. All Rights Reserved |Design: <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>. |Header image: <a href="https://www.flickr.com/photos/mikemacmarketing/30212411048">Mike MacKenzie</a>.</p>'
+
+#credits: '<p> © 2020 UvA FNWI AI4Science Laboratory. All Rights Reserved |Header image: <a href="https://www.flickr.com/photos/mikemacmarketing/30212411048">Mike MacKenzie</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
