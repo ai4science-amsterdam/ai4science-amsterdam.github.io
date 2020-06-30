@@ -25,7 +25,7 @@ Date: 30-06-2020 14:00-15:00 Central European Summer Time
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
-Speaker: **Tristan Bereau**, Assistant professor, [Computational Soft Matter][1], HIMS, UvA
+Speaker: **Tristan Bereau**, Assistant professor, [Computational Soft Matter][1], HIMS & IvI, UvA
 
 **Abstract:** <br/>
 Advanced statistical methods are rapidly impregnating many scientific fields, offering new perspectives on long-standing problems. In materials science, data-driven methods are already bearing fruit in various disciplines, such as hard condensed matter or inorganic chemistry, as well as soft matter to a smaller extent.
@@ -36,7 +36,7 @@ In this talk I will show how incorporating physics in machine-learning models ca
      alt="Physical Machine learning"
      width="400"
      style="float: center; margin-right: 10px;"/>
-<p>Ref: <a href="https://www.cell.com/biophysj/fulltext/S0006-3495(20)30114-4">Biophysical Journal</a></p>
+<p>Ref: <a href="https://aip.scitation.org/doi/10.1063/1.5009502">Journal of Chemical Physics</a></p>
 
 ## Email List
 To stay up to date with our activities and be invited to our biweekly AI4Science colloquium series, you may send a request to be included in our emaillist via [an email to us][9] with your name, affiliation and a one-sentence motivation for joining.
