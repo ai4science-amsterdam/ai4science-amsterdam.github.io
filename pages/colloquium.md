@@ -16,6 +16,13 @@ permalink: "/colloquium/"
 
 ## Next Colloquium
 
+The AI4Science colloquium will restart in September. If you want to stay tuned with the state of the art AI solutions for various scientific problems, please subscribe via our email. We wish you a nice summer break!
+
+## Email List
+To stay up to date with our activities and be invited to our biweekly AI4Science colloquium series, you may send a request to be included in our emaillist via [an email to us][9] with your name, affiliation and a one-sentence motivation for joining.
+
+## Previous Colloquia
+
 #### Title:  Physically-motivated machine learning for multiscale molecular simulations
 
 Date: 30-06-2020 14:00-15:00 Central European Summer Time
@@ -37,11 +44,9 @@ In this talk I will show how incorporating physics in machine-learning models ca
      width="400"
      style="float: center; margin-right: 10px;"/>
 <p>Ref: <a href="https://aip.scitation.org/doi/10.1063/1.5009502">Journal of Chemical Physics</a></p>
+ 
+<a class="radius button small" href="https://drive.google.com/file/d/1COEnlxyiJ0lKjbQ1TqW2xu8CEYVKS0NP/view">Watch Back ›</a>
 
-## Email List
-To stay up to date with our activities and be invited to our biweekly AI4Science colloquium series, you may send a request to be included in our emaillist via [an email to us][9] with your name, affiliation and a one-sentence motivation for joining.
-
-## Previous Colloquia
 For an overview of previous colloquia, please have a look at out [blog][2].
 
 [1]: https://bereau.group/

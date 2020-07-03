@@ -28,6 +28,8 @@ Advanced statistical methods are rapidly impregnating many scientific fields, of
 When coupling machine learning to molecular simulations, many problems of interest display dauntingly-large interpolation spaces, limiting their immediate application without undesired artifacts (e.g., extrapolation). The incorporation of physical information, such as conserved quantities, symmetries, and constraints, can play a decisive role in reducing the interpolation space. Conversely, physics can help determine whether a machine-learning prediction should be trusted, acting as a more robust alternative to the predictive variance.
 In this talk I will show how incorporating physics in machine-learning models can help connect resolutions in multiscale modeling. Illustrations will include force-field parametrization, automated dimensionality reduction and clustering, and generative models to reintroduce atomistic detail in coarse-grained configurations.
 
+<a class="radius button small" href="https://drive.google.com/file/d/1COEnlxyiJ0lKjbQ1TqW2xu8CEYVKS0NP/view">Watch Back ›</a>
+
 <img src="../../images/physml.jpg"
      alt="Physical Machine learning"
      width="400"

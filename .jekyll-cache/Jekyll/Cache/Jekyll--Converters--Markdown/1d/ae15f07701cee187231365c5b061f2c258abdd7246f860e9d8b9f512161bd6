@@ -1,9 +1,15 @@
-I"!
-<blockquote>
+I"è<blockquote>
   <p>Knowledge Shared = Knowledge<sup>2</sup></p>
 </blockquote>
 
 <h2 id="next-colloquium">Next Colloquium</h2>
+
+<p>The AI4Science colloquium will restart in September. If you want to stay tuned with the state of the art AI solutions for various scientific problems, please subscribe via our email. We wish you a nice summer break!</p>
+
+<h2 id="email-list">Email List</h2>
+<p>To stay up to date with our activities and be invited to our biweekly AI4Science colloquium series, you may send a request to be included in our emaillist via <a href="/contact/">an email to us</a> with your name, affiliation and a one-sentence motivation for joining.</p>
+
+<h2 id="previous-colloquia">Previous Colloquia</h2>
 
 <h4 id="title--physically-motivated-machine-learning-for-multiscale-molecular-simulations">Title:  Physically-motivated machine learning for multiscale molecular simulations</h4>
 
@@ -11,7 +17,7 @@
 
 <p><img src="../people/tristan_bereau.jpg" alt="Tristan Bereau" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
 
-<p>Speaker: <strong>Tristan Bereau</strong>, Assistant professor, <a href="https://bereau.group/">Computational Soft Matter</a>, HIMS, UvA</p>
+<p>Speaker: <strong>Tristan Bereau</strong>, Assistant professor, <a href="https://bereau.group/">Computational Soft Matter</a>, HIMS &amp; IvI, UvA</p>
 
 <p><strong>Abstract:</strong> <br />
 Advanced statistical methods are rapidly impregnating many scientific fields, offering new perspectives on long-standing problems. In materials science, data-driven methods are already bearing fruit in various disciplines, such as hard condensed matter or inorganic chemistry, as well as soft matter to a smaller extent.
@@ -19,12 +25,10 @@ When coupling machine learning to molecular simulations, many problems of intere
 In this talk I will show how incorporating physics in machine-learning models can help connect resolutions in multiscale modeling. Illustrations will include force-field parametrization, automated dimensionality reduction and clustering, and generative models to reintroduce atomistic detail in coarse-grained configurations.</p>
 
 <p><img src="../images/physml.jpg" alt="Physical Machine learning" width="400" style="float: center; margin-right: 10px;" /></p>
-<p>Ref: <a href="https://www.cell.com/biophysj/fulltext/S0006-3495(20)30114-4">Biophysical Journal</a></p>
+<p>Ref: <a href="https://aip.scitation.org/doi/10.1063/1.5009502">Journal of Chemical Physics</a></p>
 
-<h2 id="email-list">Email List</h2>
-<p>To stay up to date with our activities and be invited to our biweekly AI4Science colloquium series, you may send a request to be included in our emaillist via <a href="/contact/">an email to us</a> with your name, affiliation and a one-sentence motivation for joining.</p>
+<p><a class="radius button small" href="https://drive.google.com/file/d/1COEnlxyiJ0lKjbQ1TqW2xu8CEYVKS0NP/view">Watch Back ‚Ä∫</a></p>
 
-<h2 id="previous-colloquia">Previous Colloquia</h2>
 <p>For an overview of previous colloquia, please have a look at out <a href="/blog/">blog</a>.</p>
 
 :ET
