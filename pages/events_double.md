@@ -7,6 +7,6 @@ title: "A Virtual Workshop"
 header:
    image_fullwidth: "banner_kickoff.jpg"
    title: ''
-permalink: "/events/"
+permalink: "/events1231/"
 ---
 
