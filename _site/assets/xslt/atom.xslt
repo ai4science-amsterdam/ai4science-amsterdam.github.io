@@ -190,7 +190,7 @@ We develop and use machine learning techniques to discover patterns in data stre
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="http://localhost:4000//events/">Events</a>
+                <a  href="http://localhost:4000//events.html/">Events</a>
 
                   <ul class="dropdown">
                     
