@@ -40,7 +40,7 @@
 #    url: "/design/portfolio/"
 
 - title: "Events"
-  url: "/events/"
+  url: "/events.html/"
   side: right
   dropdown:
 #  - title: "Header with Full-Width-Image"
