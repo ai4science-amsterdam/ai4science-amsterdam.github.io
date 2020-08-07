@@ -104,8 +104,49 @@ In this project, we focus on Bacillus subtilis, a well-studied Gram-positive bac
 
 By Teodora Pandeva
 
+
 <img src="../people/TeodoraPandeva.jpg"
      alt="TeodoraPandeva"
      width="100"
      style="float: center; margin-right: 10px; border-radius:50%;"/>
 
+--------------------------------------------
+
+## Radar Aeroecology
+
+<br/>
+
+<img src="../images/fig_project5a.png"
+     alt="Source: doi:10.3390/rs11192233"
+     width="400"
+     style="float: right; margin-right: 10px;"
+     />
+
+Every year millions of birds travel hundreds if not thousands of kilometers between their breeding and wintering grounds, seeking for seasonally optimal habitats. These mass movements are an essential component of biodiversity as they link otherwise separated ecosystems. Climate change and rapid expansions of human structures and activities may have severe implications for migrating birds. In order to assess the ecological consequences of these developments and to devise measures to preserve migration systems, it is essential to better understand continental-scale migration patterns and its external drivers such as weather, habitat quality and land use.
+
+However, studying the aerial movement of migrating birds on a large scale is challenging. Many birds migrate during the night or at high altitudes which makes it impossible for humans to observe them from the ground. Modern tracking devices overcome this issue but they are limited to very few individuals and species with sufficient body mass. Radar technology is considered a promising alternative. In particular international networks of weather radars, which are known to capture mass movements of migrating birds, offer unparalleled opportunities to quantify and analyze bird migration at large spatial and temporal scales. But the field of radar aeroecology is still in its infancy. Challenges relating to the mere volume of raw radar observations as well as data quality issues such as inconsistent calibration and preprocessing, observation artifacts and partial observability prevent ecologists from utilizing the full potential of available radar databases.
+
+<img src="../images/fig_project5b.png"
+     alt="Source: doi:10.3390/rs11192233"
+     width="500"
+     style="float: right; margin-right: 10px;"
+/>
+This project will explore the use of machine learning to overcome this hurdle. By applying and advancing techniques for system identification and predictive modeling of partially observed spatio-temporal dynamical systems we aim at enhancing both the understanding and predictability of continental-scale bird migration in Europe.
+
+
+By Fiona Lippert
+
+<img src="../people/FionaLippert.jpg"
+     alt="FionaLippert"
+     width="100"
+     style="float: center; margin-right: 10px; border-radius:50%;"/>
+
+Images from:
+
+[A Geostatistical Approach to Estimate High Resolution Nocturnal Bird Migration Densities from a Weather Radar Network][1]
+
+[Revealing patterns of nocturnal migration using the European weather radar network][2] 
+
+
+[1]: https://www.mdpi.com/2072-4292/11/19/2233 
+[2]: https://doi.org/10.1111/ecog.04003
