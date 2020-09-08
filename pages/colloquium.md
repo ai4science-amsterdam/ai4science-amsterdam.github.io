@@ -16,7 +16,30 @@ permalink: "/colloquium/"
 
 ## Next Colloquium
 
-The AI4Science colloquium will restart in September. If you want to stay tuned with the state of the art AI solutions for various scientific problems, please subscribe via our email. We wish you a nice summer break!
+### Title: Permutation-Equivariant neural networks for Molecular Generation
+
+Date: 15-09-2020 14:00-15:00 Central European Summer Time
+
+<!--
+ <img src="../people/tristan_bereau.jpg"
+     alt="Tristan Bereau"
+     width="100"
+     style="float: right; margin-right: 10px; border-radius:50%;" />
+-->
+
+Speaker: **Erik Henning Thiede**, Research Fellow, Flatiron Institute, University of Chicago
+
+**Abstract:** <br/>
+In the last five years, neural networks have emerged as a dominant paradigm for constructing generative models of images and sound data. However, challenges remain when building generative models for molecules. Since molecules are made of collections of indistinguishable particles, they are symmetric to permutation, a symmetry not respected by basic neural network architectures. While neural networks have been constructed that obey permutation symmetry using message-passing ideas, these architectures rely on knowing the molecular structure in advance, limiting their use for generative models.
+Here, we introduce a new approach that constructs molecular graphs using permutation-equivariant layers formed by convolutions over the group of permutations. Using these layers, we are able to construct a variational autoencoder that preserves permutational symmetry from input to output. This allows for direct comparison of the inputs to the outputs, avoiding the requirement to solve a potentially costly graph matching problem. Our architecture is able to achieve results comparable to other competing architectures using considerably less domain knowledge.
+
+<!--
+<img src="../images/physml.jpg"
+     alt="Physical Machine learning"
+     width="400"
+     style="float: center; margin-right: 10px;"/>
+<p>Ref: <a href="https://aip.scitation.org/doi/10.1063/1.5009502">Journal of Chemical Physics</a></p>
+-->
 
 ## Email List
 To stay up to date with our activities and be invited to our biweekly AI4Science colloquium series, you may send a request to be included in our emaillist via [an email to us][9] with your name, affiliation and a one-sentence motivation for joining.

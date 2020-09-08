@@ -143,10 +143,9 @@ By Fiona Lippert
 
 Images from:
 
-[A Geostatistical Approach to Estimate High Resolution Nocturnal Bird Migration Densities from a Weather Radar Network][1]
+[Nilsson et al. (2018) Revealing patterns of nocturnal migration using the European weather radar network][2] 
 
-[Revealing patterns of nocturnal migration using the European weather radar network][2] 
+[Nussbaumer et al. (2019) A Geostatistical Approach to Estimate High Resolution Nocturnal Bird Migration Densities from a Weather Radar Network][1]
 
-
-[1]: https://www.mdpi.com/2072-4292/11/19/2233 
-[2]: https://doi.org/10.1111/ecog.04003
+[1]: https://doi.org/10.1111/ecog.04003
+[2]: https://www.mdpi.com/2072-4292/11/19/2233 

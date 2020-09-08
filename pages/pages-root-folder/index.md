@@ -61,15 +61,16 @@ permalink: /index.html
 homepage: true
 ---
 
---------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 <center> <h2>Upcoming Events</h2> </center>
-<center> <h1>The AI4Science Kickoff Workshop</h1> </center>
+<center> <h1>The AI4Science Colloquium</h1> </center>
 
-The AI4Science Kickoff Workshop will be a virtual workshop hosted by the [Ellis Society][1]. Ellis is the European Laboratory for Learning and Intelligent Systems. The workshop will be held on Wednesday, July 8, with help of video conferencing tools. Local and international invited speakers will give lectures. Registration is free of charge.
+After a brief summer break the AI4Science Colloquium will recommence on the 15th of September. If you want to learn more about state of the art AI solutions for Science, please tune in. 
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/events2/">Learn More›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/colloquium/">Learn More›</a>
 
-___________________________________________
+____________________________________________________________________________________________________
+
 <center> <h1>AI4Science Laboratorium</h1> </center>
 
 > How can we detect, classify, and predict relevant patterns in scientific data if they are hidden within large amount of non-relevant data?
