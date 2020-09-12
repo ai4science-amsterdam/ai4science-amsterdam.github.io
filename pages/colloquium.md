@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth 
 show_meta: false
-title: "Colloquiem"
+title: "AI4Science Colloquium"
 #subheadline: "Welcome to our lab."
 #teaser: "Hi, welcome to our lab."
 header:
