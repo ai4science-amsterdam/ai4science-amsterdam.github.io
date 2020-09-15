@@ -20,12 +20,10 @@ permalink: "/colloquium/"
 
 Date: 15-09-2020 14:00-15:00 Central European Summer Time
 
-<!--
- <img src="../people/tristan_bereau.jpg"
-     alt="Tristan Bereau"
+ <img src="../people/ehthiede.jpg"
+     alt="Erik Henning Thiede"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
--->
 
 Speaker: **Erik Henning Thiede**, Research Fellow, Flatiron Institute, University of Chicago
 
