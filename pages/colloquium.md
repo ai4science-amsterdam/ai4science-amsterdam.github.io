@@ -14,6 +14,11 @@ permalink: "/colloquium/"
 > Knowledge Shared = Knowledge<sup>2</sup>
 
 
+The AI4Science Colloquium is a bi-weekly colloquium series, held on alternating Tuesdays at 14:00 Central European Time. In this colloquium our very own Teodora Pandeva and Fiona Lippert invite renowned speakers to present and discuss their state-of-the-art AI solutions for scientific discovery. Interested? Subscribe to our Email-list to be notified.
+
+## Email List
+To stay up to date with our activities and be invited to our biweekly AI4Science colloquium series, you may send a request to be included in our emaillist via [an email to us][9] with your name, affiliation and a one-sentence motivation for joining.
+
 ## Next Colloquium
 
 ### Title: To Be Announced
@@ -44,9 +49,6 @@ TBA
 * 29 September 2020 - **Christoph Weniger**
 * 13 October 2020 - **David Fisher**
 * 27 October 2020 - **Gábor Csányi**
-
-## Email List
-To stay up to date with our activities and be invited to our biweekly AI4Science colloquium series, you may send a request to be included in our emaillist via [an email to us][9] with your name, affiliation and a one-sentence motivation for joining.
 
 ## Previous Colloquia
 
