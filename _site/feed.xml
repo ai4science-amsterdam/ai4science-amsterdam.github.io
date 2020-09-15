@@ -10,6 +10,22 @@ We develop and use machine learning techniques to discover patterns in data stre
 		<atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Erik Henning Thiede</title>
+				<link>http://localhost:4000//colloquium/erik-henning-thiede/</link>
+				<pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;../../people/ehthiede.jpg&quot; alt=&quot;Erik Henning Thiede&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Erik Henning Thiede&lt;/strong&gt;, Research Fellow, Flatiron Institute, University of Chicago&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
+In the last five years, neural networks have emerged as a dominant paradigm for constructing generative models of images and sound data. However, challenges remain when building generative models for molecules. Since molecules are made of collections of indistinguishable particles, they are symmetric to permutation, a symmetry not respected by basic neural network architectures. While neural networks have been constructed that obey permutation symmetry using message-passing ideas, these architectures rely on knowing the molecular structure in advance, limiting their use for generative models. Here, we introduce a new approach that constructs molecular graphs using permutation-equivariant layers formed by convolutions over the group of permutations. Using these layers, we are able to construct a variational autoencoder that preserves permutational symmetry from input to output. This allows for direct comparison of the inputs to the outputs, avoiding the requirement to solve a potentially costly graph matching problem. Our architecture is able to achieve results comparable to other competing architectures using considerably less domain knowledge.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1XTjPvuGhMHCD0CmBWP8KPzNU4rDPyh_6/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000//colloquium/erik-henning-thiede/</guid>
+			</item>
+		
+			<item>
 				<title>Tristan Bereau</title>
 				<link>http://localhost:4000//colloquium/tristan-bereau/</link>
 				<pubDate>Tue, 30 Jun 2020 00:00:00 +0200</pubDate>

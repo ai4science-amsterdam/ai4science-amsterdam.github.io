@@ -65,7 +65,7 @@ homepage: true
 <center> <h2>Upcoming Events</h2> </center>
 <center> <h1>The AI4Science Colloquium</h1> </center>
 
-After a brief summer break the AI4Science Colloquium will recommence on the 15th of September. If you want to learn more about state of the art AI solutions for Science, please tune in. 
+After a brief summer break the bi-weekly AI4Science Colloquium will recommence on the 15th of September. If you want to learn more about state of the art AI solutions for Science, please tune in. 
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/colloquium/">Learn More›</a>
 

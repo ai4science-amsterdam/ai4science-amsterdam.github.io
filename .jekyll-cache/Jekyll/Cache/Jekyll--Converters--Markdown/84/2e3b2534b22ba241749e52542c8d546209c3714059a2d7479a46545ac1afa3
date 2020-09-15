@@ -1,0 +1,67 @@
+I"$<blockquote>
+  <p>Knowledge Shared = Knowledge<sup>2</sup></p>
+</blockquote>
+
+<h2 id="next-colloquium">Next Colloquium</h2>
+
+<h3 id="title-to-be-announced">Title: To Be Announced</h3>
+
+<p>Date: 29-09-2020 14:00-15:00 Central European Summer Time</p>
+
+<!--
+ <img src="../people/christophweniger.jpg"
+     alt="christophweniger"
+     width="100"
+     style="float: right; margin-right: 10px; border-radius:50%;" />
+
+Speaker: **Christoph Weniger**, Assistant Professor of Theoretical Physics, Institute of Physics, University of Amsterdam
+-->
+
+<p><strong>Abstract:</strong> <br />
+TBA</p>
+
+<!--
+<img src="../images/physml.jpg"
+     alt="Physical Machine learning"
+     width="400"
+     style="float: center; margin-right: 10px;"/>
+<p>Ref: <a href="https://aip.scitation.org/doi/10.1063/1.5009502">Journal of Chemical Physics</a></p>
+-->
+
+<h2 id="schedule">Schedule</h2>
+<ul>
+  <li>29 September 2020 - <strong>Christoph Weniger</strong></li>
+  <li>13 October 2020 - <strong>David Fisher</strong></li>
+  <li>27 October 2020 - <strong>Gábor Csányi</strong></li>
+</ul>
+
+<h2 id="email-list">Email List</h2>
+<p>To stay up to date with our activities and be invited to our biweekly AI4Science colloquium series, you may send a request to be included in our emaillist via <a href="/contact/">an email to us</a> with your name, affiliation and a one-sentence motivation for joining.</p>
+
+<h2 id="previous-colloquia">Previous Colloquia</h2>
+
+<h4 id="title-permutation-equivariant-neural-networks-for-molecular-generation">Title: Permutation-Equivariant neural networks for Molecular Generation</h4>
+
+<p>Date: 15-09-2020 14:00-15:00 Central European Summer Time</p>
+
+<p><img src="../people/ehthiede.jpg" alt="Erik Henning Thiede" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>Speaker: <strong>Erik Henning Thiede</strong>, Research Fellow, Flatiron Institute, University of Chicago</p>
+
+<p><strong>Abstract:</strong> <br />
+In the last five years, neural networks have emerged as a dominant paradigm for constructing generative models of images and sound data. However, challenges remain when building generative models for molecules. Since molecules are made of collections of indistinguishable particles, they are symmetric to permutation, a symmetry not respected by basic neural network architectures. While neural networks have been constructed that obey permutation symmetry using message-passing ideas, these architectures rely on knowing the molecular structure in advance, limiting their use for generative models.
+Here, we introduce a new approach that constructs molecular graphs using permutation-equivariant layers formed by convolutions over the group of permutations. Using these layers, we are able to construct a variational autoencoder that preserves permutational symmetry from input to output. This allows for direct comparison of the inputs to the outputs, avoiding the requirement to solve a potentially costly graph matching problem. Our architecture is able to achieve results comparable to other competing architectures using considerably less domain knowledge.</p>
+
+<!--
+<img src="../images/physml.jpg"
+     alt="Physical Machine learning"
+     width="400"
+     style="float: center; margin-right: 10px;"/>
+<p>Ref: <a href="https://aip.scitation.org/doi/10.1063/1.5009502">Journal of Chemical Physics</a></p>
+-->
+
+<p><a class="radius button small" href="https://drive.google.com/file/d/1XTjPvuGhMHCD0CmBWP8KPzNU4rDPyh_6/view?usp=sharing">Watch Back ›</a></p>
+
+<p>For an overview of more  previous colloquia, please have a look at out <a href="/blog/">blog</a>.</p>
+
+:ET

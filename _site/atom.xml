@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000//</id>
 	<title>AI4Science</title>
-	<updated>2020-09-15T14:09:08+02:00</updated>
+	<updated>2020-09-15T15:43:35+02:00</updated>
 
 	<subtitle>The AI4Science Laboratory is an initiative supported by the Faculty of Exact Sciences (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -25,6 +25,43 @@ We develop and use machine learning techniques to discover patterns in data stre
 
 	<generator uri="http://jekyllrb.com" version="4.0.0">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://localhost:4000//colloquium/erik-henning-thiede/</id>
+			<title>Erik Henning Thiede</title>
+			<link href="http://localhost:4000//colloquium/erik-henning-thiede/" rel="alternate" type="text/html" title="Erik Henning Thiede" />
+			<updated>2020-09-15T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>Permutation-Equivariant neural networks for Molecular Generation</summary>
+			<content type="html" xml:base="http://localhost:4000//colloquium/erik-henning-thiede/">&lt;p&gt;&lt;img src=&quot;../../people/ehthiede.jpg&quot; alt=&quot;Erik Henning Thiede&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Erik Henning Thiede&lt;/strong&gt;, Research Fellow, Flatiron Institute, University of Chicago&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
+In the last five years, neural networks have emerged as a dominant paradigm for constructing generative models of images and sound data. However, challenges remain when building generative models for molecules. Since molecules are made of collections of indistinguishable particles, they are symmetric to permutation, a symmetry not respected by basic neural network architectures. While neural networks have been constructed that obey permutation symmetry using message-passing ideas, these architectures rely on knowing the molecular structure in advance, limiting their use for generative models. Here, we introduce a new approach that constructs molecular graphs using permutation-equivariant layers formed by convolutions over the group of permutations. Using these layers, we are able to construct a variational autoencoder that preserves permutational symmetry from input to output. This allows for direct comparison of the inputs to the outputs, avoiding the requirement to solve a potentially costly graph matching problem. Our architecture is able to achieve results comparable to other competing architectures using considerably less domain knowledge.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1XTjPvuGhMHCD0CmBWP8KPzNU4rDPyh_6/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="colloquium" />
+			
+			
+				<category term="colloquium" />
+			
+
+			<published>2020-09-15T00:00:00+02:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://localhost:4000//colloquium/tristan-bereau/</id>
