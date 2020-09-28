@@ -21,21 +21,19 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
-### Title: To Be Announced
+#### Title: Precision analysis of gravitational strong lensing images with nested likelihood-free inference
 
 Date: 29-09-2020 14:00-15:00 Central European Summer Time
 
-<!--
  <img src="../people/christophweniger.jpg"
      alt="christophweniger"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
 Speaker: **Christoph Weniger**, Assistant Professor of Theoretical Physics, Institute of Physics, University of Amsterdam
--->
 
 **Abstract:** <br/>
-TBA 
+Optical images of galaxy-galaxy lensing systems carry information about the small scale structure of dark matter. Although the underlying physics is simple, the large uncertainties regarding the surface brightness of the source galaxy as well as the mass distribution in the lensing galaxy make these images notoriously difficult to model and to analyse. In order to tackle this difficult task, we developed a new analysis pipeline that makes use of a whole arsenal of modern machine learning techniques: variational inference, probabilistic programming, Gaussian processes, and neural likelihood-to-ratio estimation. I will present the current state of our work, discuss remaining challenges, as well as opportunities for similar astronomical image analysis problems.
 
 <!--
 <img src="../images/physml.jpg"

@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000//</id>
 	<title>AI4Science</title>
-	<updated>2020-09-15T15:58:54+02:00</updated>
+	<updated>2020-09-28T17:58:00+02:00</updated>
 
 	<subtitle>The AI4Science Laboratory is an initiative supported by the Faculty of Exact Sciences (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -25,6 +25,46 @@ We develop and use machine learning techniques to discover patterns in data stre
 
 	<generator uri="http://jekyllrb.com" version="4.0.0">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://localhost:4000//colloquium/christoph-weniger/</id>
+			<title>Christoph Weniger</title>
+			<link href="http://localhost:4000//colloquium/christoph-weniger/" rel="alternate" type="text/html" title="Christoph Weniger" />
+			<updated>2020-09-28T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>Precision analysis of gravitational strong lensing images with nested likelihood-free inference</summary>
+			<content type="html" xml:base="http://localhost:4000//colloquium/christoph-weniger/">&lt;p&gt;&lt;img src=&quot;../../people/christophweniger.jpg&quot; alt=&quot;christophweniger&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Christoph Weniger&lt;/strong&gt;, Assistant Professor of Theoretical Physics, Institute of Physics, University of Amsterdam&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
+Optical images of galaxy-galaxy lensing systems carry information about the small scale structure of dark matter. Although the underlying physics is simple, the large uncertainties regarding the surface brightness of the source galaxy as well as the mass distribution in the lensing galaxy make these images notoriously difficult to model and to analyse. In order to tackle this difficult task, we developed a new analysis pipeline that makes use of a whole arsenal of modern machine learning techniques: variational inference, probabilistic programming, Gaussian processes, and neural likelihood-to-ratio estimation. I will present the current state of our work, discuss remaining challenges, as well as opportunities for similar astronomical image analysis problems.&lt;/p&gt;
+
+&lt;!--
+
+&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1XTjPvuGhMHCD0CmBWP8KPzNU4rDPyh_6/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;
+--&gt;
+</content>
+
+			
+				<category term="colloquium" />
+			
+			
+				<category term="colloquium" />
+			
+
+			<published>2020-09-28T00:00:00+02:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://localhost:4000//colloquium/erik-henning-thiede/</id>

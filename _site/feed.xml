@@ -10,6 +10,25 @@ We develop and use machine learning techniques to discover patterns in data stre
 		<atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Christoph Weniger</title>
+				<link>http://localhost:4000//colloquium/christoph-weniger/</link>
+				<pubDate>Mon, 28 Sep 2020 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;../../people/christophweniger.jpg&quot; alt=&quot;christophweniger&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Christoph Weniger&lt;/strong&gt;, Assistant Professor of Theoretical Physics, Institute of Physics, University of Amsterdam&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
+Optical images of galaxy-galaxy lensing systems carry information about the small scale structure of dark matter. Although the underlying physics is simple, the large uncertainties regarding the surface brightness of the source galaxy as well as the mass distribution in the lensing galaxy make these images notoriously difficult to model and to analyse. In order to tackle this difficult task, we developed a new analysis pipeline that makes use of a whole arsenal of modern machine learning techniques: variational inference, probabilistic programming, Gaussian processes, and neural likelihood-to-ratio estimation. I will present the current state of our work, discuss remaining challenges, as well as opportunities for similar astronomical image analysis problems.&lt;/p&gt;
+
+&lt;!--
+
+&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1XTjPvuGhMHCD0CmBWP8KPzNU4rDPyh_6/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;
+--&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000//colloquium/christoph-weniger/</guid>
+			</item>
+		
+			<item>
 				<title>Erik Henning Thiede</title>
 				<link>http://localhost:4000//colloquium/erik-henning-thiede/</link>
 				<pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
