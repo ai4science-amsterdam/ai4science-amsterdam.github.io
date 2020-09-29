@@ -25,7 +25,7 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 Date: 29-09-2020 14:00-15:00 Central European Summer Time
 
- <img src="../people/christophweniger.jpg"
+ <img src="../people/ChristophWeniger.jpg"
      alt="christophweniger"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
