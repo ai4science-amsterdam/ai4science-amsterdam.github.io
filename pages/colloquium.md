@@ -21,6 +21,34 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
+#### Title: Attributing variance in single-cell genomics
+
+Date: 13-10-2020 14:00-15:00 Central European Summer Time
+
+ <img src="../people/DavidFischer.jpg"
+     alt="davidfisher"
+     width="100"
+     style="float: right; margin-right: 10px; border-radius:50%;" />
+
+Speaker: **David Fischer**, Theis Lab, ICB, Helmholtz Zentrum, Munich, Germany 
+
+**Abstract:** <br/>
+Cell Biology revolves around the idea that cells are core functional units of organisms: Models for cellular function explain many disease and treatment effects, for example. Hence, there has been a long-standing, significant interest in improving the understanding of cellular behaviour. Recent experimental advances enable increasingly detailed molecular profiling of cells: Examples include methods such as single-cell RNA sequencing, which measure quantities of particular molecular species in each cell. The resulting output can be summarised as a matrix (cells x molecular features) with up to millions of cells and 10,000s of features. Models for variance in these data sets are actively developed in Computational Biology; many concepts from unsupervised learning are used in this context. While these unsupervised techniques yield useful descriptions of the molecular state space, they usually fail to yield a complete picture of molecular mechanisms of causality underlying this variance. Here, I discuss approaches centred on supervision tasks in single-cell Immunology which improve interpretability of these models and outline ways of generalising this approach to other settings in single-cell Biology. Lastly, I discuss challenges and opportunities of representation learning on whole tissues, bridging the gap from cell-centric models to tissue function models, such as for tumor behaviour.
+
+<!--
+<img src="../images/physml.jpg"
+     alt="Physical Machine learning"
+     width="400"
+     style="float: center; margin-right: 10px;"/>
+<p>Ref: <a href="https://aip.scitation.org/doi/10.1063/1.5009502">Journal of Chemical Physics</a></p>
+-->
+
+## Schedule
+* 13 October 2020 - **David Fischer**
+* 27 October 2020 - **Gábor Csányi**
+* 24 November 2020 - **Luisa Lucie-Smith**
+## Previous Colloquia
+
 #### Title: Precision analysis of gravitational strong lensing images with nested likelihood-free inference
 
 Date: 29-09-2020 14:00-15:00 Central European Summer Time
@@ -42,39 +70,8 @@ Optical images of galaxy-galaxy lensing systems carry information about the smal
      style="float: center; margin-right: 10px;"/>
 <p>Ref: <a href="https://aip.scitation.org/doi/10.1063/1.5009502">Journal of Chemical Physics</a></p>
 -->
-
-## Schedule
-* 29 September 2020 - **Christoph Weniger**
-* 13 October 2020 - **David Fisher**
-* 27 October 2020 - **Gábor Csányi**
-
-## Previous Colloquia
-
-#### Title: Permutation-Equivariant neural networks for Molecular Generation
-
-Date: 15-09-2020 14:00-15:00 Central European Summer Time
-
- <img src="../people/ehthiede.jpg"
-     alt="Erik Henning Thiede"
-     width="100"
-     style="float: right; margin-right: 10px; border-radius:50%;" />
-
-Speaker: **Erik Henning Thiede**, Research Fellow, Flatiron Institute, University of Chicago
-
-**Abstract:** <br/>
-In the last five years, neural networks have emerged as a dominant paradigm for constructing generative models of images and sound data. However, challenges remain when building generative models for molecules. Since molecules are made of collections of indistinguishable particles, they are symmetric to permutation, a symmetry not respected by basic neural network architectures. While neural networks have been constructed that obey permutation symmetry using message-passing ideas, these architectures rely on knowing the molecular structure in advance, limiting their use for generative models.
-Here, we introduce a new approach that constructs molecular graphs using permutation-equivariant layers formed by convolutions over the group of permutations. Using these layers, we are able to construct a variational autoencoder that preserves permutational symmetry from input to output. This allows for direct comparison of the inputs to the outputs, avoiding the requirement to solve a potentially costly graph matching problem. Our architecture is able to achieve results comparable to other competing architectures using considerably less domain knowledge.
-
-<!--
-<img src="../images/physml.jpg"
-     alt="Physical Machine learning"
-     width="400"
-     style="float: center; margin-right: 10px;"/>
-<p>Ref: <a href="https://aip.scitation.org/doi/10.1063/1.5009502">Journal of Chemical Physics</a></p>
--->
-
  
-<a class="radius button small" href="https://drive.google.com/file/d/1XTjPvuGhMHCD0CmBWP8KPzNU4rDPyh_6/view?usp=sharing">Watch Back ›</a>
+<a class="radius button small" href="https://drive.google.com/file/d/1uFoAVUAY3ges4HVneIe-V78IR8NoXIkp/view?usp=sharing">Watch Back ›</a>
 
 For an overview of more  previous colloquia, please have a look at out [blog][2].
 
