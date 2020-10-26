@@ -7,7 +7,7 @@ teaser: "Hi, welcome to our lab."
 header:
    image_fullwidth: "banner_lab.jpg"
    title: ''
-permalink: "/laboratory/"
+permalink: "/lab/"
 ---
 
 The AI4Science Lab is fashioned after the successful [Innovation Center for Artificial Intelligence (ICAI)][1] labs, which connect research institutes with industry or government in the area of artificial intelligence. The distinction is that the AI4Science Lab connects computer science and AI experts with scientists from the different academic domains within the [Faculty of Exact Sciences][2] at the [University of Amsterdam][3].
@@ -18,7 +18,7 @@ The FNWI [Institute of Informatics (IvI)][4] is at the forefront of the scientif
 
 At the AI4Science Laboratory, we develop and apply artifical intelligence and data-driven solutions for scientific discovery.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/meet-the-people/">Meet the people ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/people/">Meet the people ›</a>
 
 
 [1]: https://icai.ai/

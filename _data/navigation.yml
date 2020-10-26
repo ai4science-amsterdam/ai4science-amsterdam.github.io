@@ -2,18 +2,18 @@
   url: "/"
   side: left
 
-- title: "Laboratory"
-  url: "/laboratory/"
+- title: "Lab"
+  url: "/lab/"
   side: right
   dropdown:
-  - title: "Meet the People"
-    url: "/meet-the-people/"
-  - title: "Highlights"
-    url: "/highlights/"
+  - title: "People"
+    url: "/people/"
+  - title: "Research"
+    url: "/research/"
 #  - title: "design a grid"
 #    url: "/design/grid/"
-  - title: "Laboratory"
-    url: "/laboratory/"
+  - title: "Lab"
+    url: "/lab/"
 - title: "Consortium"
   url: "/consortium/"
   side: right
@@ -39,6 +39,10 @@
 #  - title: "Portfolio"
 #    url: "/design/portfolio/"
 
+- title: "Colloquium"
+  url: "/colloquium/"
+  side: right
+
 - title: "Events"
   url: "/events.html/"
   side: right
@@ -59,8 +63,6 @@
 #    url: "/design/no-header-but-image/"
   - title: "Ellis Workshop"
     url: "/events2/"
-  - title: "Colloquium"
-    url: "/colloquium/"
 
 #- title: Blog
 #  url: "/documentation/"

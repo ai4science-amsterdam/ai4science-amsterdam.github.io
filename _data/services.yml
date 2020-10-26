@@ -1,14 +1,14 @@
 - menu_name: "UvA Websites"
 
-- name: "University of Amsterdam."
+- name: "University of Amsterdam"
   url: "https://www.uva.nl"
   title: "UvA website"
 
-- name: "Faculty of Exact Sciences."
+- name: "Faculty of Exact Sciences"
   url: "https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/faculty-of-science.html"
   title: "Subscribe to RSS Feed"
 
-- name: "Informatics Institute (IvI)."
+- name: "Informatics Institute (IvI)"
   url: "https://ivi.uva.nl"
   title: "Informatic Institute"
 
@@ -16,7 +16,7 @@
   url: "http://amlab.science.uva.nl/"
   title: "AMLAB"
 
-- name: "AI4Science home."
+- name: "AI4Science home"
   url: "/"
   title: "Take me home country roads"
 

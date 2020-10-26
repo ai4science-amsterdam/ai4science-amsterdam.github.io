@@ -71,11 +71,11 @@ After a brief summer break the bi-weekly AI4Science Colloquium will recommence o
 
 ____________________________________________________________________________________________________
 
-<center> <h1>AI4Science Laboratorium</h1> </center>
+<center> <h1>AI4Science Lab</h1> </center>
 
 > How can we detect, classify, and predict relevant patterns in scientific data if they are hidden within large amount of non-relevant data?
 
-The AI4Science Laboratory is an initiative supported by the [Faculty of Exact Sciences (FNWI)][2] at the [University of Amsterdam][3] and located in the [Informatics Institute (IvI)][4]. The AI4Science Lab is also connected to [AMLAB][5], the Amsterdam Machine Learning Lab.
+The AI4Science Lab is an initiative supported by the [Faculty of Exact Sciences (FNWI)][2] at the [University of Amsterdam][3] and located in the [Informatics Institute (IvI)][4]. The AI4Science Lab is also connected to [AMLAB][5], the Amsterdam Machine Learning Lab.
 
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.
 
@@ -86,7 +86,7 @@ __________________________________________
 
 <center> <h1>AI4Science Consortium</h1> </center>
 
-The AI4Science Laboratory is the center of a rapidly growing multidisciplinary 
+The AI4Science Lab is the center of a rapidly growing multidisciplinary 
 consortium of students, researchers, and experts interested in the 
 development and application of artificial intelligence tools for the 
 analysis of scientific data. We keep each other informed about interesting 

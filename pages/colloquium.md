@@ -24,7 +24,7 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 #### Title: Representation and regression problems for molecular structure and dynamics 
 
-Date: 27-10-2020 14:00-15:00 Central European Summer Time
+Date: 27-10-2020 14:15-15:15 Central European Summer Time
 
  <img src="../people/GaborCsanyi.png"
      alt="gaborcsanyi"
@@ -45,7 +45,6 @@ A vast proportion of total global “science” computer time is spent on proper
 -->
 
 ## Schedule
-* 13 October 2020 - **David Fischer**
 * 27 October 2020 - **Gábor Csányi**
 * 24 November 2020 - **Luisa Lucie-Smith**
 

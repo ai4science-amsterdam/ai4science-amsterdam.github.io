@@ -14,7 +14,7 @@ Science Park 904 <br />
 1098 XH Amsterdam <br />
 **Postal Address:** <br />
 University of Amsterdam <br />
-AI4Science Laboratory <br />
+AI4Science Lab <br />
 P.O. Box 94323 <br />
 1090 GH Amsterdam <br />
 The Netherlands <br />

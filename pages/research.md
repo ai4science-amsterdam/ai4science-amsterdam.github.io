@@ -7,10 +7,10 @@ show_meta: false
 header: no
    #image_fullwidth: "molsim2_s.jpg"
    #title: ''
-permalink: "/highlights/"
+permalink: "/research/"
 ---
 
-<center> <h1>Highlights</h1> </center>
+<center> <h1>Research</h1> </center>
 
 
 ## Gravitational Waves
