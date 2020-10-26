@@ -19,21 +19,22 @@ The AI4Science Colloquium is a bi-weekly colloquium series, held on alternating 
 ## Email List
 To stay up to date with our activities and be invited to our biweekly AI4Science colloquium series, you may send a request to be included in our emaillist via [an email to us][9] with your name, affiliation and a one-sentence motivation for joining.
 
+
 ## Next Colloquium
 
-#### Title: Attributing variance in single-cell genomics
+#### Title: Representation and regression problems for molecular structure and dynamics 
 
-Date: 13-10-2020 14:00-15:00 Central European Summer Time
+Date: 27-10-2020 14:00-15:00 Central European Summer Time
 
- <img src="../people/DavidFischer.jpg"
-     alt="davidfisher"
+ <img src="../people/GaborCsanyi.png"
+     alt="gaborcsanyi"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
-Speaker: **David Fischer**, Theis Lab, ICB, Helmholtz Zentrum, Munich, Germany 
+Speaker: **Gábor Csányi**, Professor of Molecular Modelling, Engineering Laboratory, University of Cambridge
 
 **Abstract:** <br/>
-Cell Biology revolves around the idea that cells are core functional units of organisms: Models for cellular function explain many disease and treatment effects, for example. Hence, there has been a long-standing, significant interest in improving the understanding of cellular behaviour. Recent experimental advances enable increasingly detailed molecular profiling of cells: Examples include methods such as single-cell RNA sequencing, which measure quantities of particular molecular species in each cell. The resulting output can be summarised as a matrix (cells x molecular features) with up to millions of cells and 10,000s of features. Models for variance in these data sets are actively developed in Computational Biology; many concepts from unsupervised learning are used in this context. While these unsupervised techniques yield useful descriptions of the molecular state space, they usually fail to yield a complete picture of molecular mechanisms of causality underlying this variance. Here, I discuss approaches centred on supervision tasks in single-cell Immunology which improve interpretability of these models and outline ways of generalising this approach to other settings in single-cell Biology. Lastly, I discuss challenges and opportunities of representation learning on whole tissues, bridging the gap from cell-centric models to tissue function models, such as for tumor behaviour.
+A vast proportion of total global “science” computer time is spent on property prediction  and optimisation on the atomic scale in the fields of materials, physics and chemistry. Typical tasks include solving the Schrödinger equation in various approximations, molecular dynamics using Newtonian equations of motion, but also classification and design based on predicted interactions of molecules and periodic crystal structures. Efficient representations of material and molecular structure, coupled with regularisation (both in kernel methods and neural networks) are beginning to show dramatic speedups and also reductions in the scaling of computational complexity at the same time as making step-changes in simulation accuracy. The first science applications that take advantage of the million-factor speedups include accurate calculations of the structure of amorphous materials and molecular liquids. Outstanding problems include, but with good prospects, finding better low dimensional representations (e.g. body-ordered expansions), incorporating infinite range interactions, clarifying the relationships between low dimensionality and interaction range, and providing global error bounds. One of the most pressing problems is “extrapolation”: typical simulations generate samples using stochastic processes based on the fitted models and thus underestimating the energy can lead to exponential amplification of errors.
 
 <!--
 <img src="../images/physml.jpg"
@@ -47,21 +48,22 @@ Cell Biology revolves around the idea that cells are core functional units of or
 * 13 October 2020 - **David Fischer**
 * 27 October 2020 - **Gábor Csányi**
 * 24 November 2020 - **Luisa Lucie-Smith**
+
 ## Previous Colloquia
 
-#### Title: Precision analysis of gravitational strong lensing images with nested likelihood-free inference
+#### Title: Attributing variance in single-cell genomics
 
-Date: 29-09-2020 14:00-15:00 Central European Summer Time
+Date: 13-10-2020 14:00-15:00 Central European Summer Time
 
- <img src="../people/ChristophWeniger.jpg"
-     alt="christophweniger"
+ <img src="../people/DavidFischer.jpg"
+     alt="davidfisher"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
-Speaker: **Christoph Weniger**, Assistant Professor of Theoretical Physics, Institute of Physics, University of Amsterdam
+Speaker: **David Fischer**, Theis Lab, ICB, Helmholtz Zentrum, Munich, Germany
 
 **Abstract:** <br/>
-Optical images of galaxy-galaxy lensing systems carry information about the small scale structure of dark matter. Although the underlying physics is simple, the large uncertainties regarding the surface brightness of the source galaxy as well as the mass distribution in the lensing galaxy make these images notoriously difficult to model and to analyse. In order to tackle this difficult task, we developed a new analysis pipeline that makes use of a whole arsenal of modern machine learning techniques: variational inference, probabilistic programming, Gaussian processes, and neural likelihood-to-ratio estimation. I will present the current state of our work, discuss remaining challenges, as well as opportunities for similar astronomical image analysis problems.
+Cell Biology revolves around the idea that cells are core functional units of organisms: Models for cellular function explain many disease and treatment effects, for example. Hence, there has been a long-standing, significant interest in improving the understanding of cellular behaviour. Recent experimental advances enable increasingly detailed molecular profiling of cells: Examples include methods such as single-cell RNA sequencing, which measure quantities of particular molecular species in each cell. The resulting output can be summarised as a matrix (cells x molecular features) with up to millions of cells and 10,000s of features. Models for variance in these data sets are actively developed in Computational Biology; many concepts from unsupervised learning are used in this context. While these unsupervised techniques yield useful descriptions of the molecular state space, they usually fail to yield a complete picture of molecular mechanisms of causality underlying this variance. Here, I discuss approaches centred on supervision tasks in single-cell Immunology which improve interpretability of these models and outline ways of generalising this approach to other settings in single-cell Biology. Lastly, I discuss challenges and opportunities of representation learning on whole tissues, bridging the gap from cell-centric models to tissue function models, such as for tumor behaviour.
 
 <!--
 <img src="../images/physml.jpg"
