@@ -133,7 +133,7 @@ The Ai4Science Colloquiem is a bi-weekly event in which we will invite pronounce
       crucial information about the properties of superheavy stellar objects.</p>
       <p>
       <ul class="actions">
-        <a href="/highlights" class="button">Learn More</a>
+        <a href="/research" class="button">Learn More</a>
       </ul>
       </p>
     </div>
@@ -156,7 +156,7 @@ The Ai4Science Colloquiem is a bi-weekly event in which we will invite pronounce
       also to spot so-called ‘transient’ objects that appear only fleetingly.</p>
       <p>
       <ul class="actions">
-        <a href="/highlights" class="button">Learn More</a>
+        <a href="/research" class="button">Learn More</a>
       </ul>
       </p>
     </div>
@@ -187,7 +187,7 @@ The Ai4Science Colloquiem is a bi-weekly event in which we will invite pronounce
       </p>
       <p>
       <ul class="actions">
-        <li><a href="/highlights" class="button">Learn More</a></li>
+        <li><a href="/research" class="button">Learn More</a></li>
       </ul>
       </p>
     </div>
@@ -205,7 +205,7 @@ The Ai4Science Colloquiem is a bi-weekly event in which we will invite pronounce
       </p>
       <p>
       <ul class="actions">
-        <a href="/highlights" class="button">Learn More</a>
+        <a href="/research" class="button">Learn More</a>
       </ul>
       </p>
     </div>
@@ -228,7 +228,7 @@ The Ai4Science Colloquiem is a bi-weekly event in which we will invite pronounce
       <p>Internationally operating weather radars are known to capture the mass movement of migrating birds. This offers unparalleled opportunities to quantify bird migration at large spatial and temporal scales and thereby gain insight into the effects of environmental conditions and human activities. However, the field of radar aeroecology is still in its infancy and the potential of available radar data is largely under-utilized.</p>
       <p>
       <ul class="actions">
-        <a href="/highlights" class="button">Learn More</a>
+        <a href="/research" class="button">Learn More</a>
       </ul>
       </p>
     </div>
