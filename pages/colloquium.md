@@ -22,19 +22,19 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
-#### Title: Representation and regression problems for molecular structure and dynamics 
+#### Title: To be announced 
 
-Date: 27-10-2020 14:15-15:15 Central European Summer Time
+Date: 24-11-2020 14:00-15:00 Central European Summer Time
 
- <img src="../people/GaborCsanyi.png"
-     alt="gaborcsanyi"
+ <img src="../people/LucieSmith.jpg"
+     alt="LuisaLucieSmith"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
-Speaker: **Gábor Csányi**, Professor of Molecular Modelling, Engineering Laboratory, University of Cambridge
+Speaker: **Luisa Lucie-Smith**, PhD Student, Department of Physics and Astronomy, University college London
 
 **Abstract:** <br/>
-A vast proportion of total global “science” computer time is spent on property prediction  and optimisation on the atomic scale in the fields of materials, physics and chemistry. Typical tasks include solving the Schrödinger equation in various approximations, molecular dynamics using Newtonian equations of motion, but also classification and design based on predicted interactions of molecules and periodic crystal structures. Efficient representations of material and molecular structure, coupled with regularisation (both in kernel methods and neural networks) are beginning to show dramatic speedups and also reductions in the scaling of computational complexity at the same time as making step-changes in simulation accuracy. The first science applications that take advantage of the million-factor speedups include accurate calculations of the structure of amorphous materials and molecular liquids. Outstanding problems include, but with good prospects, finding better low dimensional representations (e.g. body-ordered expansions), incorporating infinite range interactions, clarifying the relationships between low dimensionality and interaction range, and providing global error bounds. One of the most pressing problems is “extrapolation”: typical simulations generate samples using stochastic processes based on the fitted models and thus underestimating the energy can lead to exponential amplification of errors.
+To be announced.
 
 <!--
 <img src="../images/physml.jpg"
@@ -45,24 +45,23 @@ A vast proportion of total global “science” computer time is spent on proper
 -->
 
 ## Schedule
-* 27 October 2020 - **Gábor Csányi**
 * 24 November 2020 - **Luisa Lucie-Smith**
 
 ## Previous Colloquia
 
-#### Title: Attributing variance in single-cell genomics
+#### Title: Boltzmann-generating Flows
 
-Date: 13-10-2020 14:00-15:00 Central European Summer Time
+Date: 10-11-2020 14:00-15:00 Central European Summer Time
 
- <img src="../people/DavidFischer.jpg"
-     alt="davidfisher"
+ <img src="../people/FrankNoe.jpg"
+     alt="franknoe"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
-Speaker: **David Fischer**, Theis Lab, ICB, Helmholtz Zentrum, Munich, Germany
+Speaker: **Frank Noé**, Professor, Freie Universität Berlin
 
 **Abstract:** <br/>
-Cell Biology revolves around the idea that cells are core functional units of organisms: Models for cellular function explain many disease and treatment effects, for example. Hence, there has been a long-standing, significant interest in improving the understanding of cellular behaviour. Recent experimental advances enable increasingly detailed molecular profiling of cells: Examples include methods such as single-cell RNA sequencing, which measure quantities of particular molecular species in each cell. The resulting output can be summarised as a matrix (cells x molecular features) with up to millions of cells and 10,000s of features. Models for variance in these data sets are actively developed in Computational Biology; many concepts from unsupervised learning are used in this context. While these unsupervised techniques yield useful descriptions of the molecular state space, they usually fail to yield a complete picture of molecular mechanisms of causality underlying this variance. Here, I discuss approaches centred on supervision tasks in single-cell Immunology which improve interpretability of these models and outline ways of generalising this approach to other settings in single-cell Biology. Lastly, I discuss challenges and opportunities of representation learning on whole tissues, bridging the gap from cell-centric models to tissue function models, such as for tumor behaviour.
+Frank Noé will talk about the sampling problem of many-body physics systems and introduce some statistics and machine-learning methods to tackle it. In particular, he will make an introduction to Boltzmann-generating flows, a combination of normalizing flows and statistical-mechanics-based reweighting, and stochastic normalizing flows. Some open questions and unsolved machine-learning problems related to Boltzmann-generating flows will be presented.
 
 <!--
 <img src="../images/physml.jpg"
@@ -72,7 +71,7 @@ Cell Biology revolves around the idea that cells are core functional units of or
 <p>Ref: <a href="https://aip.scitation.org/doi/10.1063/1.5009502">Journal of Chemical Physics</a></p>
 -->
  
-<a class="radius button small" href="https://drive.google.com/file/d/1uFoAVUAY3ges4HVneIe-V78IR8NoXIkp/view?usp=sharing">Watch Back ›</a>
+<a class="radius button small" href="https://drive.google.com/file/d/14k33ukgDE3bciV7ELQB3X5hkgxp5A8b4/view?usp=sharing">Watch Back ›</a>
 
 For an overview of more  previous colloquia, please have a look at out [blog][2].
 

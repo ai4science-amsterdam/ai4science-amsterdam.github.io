@@ -16,7 +16,7 @@ header:
    # caption_url: https://unsplash.com/
 ---
 
- <img src="../../people/GaborCsanyi.jpg"
+ <img src="../../people/GaborCsanyi.png"
      alt="gaborcsanyi"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

@@ -10,6 +10,41 @@ We develop and use machine learning techniques to discover patterns in data stre
 		<atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Frank Noé</title>
+				<link>http://localhost:4000//colloquium/frank-noe/</link>
+				<pubDate>Tue, 10 Nov 2020 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;../../people/FrankNoe.jpg&quot; alt=&quot;gaborcsanyi&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Frank Noé&lt;/strong&gt;, Professor, Freie Universität Berlin&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
+Frank Noé will talk about the sampling problem of many-body physics systems and introduce some statistics and machine-learning methods to tackle it. In particular, he will make an introduction to Boltzmann-generating flows, a combination of normalizing flows and statistical-mechanics-based reweighting, and stochastic normalizing flows. Some open questions and unsolved machine-learning problems related to Boltzmann-generating flows will be presented.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/14k33ukgDE3bciV7ELQB3X5hkgxp5A8b4/view&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000//colloquium/frank-noe/</guid>
+			</item>
+		
+			<item>
+				<title>Gábor Csányi</title>
+				<link>http://localhost:4000//colloquium/gabor-csanyi/</link>
+				<pubDate>Tue, 27 Oct 2020 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;../../people/GaborCsanyi.png&quot; alt=&quot;gaborcsanyi&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Gábor Csányi&lt;/strong&gt;, Professor of Molecular Modelling, Engineering Laboratory, University of Cambridge&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
+A vast proportion of total global “science” computer time is spent on property prediction  and optimisation on the atomic scale in the fields of materials, physics and chemistry. Typical tasks include solving the Schrödinger equation in various approximations, molecular dynamics using Newtonian equations of motion, but also classification and design based on predicted interactions of molecules and periodic crystal structures. Efficient representations of material and molecular structure, coupled with regularisation (both in kernel methods and neural networks) are beginning to show dramatic speedups and also reductions in the scaling of computational complexity at the same time as making step-changes in simulation accuracy. The first science applications that take advantage of the million-factor speedups include accurate calculations of the structure of amorphous materials and molecular liquids. Outstanding problems include, but with good prospects, finding better low dimensional representations (e.g. body-ordered expansions), incorporating infinite range interactions, clarifying the relationships between low dimensionality and interaction range, and providing global error bounds. One of the most pressing problems is “extrapolation”: typical simulations generate samples using stochastic processes based on the fitted models and thus underestimating the energy can lead to exponential amplification of errors.&lt;/p&gt;
+
+&lt;!--
+
+&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1XTjPvuGhMHCD0CmBWP8KPzNU4rDPyh_6/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;
+--&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000//colloquium/gabor-csanyi/</guid>
+			</item>
+		
+			<item>
 				<title>David Fischer</title>
 				<link>http://localhost:4000//colloquium/david-fischer/</link>
 				<pubDate>Tue, 13 Oct 2020 00:00:00 +0200</pubDate>

@@ -1,0 +1,61 @@
+I"�<blockquote>
+  <p>Knowledge Shared = Knowledge<sup>2</sup></p>
+</blockquote>
+
+<p>The AI4Science Colloquium is a bi-weekly colloquium series, held on alternating Tuesdays at 14:00 Central European Time. In this colloquium our very own Teodora Pandeva and Fiona Lippert invite renowned speakers to present and discuss their state-of-the-art AI solutions for scientific discovery. Interested? Subscribe to our Email-list to be notified.</p>
+
+<h2 id="email-list">Email List</h2>
+<p>To stay up to date with our activities and be invited to our biweekly AI4Science colloquium series, you may send a request to be included in our emaillist via <a href="/contact/">an email to us</a> with your name, affiliation and a one-sentence motivation for joining.</p>
+
+<h2 id="next-colloquium">Next Colloquium</h2>
+
+<h4 id="title-to-be-announced">Title: To be announced</h4>
+
+<p>Date: 24-11-2020 14:00-15:00 Central European Summer Time</p>
+
+<p><img src="../people/LucieSmith.jpg" alt="LuisaLucieSmith" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>Speaker: <strong>Luisa Lucie-Smith</strong>, PhD Student, Department of Physics and Astronomy, University college London</p>
+
+<p><strong>Abstract:</strong> <br />
+To be announced.</p>
+
+<!--
+<img src="../images/physml.jpg"
+     alt="Physical Machine learning"
+     width="400"
+     style="float: center; margin-right: 10px;"/>
+<p>Ref: <a href="https://aip.scitation.org/doi/10.1063/1.5009502">Journal of Chemical Physics</a></p>
+-->
+
+<h2 id="schedule">Schedule</h2>
+<ul>
+  <li>24 November 2020 - <strong>Luisa Lucie-Smith</strong></li>
+</ul>
+
+<h2 id="previous-colloquia">Previous Colloquia</h2>
+
+<h4 id="title-boltzmann-generating-flows">Title: Boltzmann-generating Flows</h4>
+
+<p>Date: 10-11-2020 14:00-15:00 Central European Summer Time</p>
+
+<p><img src="../people/FrankNoe.jpg" alt="franknoe" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>Speaker: <strong>Frank Noé</strong>, Professor, Freie Universität Berlin</p>
+
+<p><strong>Abstract:</strong> <br />
+Frank Noé will talk about the sampling problem of many-body physics systems and introduce some statistics and machine-learning methods to tackle it. In particular, he will make an introduction to Boltzmann-generating flows, a combination of normalizing flows and statistical-mechanics-based reweighting, and stochastic normalizing flows. Some open questions and unsolved machine-learning problems related to Boltzmann-generating flows will be presented.</p>
+
+<!--
+<img src="../images/physml.jpg"
+     alt="Physical Machine learning"
+     width="400"
+     style="float: center; margin-right: 10px;"/>
+<p>Ref: <a href="https://aip.scitation.org/doi/10.1063/1.5009502">Journal of Chemical Physics</a></p>
+-->
+
+<p><a class="radius button small" href="https://drive.google.com/file/d/14k33ukgDE3bciV7ELQB3X5hkgxp5A8b4/view?usp=sharing">Watch Back ›</a></p>
+
+<p>For an overview of more  previous colloquia, please have a look at out <a href="/blog/">blog</a>.</p>
+
+:ET
