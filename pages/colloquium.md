@@ -24,7 +24,7 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 #### Title: Machine learning the formation of dark matter halos in the Universe 
 
-Date: 24-11-2020 14:00-15:00 Central European Summer Time
+Date: 24-11-2020 14:00-15:00 Central European Time
 
  <img src="../people/LucieSmith.jpg"
      alt="LuisaLucieSmith"
@@ -51,7 +51,7 @@ Dark matter halos are the fundamental building blocks of cosmic large-scale stru
 
 #### Title: Boltzmann-generating Flows
 
-Date: 10-11-2020 14:00-15:00 Central European Summer Time
+Date: 10-11-2020 14:00-15:00 Central European Time
 
  <img src="../people/FrankNoe.jpg"
      alt="franknoe"
