@@ -52,6 +52,7 @@ Dark matter halos are the fundamental building blocks of cosmic large-scale stru
 ## Schedule
 * 24 November 2020 - **Luisa Lucie-Smith**
 * 8 December 2020 - **To be announced**
+
 ## Previous Colloquia
 
 #### Title: Machine learning the formation of dark matter halos in the Universe 
