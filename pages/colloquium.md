@@ -22,6 +22,38 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
+To be announced
+
+<!--
+#### Title: Machine learning the formation of dark matter halos in the Universe 
+
+Date: 24-11-2020 14:00-15:00 Central European Time
+
+ <img src="../people/LucieSmith.jpg"
+     alt="LuisaLucieSmith"
+     width="100"
+     style="float: right; margin-right: 10px; border-radius:50%;" />
+
+Speaker: **Luisa Lucie-Smith**, Research Fellow, Max-Planck-Institue for Astrophysics, Munich
+
+**Abstract:** <br/>
+Dark matter halos are the fundamental building blocks of cosmic large-scale structure. Improving our theoretical understanding of their evolution and formation is an essential step towards understanding how galaxies form. I will present a deep learning model, based on 3D convolutional neural networks (CNNs), trained to learn the mapping between the initial conditions and the final dark matter halos of an N-body simulation. The CNN is able to extract directly from the initial density field the features that are relevant to halo formation. Our goal is to utilize machine learning for knowledge extraction: we aim to gain new physical understanding of halo formation by extracting information from the deep learning model regarding the underlying physics of halo collapse. To do this, we first compare the performance of the deep learning algorithm to that of machine learning models whose predictions depend only on physically-motivated features extracted from the initial conditions. I will then present ongoing work on interpreting the features learnt by the deep learning model in relation to physical properties of the initial conditions.
+-->
+
+
+<!--
+<img src="../images/physml.jpg"
+     alt="Physical Machine learning"
+     width="400"
+     style="float: center; margin-right: 10px;"/>
+<p>Ref: <a href="https://aip.scitation.org/doi/10.1063/1.5009502">Journal of Chemical Physics</a></p>
+-->
+
+## Schedule
+* 24 November 2020 - **Luisa Lucie-Smith**
+* 8 December 2020 - **To be announced**
+## Previous Colloquia
+
 #### Title: Machine learning the formation of dark matter halos in the Universe 
 
 Date: 24-11-2020 14:00-15:00 Central European Time
@@ -43,35 +75,8 @@ Dark matter halos are the fundamental building blocks of cosmic large-scale stru
      style="float: center; margin-right: 10px;"/>
 <p>Ref: <a href="https://aip.scitation.org/doi/10.1063/1.5009502">Journal of Chemical Physics</a></p>
 -->
-
-## Schedule
-* 24 November 2020 - **Luisa Lucie-Smith**
-
-## Previous Colloquia
-
-#### Title: Boltzmann-generating Flows
-
-Date: 10-11-2020 14:00-15:00 Central European Time
-
- <img src="../people/FrankNoe.jpg"
-     alt="franknoe"
-     width="100"
-     style="float: right; margin-right: 10px; border-radius:50%;" />
-
-Speaker: **Frank Noé**, Professor, Freie Universität Berlin
-
-**Abstract:** <br/>
-Frank Noé will talk about the sampling problem of many-body physics systems and introduce some statistics and machine-learning methods to tackle it. In particular, he will make an introduction to Boltzmann-generating flows, a combination of normalizing flows and statistical-mechanics-based reweighting, and stochastic normalizing flows. Some open questions and unsolved machine-learning problems related to Boltzmann-generating flows will be presented.
-
-<!--
-<img src="../images/physml.jpg"
-     alt="Physical Machine learning"
-     width="400"
-     style="float: center; margin-right: 10px;"/>
-<p>Ref: <a href="https://aip.scitation.org/doi/10.1063/1.5009502">Journal of Chemical Physics</a></p>
--->
  
-<a class="radius button small" href="https://drive.google.com/file/d/14k33ukgDE3bciV7ELQB3X5hkgxp5A8b4/view?usp=sharing">Watch Back ›</a>
+<a class="radius button small" href="https://drive.google.com/file/d/1618HmRE-rloBvIiWJuH4hSa7PEHtR6Oj/view?usp=sharing">Watch Back ›</a>
 
 For an overview of more  previous colloquia, please have a look at out [blog][2].
 
