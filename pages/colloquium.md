@@ -22,24 +22,20 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
-To be announced
+#### Machine Learning in climate science: Finding causal connections and improving seasonal forecasts
 
-<!--
-#### Title: Machine learning the formation of dark matter halos in the Universe 
+Date: 19-01-2021 14:00-15:00 Central European Time
 
-Date: 24-11-2020 14:00-15:00 Central European Time
-
- <img src="../people/LucieSmith.jpg"
-     alt="LuisaLucieSmith"
+ <img src="../people/DimCoumou.jpg"
+     alt="DimCoumou"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
-Speaker: **Luisa Lucie-Smith**, Research Fellow, Max-Planck-Institue for Astrophysics, Munich
+Speaker: **Dim Coumou**, Associate Professor, Potsdam Institute for Climate Impact Research, Vrije Universiteit Amsterdam
 
 **Abstract:** <br/>
-Dark matter halos are the fundamental building blocks of cosmic large-scale structure. Improving our theoretical understanding of their evolution and formation is an essential step towards understanding how galaxies form. I will present a deep learning model, based on 3D convolutional neural networks (CNNs), trained to learn the mapping between the initial conditions and the final dark matter halos of an N-body simulation. The CNN is able to extract directly from the initial density field the features that are relevant to halo formation. Our goal is to utilize machine learning for knowledge extraction: we aim to gain new physical understanding of halo formation by extracting information from the deep learning model regarding the underlying physics of halo collapse. To do this, we first compare the performance of the deep learning algorithm to that of machine learning models whose predictions depend only on physically-motivated features extracted from the initial conditions. I will then present ongoing work on interpreting the features learnt by the deep learning model in relation to physical properties of the initial conditions.
--->
-
+Summer, with most biological and agricultural production, is probably the season when future changes in extremes will have the most-severe impacts on humanity. Summer extremes are particularly devastating when they persist for several days: Many consecutive hot-and-dry days causing harvest failure, or stagnating wet extremes causing flooding. Often such situations are related to quasi-stationary waves in the Jetstream. Despite this importance, we are far from a comprehensive understanding of the physical mechanisms involved in creating such quasi-stationary waves, nor how they will change with future warming.
+Using machine learning techniques based on causal inference we can understand and quantify the drivers and causal pathways that influence jet dynamics. I will present several examples of how causal inference techniques can disentangle cause from effect to provide insights into the dynamics of the large-scale atmospheric circulation and teleconnections. Understanding the physical pathways in atmosphere by quantifying causal links can help improving forecasts on seasonal to sub-seasonal timescales including prolonged extremes like heat waves and droughts. Some of these data-driven forecasts using machine learning outperform operational forecasts based on dynamical models. Ultimately we aim for developing hybrid forecast methods to improve early warning of extreme weather events.
 
 <!--
 <img src="../images/physml.jpg"
@@ -51,7 +47,7 @@ Dark matter halos are the fundamental building blocks of cosmic large-scale stru
 
 ## Schedule
 -  24 November 2020 - **Luisa Lucie-Smith**
--  8 December 2020 - **To be announced**
+-  19 January 2021 - **To be announced**
 
 ## Previous Colloquia
 
