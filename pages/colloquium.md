@@ -47,7 +47,7 @@ Using machine learning techniques based on causal inference we can understand an
 
 ## Schedule
 -  24 November 2020 - **Luisa Lucie-Smith**
--  19 January 2021 - **To be announced**
+-  19 January 2021 - **Dim Coumou**
 
 ## Previous Colloquia
 
