@@ -22,6 +22,28 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
+#### e3nn: Euclidian symmetry for neural networks
+
+Date: 02-02-2021 14:00-15:00 Central European Time
+
+ <img src="../people/MarioGeiger.jpg"
+     alt="MarioGeiger"
+     width="100"
+     style="float: right; margin-right: 10px; border-radius:50%;" />
+
+Speaker: **Mario Geiger**, PhD Student, EPFL, Lausanne
+
+**Abstract:** <br/>
+E(3) is the Euclidean group in dimension 3. That is the group of rotations, translations, and mirror. e3nn is a pytorch library that aims to create E(3) equivariant neural networks. The focus is on point clouds and recent applications have been in the realm of interatomic potential learning, phonon density of states, and to relevant benchmarks.
+
+## Schedule
+-  19 January 2021 - **Dim Coumou**
+- 2 February 2021 - **Mario Geiger**
+- 16 February 2021 - **Eliu Huerta Escudero**
+- 2 March 2021 - **Jakub Tomczak**
+
+## Previous Colloquia
+
 #### Machine Learning in climate science: Finding causal connections and improving seasonal forecasts
 
 Date: 19-01-2021 14:00-15:00 Central European Time
@@ -45,35 +67,7 @@ Using machine learning techniques based on causal inference we can understand an
 <p>Ref: <a href="https://aip.scitation.org/doi/10.1063/1.5009502">Journal of Chemical Physics</a></p>
 -->
 
-## Schedule
--  24 November 2020 - **Luisa Lucie-Smith**
--  19 January 2021 - **Dim Coumou**
-
-## Previous Colloquia
-
-#### Title: Machine learning the formation of dark matter halos in the Universe 
-
-Date: 24-11-2020 14:00-15:00 Central European Time
-
- <img src="../people/LucieSmith.jpg"
-     alt="LuisaLucieSmith"
-     width="100"
-     style="float: right; margin-right: 10px; border-radius:50%;" />
-
-Speaker: **Luisa Lucie-Smith**, Research Fellow, Max-Planck-Institue for Astrophysics, Munich
-
-**Abstract:** <br/>
-Dark matter halos are the fundamental building blocks of cosmic large-scale structure. Improving our theoretical understanding of their evolution and formation is an essential step towards understanding how galaxies form. I will present a deep learning model, based on 3D convolutional neural networks (CNNs), trained to learn the mapping between the initial conditions and the final dark matter halos of an N-body simulation. The CNN is able to extract directly from the initial density field the features that are relevant to halo formation. Our goal is to utilize machine learning for knowledge extraction: we aim to gain new physical understanding of halo formation by extracting information from the deep learning model regarding the underlying physics of halo collapse. To do this, we first compare the performance of the deep learning algorithm to that of machine learning models whose predictions depend only on physically-motivated features extracted from the initial conditions. I will then present ongoing work on interpreting the features learnt by the deep learning model in relation to physical properties of the initial conditions.
-
-<!--
-<img src="../images/physml.jpg"
-     alt="Physical Machine learning"
-     width="400"
-     style="float: center; margin-right: 10px;"/>
-<p>Ref: <a href="https://aip.scitation.org/doi/10.1063/1.5009502">Journal of Chemical Physics</a></p>
--->
- 
-<a class="radius button small" href="https://drive.google.com/file/d/1618HmRE-rloBvIiWJuH4hSa7PEHtR6Oj/view?usp=sharing">Watch Back ›</a>
+<a class="radius button small" href="https://drive.google.com/file/d/1SlsWmTr8DDIEU-r34xQJQ1ACOsvtiN5E/view?usp=sharing">Watch Back ›</a>
 
 For an overview of more  previous colloquia, please have a look at out [blog][2].
 
