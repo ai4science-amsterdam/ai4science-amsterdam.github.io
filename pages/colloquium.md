@@ -19,8 +19,32 @@ The AI4Science Colloquium is a bi-weekly colloquium series, held on alternating 
 ## Email List
 To stay up to date with our activities and be invited to our biweekly AI4Science colloquium series, you may send a request to be included in our emaillist via [an email to us][9] with your name, affiliation and a one-sentence motivation for joining.
 
-
 ## Next Colloquium
+
+#### Towards Accelerated, Reproducible, Physics-informed AI-driven Discovery
+
+Date: 16-02-2021  15:00-16:00 Central European Time
+
+ <img src="../people/EliuHuertaEscudero.jpeg"
+     alt="EliuHuertaEscudero"
+     width="100"
+     style="float: right; margin-right: 10px; border-radius:50%;" />
+
+Speaker: **Eliu Huerta Escudero**, National Center for Supercomputing Applications (NCSA), University of Illinois at Urbana-Champaign
+
+**Abstract:** <br/>
+In this talk I will describe disruptive advances I have pioneered at the interface of domain-inspired AI and extreme scale computing. I will present exemplars on how to scale disruptive advances in AI, distributed computing, and scientific data infrastructure to open new pathways to conduct reproducible, accelerated, data-driven discovery.
+
+**Bio:** <br/>
+Eliu Huerta is a theoretical astrophysicist, mathematician and computer scientist with broad research interests. He has done pioneering work at the interface of domain-inspired AI and extreme scale computing for Multi-Messenger Astrophysics, Cosmology, Observational Astronomy, and extreme scale simulations that describe multi-scale and multi-physics processes. He is the founding director of the Center for Artificial Intelligence Innovation at the University of Illinois at Urbana-Champaign, and the Head of the Gravity Group at the National Center for Supercomputing Applications. He leads several NSF- and DOE-funded interdisciplinary and multi-institutional projects that focus on disruptive AI applications and advanced computing for big-data physics experiments.
+
+## Schedule
+-  19 January 2021 - **Dim Coumou**
+- 2 February 2021 - **Mario Geiger**
+- 16 February 2021 - **Eliu Huerta Escudero**
+- 2 March 2021 - **Jakub Tomczak**
+
+## Previous Colloquia
 
 #### e3nn: Euclidian symmetry for neural networks
 
@@ -36,38 +60,16 @@ Speaker: **Mario Geiger**, PhD Student, EPFL, Lausanne
 **Abstract:** <br/>
 E(3) is the Euclidean group in dimension 3. That is the group of rotations, translations, and mirror. e3nn is a pytorch library that aims to create E(3) equivariant neural networks. The focus is on point clouds and recent applications have been in the realm of interatomic potential learning, phonon density of states, and to relevant benchmarks.
 
-## Schedule
--  19 January 2021 - **Dim Coumou**
-- 2 February 2021 - **Mario Geiger**
-- 16 February 2021 - **Eliu Huerta Escudero**
-- 2 March 2021 - **Jakub Tomczak**
-
-## Previous Colloquia
-
-#### Machine Learning in climate science: Finding causal connections and improving seasonal forecasts
-
-Date: 19-01-2021 14:00-15:00 Central European Time
-
- <img src="../people/DimCoumou.jpg"
-     alt="DimCoumou"
-     width="100"
-     style="float: right; margin-right: 10px; border-radius:50%;" />
-
-Speaker: **Dim Coumou**, Associate Professor, Potsdam Institute for Climate Impact Research, Vrije Universiteit Amsterdam
-
-**Abstract:** <br/>
-Summer, with most biological and agricultural production, is probably the season when future changes in extremes will have the most-severe impacts on humanity. Summer extremes are particularly devastating when they persist for several days: Many consecutive hot-and-dry days causing harvest failure, or stagnating wet extremes causing flooding. Often such situations are related to quasi-stationary waves in the Jetstream. Despite this importance, we are far from a comprehensive understanding of the physical mechanisms involved in creating such quasi-stationary waves, nor how they will change with future warming.
-Using machine learning techniques based on causal inference we can understand and quantify the drivers and causal pathways that influence jet dynamics. I will present several examples of how causal inference techniques can disentangle cause from effect to provide insights into the dynamics of the large-scale atmospheric circulation and teleconnections. Understanding the physical pathways in atmosphere by quantifying causal links can help improving forecasts on seasonal to sub-seasonal timescales including prolonged extremes like heat waves and droughts. Some of these data-driven forecasts using machine learning outperform operational forecasts based on dynamical models. Ultimately we aim for developing hybrid forecast methods to improve early warning of extreme weather events.
-
 <!--
 <img src="../images/physml.jpg"
      alt="Physical Machine learning"
      width="400"
      style="float: center; margin-right: 10px;"/>
 <p>Ref: <a href="https://aip.scitation.org/doi/10.1063/1.5009502">Journal of Chemical Physics</a></p>
--->
 
 <a class="radius button small" href="https://drive.google.com/file/d/1SlsWmTr8DDIEU-r34xQJQ1ACOsvtiN5E/view?usp=sharing">Watch Back ›</a>
+
+-->
 
 For an overview of more  previous colloquia, please have a look at out [blog][2].
 
