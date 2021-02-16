@@ -25,7 +25,7 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 Date: 16-02-2021  15:00-16:00 Central European Time
 
- <img src="../people/EliuHuertaEscudero.jpeg"
+ <img src="../people/EliuHuertaEscudero.jpg"
      alt="EliuHuertaEscudero"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
