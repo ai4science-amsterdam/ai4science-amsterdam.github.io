@@ -21,6 +21,32 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
+#### All that glitters is not Deep Learning in Life Sciences (but sometimes it is!)
+
+Date: 02-03-2021 14:00-1600 Central European time
+
+
+ <img src="../people/JakubTomczak.jpg"
+     alt="JakubTomczak"
+     width="100"
+     style="float: right; margin-right: 10px; border-radius:50%;" />
+
+
+Speaker: **Jakub Tomczak**, Assistant Professor inside Computational Intelligence Group at Vrije Universiteit Amsterdam, former AMLAB member
+
+**Abstract:** <br/>
+Life sciences is a fascinating field that tries to answer fundamental questions about ourselves, other species, and interactions within and among various environments. (Bio)chemistry and physics are typical tools to study and comprehend our world. However, due to the high complexity of biological systems, standard tools are not enough to understand and model all underlying relationships. Computational methods could serve as a possible remedy to that.
+In this talk, I will show how we can use computational intelligence, Bayesian inference, and deep learning to deal with some problems in life sciences. Specifically, we will discuss how to identify parameters in dynamical models of biological networks, how to find values of kinetic parameters in enzyme kinetics (including COVID-19), and how to count cells automatically.
+
+## Schedule
+-  19 January 2021 - **Dim Coumou**
+- 2 February 2021 - **Mario Geiger**
+- 16 February 2021 - **Eliu Huerta Escudero**
+- 2 March 2021 - **Jakub Tomczak**
+- 16 March 2021 - **TBA**
+
+## Previous Colloquia
+
 #### Towards Accelerated, Reproducible, Physics-informed AI-driven Discovery
 
 Date: 16-02-2021  15:00-16:00 Central European Time
@@ -37,28 +63,6 @@ In this talk I will describe disruptive advances I have pioneered at the interfa
 
 **Bio:** <br/>
 Eliu Huerta is a theoretical astrophysicist, mathematician and computer scientist with broad research interests. He has done pioneering work at the interface of domain-inspired AI and extreme scale computing for Multi-Messenger Astrophysics, Cosmology, Observational Astronomy, and extreme scale simulations that describe multi-scale and multi-physics processes. He is the founding director of the Center for Artificial Intelligence Innovation at the University of Illinois at Urbana-Champaign, and the Head of the Gravity Group at the National Center for Supercomputing Applications. He leads several NSF- and DOE-funded interdisciplinary and multi-institutional projects that focus on disruptive AI applications and advanced computing for big-data physics experiments.
-
-## Schedule
--  19 January 2021 - **Dim Coumou**
-- 2 February 2021 - **Mario Geiger**
-- 16 February 2021 - **Eliu Huerta Escudero**
-- 2 March 2021 - **Jakub Tomczak**
-
-## Previous Colloquia
-
-#### e3nn: Euclidian symmetry for neural networks
-
-Date: 02-02-2021 14:00-15:00 Central European Time
-
- <img src="../people/MarioGeiger.jpg"
-     alt="MarioGeiger"
-     width="100"
-     style="float: right; margin-right: 10px; border-radius:50%;" />
-
-Speaker: **Mario Geiger**, PhD Student, EPFL, Lausanne
-
-**Abstract:** <br/>
-E(3) is the Euclidean group in dimension 3. That is the group of rotations, translations, and mirror. e3nn is a pytorch library that aims to create E(3) equivariant neural networks. The focus is on point clouds and recent applications have been in the realm of interatomic potential learning, phonon density of states, and to relevant benchmarks.
 
 <!--
 <img src="../images/physml.jpg"
