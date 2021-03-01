@@ -28,3 +28,6 @@ In this talk I will describe disruptive advances I have pioneered at the interfa
 
 **Bio:** <br/>
 Eliu Huerta is a theoretical astrophysicist, mathematician and computer scientist with broad research interests. He has done pioneering work at the interface of domain-inspired AI and extreme scale computing for Multi-Messenger Astrophysics, Cosmology, Observational Astronomy, and extreme scale simulations that describe multi-scale and multi-physics processes. He is the founding director of the Center for Artificial Intelligence Innovation at the University of Illinois at Urbana-Champaign, and the Head of the Gravity Group at the National Center for Supercomputing Applications. He leads several NSF- and DOE-funded interdisciplinary and multi-institutional projects that focus on disruptive AI applications and advanced computing for big-data physics experiments.
+
+<a class="radius button small" href="https://drive.google.com/file/d/1SlsWmTr8DDIEU-r34xQJQ1ACOsvtiN5E/view?usp=sharing">Watch Back ›</a>
+
