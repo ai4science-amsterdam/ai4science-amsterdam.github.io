@@ -26,4 +26,4 @@ Speaker: **Jakub Tomczak**, Assistant Professor inside Computational Intelligenc
 **Abstract:** <br/>
 Life sciences is a fascinating field that tries to answer fundamental questions about ourselves, other species, and interactions within and among various environments. (Bio)chemistry and physics are typical tools to study and comprehend our world. However, due to the high complexity of biological systems, standard tools are not enough to understand and model all underlying relationships. Computational methods could serve as a possible remedy to that. In this talk, I will show how we can use computational intelligence, Bayesian inference, and deep learning to deal with some problems in life sciences. Specifically, we will discuss how to identify parameters in dynamical models of biological networks, how to find values of kinetic parameters in enzyme kinetics (including COVID-19), and how to count cells automatically
 
-
+<a class="radius button small" href="https://drive.google.com/file/d/1o2WGiCQJCEe8LLyClpteeSuE8VHZ95pj/view?usp=sharing">Watch Back ›</a>
