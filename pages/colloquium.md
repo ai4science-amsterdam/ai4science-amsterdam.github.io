@@ -21,9 +21,37 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
-#### All that glitters is not Deep Learning in Life Sciences (but sometimes it is!)
+#### Constrained marginal likelihood-to-evidence ratio estimation
 
-Date: 02-03-2021 14:00-1600 Central European time
+Date: 02-03-2021 14:00-1500 Central European Summer time
+
+
+ <img src="../people/BenjaminMiller.jpg"
+     alt="BenjaminMiller"
+     width="100"
+     style="float: right; margin-right: 10px; border-radius:50%;" />
+
+
+Speaker: **Benjamin Miller**, PhD Student at AMLab and GRAPPA in the AI4Science initiative
+
+**Abstract:** <br/>
+Empirical scientific research bounds inferred values of physical constants using posteriors marginalized over nuisance parameters. In a likelihood-based approach, the marginal posterior is usually sampled by marginalizing over samples from the joint posterior. This method suffers from the curse of dimensionality and the necessity of a tractable likelihood function. We introduce a set of algorithms which approximate any marginal posterior of interest directly and efficiently. The basis is neural likelihood-free (simulation-based) inference using likelihood-to-evidence ratio estimation. We increase simulator efficiency by constraining the prior using an indicator function. In this way, we learn an amortized estimate of the target posterior. In addition, we propose a method for principled reuse of simulated data based on an inhomogeneous Poisson point process. These algorithms were designed with the practical needs of computational physics in mind. Specifically targeting the regime of slow simulators and narrow target posteriors.
+The talk itself will focus on the details of [this paper][4] which introduced these methods. You can find an implementation of the method on [github][3]
+
+## Schedule
+-  19 January 2021 - **Dim Coumou**
+- 2 February 2021 - **Mario Geiger**
+- 16 February 2021 - **Eliu Huerta Escudero**
+- 2 March 2021 - **Jakub Tomczak**
+- 30 March 2021 - **Benjamin Miller**
+- 13 April 2021 - **Ferry Hooft**
+- 27 April 2021 - **Pratyush Tiwary**
+
+## Previous Colloquia
+
+#### Towards Accelerated, Reproducible, Physics-informed AI-driven Discovery
+
+Date: 02-03-2021 14:00-1500 Central European time
 
 
  <img src="../people/JakubTomczak.jpg"
@@ -38,45 +66,13 @@ Speaker: **Jakub Tomczak**, Assistant Professor inside Computational Intelligenc
 Life sciences is a fascinating field that tries to answer fundamental questions about ourselves, other species, and interactions within and among various environments. (Bio)chemistry and physics are typical tools to study and comprehend our world. However, due to the high complexity of biological systems, standard tools are not enough to understand and model all underlying relationships. Computational methods could serve as a possible remedy to that.
 In this talk, I will show how we can use computational intelligence, Bayesian inference, and deep learning to deal with some problems in life sciences. Specifically, we will discuss how to identify parameters in dynamical models of biological networks, how to find values of kinetic parameters in enzyme kinetics (including COVID-19), and how to count cells automatically.
 
-## Schedule
--  19 January 2021 - **Dim Coumou**
-- 2 February 2021 - **Mario Geiger**
-- 16 February 2021 - **Eliu Huerta Escudero**
-- 2 March 2021 - **Jakub Tomczak**
-- 16 March 2021 - **TBA**
+<a class="radius button small" href="https://drive.google.com/file/d/1o2WGiCQJCEe8LLyClpteeSuE8VHZ95pj/view">Watch Back ›</a>
 
-## Previous Colloquia
-
-#### Towards Accelerated, Reproducible, Physics-informed AI-driven Discovery
-
-Date: 16-02-2021  15:00-16:00 Central European Time
-
- <img src="../people/EliuHuertaEscudero.jpg"
-     alt="EliuHuertaEscudero"
-     width="100"
-     style="float: right; margin-right: 10px; border-radius:50%;" />
-
-Speaker: **Eliu Huerta Escudero**, National Center for Supercomputing Applications (NCSA), University of Illinois at Urbana-Champaign
-
-**Abstract:** <br/>
-In this talk I will describe disruptive advances I have pioneered at the interface of domain-inspired AI and extreme scale computing. I will present exemplars on how to scale disruptive advances in AI, distributed computing, and scientific data infrastructure to open new pathways to conduct reproducible, accelerated, data-driven discovery.
-
-**Bio:** <br/>
-Eliu Huerta is a theoretical astrophysicist, mathematician and computer scientist with broad research interests. He has done pioneering work at the interface of domain-inspired AI and extreme scale computing for Multi-Messenger Astrophysics, Cosmology, Observational Astronomy, and extreme scale simulations that describe multi-scale and multi-physics processes. He is the founding director of the Center for Artificial Intelligence Innovation at the University of Illinois at Urbana-Champaign, and the Head of the Gravity Group at the National Center for Supercomputing Applications. He leads several NSF- and DOE-funded interdisciplinary and multi-institutional projects that focus on disruptive AI applications and advanced computing for big-data physics experiments.
-
-<!--
-<img src="../images/physml.jpg"
-     alt="Physical Machine learning"
-     width="400"
-     style="float: center; margin-right: 10px;"/>
-<p>Ref: <a href="https://aip.scitation.org/doi/10.1063/1.5009502">Journal of Chemical Physics</a></p>
-
-<a class="radius button small" href="https://drive.google.com/file/d/1SlsWmTr8DDIEU-r34xQJQ1ACOsvtiN5E/view?usp=sharing">Watch Back ›</a>
-
--->
 
 For an overview of more  previous colloquia, please have a look at out [blog][2].
 
 [1]: https://bereau.group/
 [2]: /blog/
 [9]: /contact/
+[3]:https://github.com/undark-lab/swyft
+[4]:https://arxiv.org/abs/2011.13951
