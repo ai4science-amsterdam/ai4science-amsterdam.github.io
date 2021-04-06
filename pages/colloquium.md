@@ -26,17 +26,17 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 Date: 30-03-2021 14:00-1500 Central European Summer time
 
 
- <img src="../people/BenjaminMiller.jpg"
-     alt="BenjaminMiller"
+ <img src="../people/FerryHooft.jpg"
+     alt="FerryHooft"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
 
-Speaker: **[Benjamin Miller][5]**, PhD Student at AMLab and GRAPPA in the AI4Science initiative
+Speaker: **Ferry Hooft*, PhD Student at Van ’t Hoff Institute for Molecular Sciences, AI4Science Laboratory, and Amsterdam Center for Multiscale Modeling, University of Amsterdam
 
 **Abstract:** <br/>
-Empirical scientific research bounds inferred values of physical constants using posteriors marginalized over nuisance parameters. In a likelihood-based approach, the marginal posterior is usually sampled by marginalizing over samples from the joint posterior. This method suffers from the curse of dimensionality and the necessity of a tractable likelihood function. We introduce a set of algorithms which approximate any marginal posterior of interest directly and efficiently. The basis is neural likelihood-free (simulation-based) inference using likelihood-to-evidence ratio estimation. We increase simulator efficiency by constraining the prior using an indicator function. In this way, we learn an amortized estimate of the target posterior. In addition, we propose a method for principled reuse of simulated data based on an inhomogeneous Poisson point process. These algorithms were designed with the practical needs of computational physics in mind. Specifically targeting the regime of slow simulators and narrow target posteriors.
-The talk itself will focus on the details of [this paper][4] which introduced these methods. You can find an implementation of the method on [github][3].
+With the continual improvement of computing hardware and algorithms, simulations have become a powerful tool for understanding all sorts of (bio)molecular processes. To handle the large simulation data sets and to accelerate slow, activated transitions, a condensed set of descriptors, or collective variables (CVs), is needed to discern the relevant dynamics that describes the molecular process of interest. However, proposing an adequate set of CVs that can capture the intrinsic reaction coordinate of the molecular transition is often extremely difficult. Here, we present a framework to find an optimal set of CVs from a pool of candidates using a combination of artificial neural networks and genetic algorithms. The approach effectively replaces the encoder of an autoencoder network with genes to represent the latent space, i.e., the CVs.
+For more information, see this [article][6] or [github][7]
 
 ## Schedule
 -  19 January 2021 - **Dim Coumou**
@@ -49,24 +49,24 @@ The talk itself will focus on the details of [this paper][4] which introduced th
 
 ## Previous Colloquia
 
-#### Towards Accelerated, Reproducible, Physics-informed AI-driven Discovery
+#### Constrained marginal likelihood-to-evidence ratio estimation
 
-Date: 02-03-2021 14:00-1500 Central European time
+Date: 30-03-2021 14:00-1500 Central European Summer time
 
 
- <img src="../people/JakubTomczak.jpg"
-     alt="JakubTomczak"
+ <img src="../people/BenjaminMiller.jpg"
+     alt="BenjaminMiller"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
 
-Speaker: **Jakub Tomczak**, Assistant Professor inside Computational Intelligence Group at Vrije Universiteit Amsterdam, former AMLAB member
+Speaker: **[Benjamin Miller][5]**, PhD Student at AMLab and GRAPPA in the AI4Science initiative
 
 **Abstract:** <br/>
-Life sciences is a fascinating field that tries to answer fundamental questions about ourselves, other species, and interactions within and among various environments. (Bio)chemistry and physics are typical tools to study and comprehend our world. However, due to the high complexity of biological systems, standard tools are not enough to understand and model all underlying relationships. Computational methods could serve as a possible remedy to that.
-In this talk, I will show how we can use computational intelligence, Bayesian inference, and deep learning to deal with some problems in life sciences. Specifically, we will discuss how to identify parameters in dynamical models of biological networks, how to find values of kinetic parameters in enzyme kinetics (including COVID-19), and how to count cells automatically.
+Empirical scientific research bounds inferred values of physical constants using posteriors marginalized over nuisance parameters. In a likelihood-based approach, the marginal posterior is usually sampled by marginalizing over samples from the joint posterior. This method suffers from the curse of dimensionality and the necessity of a tractable likelihood function. We introduce a set of algorithms which approximate any marginal posterior of interest directly and efficiently. The basis is neural likelihood-free (simulation-based) inference using likelihood-to-evidence ratio estimation. We increase simulator efficiency by constraining the prior using an indicator function. In this way, we learn an amortized estimate of the target posterior. In addition, we propose a method for principled reuse of simulated data based on an inhomogeneous Poisson point process. These algorithms were designed with the practical needs of computational physics in mind. Specifically targeting the regime of slow simulators and narrow target posteriors.
+The talk itself will focus on the details of [this paper][4] which introduced these methods. You can find an implementation of the method on [github][3].
 
-<a class="radius button small" href="https://drive.google.com/file/d/1o2WGiCQJCEe8LLyClpteeSuE8VHZ95pj/view">Watch Back ›</a>
+<a class="radius button small" href="https://drive.google.com/file/d/1UCiUV0Efi3mfZJTCe9y2yJVnzZZ4SsUP/view?usp=sharing">Watch Back ›</a>
 
 
 For an overview of more  previous colloquia, please have a look at out [blog][2].
@@ -77,3 +77,5 @@ For an overview of more  previous colloquia, please have a look at out [blog][2]
 [3]:https://github.com/undark-lab/swyft
 [4]:https://arxiv.org/abs/2011.13951
 [5]:http://www.mathben.com/
+[6]:https://pubs.acs.org/doi/10.1021/acs.jctc.0c00981
+[7]:https://github.com/Ensing-Laboratory/FABULOUS
