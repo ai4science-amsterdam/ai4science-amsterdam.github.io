@@ -21,9 +21,9 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
-#### Constrained marginal likelihood-to-evidence ratio estimation
+#### Discovering Collective Variables of Molecular Transitions via Genetic Algorithms and Neural Networks
 
-Date: 30-03-2021 14:00-1500 Central European Summer time
+Date: 13-04-2021 14:00-1500 Central European Summer time
 
 
  <img src="../people/FerryHooft.jpg"
