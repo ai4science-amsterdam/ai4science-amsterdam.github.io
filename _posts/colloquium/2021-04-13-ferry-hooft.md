@@ -27,6 +27,8 @@ Speaker: **Ferry Hooft**, PhD Student at Van ’t Hoff Institute for Molecular S
 With the continual improvement of computing hardware and algorithms, simulations have become a powerful tool for understanding all sorts of (bio)molecular processes. To handle the large simulation data sets and to accelerate slow, activated transitions, a condensed set of descriptors, or collective variables (CVs), is needed to discern the relevant dynamics that describes the molecular process of interest. However, proposing an adequate set of CVs that can capture the intrinsic reaction coordinate of the molecular transition is often extremely difficult. Here, we present a framework to find an optimal set of CVs from a pool of candidates using a combination of artificial neural networks and genetic algorithms. The approach effectively replaces the encoder of an autoencoder network with genes to represent the latent space, i.e., the CVs.
 For more information, see this [article][6] or [github][7]
 
+<a class="radius button small" href="https://drive.google.com/file/d/1FhdN_bykXTxtkxdf17MRdF_Xz-cMmhe1/view?usp=sharing">Watch Back ›</a>
+
 [1]: https://bereau.group/
 [2]: /blog/
 [9]: /contact/
