@@ -235,6 +235,22 @@ We develop and use machine learning techniques to discover patterns in data stre
           
             
             
+              <li class="divider"></li>
+              <li><a  href="https://ai4science-amsterdam.github.io//publications/">Publications</a></li>
+
+            
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
 
               <li class="divider"></li>
               <li class="has-dropdown">
@@ -303,6 +319,12 @@ We develop and use machine learning techniques to discover patterns in data stre
 
             
             
+          
+        
+
+              
+
+          
           
         
 

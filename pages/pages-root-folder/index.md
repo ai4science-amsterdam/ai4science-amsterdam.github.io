@@ -6,7 +6,7 @@
 #
 layout: default2
 header: no
- # image_fullwidth: banner.jpg
+#   image_fullwidth: banner.jpg
 widget1:
   title: "Radio Astronomy"
   url: '/highlights/'

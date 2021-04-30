@@ -75,6 +75,9 @@
 #  - title: "Roadmap"
 #    url: "/roadmap/"
 
+- title: Publications
+  url: "/publications/"
+  side: right
 - title: Blog
   url: "/blog/"
   side: right 
