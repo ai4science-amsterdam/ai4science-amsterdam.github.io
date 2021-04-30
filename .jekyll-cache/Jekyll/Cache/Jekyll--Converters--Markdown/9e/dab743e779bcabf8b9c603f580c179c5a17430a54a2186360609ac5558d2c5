@@ -1,0 +1,53 @@
+I"}<blockquote>
+  <p>Knowledge Shared = Knowledge<sup>2</sup></p>
+</blockquote>
+
+<p>The AI4Science Colloquium is a bi-weekly colloquium series, held on alternating Tuesdays at 14:00 Central European Time. In this colloquium our very own Teodora Pandeva and Fiona Lippert invite renowned speakers to present and discuss their state-of-the-art AI solutions for scientific discovery. Interested? Subscribe to our Email-list to be notified.</p>
+
+<h2 id="email-list">Email List</h2>
+<p>To stay up to date with our activities and be invited to our biweekly AI4Science colloquium series, you may send a request to be included in our emaillist via <a href="/contact/">an email to us</a> with your name, affiliation and a one-sentence motivation for joining.</p>
+
+<h2 id="next-colloquium">Next Colloquium</h2>
+
+<h4 id="title-to-be-announced">Title: to be announced</h4>
+
+<p>Date: 11-05-2021 14:00-1500 Central European Summer time</p>
+
+<p><img src="../people/ChandlerSquires.png" alt="ChandlerSquires" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>Speaker: <strong>Chandler Squires</strong>, PhD Student, MIT</p>
+
+<p><strong>Abstract:</strong> <br />
+To be announced</p>
+
+<h2 id="schedule">Schedule</h2>
+<ul>
+  <li>19 January 2021 - <strong>Dim Coumou</strong></li>
+  <li>2 February 2021 - <strong>Mario Geiger</strong></li>
+  <li>16 February 2021 - <strong>Eliu Huerta Escudero</strong></li>
+  <li>2 March 2021 - <strong>Jakub Tomczak</strong></li>
+  <li>30 March 2021 - <strong>Benjamin Miller</strong></li>
+  <li>13 April 2021 - <strong>Ferry Hooft</strong></li>
+  <li>11 May 2021 - <strong>Chandler Squires</strong></li>
+  <li>8 June 2021 - <strong>Pratyush Tiwary</strong></li>
+</ul>
+
+<h2 id="previous-colloquia">Previous Colloquia</h2>
+
+<h4 id="discovering-collective-variables-of-molecular-transitions-via-genetic-algorithms-and-neural-networks">Discovering Collective Variables of Molecular Transitions via Genetic Algorithms and Neural Networks</h4>
+
+<p>Date: 13-04-2021 14:00-1500 Central European Summer time</p>
+
+<p><img src="../people/FerryHooft.jpg" alt="FerryHooft" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>Speaker: <strong>Ferry Hooft</strong>, PhD Student at Van ’t Hoff Institute for Molecular Sciences, AI4Science Laboratory, and Amsterdam Center for Multiscale Modeling, University of Amsterdam</p>
+
+<p><strong>Abstract:</strong> <br />
+With the continual improvement of computing hardware and algorithms, simulations have become a powerful tool for understanding all sorts of (bio)molecular processes. To handle the large simulation data sets and to accelerate slow, activated transitions, a condensed set of descriptors, or collective variables (CVs), is needed to discern the relevant dynamics that describes the molecular process of interest. However, proposing an adequate set of CVs that can capture the intrinsic reaction coordinate of the molecular transition is often extremely difficult. Here, we present a framework to find an optimal set of CVs from a pool of candidates using a combination of artificial neural networks and genetic algorithms. The approach effectively replaces the encoder of an autoencoder network with genes to represent the latent space, i.e., the CVs.
+For more information, see this <a href="https://pubs.acs.org/doi/10.1021/acs.jctc.0c00981">article</a> or <a href="https://github.com/Ensing-Laboratory/FABULOUS">github</a></p>
+
+<p><a class="radius button small" href="https://drive.google.com/file/d/1FhdN_bykXTxtkxdf17MRdF_Xz-cMmhe1/view?usp=sharing">Watch Back ›</a></p>
+
+<p>For an overview of more  previous colloquia, please have a look at out <a href="/blog/">blog</a>.</p>
+
+:ET

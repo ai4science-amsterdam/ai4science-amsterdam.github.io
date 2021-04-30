@@ -1,4 +1,4 @@
-I"�G<!--more-->
+I"�G<!--more-->
 
 <div class="row">
 <div class="medium-4 medium-push-8 columns">
@@ -176,12 +176,12 @@
     <hr />
 
     <h3 id="pre-displaying-code">&lt;pre&gt; Displaying Code</h3>
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;html&gt;</span>
-    <span class="nt">&lt;head&gt;</span>
-        <span class="nt">&lt;title&gt;</span>Code Blocks<span class="nt">&lt;/title&gt;</span>
-    <span class="nt">&lt;/head&gt;</span>
-    <span class="nt">&lt;body&gt;&lt;/body&gt;</span>
-<span class="nt">&lt;/html&gt;</span>
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;html&gt;
+    &lt;head&gt;
+        &lt;title&gt;Code Blocks&lt;/title&gt;
+    &lt;/head&gt;
+    &lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
 </code></pre></div>    </div>
 
     <h3 id="blockquote-quotation">&lt;blockquote&gt; Quotation</h3>
@@ -288,7 +288,7 @@
 
     <h3 id="code">&lt;code&gt;</h3>
 
-    <p>Some <code class="highlighter-rouge">code: lucida console</code> displayed.</p>
+    <p>Some <code class="language-plaintext highlighter-rouge">code: lucida console</code> displayed.</p>
 
     <h3 id="var">&lt;var&gt;</h3>
 
@@ -331,7 +331,7 @@
 
     <h2 id="footnotes">Footnotes</h2>
 
-    <p>If you need footnotes for your posts, articles and entries, the Kramdown-Parser <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> got you covered. How to use footnotes? Read this footnote. <sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup></p>
+    <p>If you need footnotes for your posts, articles and entries, the Kramdown-Parser <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> got you covered. How to use footnotes? Read this footnote. <sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup></p>
 
     <h1 id="h1-heading-in-volkhov">&lt;h1&gt;-Heading in Volkhov</h1>
 
@@ -425,13 +425,13 @@ element</td>
 
 </tbody></table>
   </div></div>
-<div class="footnotes">
+<div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:1">
-      <p>Find out more about Kramdown on <a href="http://kramdown.gettalong.org/">http://kramdown.gettalong.org/</a> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    <li id="fn:1" role="doc-endnote">
+      <p>Find out more about Kramdown on <a href="http://kramdown.gettalong.org/">http://kramdown.gettalong.org/</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:2">
-      <p>Kramdown has an excellent documentation of all its features. Check out, on how to <a href="http://kramdown.gettalong.org/syntax.html#footnotes">footnotes</a>. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    <li id="fn:2" role="doc-endnote">
+      <p>Kramdown has an excellent documentation of all its features. Check out, on how to <a href="http://kramdown.gettalong.org/syntax.html#footnotes">footnotes</a>. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
 </div>

@@ -1,17 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:4000//assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="http://localhost:4000//assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="https://ai4science-amsterdam.github.io//assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://ai4science-amsterdam.github.io//assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>AI4Science Lab</title>
 		<description>The AI4Science Lab is an initiative supported by the Faculty of Exact Sciences (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</description>
-		<link>http://localhost:4000//</link>
-		<atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://ai4science-amsterdam.github.io//</link>
+		<atom:link href="https://ai4science-amsterdam.github.io//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Ferry Hooft</title>
+				<link>https://ai4science-amsterdam.github.io//colloquium/ferry-hooft/</link>
+				<pubDate>Tue, 13 Apr 2021 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;../../people/FerryHooft.jpg&quot; alt=&quot;ferryhooft&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Ferry Hooft&lt;/strong&gt;, PhD Student at Van ’t Hoff Institute for Molecular Sciences, AI4Science Laboratory, and Amsterdam Center for Multiscale Modeling, University of Amsterdam&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
+With the continual improvement of computing hardware and algorithms, simulations have become a powerful tool for understanding all sorts of (bio)molecular processes. To handle the large simulation data sets and to accelerate slow, activated transitions, a condensed set of descriptors, or collective variables (CVs), is needed to discern the relevant dynamics that describes the molecular process of interest. However, proposing an adequate set of CVs that can capture the intrinsic reaction coordinate of the molecular transition is often extremely difficult. Here, we present a framework to find an optimal set of CVs from a pool of candidates using a combination of artificial neural networks and genetic algorithms. The approach effectively replaces the encoder of an autoencoder network with genes to represent the latent space, i.e., the CVs.
+For more information, see this &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acs.jctc.0c00981&quot;&gt;article&lt;/a&gt; or &lt;a href=&quot;https://github.com/Ensing-Laboratory/FABULOUS&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1FhdN_bykXTxtkxdf17MRdF_Xz-cMmhe1/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/ferry-hooft/</guid>
+			</item>
+		
+			<item>
+				<title>Benjamin Miller</title>
+				<link>https://ai4science-amsterdam.github.io//colloquium/benjamin-miller/</link>
+				<pubDate>Tue, 30 Mar 2021 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;../../people/BenjaminMiller.jpg&quot; alt=&quot;benjaminmiller&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Benjamin Miller&lt;/strong&gt;, PhD Student at AMLab and GRAPPA in the AI4Science initiative&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
+Empirical scientific research bounds inferred values of physical constants using posteriors marginalized over nuisance parameters. In a likelihood-based approach, the marginal posterior is usually sampled by marginalizing over samples from the joint posterior. This method suffers from the curse of dimensionality and the necessity of a tractable likelihood function. We introduce a set of algorithms which approximate any marginal posterior of interest directly and efficiently. The basis is neural likelihood-free (simulation-based) inference using likelihood-to-evidence ratio estimation. We increase simulator efficiency by constraining the prior using an indicator function. In this way, we learn an amortized estimate of the target posterior. In addition, we propose a method for principled reuse of simulated data based on an inhomogeneous Poisson point process. These algorithms were designed with the practical needs of computational physics in mind. Specifically targeting the regime of slow simulators and narrow target posteriors.
+The talk itself will focus on the details of &lt;a href=&quot;https://arxiv.org/abs/2011.13951&quot;&gt;this paper&lt;/a&gt; which introduced these methods. You can find an implementation of the method on &lt;a href=&quot;https://github.com/undark-lab/swyft&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1UCiUV0Efi3mfZJTCe9y2yJVnzZZ4SsUP/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/benjamin-miller/</guid>
+			</item>
+		
+			<item>
+				<title>Jakub Tomczak</title>
+				<link>https://ai4science-amsterdam.github.io//colloquium/jakub-tomczak/</link>
+				<pubDate>Tue, 02 Mar 2021 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;../../people/JakubTomczak.jpg&quot; alt=&quot;jakubtomczak&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Jakub Tomczak&lt;/strong&gt;, Assistant Professor inside Computational Intelligence Group at Vrije Universiteit Amsterdam, former AMLAB member&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
+Life sciences is a fascinating field that tries to answer fundamental questions about ourselves, other species, and interactions within and among various environments. (Bio)chemistry and physics are typical tools to study and comprehend our world. However, due to the high complexity of biological systems, standard tools are not enough to understand and model all underlying relationships. Computational methods could serve as a possible remedy to that. In this talk, I will show how we can use computational intelligence, Bayesian inference, and deep learning to deal with some problems in life sciences. Specifically, we will discuss how to identify parameters in dynamical models of biological networks, how to find values of kinetic parameters in enzyme kinetics (including COVID-19), and how to count cells automatically&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1o2WGiCQJCEe8LLyClpteeSuE8VHZ95pj/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/jakub-tomczak/</guid>
+			</item>
+		
+			<item>
+				<title>Eliu Huerta Escudero</title>
+				<link>https://ai4science-amsterdam.github.io//colloquium/eliu-huerta-escudero/</link>
+				<pubDate>Tue, 16 Feb 2021 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;../../people/EliuHuertaEscudero.jpg&quot; alt=&quot;eliuhuertaescudero&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Eliu Huerta Escudero&lt;/strong&gt;, National Center for Supercomputing Applications (NCSA), University of Illinois at Urbana-Champaign&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
+In this talk I will describe disruptive advances I have pioneered at the interface of domain-inspired AI and extreme scale computing. I will present exemplars on how to scale disruptive advances in AI, distributed computing, and scientific data infrastructure to open new pathways to conduct reproducible, accelerated, data-driven discovery.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt; &lt;br /&gt;
+Eliu Huerta is a theoretical astrophysicist, mathematician and computer scientist with broad research interests. He has done pioneering work at the interface of domain-inspired AI and extreme scale computing for Multi-Messenger Astrophysics, Cosmology, Observational Astronomy, and extreme scale simulations that describe multi-scale and multi-physics processes. He is the founding director of the Center for Artificial Intelligence Innovation at the University of Illinois at Urbana-Champaign, and the Head of the Gravity Group at the National Center for Supercomputing Applications. He leads several NSF- and DOE-funded interdisciplinary and multi-institutional projects that focus on disruptive AI applications and advanced computing for big-data physics experiments.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/18EJ3UaWuDVWWKCb4gLg2VCgRcj57Mz0T/view&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/eliu-huerta-escudero/</guid>
+			</item>
+		
+			<item>
+				<title>Mario Geiger</title>
+				<link>https://ai4science-amsterdam.github.io//colloquium/mario-geiger/</link>
+				<pubDate>Tue, 02 Feb 2021 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;../../people/MarioGeiger.jpg&quot; alt=&quot;mariogeiger&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Mario Geiger&lt;/strong&gt;, PhD Student, EPFL, Lausanne&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
+E(3) is the Euclidean group in dimension 3. That is the group of rotations, translations, and mirror. e3nn is a pytorch library that aims to create E(3) equivariant neural networks. The focus is on point clouds and recent applications have been in the realm of interatomic potential learning, phonon density of states, and to relevant benchmarks.&lt;/p&gt;
+
+&lt;p&gt;Note: this meeting was not recorded.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/mario-geiger/</guid>
+			</item>
+		
+			<item>
+				<title>Dim Coumou</title>
+				<link>https://ai4science-amsterdam.github.io//colloquium/dim-coumou/</link>
+				<pubDate>Tue, 19 Jan 2021 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;../../people/DimCoumou.jpg&quot; alt=&quot;dimcoumou&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Dim Coumou&lt;/strong&gt;, Associate Professor, Potsdam Institute for Climate Impact Research, Vrije Universiteit Amsterdam&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
+Summer, with most biological and agricultural production, is probably the season when future changes in extremes will have the most-severe impacts on humanity. Summer extremes are particularly devastating when they persist for several days: Many consecutive hot-and-dry days causing harvest failure, or stagnating wet extremes causing flooding. Often such situations are related to quasi-stationary waves in the Jetstream. Despite this importance, we are far from a comprehensive understanding of the physical mechanisms involved in creating such quasi-stationary waves, nor how they will change with future warming. Using machine learning techniques based on causal inference we can understand and quantify the drivers and causal pathways that influence jet dynamics. I will present several examples of how causal inference techniques can disentangle cause from effect to provide insights into the dynamics of the large-scale atmospheric circulation and teleconnections. Understanding the physical pathways in atmosphere by quantifying causal links can help improving forecasts on seasonal to sub-seasonal timescales including prolonged extremes like heat waves and droughts. Some of these data-driven forecasts using machine learning outperform operational forecasts based on dynamical models. Ultimately we aim for developing hybrid forecast methods to improve early warning of extreme weather events.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1SlsWmTr8DDIEU-r34xQJQ1ACOsvtiN5E/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/dim-coumou/</guid>
+			</item>
+		
+			<item>
+				<title>Luisa Lucie-Smith</title>
+				<link>https://ai4science-amsterdam.github.io//colloquium/lucie-smith/</link>
+				<pubDate>Tue, 24 Nov 2020 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;../../people/LucieSmith.jpg&quot; alt=&quot;luciesmith&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Luisa Lucie-Smith&lt;/strong&gt;, Research Fellow, Max-Planck-Institue for Astrophysics, Munich&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
+Dark matter halos are the fundamental building blocks of cosmic large-scale structure. Improving our theoretical understanding of their evolution and formation is an essential step towards understanding how galaxies form. I will present a deep learning model, based on 3D convolutional neural networks (CNNs), trained to learn the mapping between the initial conditions and the final dark matter halos of an N-body simulation. The CNN is able to extract directly from the initial density field the features that are relevant to halo formation. Our goal is to utilize machine learning for knowledge extraction: we aim to gain new physical understanding of halo formation by extracting information from the deep learning model regarding the underlying physics of halo collapse. To do this, we first compare the performance of the deep learning algorithm to that of machine learning models whose predictions depend only on physically-motivated features extracted from the initial conditions. I will then present ongoing work on interpreting the features learnt by the deep learning model in relation to physical properties of the initial conditions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1618HmRE-rloBvIiWJuH4hSa7PEHtR6Oj/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/lucie-smith/</guid>
+			</item>
 		
 			<item>
 				<title>Frank Noé</title>
-				<link>http://localhost:4000//colloquium/frank-noe/</link>
+				<link>https://ai4science-amsterdam.github.io//colloquium/frank-noe/</link>
 				<pubDate>Tue, 10 Nov 2020 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../people/FrankNoe.jpg&quot; alt=&quot;gaborcsanyi&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
@@ -22,12 +142,12 @@ Frank Noé will talk about the sampling problem of many-body physics systems and
 
 &lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/14k33ukgDE3bciV7ELQB3X5hkgxp5A8b4/view&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000//colloquium/frank-noe/</guid>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/frank-noe/</guid>
 			</item>
 		
 			<item>
 				<title>Gábor Csányi</title>
-				<link>http://localhost:4000//colloquium/gabor-csanyi/</link>
+				<link>https://ai4science-amsterdam.github.io//colloquium/gabor-csanyi/</link>
 				<pubDate>Tue, 27 Oct 2020 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../people/GaborCsanyi.png&quot; alt=&quot;gaborcsanyi&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
@@ -38,12 +158,12 @@ A vast proportion of total global “science” computer time is spent on proper
 
 &lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1tkEgdvQgi-t9-Zs0QchjccvWpx-5v7Xr/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000//colloquium/gabor-csanyi/</guid>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/gabor-csanyi/</guid>
 			</item>
 		
 			<item>
 				<title>David Fischer</title>
-				<link>http://localhost:4000//colloquium/david-fischer/</link>
+				<link>https://ai4science-amsterdam.github.io//colloquium/david-fischer/</link>
 				<pubDate>Tue, 13 Oct 2020 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../people/DavidFischer.jpg&quot; alt=&quot;christophweniger&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
@@ -54,61 +174,7 @@ Cell Biology revolves around the idea that cells are core functional units of or
 
 &lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1wVpxkotClrOJAeXUHO4WotbypDiG9GHg/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000//colloquium/david-fischer/</guid>
-			</item>
-		
-			<item>
-				<title>Christoph Weniger</title>
-				<link>http://localhost:4000//colloquium/christoph-weniger/</link>
-				<pubDate>Mon, 28 Sep 2020 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;img src=&quot;../../people/ChristophWeniger.jpg&quot; alt=&quot;christophweniger&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Christoph Weniger&lt;/strong&gt;, Assistant Professor of Theoretical Physics, Institute of Physics, University of Amsterdam&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
-Optical images of galaxy-galaxy lensing systems carry information about the small scale structure of dark matter. Although the underlying physics is simple, the large uncertainties regarding the surface brightness of the source galaxy as well as the mass distribution in the lensing galaxy make these images notoriously difficult to model and to analyse. In order to tackle this difficult task, we developed a new analysis pipeline that makes use of a whole arsenal of modern machine learning techniques: variational inference, probabilistic programming, Gaussian processes, and neural likelihood-to-ratio estimation. I will present the current state of our work, discuss remaining challenges, as well as opportunities for similar astronomical image analysis problems.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1uFoAVUAY3ges4HVneIe-V78IR8NoXIkp/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000//colloquium/christoph-weniger/</guid>
-			</item>
-		
-			<item>
-				<title>Erik Henning Thiede</title>
-				<link>http://localhost:4000//colloquium/erik-henning-thiede/</link>
-				<pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;img src=&quot;../../people/ehthiede.jpg&quot; alt=&quot;Erik Henning Thiede&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Erik Henning Thiede&lt;/strong&gt;, Research Fellow, Flatiron Institute, University of Chicago&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
-In the last five years, neural networks have emerged as a dominant paradigm for constructing generative models of images and sound data. However, challenges remain when building generative models for molecules. Since molecules are made of collections of indistinguishable particles, they are symmetric to permutation, a symmetry not respected by basic neural network architectures. While neural networks have been constructed that obey permutation symmetry using message-passing ideas, these architectures rely on knowing the molecular structure in advance, limiting their use for generative models. Here, we introduce a new approach that constructs molecular graphs using permutation-equivariant layers formed by convolutions over the group of permutations. Using these layers, we are able to construct a variational autoencoder that preserves permutational symmetry from input to output. This allows for direct comparison of the inputs to the outputs, avoiding the requirement to solve a potentially costly graph matching problem. Our architecture is able to achieve results comparable to other competing architectures using considerably less domain knowledge.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1XTjPvuGhMHCD0CmBWP8KPzNU4rDPyh_6/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000//colloquium/erik-henning-thiede/</guid>
-			</item>
-		
-			<item>
-				<title>Tristan Bereau</title>
-				<link>http://localhost:4000//colloquium/tristan-bereau/</link>
-				<pubDate>Tue, 30 Jun 2020 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;img src=&quot;../../people/tristan_bereau.jpg&quot; alt=&quot;Tristan Bereau&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Tristan Bereau&lt;/strong&gt;, Assistant professor, &lt;a href=&quot;https://bereau.group/&quot;&gt;Computational Soft Matter&lt;/a&gt;, HIMS &amp;amp; IvI, UvA&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
-Advanced statistical methods are rapidly impregnating many scientific fields, offering new perspectives on long-standing problems. In materials science, data-driven methods are already bearing fruit in various disciplines, such as hard condensed matter or inorganic chemistry, as well as soft matter to a smaller extent.
-When coupling machine learning to molecular simulations, many problems of interest display dauntingly-large interpolation spaces, limiting their immediate application without undesired artifacts (e.g., extrapolation). The incorporation of physical information, such as conserved quantities, symmetries, and constraints, can play a decisive role in reducing the interpolation space. Conversely, physics can help determine whether a machine-learning prediction should be trusted, acting as a more robust alternative to the predictive variance.
-In this talk I will show how incorporating physics in machine-learning models can help connect resolutions in multiscale modeling. Illustrations will include force-field parametrization, automated dimensionality reduction and clustering, and generative models to reintroduce atomistic detail in coarse-grained configurations.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1COEnlxyiJ0lKjbQ1TqW2xu8CEYVKS0NP/view&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../images/physml.jpg&quot; alt=&quot;Physical Machine learning&quot; width=&quot;400&quot; style=&quot;float: center; margin-right: 10px;&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Ref: &lt;a href=&quot;https://aip.scitation.org/doi/10.1063/1.5009502&quot;&gt;Journal of Chemical Physics&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000//colloquium/tristan-bereau/</guid>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/david-fischer/</guid>
 			</item>
 		
 	</channel>

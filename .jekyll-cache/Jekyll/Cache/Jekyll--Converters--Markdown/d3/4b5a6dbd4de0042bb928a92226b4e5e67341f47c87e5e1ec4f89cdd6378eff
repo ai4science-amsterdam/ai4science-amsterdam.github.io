@@ -1,6 +1,6 @@
-I"ù	<p><a href="http://mediaelementjs.com/">mediaelement.js</a> is like magic. It‚Äôs browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to <code class="highlighter-rouge">true</code>.</p>
+I"√	<p><a href="http://mediaelementjs.com/">mediaelement.js</a> is like magic. It‚Äôs browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to <code class="language-plaintext highlighter-rouge">true</code>.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mediaplayer: true
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mediaplayer: true
 </code></pre></div></div>
 
 <p>To use the player just use some HTML5-magic like‚Ä¶</p>

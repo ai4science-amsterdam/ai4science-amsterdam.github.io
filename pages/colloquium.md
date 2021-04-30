@@ -32,7 +32,7 @@ Date: 11-05-2021 14:00-1500 Central European Summer time
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
 
-Speaker: **Chandler Squires**, PhD Student at Van ’t Hoff Institute for Molecular Sciences, AI4Science Laboratory, and Amsterdam Center for Multiscale Modeling, University of Amsterdam
+Speaker: **Chandler Squires**, PhD Student, MIT
 
 **Abstract:** <br/>
 To be announced

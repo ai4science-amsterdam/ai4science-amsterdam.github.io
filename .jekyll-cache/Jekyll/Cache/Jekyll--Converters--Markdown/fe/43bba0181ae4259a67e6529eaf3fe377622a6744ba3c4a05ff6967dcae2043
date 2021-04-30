@@ -1,8 +1,8 @@
-I"Ú<!--more-->
+I"í<!--more-->
 
 <h2 id="front-matter-code">Front Matter Code</h2>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>header:
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>header:
     title: header with text
     image_fullwidth: unsplash_brooklyn-bridge_header.jpg
     caption: This is a caption for the header image with link

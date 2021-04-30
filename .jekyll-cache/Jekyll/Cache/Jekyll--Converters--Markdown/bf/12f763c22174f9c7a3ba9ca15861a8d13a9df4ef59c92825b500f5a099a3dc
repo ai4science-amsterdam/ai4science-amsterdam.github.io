@@ -1,0 +1,190 @@
+I"�<hr />
+<center> <h2>Upcoming Events</h2> </center>
+<center> <h1>The AI4Science Colloquium</h1> </center>
+
+<p>The bi-weekly AI4Science colloquium is back, if you want to learn more about state of the art AI solutions for Science, please tune in. Check out the Colloquium page for the schedule, recordings of previous colloquia and more!</p>
+
+<p><a class="radius button small" href="https://ai4science-amsterdam.github.io//colloquium/">Learn More›</a></p>
+
+<hr />
+
+<center> <h1>AI4Science Lab</h1> </center>
+
+<blockquote>
+  <p>How can we detect, classify, and predict relevant patterns in scientific data if they are hidden within large amount of non-relevant data?</p>
+</blockquote>
+
+<p>The AI4Science Lab is an initiative supported by the <a href="https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/faculty-of-science.html">Faculty of Exact Sciences (FNWI)</a> at the <a href="https://www.uva.nl">University of Amsterdam</a> and located in the <a href="https://ivi.uva.nl">Informatics Institute (IvI)</a>. The AI4Science Lab is also connected to <a href="http://amlab.science.uva.nl">AMLAB</a>, the Amsterdam Machine Learning Lab.</p>
+
+<p>We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</p>
+
+<p><a class="radius button small" href="https://ai4science-amsterdam.github.io//lab/">Learn More›</a></p>
+
+<hr />
+
+<center> <h1>AI4Science Consortium</h1> </center>
+
+<p>The AI4Science Lab is the center of a rapidly growing multidisciplinary 
+consortium of students, researchers, and experts interested in the 
+development and application of artificial intelligence tools for the 
+analysis of scientific data. We keep each other informed about interesting 
+challenges and new developments. Our activities include organising
+<a href="/events/">seminars and workshops</a>, a <a href="/colloquium/">bi-weekly colloquium series</a> and
+helping each other with acquiring funding for AI4Science 
+spin-offs. Interested in joining the AI4Science consortium?</p>
+
+<p><a class="radius button small" href="https://ai4science-amsterdam.github.io//consortium/">Learn More›</a></p>
+
+<!--
+__________________________________________
+
+<center> <h1>AI4Science Colloquium</h1> </center>
+
+The Ai4Science Colloquiem is a bi-weekly event in which we will invite pronounced speakers active in the field of Artificial Intelligence and Science. 
+
+<a class="radius button small" href="https://ai4science-amsterdam.github.io//Colloquium/">Learn More›</a>
+-->
+<hr />
+
+<center> <h1>Projects</h1> </center>
+
+<p><!-- ================================================================ -->
+  <!-- Project highlights --></p>
+
+<section id="tworev">
+ <div class="inner">
+
+    <article>
+
+    <div class="content">
+      <header>
+        <h3>Gravitational waves</h3>
+      </header>
+      <div class="image fit">
+        <img src="images/fig_project1.png" alt="Gravitational waves" />
+      </div>
+      <p>The breakthrough discovery of the first gravitational wave
+      signal in September 2015 (Nobel Prize 2017) has opened a new
+      window to the Universe. Analyses of the signal waveforms during
+      the initial inspiral, merger and final ringdown phase provide
+      crucial information about the properties of superheavy stellar objects.</p>
+      <p>
+      <ul class="actions">
+        <a href="/research" class="button">Learn More</a>
+      </ul>
+      </p>
+    </div>
+    </article>
+
+    <article>
+    <div class="content">
+      <header>
+        <h3>Radio astronomy</h3>
+      </header>
+      <div class="image fit">
+        <img src="images/fig_project3b_s.png" alt="Radio astronomy" />
+      </div>
+      <p>An active field of research in astronomy deals with recognising
+      rare features in data streams from space obervations in
+      (almost) real time. This challenging task arises from the
+      massive imaging surveys of the sky carried our at a wide range
+      of wavelengths (optical, radio, X-ray). The purpose is no longer
+      just to find objects that are there all or most of the time, but
+      also to spot so-called ‘transient’ objects that appear only fleetingly.</p>
+      <p>
+      <ul class="actions">
+        <a href="/research" class="button">Learn More</a>
+      </ul>
+      </p>
+    </div>
+    </article>
+
+ </div>
+ </section>
+
+<section id="tworev">
+ <div class="inner">
+
+    <article class="alt">
+    <div class="content">
+      <header>
+        <h3>Liquid Chromatography</h3>
+      </header>
+      <div class="image fit">
+        <img src="images/fig_project2.png" alt="Liquid Chromatography" />
+      </div>
+      <p>
+      Two-dimensional liquid chromatography (2DLC) is a powerful
+      technique to separate and detect trace molecular compounds in
+      complex samples such as food contaminants, industrial production
+      streams, urine, or blood, to name but a few examples. However,
+      successful implementation requires time-consuming experiment-specific
+      optimization of many parameters. Machine learning can aid
+      with data-analysis and the acceleration of optimization.
+      </p>
+      <p>
+      <ul class="actions">
+        <li><a href="/research" class="button">Learn More</a></li>
+      </ul>
+      </p>
+    </div>
+    </article>
+
+    <article>
+    <div class="content">
+      <header>
+        <h3>Gene Regulatory Networks</h3>
+      </header>
+      <div class="image fit">
+        <img src="images/fig_project4a.png" alt="Gene Regulatory Networks" />
+      </div>
+      <p>Gene regulatory networks (GRNs) model the biological interactions between genes and provide a better understanding of the cellular processes and regulation pathways. Correctly constructed GRNs can play a fundamental role in solving various biological and biomedical problems, such as tracking disease development. The great amount of gene expression data available on the GEO database suggests using AI-based techniques for processing and modeling such networks.
+      </p>
+      <p>
+      <ul class="actions">
+        <a href="/research" class="button">Learn More</a>
+      </ul>
+      </p>
+    </div>
+    </article>
+ </div>
+ </section>
+
+<section id="tworev">
+ <div class="inner">
+
+    <article>
+
+    <div class="content">
+      <header>
+        <h3>Radar Aeroecology</h3>
+      </header>
+      <div class="image fit">
+        <img src="images/fig_project5a.png" alt="Radar aeroecology" />
+      </div>
+      <p>Internationally operating weather radars are known to capture the mass movement of migrating birds. This offers unparalleled opportunities to quantify bird migration at large spatial and temporal scales and thereby gain insight into the effects of environmental conditions and human activities. However, the field of radar aeroecology is still in its infancy and the potential of available radar data is largely under-utilized.</p>
+      <p>
+      <ul class="actions">
+        <a href="/research" class="button">Learn More</a>
+      </ul>
+      </p>
+    </div>
+    </article>
+
+    <article>
+    <div class="content">
+      <header>
+      </header>
+      <div class="image fit">
+      </div>
+      <p>
+      </p>
+      <p>
+      </p>
+    </div>
+    </article>
+
+ </div>
+ </section>
+
+:ET

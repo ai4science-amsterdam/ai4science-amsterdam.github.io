@@ -1,7 +1,7 @@
-I"<p>First turn of the header with <code class="highlighter-rouge">header: no</code>. Then add an image to with the following code. The caption is optional.
+I"?<p>First turn of the header with <code class="language-plaintext highlighter-rouge">header: no</code>. Then add an image to with the following code. The caption is optional.
 <!--more--></p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>header: no
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>header: no
 image:
     title: unsplash_eagle.jpg
     caption: This is a caption for the header image with link
