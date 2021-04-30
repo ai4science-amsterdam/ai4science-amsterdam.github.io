@@ -36,4 +36,4 @@ Computer Science students or other talented students with a keen interest in AI 
 [6]: https://iop.uva.nl/
 [7]: https://ibed.uva.nl/
 [8]: https://hims.uva.nl/
-[9]: /laboratory/
+[9]: /lab/

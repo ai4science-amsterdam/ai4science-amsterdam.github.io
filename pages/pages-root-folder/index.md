@@ -79,7 +79,7 @@ The AI4Science Lab is an initiative supported by the [Faculty of Exact Sciences 
 
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/laboratory/">Learn More›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/lab/">Learn More›</a>
 
 
 __________________________________________
