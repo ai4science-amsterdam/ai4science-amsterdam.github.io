@@ -6,6 +6,7 @@ title: "Laboratory"
 teaser: "Hi, welcome to our lab."
 header:
    image_fullwidth: "banner_lab.jpg"
+   #image_fullwidth: "test_header.jpg"
    title: ''
 permalink: "/lab/"
 ---

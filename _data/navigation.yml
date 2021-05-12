@@ -8,14 +8,12 @@
   dropdown:
   - title: "People"
     url: "/people/"
-  - title: "Associate Members"
-    url: "/people/#associate_members"
+#  - title: "Associate Members"
+#    url: "/people/#associate_members"
   - title: "Research"
     url: "/research/"
 #  - title: "design a grid"
 #    url: "/design/grid/"
-  - title: "Lab"
-    url: "/lab/"
 - title: "Consortium"
   url: "/consortium/"
   side: right
