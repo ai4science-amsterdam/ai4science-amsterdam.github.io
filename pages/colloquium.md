@@ -27,13 +27,13 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 Date: 25-05-2021 14:00-1500 Central European Summer time
 
 
- <img src="../people/AlexanderTkatchenko.jpeg"
+ <img src="../people/AlexandreTkatchenko.jpeg"
      alt="AlexanderTkatchenko"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
 
-Speaker: **AlexanderTkatchenko**, Professor of Physics, University of Luxembourg
+Speaker: **Alexander Tkatchenko**, Professor of Physics, University of Luxembourg
 
 **Abstract:** <br/>
 Machine Learning Force Fields (MLFF) should be accurate, efficient, and applicable to molecules, materials, and interfaces thereof. The first step toward ensuring broad applicability and reliability of MLFFs requires a robust conceptual understanding of how to map interacting electrons to interacting "atoms". Here I discuss two aspects: (1) how electronic interactions are mapped to atoms with a critique of the "electronic nearsightedness" principle, and (2) our developments of symmetry-adapted gradient-domain machine learning (sGDML) framework for MLFFs generally applicable for modeling of molecules, materials, and their interfaces. I highlight the key importance of bridging fundamental physical priors and conservation laws with the flexibility of non-linear ML regressors to achieve the challenging goal of constructing chemically-accurate force fields for a broad set of systems. Applications of sGDML will be presented for small and large (bio/DNA) molecules, pristine and realistic solids, and interfaces between molecules and 2D materials. 
@@ -87,3 +87,4 @@ For an overview of more  previous colloquia, please have a look at out [blog][2]
 [5]:http://www.mathben.com/
 [6]:https://pubs.acs.org/doi/10.1021/acs.jctc.0c00981
 [7]:https://github.com/Ensing-Laboratory/FABULOUS
+
