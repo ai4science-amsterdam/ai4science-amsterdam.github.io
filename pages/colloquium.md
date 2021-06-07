@@ -73,6 +73,9 @@ For more information, see references: Sci. Adv. 3, e1603015 (2017); Nat. Commun.
 **Bio** <br/>
 Alexandre Tkatchenko is a professor at the Department of Physics and Materials Science (and head of this department since January 2020) at the University of Luxembourg, where he holds a chair in Theoretical Chemical Physics. Tkatchenko also holds a distinguished visiting professor position at the Berlin Big Data Centre (BBDC) of the Technical University of Berlin. His group develops accurate and efficient first-principles computational models to study a wide range of complex materials, aiming at qualitative understanding and quantitative prediction of their structural, cohesive, electronic, and optical properties at the atomic scale and beyond. He has delivered more than 250 invited talks, seminars and colloquia worldwide, published 180 articles in prestigious journals (h-index of 67 with more than 22,000 citations; Top 1% ISI highly cited researcher in 2018-2020), and serves on the editorial boards of Science Advances and Physical Review Letters. Tkatchenko has received a number of awards, including APS Fellow from the American Physical Society, Gerhard Ertl Young Investigator Award of the German Physical Society, Dirac Medal from the World Association of Theoretical and Computational Chemists (WATOC), van der Waals prize of ICNI-2021, and three flagship grants from the European Research Council: a Starting Grant in 2011, a Consolidator Grant in 2017, and Proof-of-Concept Grant in 2020.
 
+<a class="radius button small" href="https://drive.google.com/file/d/1nOuQ4naUpI4C0ee85xJQ_WAe_qk1MDhk/view?usp=sharing">Watch Back ›</a>
+
+
 For an overview of more  previous colloquia, please have a look at out [blog][2].
 
 [1]: https://bereau.group/
