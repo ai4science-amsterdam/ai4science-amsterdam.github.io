@@ -21,6 +21,36 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
+#### Can artificial intelligence help understand and predict molecular dynamics?
+
+
+Date: 22-06-2021 14:00-1500 Central European Summer time
+
+
+ <img src="../people/PratyushTiwari.png"
+     alt="PratyushTiwari"
+     width="100"
+     style="float: right; margin-right: 10px; border-radius:50%;" />
+
+
+Speaker: **Pratyush Tiwary**, Asst. Prof University of Maryland, Washington DC
+
+**Abstract:** <br/>
+To be announced.
+
+## Schedule
+-  19 January 2021 - **Dim Coumou**
+- 2 February 2021 - **Mario Geiger**
+- 16 February 2021 - **Eliu Huerta Escudero**
+- 2 March 2021 - **Jakub Tomczak**
+- 30 March 2021 - **Benjamin Miller**
+- 13 April 2021 - **Ferry Hooft**
+- 11 May 2021 - **Chandler Squires**
+- 25 May 2021 - **Alexander Tkatchenko**
+- 22 June 2021 - **Pratyush Tiwary**
+
+## Previous Colloquium
+
 #### Title: On Electrons and Machine Learning Force Fields
 
 
@@ -42,40 +72,6 @@ For more information, see references: Sci. Adv. 3, e1603015 (2017); Nat. Commun.
 
 **Bio** <br/>
 Alexandre Tkatchenko is a professor at the Department of Physics and Materials Science (and head of this department since January 2020) at the University of Luxembourg, where he holds a chair in Theoretical Chemical Physics. Tkatchenko also holds a distinguished visiting professor position at the Berlin Big Data Centre (BBDC) of the Technical University of Berlin. His group develops accurate and efficient first-principles computational models to study a wide range of complex materials, aiming at qualitative understanding and quantitative prediction of their structural, cohesive, electronic, and optical properties at the atomic scale and beyond. He has delivered more than 250 invited talks, seminars and colloquia worldwide, published 180 articles in prestigious journals (h-index of 67 with more than 22,000 citations; Top 1% ISI highly cited researcher in 2018-2020), and serves on the editorial boards of Science Advances and Physical Review Letters. Tkatchenko has received a number of awards, including APS Fellow from the American Physical Society, Gerhard Ertl Young Investigator Award of the German Physical Society, Dirac Medal from the World Association of Theoretical and Computational Chemists (WATOC), van der Waals prize of ICNI-2021, and three flagship grants from the European Research Council: a Starting Grant in 2011, a Consolidator Grant in 2017, and Proof-of-Concept Grant in 2020.
-
-## Schedule
--  19 January 2021 - **Dim Coumou**
-- 2 February 2021 - **Mario Geiger**
-- 16 February 2021 - **Eliu Huerta Escudero**
-- 2 March 2021 - **Jakub Tomczak**
-- 30 March 2021 - **Benjamin Miller**
-- 13 April 2021 - **Ferry Hooft**
-- 11 May 2021 - **Chandler Squires**
-- 25 May 2021 - **Alexander Tkatchenko**
-- 8 June 2021 - **Pratyush Tiwary**
-
-## Previous Colloquium
-
-#### Title: Predicting Gene Expression across Cell Types and Drugs
-
-Date: 11-05-2021 14:00-1500 Central European Summer time
-
-
- <img src="../people/ChandlerSquires.png"
-     alt="ChandlerSquires"
-     width="100"
-     style="float: right; margin-right: 10px; border-radius:50%;" />
-
-
-Speaker: **Chandler Squires**, PhD Student, MIT
-
-**Abstract:** <br/>
-One of the fundamental objectives in both science and machine learning is to predict the outcomes of actions in order to improve decision-making. As our primary application, we will consider predicting the effect of a drug on gene expression, where the effect may depend heavily on cell type.
- Ideally, we would separately measure the effect of each drug on every cell type, but this is infeasible due to the massive number of drugs and cell types. Instead, we take the approach of extrapolating these effects from a small number of measured outcomes. In this talk, I will present a simple structural model under which this extrapolation is justified, i.e., the effect of a drug in a new cell type can be identified from existing data. Motivated by this model, I will introduce a computationally efficient method for predicting the effect of a drug on gene expression. I will show that the proposed model and method are particularly effective on the prominent Connectivity Map dataset, which measures the effects of over 20,000 small molecules across 70 cell types. Finally, I will end with a discussion of broader scientific applications of the proposed method.
-
-
-<a class="radius button small" href="https://drive.google.com/file/d/1dUVzLi43NNVgyPEF4JnK07laliUQKaiL/view?usp=sharing">Watch Back ›</a>
-
 
 For an overview of more  previous colloquia, please have a look at out [blog][2].
 
