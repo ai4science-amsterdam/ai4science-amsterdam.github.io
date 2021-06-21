@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://ai4science-amsterdam.github.io//</id>
 	<title>AI4Science Lab</title>
-	<updated>2021-04-30T21:45:20+02:00</updated>
+	<updated>2021-06-21T10:47:10+02:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Exact Sciences (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -25,6 +25,88 @@ We develop and use machine learning techniques to discover patterns in data stre
 
 	<generator uri="http://jekyllrb.com" version="4.2.0">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://ai4science-amsterdam.github.io//colloquium/alexander-tkatchenko/</id>
+			<title>Alexander Tkatchenko</title>
+			<link href="https://ai4science-amsterdam.github.io//colloquium/alexander-tkatchenko/" rel="alternate" type="text/html" title="Alexander Tkatchenko" />
+			<updated>2021-05-25T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>On Electrons and Machine Learning Force Fields</summary>
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/alexander-tkatchenko/">&lt;p&gt;&lt;img src=&quot;../../people/AlexandreTkatchenko.jpeg&quot; alt=&quot;AlexandreTkatchenko&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Alexander Tkatchenko&lt;/strong&gt;, Professor of Physics, University of Luxembourg&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
+Machine Learning Force Fields (MLFF) should be accurate, efficient, and applicable to molecules, materials, and interfaces thereof. The first step toward ensuring broad applicability and reliability of MLFFs requires a robust conceptual understanding of how to map interacting electrons to interacting “atoms”. Here I discuss two aspects: (1) how electronic interactions are mapped to atoms with a critique of the “electronic nearsightedness” principle, and (2) our developments of symmetry-adapted gradient-domain machine learning (sGDML) framework for MLFFs generally applicable for modeling of molecules, materials, and their interfaces. I highlight the key importance of bridging fundamental physical priors and conservation laws with the flexibility of non-linear ML regressors to achieve the challenging goal of constructing chemically-accurate force fields for a broad set of systems. Applications of sGDML will be presented for small and large (bio/DNA) molecules, pristine and realistic solids, and interfaces between molecules and 2D materials.&lt;/p&gt;
+
+&lt;p&gt;For more information, see references: Sci. Adv. 3, e1603015 (2017); Nat. Commun. 9, 3887 (2018); Comp. Phys. Comm. 240, 38 (2019); J. Chem. Phys. 150, 114102 (2019); Sci. Adv. 5, eaax0024 (2019).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt; &lt;br /&gt;
+Alexandre Tkatchenko is a professor at the Department of Physics and Materials Science (and head of this department since January 2020) at the University of Luxembourg, where he holds a chair in Theoretical Chemical Physics. Tkatchenko also holds a distinguished visiting professor position at the Berlin Big Data Centre (BBDC) of the Technical University of Berlin. His group develops accurate and efficient first-principles computational models to study a wide range of complex materials, aiming at qualitative understanding and quantitative prediction of their structural, cohesive, electronic, and optical properties at the atomic scale and beyond. He has delivered more than 250 invited talks, seminars and colloquia worldwide, published 180 articles in prestigious journals (h-index of 67 with more than 22,000 citations; Top 1% ISI highly cited researcher in 2018-2020), and serves on the editorial boards of Science Advances and Physical Review Letters. Tkatchenko has received a number of awards, including APS Fellow from the American Physical Society, Gerhard Ertl Young Investigator Award of the German Physical Society, Dirac Medal from the World Association of Theoretical and Computational Chemists (WATOC), van der Waals prize of ICNI-2021, and three flagship grants from the European Research Council: a Starting Grant in 2011, a Consolidator Grant in 2017, and Proof-of-Concept Grant in 2020.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1nOuQ4naUpI4C0ee85xJQ_WAe_qk1MDhk/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="colloquium" />
+			
+			
+				<category term="colloquium" />
+			
+
+			<published>2021-05-25T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://ai4science-amsterdam.github.io//colloquium/chandler-squires/</id>
+			<title>Chandler Squires</title>
+			<link href="https://ai4science-amsterdam.github.io//colloquium/chandler-squires/" rel="alternate" type="text/html" title="Chandler Squires" />
+			<updated>2021-05-11T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>Predicting Gene Expression across Cell Types and Drugs</summary>
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/chandler-squires/">&lt;p&gt;&lt;img src=&quot;../../people/ChandlerSquires.png&quot; alt=&quot;ChandlerSquires&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Chandler Squires&lt;/strong&gt;, PhD Student, MIT&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
+One of the fundamental objectives in both science and machine learning is to predict the outcomes of actions in order to improve decision-making. As our primary application, we will consider predicting the effect of a drug on gene expression, where the effect may depend heavily on cell type.
+ Ideally, we would separately measure the effect of each drug on every cell type, but this is infeasible due to the massive number of drugs and cell types. Instead, we take the approach of extrapolating these effects from a small number of measured outcomes. In this talk, I will present a simple structural model under which this extrapolation is justified, i.e., the effect of a drug in a new cell type can be identified from existing data. Motivated by this model, I will introduce a computationally efficient method for predicting the effect of a drug on gene expression. I will show that the proposed model and method are particularly effective on the prominent Connectivity Map dataset, which measures the effects of over 20,000 small molecules across 70 cell types. Finally, I will end with a discussion of broader scientific applications of the proposed method.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1dUVzLi43NNVgyPEF4JnK07laliUQKaiL/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="colloquium" />
+			
+			
+				<category term="colloquium" />
+			
+
+			<published>2021-05-11T00:00:00+02:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://ai4science-amsterdam.github.io//colloquium/ferry-hooft/</id>
@@ -328,80 +410,6 @@ Frank Noé will talk about the sampling problem of many-body physics systems and
 			
 
 			<published>2020-11-10T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/gabor-csanyi/</id>
-			<title>Gábor Csányi</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/gabor-csanyi/" rel="alternate" type="text/html" title="Gábor Csányi" />
-			<updated>2020-10-27T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Jim Boelrijk</name>
-					
-					
-					
-				</author>
-			
-			<summary>Representation and regression problems for molecular structure and dynamics</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/gabor-csanyi/">&lt;p&gt;&lt;img src=&quot;../../people/GaborCsanyi.png&quot; alt=&quot;gaborcsanyi&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Gábor Csányi&lt;/strong&gt;, Professor of Molecular Modelling, Engineering Laboratory, University of Cambridge&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
-A vast proportion of total global “science” computer time is spent on property prediction  and optimisation on the atomic scale in the fields of materials, physics and chemistry. Typical tasks include solving the Schrödinger equation in various approximations, molecular dynamics using Newtonian equations of motion, but also classification and design based on predicted interactions of molecules and periodic crystal structures. Efficient representations of material and molecular structure, coupled with regularisation (both in kernel methods and neural networks) are beginning to show dramatic speedups and also reductions in the scaling of computational complexity at the same time as making step-changes in simulation accuracy. The first science applications that take advantage of the million-factor speedups include accurate calculations of the structure of amorphous materials and molecular liquids. Outstanding problems include, but with good prospects, finding better low dimensional representations (e.g. body-ordered expansions), incorporating infinite range interactions, clarifying the relationships between low dimensionality and interaction range, and providing global error bounds. One of the most pressing problems is “extrapolation”: typical simulations generate samples using stochastic processes based on the fitted models and thus underestimating the energy can lead to exponential amplification of errors.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1tkEgdvQgi-t9-Zs0QchjccvWpx-5v7Xr/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-</content>
-
-			
-				<category term="colloquium" />
-			
-			
-				<category term="colloquium" />
-			
-
-			<published>2020-10-27T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/david-fischer/</id>
-			<title>David Fischer</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/david-fischer/" rel="alternate" type="text/html" title="David Fischer" />
-			<updated>2020-10-13T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Jim Boelrijk</name>
-					
-					
-					
-				</author>
-			
-			<summary>Attributing variance in single-cell genomics</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/david-fischer/">&lt;p&gt;&lt;img src=&quot;../../people/DavidFischer.jpg&quot; alt=&quot;christophweniger&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;David Fischer&lt;/strong&gt;, Theis Lab, ICB, Helmholtz Zentrum, Munich, Germany&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
-Cell Biology revolves around the idea that cells are core functional units of organisms: Models for cellular function explain many disease and treatment effects, for example. Hence, there has been a long-standing, significant interest in improving the understanding of cellular behaviour. Recent experimental advances enable increasingly detailed molecular profiling of cells: Examples include methods such as single-cell RNA sequencing, which measure quantities of particular molecular species in each cell. The resulting output can be summarised as a matrix (cells x molecular features) with up to millions of cells and 10,000s of features. Models for variance in these data sets are actively developed in Computational Biology; many concepts from unsupervised learning are used in this context. While these unsupervised techniques yield useful descriptions of the molecular state space, they usually fail to yield a complete picture of molecular mechanisms of causality underlying this variance. Here, I discuss approaches centred on supervision tasks in single-cell Immunology which improve interpretability of these models and outline ways of generalising this approach to other settings in single-cell Biology. Lastly, I discuss challenges and opportunities of representation learning on whole tissues, bridging the gap from cell-centric models to tissue function models, such as for tumor behaviour.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1wVpxkotClrOJAeXUHO4WotbypDiG9GHg/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-</content>
-
-			
-				<category term="colloquium" />
-			
-			
-				<category term="colloquium" />
-			
-
-			<published>2020-10-13T00:00:00+02:00</published>
 		</entry>
 	
 </feed>
