@@ -26,7 +26,7 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 Date: 31-08-2021 14:00-1500 Central European Summer time
 
 
- <img src="../people/SaerSamanipour.jpeg"
+ <img src="../people/SaerSamanipour2.jpeg"
      alt="SaerSamanipour"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
