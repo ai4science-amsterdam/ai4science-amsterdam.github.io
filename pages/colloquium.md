@@ -21,6 +21,31 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
+#### Machine Learning and High Resolution Mass Spectrometry
+
+Date: 31-08-2021 14:00-1500 Central European Summer time
+
+
+ <img src="../people/SaerSamanipour.jpeg"
+     alt="SaerSamanipour"
+     width="100"
+     style="float: right; margin-right: 10px; border-radius:50%;" />
+
+
+Speaker: **Saer Samanipour**, Assistant Professor at the University of Amsterdam and honorary research fellow at the UQ, Australia
+
+**Abstract:** <br/>
+
+High resolution mass spectrometry is one of the main tools for chemical characterization of complex samples. The samples analyzed with this instrument result into large datasets comprising of up to 8.0e12 variables that could potentially carry crucial structural information about the sample chemistry. At the same time there are different sources of signal redundancy in such datasets. In this talk I will present two case studies where machine learning enables the removal of the data redundancy without any information loss. The first case study will discuss the seamless conversion from the profile mode to centroided and vice versa. In this case, we developed a self adjusting centroiding algorithm to detect and extract the meaningful information in such complex datasets. Additionally, a regression model was developed to convert the extracted information to the raw data. The second case study, is related to the development of a stochastic classification model to detect the isotopic signal in the mass spectra and therefore increase the level of confidence in the generated identifications.
+
+## Schedule
+
+- 31 August 2021 - **Saer Samanipour**
+- 14 September 2021 - **TBA**
+- 28 September 2021 - **TBA**
+
+## Previous Colloquium
+
 #### Can artificial intelligence help understand and predict molecular dynamics?
 
 
@@ -42,45 +67,10 @@ References:
 1. Wang, Y., Ribeiro, J.M.L. & Tiwary, P. Past–future information bottleneck for sampling molecular reaction coordinate simultaneously with thermodynamics and kinetics. Nat. Commun. 10, 3573 (2019). 
 2. Tsai, S.T, Kuo, E.J. & Tiwary, P.  Learning Molecular Dynamics with Simple Language Model built upon Long Short-Term Memory Neural Network. Nat. Commun. 11, 5115 (2020).
 3. Wang, Y., Ribeiro, J.M.L. and Tiwary, P. Machine learning approaches for analyzing and enhancing molecular dynamics simulations. Curr. Op. Sruc. Bio., 61, 139 (2020).
-
-
-## Schedule
--  19 January 2021 - **Dim Coumou**
-- 2 February 2021 - **Mario Geiger**
-- 16 February 2021 - **Eliu Huerta Escudero**
-- 2 March 2021 - **Jakub Tomczak**
-- 30 March 2021 - **Benjamin Miller**
-- 13 April 2021 - **Ferry Hooft**
-- 11 May 2021 - **Chandler Squires**
-- 25 May 2021 - **Alexander Tkatchenko**
-- 22 June 2021 - **Pratyush Tiwary**
-
-## Previous Colloquium
-
-#### Title: On Electrons and Machine Learning Force Fields
-
-
-Date: 25-05-2021 14:00-1500 Central European Summer time
-
-
- <img src="../people/AlexandreTkatchenko.jpeg"
-     alt="AlexanderTkatchenko"
-     width="100"
-     style="float: right; margin-right: 10px; border-radius:50%;" />
-
-
-Speaker: **Alexander Tkatchenko**, Professor of Physics, University of Luxembourg
-
-**Abstract:** <br/>
-Machine Learning Force Fields (MLFF) should be accurate, efficient, and applicable to molecules, materials, and interfaces thereof. The first step toward ensuring broad applicability and reliability of MLFFs requires a robust conceptual understanding of how to map interacting electrons to interacting "atoms". Here I discuss two aspects: (1) how electronic interactions are mapped to atoms with a critique of the "electronic nearsightedness" principle, and (2) our developments of symmetry-adapted gradient-domain machine learning (sGDML) framework for MLFFs generally applicable for modeling of molecules, materials, and their interfaces. I highlight the key importance of bridging fundamental physical priors and conservation laws with the flexibility of non-linear ML regressors to achieve the challenging goal of constructing chemically-accurate force fields for a broad set of systems. Applications of sGDML will be presented for small and large (bio/DNA) molecules, pristine and realistic solids, and interfaces between molecules and 2D materials. 
-
-For more information, see references: Sci. Adv. 3, e1603015 (2017); Nat. Commun. 9, 3887 (2018); Comp. Phys. Comm. 240, 38 (2019); J. Chem. Phys. 150, 114102 (2019); Sci. Adv. 5, eaax0024 (2019).
-
-**Bio** <br/>
-Alexandre Tkatchenko is a professor at the Department of Physics and Materials Science (and head of this department since January 2020) at the University of Luxembourg, where he holds a chair in Theoretical Chemical Physics. Tkatchenko also holds a distinguished visiting professor position at the Berlin Big Data Centre (BBDC) of the Technical University of Berlin. His group develops accurate and efficient first-principles computational models to study a wide range of complex materials, aiming at qualitative understanding and quantitative prediction of their structural, cohesive, electronic, and optical properties at the atomic scale and beyond. He has delivered more than 250 invited talks, seminars and colloquia worldwide, published 180 articles in prestigious journals (h-index of 67 with more than 22,000 citations; Top 1% ISI highly cited researcher in 2018-2020), and serves on the editorial boards of Science Advances and Physical Review Letters. Tkatchenko has received a number of awards, including APS Fellow from the American Physical Society, Gerhard Ertl Young Investigator Award of the German Physical Society, Dirac Medal from the World Association of Theoretical and Computational Chemists (WATOC), van der Waals prize of ICNI-2021, and three flagship grants from the European Research Council: a Starting Grant in 2011, a Consolidator Grant in 2017, and Proof-of-Concept Grant in 2020.
-
-<a class="radius button small" href="https://drive.google.com/file/d/1nOuQ4naUpI4C0ee85xJQ_WAe_qk1MDhk/view?usp=sharing">Watch Back ›</a>
-
+ 
+ <!--
+ <a class="radius button small" href="https://drive.google.com/file/d/1nOuQ4naUpI4C0ee85xJQ_WAe_qk1MDhk/view?usp=sharing">Watch Back ›</a>
+-->
 
 For an overview of more  previous colloquia, please have a look at out [blog][2].
 
