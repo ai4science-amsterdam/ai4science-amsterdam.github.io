@@ -68,9 +68,7 @@ References:
 2. Tsai, S.T, Kuo, E.J. & Tiwary, P.  Learning Molecular Dynamics with Simple Language Model built upon Long Short-Term Memory Neural Network. Nat. Commun. 11, 5115 (2020).
 3. Wang, Y., Ribeiro, J.M.L. and Tiwary, P. Machine learning approaches for analyzing and enhancing molecular dynamics simulations. Curr. Op. Sruc. Bio., 61, 139 (2020).
  
- <!--
- <a class="radius button small" href="https://drive.google.com/file/d/1nOuQ4naUpI4C0ee85xJQ_WAe_qk1MDhk/view?usp=sharing">Watch Back ›</a>
--->
+<a class="radius button small" href="https://drive.google.com/file/d/1IZsF5hh3TPpZmp9DtmgYR6JJNX6vZsoL/view?usp=sharing">Watch Back ›</a>
 
 For an overview of more  previous colloquia, please have a look at out [blog][2].
 
