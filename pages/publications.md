@@ -12,6 +12,11 @@ header:
 permalink: "/publications/"
 ---
 
+<!-- force style for table  -->
+<style type="text/css">
+    li { list-style-type: disc; }
+</style>
+
 Here we list all papers from collaborations with members of the AI4Science Lab: [Publications](#publications) and [Preprints](#preprints).
 
 ## Publications
@@ -27,7 +32,7 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 - Benjamin Kurt Miller, Alex Cole, Gilles Louppe, Christoph Weniger, **Simulation-efficient marginal posterior estimation with swyft: stop wasting your precious time**,  NeurIPS 2020 Workshop: Machine Learning and the Physical Sciences, [https://arxiv.org/abs/2011.13951][Mil20a].
 - Andrei Apostol, Maarten Stol, Patrick Forré, **FlipOut: Uncovering Redundant Weights via Sign Flipping**, BNAIC/BeNeLearn 2020, best paper award, [https://arxiv.org/abs/2009.02594][Apo20a].
 - Luca Falorsi, Patrick Forré, **Neural Ordinary Differential Equations on Manifolds**, ICML 2020 Workshop INNF+: Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models, [https://arxiv.org/abs/2006.06663][Fal20a], [SlideLive][Fal20b].
-- Marco Federici, Anjan Dutta, Patrick Forré, Nate Kushman, Zeynep Akata, **Learning Robust Representations via Multi-View Information Bottleneck**, ICLR 2020, [https://arxiv.org/abs/2106.03783][Fed20a].
+- Marco Federici, Anjan Dutta, Patrick Forré, Nate Kushman, Zeynep Akata, **Learning Robust Representations via Multi-View Information Bottleneck**, ICLR 2020, [https://arxiv.org/abs/2002.07017][Fed20a].
 
 
 ## Preprints
@@ -47,7 +52,7 @@ Back to [Publications](#publications) or [Preprints](#preprints).
 [Bon21a]: https://arxiv.org/abs/1611.06221
 [Fal20a]: https://arxiv.org/abs/2006.06663
 [Fal20b]: https://slideslive.com/38930928/neural-ordinary-differential-equations-on-manifolds
-[Fed20a]: https://arxiv.org/abs/2106.03783
+[Fed20a]: https://arxiv.org/abs/2002.07017
 [Fed21a]: https://arxiv.org/abs/2106.03783
 [For21a]: https://arxiv.org/abs/2104.11547
 [For21b]: https://arxiv.org/abs/2109.11631
