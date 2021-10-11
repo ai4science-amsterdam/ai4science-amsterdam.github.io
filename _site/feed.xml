@@ -4,10 +4,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>AI4Science Lab</title>
-		<description>The AI4Science Lab is an initiative supported by the Faculty of Exact Sciences (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
+		<description>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</description>
 		<link>https://ai4science-amsterdam.github.io//</link>
 		<atom:link href="https://ai4science-amsterdam.github.io//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Pratyush Tiwari</title>
+				<link>https://ai4science-amsterdam.github.io//colloquium/pratyush-tiwary/</link>
+				<pubDate>Tue, 22 Jun 2021 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;../../people/PratyushTiwari.png&quot; alt=&quot;PratyushTiwari&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Pratyush Tiwary&lt;/strong&gt;, Asst. Prof University of Maryland, Washington DC&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
+The ability to rapidly learn from high-dimensional data to make reliable predictions about the future is crucial in many contexts. This could be a fly avoiding predators, or the retina processing terabytes of data guiding complex human actions. Modern day artificial intelligence (AI) aims to mimic this fidelity and has been successful in many domains of life. It is tempting to ask if AI could also be used to understand and predict the dynamics of complex molecules with millions of atoms. In this talk I will show that certain flavors of AI can indeed help us understand generic molecular dynamics and also predict it even in situations with arbitrary long memories. However this requires close integration of AI with old and new ideas in statistical mechanics. I will talk about such methods developed by my group (1-3). I will demonstrate the methods on different problems, where we predict mechanisms at timescales much longer than milliseconds while keeping all-atom/femtosecond resolution. These include ligand dissociation from flexible protein/RNA and crystal nucleation with competing polymorphs. I will conclude by discussing some generic challenges and  solutions regarding reliability, interpretability and extrapolative powers of AI when used to guide and complement simulations and perhaps even experiments in chemistry.&lt;/p&gt;
+
+&lt;p&gt;References:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Wang, Y., Ribeiro, J.M.L. &amp;amp; Tiwary, P. Past–future information bottleneck for sampling molecular reaction coordinate simultaneously with thermodynamics and kinetics. Nat. Commun. 10, 3573 (2019).&lt;/li&gt;
+  &lt;li&gt;Tsai, S.T, Kuo, E.J. &amp;amp; Tiwary, P.  Learning Molecular Dynamics with Simple Language Model built upon Long Short-Term Memory Neural Network. Nat. Commun. 11, 5115 (2020).&lt;/li&gt;
+  &lt;li&gt;Wang, Y., Ribeiro, J.M.L. and Tiwary, P. Machine learning approaches for analyzing and enhancing molecular dynamics simulations. Curr. Op. Sruc. Bio., 61, 139 (2020).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1IZsF5hh3TPpZmp9DtmgYR6JJNX6vZsoL/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/pratyush-tiwary/</guid>
+			</item>
 		
 			<item>
 				<title>Alexander Tkatchenko</title>
@@ -167,22 +191,6 @@ Dark matter halos are the fundamental building blocks of cosmic large-scale stru
 &lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1618HmRE-rloBvIiWJuH4hSa7PEHtR6Oj/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/lucie-smith/</guid>
-			</item>
-		
-			<item>
-				<title>Frank Noé</title>
-				<link>https://ai4science-amsterdam.github.io//colloquium/frank-noe/</link>
-				<pubDate>Tue, 10 Nov 2020 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;&lt;img src=&quot;../../people/FrankNoe.jpg&quot; alt=&quot;gaborcsanyi&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Frank Noé&lt;/strong&gt;, Professor, Freie Universität Berlin&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
-Frank Noé will talk about the sampling problem of many-body physics systems and introduce some statistics and machine-learning methods to tackle it. In particular, he will make an introduction to Boltzmann-generating flows, a combination of normalizing flows and statistical-mechanics-based reweighting, and stochastic normalizing flows. Some open questions and unsolved machine-learning problems related to Boltzmann-generating flows will be presented.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/14k33ukgDE3bciV7ELQB3X5hkgxp5A8b4/view&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/frank-noe/</guid>
 			</item>
 		
 	</channel>
