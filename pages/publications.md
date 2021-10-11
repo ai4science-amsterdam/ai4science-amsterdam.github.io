@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth 
 show_meta: false
-title: "Paper of the AI4Science Lab"
+title: "Papers of the AI4Science Lab"
 #subheadline: "Welcome to our lab."
 #teaser: "Hi, welcome to our lab."
 header:
