@@ -32,7 +32,7 @@ Date: 26-10-2021 14:00-1500 Central European Summer time
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
 
-Speaker: **Jan-Willem van de Meent**, "Associate Professor (UHD), AMLab, University of Amsterdam"
+Speaker: **Jan-Willem van de Meent**, Associate Professor (UHD), AMLab, University of Amsterdam
 
 **Abstract:** <br/>
 
