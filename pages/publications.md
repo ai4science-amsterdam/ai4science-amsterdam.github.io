@@ -21,6 +21,7 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 
 ## Publications
 {: #publications }
+- Jim Boelrijk, Bob Pirok, Bernd Ensing, Patrick Forré, **Bayesian optimization of comprehensive two-dimensional liquid chromatography separations**, J. Chromatogr. A 2021, [https://doi.org/10.1016/j.chroma.2021.462628][Boe21a]
 - Benjamin Kurt Miller, Alex Cole, Patrick Forré, Gilles Louppe, Christoph Weniger, **Truncated Marginal Neural Ratio Estimation**, accepted to NeurIPS 2021, [https://arxiv.org/abs/2107.01214][Mil21a].
 - Marco Federici, Ryota Tomioka, Patrick Forré, **An Information-theoretic Approach to Distribution Shifts**, accepted to NeurIPS 2021, [https://arxiv.org/abs/2106.03783][Fed21a].
 - Emiel Hoogeboom, Didrik Nielsen, Priyank Jaini, Patrick Forré, Max Welling, **Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions**, accepted to NeurIPS 2021, [https://arxiv.org/abs/2102.05379][Hog21a].
@@ -50,6 +51,7 @@ Back to [Publications](#publications) or [Preprints](#preprints).
 
 [Apo20a]: https://arxiv.org/abs/2009.02594
 [Bon21a]: https://arxiv.org/abs/1611.06221
+[Boe21a]: https://doi.org/10.1016/j.chroma.2021.462628
 [Fal20a]: https://arxiv.org/abs/2006.06663
 [Fal20b]: https://slideslive.com/38930928/neural-ordinary-differential-equations-on-manifolds
 [Fed20a]: https://arxiv.org/abs/2002.07017
