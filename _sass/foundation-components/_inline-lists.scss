@@ -36,11 +36,11 @@ $inline-list-children-display: block !default;
   margin-#{$default-float}: $inline-list-default-float-margin;
   margin-#{$opposite-direction}: $inline-list-opposite-margin;
   padding: $inline-list-padding;
-  list-style: none;
+  list-style: disc;
   overflow: $inline-list-overflow;
 
   & > li {
-    list-style: none;
+    list-style: circle;
     float: $default-float;
     margin-#{$default-float}: $inline-list-default-float-list-margin;
     display: $inline-list-display;
