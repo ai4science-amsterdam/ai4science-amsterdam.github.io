@@ -19,7 +19,7 @@ header:
 
 #### Compositional Inference in Probabilistic Programs 
 
- <img src="../people/JanWillemVanDeMeent.jpeg"
+ <img src="../../people/JanWillemVanDeMeent.jpeg"
      alt="JanWillem"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
