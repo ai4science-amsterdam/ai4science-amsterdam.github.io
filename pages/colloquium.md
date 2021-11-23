@@ -36,7 +36,7 @@ Speaker: **Chris Rackauckas**, Applied Mathematics Instructor at the Massachuset
 
 **Abstract:** <br/>
 
-To be announced
+Science-Guided AI or Scientific machine learning (SciML) methods allow for the automatic discovery of mechanistic models by infusing neural network training into the simulation process. In this talk we will start by showcasing some of the ways that SciML is being used, from discovery of extrapolatory epidemic models to nonlinear mixed effects models in pharmacology. From there, we will discuss some of the increasingly advanced computational techniques behind the training process, focusing on the numerical issues involved in handling differentiation of highly stiff and chaotic systems. The viewers will leave with an understanding of how compiler techniques are being infused into the simulation stack to increasingly automate the process of developing mechanistic models.
 
 ## Schedule
 
@@ -48,6 +48,7 @@ To be announced
 ## Previous Colloquium
 
 #### Compositional Inference in Probabilistic Programs 
+
 
 Date: 9-11-2021 14:00-1500 Central European Winter time
 
