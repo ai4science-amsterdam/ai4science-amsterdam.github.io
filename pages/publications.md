@@ -22,13 +22,13 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 ## Publications
 {: #publications }
 - David Ruhe, Mark Kuiack, Antonia Rowlinson, Ralph Wijers, Patrick Forré, **Detecting dispersed radio transients in real time using convolutional neural networks**, Astronomy and Computing, vol. 38, 2022, [https://doi.org/10.1016/j.ascom.2021.100512][Ruh22a], [https://arxiv.org/abs/2103.15418
-][Ruh21a] [code][Ruh21b].
+][Ruh21a], [code][Ruh21b].
 - Jim Boelrijk, Bob Pirok, Bernd Ensing, Patrick Forré, **Bayesian optimization of comprehensive two-dimensional liquid chromatography separations**, J. Chromatogr. A 2021, [https://doi.org/10.1016/j.chroma.2021.462628][Boe21a]
 - Benjamin Kurt Miller, Alex Cole, Patrick Forré, Gilles Louppe, Christoph Weniger, **Truncated Marginal Neural Ratio Estimation**, NeurIPS 2021, [https://arxiv.org/abs/2107.01214][Mil21a].
 - Marco Federici, Ryota Tomioka, Patrick Forré, **An Information-theoretic Approach to Distribution Shifts**, NeurIPS 2021, [https://arxiv.org/abs/2106.03783][Fed21a].
 - Emiel Hoogeboom, Didrik Nielsen, Priyank Jaini, Patrick Forré, Max Welling, **Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions**, NeurIPS 2021, [https://arxiv.org/abs/2102.05379][Hog21a].
-- Stephan Bongers, Patrick Forré, Jonas Peters, Joris M. Mooij, **Foundations of Structural Causal Models with Cycles and Latent Variables**, Annals of Statistics, 49(5): 2885-2915, 2021, [DOI: 10.1214/21-AOS2064][Bon21b], [https://arxiv.org/abs/1611.06221][Bon21a].
-- Andrei Apostol, Maarten Stol, Patrick Forré, **Pruning by leveraging training dynamics**, AI Communications, 2021, [DOI: 10.3233/AIC-210127][Apo20b]. 
+- Stephan Bongers, Patrick Forré, Jonas Peters, Joris M. Mooij, **Foundations of Structural Causal Models with Cycles and Latent Variables**, Annals of Statistics, 49(5): 2885-2915, 2021, [doi:10.1214/21-AOS2064][Bon21b], [https://arxiv.org/abs/1611.06221][Bon21a].
+- Andrei Apostol, Maarten Stol, Patrick Forré, **Pruning by leveraging training dynamics**, AI Communications, 2021, [doi:10.3233/AIC-210127][Apo21a]. 
 - Maximilian Ilse, Jakub M Tomczak, Patrick Forré, **Selecting Data Augmentation for Simulating Interventions**, ICML 2021, [https://arxiv.org/abs/2005.01856][Ils21b].
 - T. Anderson Keller, Jorn W. T. Peters, Priyank Jaini, Emiel Hoogeboom, Patrick Forré, Max Welling, **Self Normalizing Flows**, ICML 2021, [https://arxiv.org/abs/2011.07248][Kel21a].
 - Jose Gallego-Posada, Patrick Forré, **Simplicial Regularization**, ICLR 2021 Workshop: Geometrical and Topological Representation Learning, [openreview][Gal21a].
