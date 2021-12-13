@@ -1,0 +1,15 @@
+I"á<h4 id="compositional-inference-in-probabilistic-programs">Compositional Inference in Probabilistic Programs</h4>
+
+<p><img src="../../people/JanWillemVanDeMeent.jpeg" alt="JanWillem" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>Speaker: <strong>Jan-Willem van de Meent</strong>, Associate Professor (UHD), AMLab, University of Amsterdam</p>
+
+<p><strong>Abstract:</strong> <br /></p>
+
+<p>Deep probabilistic programming systems combine the principles of deep learning with the principles of probabilistic modeling. The user programmatically specifies a deep generative model (a neural mapping from latent variables to data), along with a corresponding inference model (a neural mapping from data to latent variables), which together can be trained using stochastic gradient descent with little or no supervision.</p>
+
+<p>In this talk, I will discuss recent innovations in training deep probabilistic programs by combining techniques from variational inference and importance sampling. For many years, deep generative models were typically trained by maximizing a reparameterized lower bound, as is done in variational autoencoders. However, this approach can fail to converge to a meaningful representation in more structured problems, such as tasks the involve reasoning about shared features for a small batch of inputs. I will discuss how we can overcome these difficulties, using variational methods that learn proposals for importance samplers, as well as a programming abstractions for high-level specification of such methods in probabilistic programming systems.</p>
+
+<p><a class="radius button small" href="https://drive.google.com/file/d/12QHeLakkguFd9mLA9I2ylcqVeUEyVS2R/view?usp=sharing">Watch Back â€º</a></p>
+
+:ET

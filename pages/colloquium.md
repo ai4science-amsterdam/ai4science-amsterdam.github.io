@@ -23,17 +23,15 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 #### To be announced
 
-Date: 18-01-2021 14:00-1500 Central European Winter time
+Date: 21-12-2021 14:00-1500 Central European Winter time
 
 
-<!--
- <img src="../people/ChrisRackauckas.jpeg"
-     alt="ChrisRackauckas"
+ <img src="../people/AtilimBayden.jpeg"
+     alt="AtilimBayden"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
--->
 
-Speaker: **Andrew Ferguson**
+Speaker: **Atılım Güneş Baydin**
 
 **Abstract:** <br/>
 

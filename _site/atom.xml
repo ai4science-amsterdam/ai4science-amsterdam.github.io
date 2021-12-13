@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://ai4science-amsterdam.github.io//</id>
 	<title>AI4Science Lab</title>
-	<updated>2021-10-12T00:13:52+02:00</updated>
+	<updated>2021-12-13T11:42:56+01:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -25,6 +25,130 @@ We develop and use machine learning techniques to discover patterns in data stre
 
 	<generator uri="http://jekyllrb.com" version="4.2.0">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://ai4science-amsterdam.github.io//colloquium/chris-rackauckas/</id>
+			<title>Chris Rackauckas</title>
+			<link href="https://ai4science-amsterdam.github.io//colloquium/chris-rackauckas/" rel="alternate" type="text/html" title="Chris Rackauckas" />
+			<updated>2021-11-23T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>The Interplay of Science-Guided AI and Differentiable Simulation</summary>
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/chris-rackauckas/">&lt;h4 id=&quot;the-interplay-of-science-guided-ai-and-differentiable-simulation&quot;&gt;The Interplay of Science-Guided AI and Differentiable Simulation&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;../people/ChrisRackauckas.jpeg&quot; alt=&quot;ChrisRackauckas&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Chris Rackauckas&lt;/strong&gt;, Applied Mathematics Instructor at the Massachusetts Institute of Technology&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Science-Guided AI or Scientific machine learning (SciML) methods allow for the automatic discovery of mechanistic models by infusing neural network training into the simulation process. In this talk we will start by showcasing some of the ways that SciML is being used, from discovery of extrapolatory epidemic models to nonlinear mixed effects models in pharmacology. From there, we will discuss some of the increasingly advanced computational techniques behind the training process, focusing on the numerical issues involved in handling differentiation of highly stiff and chaotic systems. The viewers will leave with an understanding of how compiler techniques are being infused into the simulation stack to increasingly automate the process of developing mechanistic models.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/14wWf4SuFOYf3vFLJ814m563LdI01gxTl/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="colloquium" />
+			
+			
+				<category term="colloquium" />
+			
+
+			<published>2021-11-23T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://ai4science-amsterdam.github.io//colloquium/janwillem-vandemeent/</id>
+			<title>Jan-Willem van de Meent</title>
+			<link href="https://ai4science-amsterdam.github.io//colloquium/janwillem-vandemeent/" rel="alternate" type="text/html" title="Jan-Willem van de Meent" />
+			<updated>2021-11-09T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>Compositional Inference in Probabilistic Programs</summary>
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/janwillem-vandemeent/">&lt;h4 id=&quot;compositional-inference-in-probabilistic-programs&quot;&gt;Compositional Inference in Probabilistic Programs&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../people/JanWillemVanDeMeent.jpeg&quot; alt=&quot;JanWillem&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Jan-Willem van de Meent&lt;/strong&gt;, Associate Professor (UHD), AMLab, University of Amsterdam&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Deep probabilistic programming systems combine the principles of deep learning with the principles of probabilistic modeling. The user programmatically specifies a deep generative model (a neural mapping from latent variables to data), along with a corresponding inference model (a neural mapping from data to latent variables), which together can be trained using stochastic gradient descent with little or no supervision.&lt;/p&gt;
+
+&lt;p&gt;In this talk, I will discuss recent innovations in training deep probabilistic programs by combining techniques from variational inference and importance sampling. For many years, deep generative models were typically trained by maximizing a reparameterized lower bound, as is done in variational autoencoders. However, this approach can fail to converge to a meaningful representation in more structured problems, such as tasks the involve reasoning about shared features for a small batch of inputs. I will discuss how we can overcome these difficulties, using variational methods that learn proposals for importance samplers, as well as a programming abstractions for high-level specification of such methods in probabilistic programming systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/12QHeLakkguFd9mLA9I2ylcqVeUEyVS2R/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="colloquium" />
+			
+			
+				<category term="colloquium" />
+			
+
+			<published>2021-11-09T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://ai4science-amsterdam.github.io//colloquium/saer-samanipour/</id>
+			<title>Saer Samanipour</title>
+			<link href="https://ai4science-amsterdam.github.io//colloquium/saer-samanipour/" rel="alternate" type="text/html" title="Saer Samanipour" />
+			<updated>2021-08-31T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>Machine Learning and High Resolution Mass Spectrometry</summary>
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/saer-samanipour/">&lt;p&gt;&lt;img src=&quot;../../people/SaerSamanipour2.jpeg&quot; alt=&quot;SaerSamanipour&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Saer Samanipour&lt;/strong&gt;, Assistant Professor at the University of Amsterdam and honorary research fellow at the UQ, Australia&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;High resolution mass spectrometry is one of the main tools for chemical characterization of complex samples. The samples analyzed with this instrument result into large datasets comprising of up to 8.0e12 variables that could potentially carry crucial structural information about the sample chemistry. At the same time there are different sources of signal redundancy in such datasets. In this talk I will present two case studies where machine learning enables the removal of the data redundancy without any information loss. The first case study will discuss the seamless conversion from the profile mode to centroided and vice versa. In this case, we developed a self adjusting centroiding algorithm to detect and extract the meaningful information in such complex datasets. Additionally, a regression model was developed to convert the extracted information to the raw data. The second case study, is related to the development of a stochastic classification model to detect the isotopic signal in the mass spectra and therefore increase the level of confidence in the generated identifications.&lt;/p&gt;
+
+&lt;!-- 
+&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1IZsF5hh3TPpZmp9DtmgYR6JJNX6vZsoL/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;
+--&gt;
+</content>
+
+			
+				<category term="colloquium" />
+			
+			
+				<category term="colloquium" />
+			
+
+			<published>2021-08-31T00:00:00+02:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://ai4science-amsterdam.github.io//colloquium/pratyush-tiwary/</id>
@@ -307,117 +431,6 @@ Eliu Huerta is a theoretical astrophysicist, mathematician and computer scientis
 			
 
 			<published>2021-02-16T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/mario-geiger/</id>
-			<title>Mario Geiger</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/mario-geiger/" rel="alternate" type="text/html" title="Mario Geiger" />
-			<updated>2021-02-02T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Jim Boelrijk</name>
-					
-					
-					
-				</author>
-			
-			<summary>e3nn: Euclidean symmetry for neural networks</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/mario-geiger/">&lt;p&gt;&lt;img src=&quot;../../people/MarioGeiger.jpg&quot; alt=&quot;mariogeiger&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Mario Geiger&lt;/strong&gt;, PhD Student, EPFL, Lausanne&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
-E(3) is the Euclidean group in dimension 3. That is the group of rotations, translations, and mirror. e3nn is a pytorch library that aims to create E(3) equivariant neural networks. The focus is on point clouds and recent applications have been in the realm of interatomic potential learning, phonon density of states, and to relevant benchmarks.&lt;/p&gt;
-
-&lt;p&gt;Note: this meeting was not recorded.&lt;/p&gt;
-</content>
-
-			
-				<category term="colloquium" />
-			
-			
-				<category term="colloquium" />
-			
-
-			<published>2021-02-02T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/dim-coumou/</id>
-			<title>Dim Coumou</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/dim-coumou/" rel="alternate" type="text/html" title="Dim Coumou" />
-			<updated>2021-01-19T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Jim Boelrijk</name>
-					
-					
-					
-				</author>
-			
-			<summary>Machine Learning in climate science: Finding causal connections and improving seasonal forecasts</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/dim-coumou/">&lt;p&gt;&lt;img src=&quot;../../people/DimCoumou.jpg&quot; alt=&quot;dimcoumou&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Dim Coumou&lt;/strong&gt;, Associate Professor, Potsdam Institute for Climate Impact Research, Vrije Universiteit Amsterdam&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
-Summer, with most biological and agricultural production, is probably the season when future changes in extremes will have the most-severe impacts on humanity. Summer extremes are particularly devastating when they persist for several days: Many consecutive hot-and-dry days causing harvest failure, or stagnating wet extremes causing flooding. Often such situations are related to quasi-stationary waves in the Jetstream. Despite this importance, we are far from a comprehensive understanding of the physical mechanisms involved in creating such quasi-stationary waves, nor how they will change with future warming. Using machine learning techniques based on causal inference we can understand and quantify the drivers and causal pathways that influence jet dynamics. I will present several examples of how causal inference techniques can disentangle cause from effect to provide insights into the dynamics of the large-scale atmospheric circulation and teleconnections. Understanding the physical pathways in atmosphere by quantifying causal links can help improving forecasts on seasonal to sub-seasonal timescales including prolonged extremes like heat waves and droughts. Some of these data-driven forecasts using machine learning outperform operational forecasts based on dynamical models. Ultimately we aim for developing hybrid forecast methods to improve early warning of extreme weather events.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1SlsWmTr8DDIEU-r34xQJQ1ACOsvtiN5E/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-</content>
-
-			
-				<category term="colloquium" />
-			
-			
-				<category term="colloquium" />
-			
-
-			<published>2021-01-19T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/lucie-smith/</id>
-			<title>Luisa Lucie-Smith</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/lucie-smith/" rel="alternate" type="text/html" title="Luisa Lucie-Smith" />
-			<updated>2020-11-24T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Jim Boelrijk</name>
-					
-					
-					
-				</author>
-			
-			<summary>Machine Learning  the formation of dark matter halos in the Universe</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/lucie-smith/">&lt;p&gt;&lt;img src=&quot;../../people/LucieSmith.jpg&quot; alt=&quot;luciesmith&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Luisa Lucie-Smith&lt;/strong&gt;, Research Fellow, Max-Planck-Institue for Astrophysics, Munich&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
-Dark matter halos are the fundamental building blocks of cosmic large-scale structure. Improving our theoretical understanding of their evolution and formation is an essential step towards understanding how galaxies form. I will present a deep learning model, based on 3D convolutional neural networks (CNNs), trained to learn the mapping between the initial conditions and the final dark matter halos of an N-body simulation. The CNN is able to extract directly from the initial density field the features that are relevant to halo formation. Our goal is to utilize machine learning for knowledge extraction: we aim to gain new physical understanding of halo formation by extracting information from the deep learning model regarding the underlying physics of halo collapse. To do this, we first compare the performance of the deep learning algorithm to that of machine learning models whose predictions depend only on physically-motivated features extracted from the initial conditions. I will then present ongoing work on interpreting the features learnt by the deep learning model in relation to physical properties of the initial conditions.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1618HmRE-rloBvIiWJuH4hSa7PEHtR6Oj/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-</content>
-
-			
-				<category term="colloquium" />
-			
-			
-				<category term="colloquium" />
-			
-
-			<published>2020-11-24T00:00:00+01:00</published>
 		</entry>
 	
 </feed>
