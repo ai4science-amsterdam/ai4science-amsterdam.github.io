@@ -21,7 +21,7 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
-#### To be announced
+#### Probabilistic Programming in Scientific Simulators
 
 Date: 21-12-2021 14:00-1500 Central European Winter time
 
@@ -35,7 +35,7 @@ Speaker: **Atılım Güneş Baydin**
 
 **Abstract:** <br/>
 
-To be announced. 
+Probabilistic programming languages (PPLs) allow us to specify complex generative models as computer code and perform Bayesian inference in these models automatically. However, applications of these languages in the science domain remain limited because of the impracticability of rewriting complex scientific simulators in a PPL, the computational cost of inference, and the lack of scalable implementations. To address these, we present a novel probabilistic programming framework that couples directly to existing scientific simulators through a cross-platform probabilistic execution protocol and provides Markov chain Monte Carlo (MCMC) and deep-learning-based inference compilation (IC) engines for tractable inference. The talk will cover the technical details of how a PPL system can be coupled to any given simulator so that these two sides can be (1) implemented in different programming languages and (2) executed in separate processes and possibly on separate machines across a network connection. We show examples of the approach in particle physics, epidemiology, and simulation of composite materials. We show how the simulator can be replaced with a fast deep-learning-based surrogate making use of the probabilistic execution protocol and retaining the original address structure of the simulator. We also talk about technical challenges of repurposing simulators as probabilistic programs, such as dealing with very large numbers of latent variables and nested stochastic subprocedures.
 
 ## Schedule
 
