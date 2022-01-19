@@ -69,9 +69,8 @@ Data-driven modeling and deep learning present powerful tools that are opening u
 
 Andrew Ferguson is an Associate Professor and Deputy Dean for Equity, Diversity, and Inclusion at the Pritzker School of Molecular Engineering at the University of Chicago. He received an M.Eng. in Chemical Engineering from Imperial College London in 2005, and a Ph.D. in Chemical and Biological Engineering from Princeton University in 2010. From 2010 to 2012 he was a Postdoctoral Fellow of the Ragon Institute of MGH, MIT, and Harvard in the Department of Chemical Engineering at MIT. He commenced his independent career as an Assistant Professor of Materials Science and Engineering at the University of Illinois at Urbana-Champaign in August 2012 and was promoted to Associate Professor of Materials Science and Engineering and Chemical and Biomolecular Engineering in January 2018. He joined the Pritzker School of Molecular Engineering in July 2018. His research uses theory, simulation, and machine learning to understand and design self-assembling materials, macromolecular folding, and antiviral therapies. He is the recipient of a 2020 Dreyfus Foundation Award for Machine Learning in the Chemical Sciences and Engineering, 2018/19 Junior Moulton Medal of the Institution of Chemical Engineers, 2017 UIUC College of Engineering Dean's Award for Excellence in Research, 2016 AIChE CoMSEF Young Investigator Award for Modeling & Simulation, 2015 ACS OpenEye Outstanding Junior Faculty Award, 2014 NSF CAREER Award, 2014 ACS PRF Doctoral New Investigator, and was named the Institution of Chemical Engineers North America 2013 Young Chemical Engineer of the Year. He is the co-founder of the protein engineering company Evozyne, Inc. ([www.evozyne.com][8]).
 
-<!---
-<a class="radius button small" href="https://drive.google.com/file/d/14wWf4SuFOYf3vFLJ814m563LdI01gxTl/view?usp=sharing">Watch Back ›</a>
---->
+<a class="radius button small" href="https://drive.google.com/file/d/1KJt-T8hqy77dDNPrxViiCPbusLHW0Vp5/view?usp=sharing">Watch Back ›</a>
+
 For an overview of more  previous colloquia, please have a look at out [blog][2].
 
 [1]: https://bereau.group/
