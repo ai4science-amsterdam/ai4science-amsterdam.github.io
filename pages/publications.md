@@ -21,6 +21,7 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 
 ## Publications
 {: #publications }
+- David Ruhe, Patrick Forré, **Self-Supervised Inference in State-Space Models**, [https://arxiv.org/abs/2107.13349][Ruh21c], accepted to ICLR 2022.
 - David Ruhe, Mark Kuiack, Antonia Rowlinson, Ralph Wijers, Patrick Forré, **Detecting dispersed radio transients in real time using convolutional neural networks**, Astronomy and Computing, vol. 38, 2022, [https://doi.org/10.1016/j.ascom.2021.100512][Ruh22a], [https://arxiv.org/abs/2103.15418
 ][Ruh21a], [code][Ruh21b].
 - Jim Boelrijk, Bob Pirok, Bernd Ensing, Patrick Forré, **Bayesian optimization of comprehensive two-dimensional liquid chromatography separations**, J. Chromatogr. A 2021, [https://doi.org/10.1016/j.chroma.2021.462628][Boe21a]
@@ -44,7 +45,6 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 - Christoph J. Hönes, Benjamin Kurt Miller, Ana M. Heras, Bernard H. Foing, **Automatically detecting anomalous exoplanet transits**, [https://arxiv.org/abs/2111.08679][Hon21], 2021.
 - Alex Cole, Benjamin Kurt Miller, Samuel J. Witte, Maxwell X. Cai, Meiert W. Grootes, Francesco Nattino, Christoph Weniger, **Fast and Credible Likelihood-Free Cosmology with Truncated Marginal Neural Ratio Estimation**, [https://arxiv.org/abs/2111.08030][Col21], 2021
 - Patrick Forré, **Quasi-Measurable Spaces**, [https://arxiv.org/abs/2109.11631][For21b], 2021.
-- David Ruhe, Patrick Forré, **Self-Supervised Inference in State-Space Models**, [https://arxiv.org/abs/2107.13349][Ruh21c], 2021.
 - Maurice Weiler, Patrick Forré, Erik Verlinde, Max Welling, **Coordinate Independent Convolutional Networks - Isometry and Gauge Equivariant Convolutions on Riemannian Manifolds**, [https://arxiv.org/abs/2106.06020][Wei21a], 2021.
 - Patrick Forré, **Transitional Conditional Independence**, [https://arxiv.org/abs/2104.11547][For21a], 2021.
 - Maximilian Ilse, Patrick Forré, Max Welling, Joris M. Mooij, **Efficient Causal Inference from Combined Observational and Interventional Data through Causal Reductions**, [https://arxiv.org/abs/2103.04786][Ils21a], 2021.
