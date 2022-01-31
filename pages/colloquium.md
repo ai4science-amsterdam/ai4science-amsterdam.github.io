@@ -36,7 +36,7 @@ Speaker: **Anna Scaife**, Professor of Radio Astronomy at the University of Manc
 **Abstract:** <br/>
 
 To be announced.
-<!--
+<!---
 #### Simulation-Based Inference for Neuroscience and Beyond
 
 Date: 1-02-2022 14:00-1500 Central European Winter time
