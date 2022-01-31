@@ -21,6 +21,22 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
+#### Title: To be announced
+
+Date: 15-02-2022 14:00-1500 Central European Winter time
+
+
+ <img src="../people/AnnaScaife.jpeg"
+     alt="AnnaScaife"
+     width="100"
+     style="float: right; margin-right: 10px; border-radius:50%;" />
+
+Speaker: **Anna Scaife**, Professor of Radio Astronomy at the University of Manchester and Head of the Jodrell Bank Centre for Astrophysics Interferometry Centre of Excellence
+
+**Abstract:** <br/>
+
+To be announced.
+<!--
 #### Simulation-Based Inference for Neuroscience and Beyond
 
 Date: 1-02-2022 14:00-1500 Central European Winter time
@@ -37,10 +53,12 @@ Speaker: **Jan-Matthis Lückmann**, University of Tübingen
 
 To be announced.
 
+--->
+
 ## Schedule
 
 - 18 January 2022 - **Andrew Ferguson**
-- 1 February 2022 - **Jan-Matthis Lückmann**
+- 1 February 2022 - **Jan-Matthis Lückmann (Postponed)** 
 - 15 February 2022 - **Anna Scaife**
 - 15 March 2022 - **Rajesh Ranganath**
 - 29 March 2022 - **Katie Bouman**
