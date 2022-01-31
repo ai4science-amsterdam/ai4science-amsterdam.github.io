@@ -21,7 +21,7 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
-#### Ultra-fast molecular simulators and data-driven protein design
+#### Simulation-Based Inference for Neuroscience and Beyond
 
 Date: 1-02-2022 14:00-1500 Central European Winter time
 
