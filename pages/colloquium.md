@@ -21,6 +21,39 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
+#### Simulation-Based Inference for Neuroscience and Beyond
+
+Date: 07-02-2022 14:00-1500 Central European Winter time
+
+
+ <img src="../people/JanMatthisLuckmann.jpeg"
+     alt="JanMatthisLuckmann"
+     width="100"
+     style="float: right; margin-right: 10px; border-radius:50%;" />
+
+Speaker: **Jan-Matthis Lückmann** , University of Tübingen
+
+**Abstract:** <br/>
+
+Science and industry make extensive use of simulations to model the world. However,
+conventional statistical inference is often inapplicable to detailed simulation models because their
+associated likelihood functions are intractable. In this talk, I discuss how simulation-based
+inference (SBI) addresses this problem, with an emphasis on applications to biophysical models
+of neural dynamics. I highlight SBI’s potential to close the gap between data-driven and theory-
+driven models in neuroscience. Furthermore, I present our recently-introduced, first-ever
+benchmark of SBI that compares algorithms in a transparent and reproducible way, explaining
+different approaches, metrics for principled comparisons, key findings, and open challenges.
+
+**Bio:**  <br/>
+Jan-Matthis Lückmann is currently finishing his PhD in Computer Science at the University of 
+Tübingen, advised by Prof. Jakob Macke. Jan-Matthis' research interests are at the intersection of 
+machine learning and computational neuroscience. His expertise lies in simulation-based 
+inference and its applications to mechanistic models. Jan-Matthis' work includes the proposal of 
+fast and flexible inference algorithms based on neural density estimation and their applications to 
+biophysical models in neuroscience. Most recently, he introduced the first-ever benchmark for the 
+rapidly developing field of simulation-based inference.
+
+<!---
 #### Title: To be announced
 
 Date: 15-02-2022 14:00-1500 Central European Winter time
@@ -37,10 +70,11 @@ Speaker: **Anna Scaife**, Professor of Radio Astronomy at the University of Manc
 
 To be announced.
 
+-->
 ## Schedule
 
 - 18 January 2022 - **Andrew Ferguson**
-- 1 February 2022 - **Jan-Matthis Lückmann (Postponed)** 
+- 7 February 2022 - **Jan-Matthis Lückmann** 
 - 15 February 2022 - **Anna Scaife**
 - 15 March 2022 - **Rajesh Ranganath**
 - 29 March 2022 - **Katie Bouman**
