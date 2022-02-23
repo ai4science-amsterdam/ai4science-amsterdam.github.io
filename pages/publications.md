@@ -42,8 +42,9 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 
 ## Preprints
 {: #preprints }
+- Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré. **Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu's Theorem**, [https://arxiv.org/abs/2202.09393][Lan22], 2022.
 - Christoph J. Hönes, Benjamin Kurt Miller, Ana M. Heras, Bernard H. Foing, **Automatically detecting anomalous exoplanet transits**, [https://arxiv.org/abs/2111.08679][Hon21], 2021.
-- Alex Cole, Benjamin Kurt Miller, Samuel J. Witte, Maxwell X. Cai, Meiert W. Grootes, Francesco Nattino, Christoph Weniger, **Fast and Credible Likelihood-Free Cosmology with Truncated Marginal Neural Ratio Estimation**, [https://arxiv.org/abs/2111.08030][Col21], 2021
+- Alex Cole, Benjamin Kurt Miller, Samuel J. Witte, Maxwell X. Cai, Meiert W. Grootes, Francesco Nattino, Christoph Weniger, **Fast and Credible Likelihood-Free Cosmology with Truncated Marginal Neural Ratio Estimation**, [https://arxiv.org/abs/2111.08030][Col21], 2021.
 - Patrick Forré, **Quasi-Measurable Spaces**, [https://arxiv.org/abs/2109.11631][For21b], 2021.
 - Maurice Weiler, Patrick Forré, Erik Verlinde, Max Welling, **Coordinate Independent Convolutional Networks - Isometry and Gauge Equivariant Convolutions on Riemannian Manifolds**, [https://arxiv.org/abs/2106.06020][Wei21a], 2021.
 - Patrick Forré, **Transitional Conditional Independence**, [https://arxiv.org/abs/2104.11547][For21a], 2021.
@@ -59,7 +60,7 @@ Back to [Publications](#publications) or [Preprints](#preprints).
 [Bon21a]: https://arxiv.org/abs/1611.06221
 [Bon21b]: https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Foundations-of-structural-causal-models-with-cycles-and-latent-variables/10.1214/21-AOS2064.short 
 [Boe21a]: https://doi.org/10.1016/j.chroma.2021.462628
-[Col21]:https://arxiv.org/abs/2111.08030
+[Col21]: https://arxiv.org/abs/2111.08030
 [Fal20a]: https://arxiv.org/abs/2006.06663
 [Fal20b]: https://slideslive.com/38930928/neural-ordinary-differential-equations-on-manifolds
 [Fed20a]: https://arxiv.org/abs/2002.07017
@@ -69,11 +70,12 @@ Back to [Publications](#publications) or [Preprints](#preprints).
 [Gal21a]: https://openreview.net/pdf?id=x9xn6HKgefz
 [Hel20a]: https://arxiv.org/abs/2008.10880
 [Hog21a]: https://arxiv.org/abs/2102.05379
-[Hon21]:https://arxiv.org/abs/2111.08679
+[Hon21]: https://arxiv.org/abs/2111.08679
 [Hoo21a]: https://pubs.acs.org/doi/abs/10.1021/acs.jctc.0c00981
 [Ils21a]: https://arxiv.org/abs/2103.04786
 [Ils21b]: https://arxiv.org/abs/2005.01856
 [Kel21a]: https://arxiv.org/abs/2011.07248
+[Lan22]: https://arxiv.org/abs/2202.09393
 [Mil20a]: https://arxiv.org/abs/2011.13951
 [Mil21a]: https://arxiv.org/abs/2107.01214
 [Ruh21a]: https://arxiv.org/abs/2103.15418
