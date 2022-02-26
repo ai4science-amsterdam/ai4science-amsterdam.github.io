@@ -42,7 +42,7 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 
 ## Preprints
 {: #preprints }
-- Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré. **Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu's Theorem**, [https://arxiv.org/abs/2202.09393][Lan22], 2022.
+- Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré, **Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu's Theorem**, [https://arxiv.org/abs/2202.09393][Lan22], 2022.
 - Christoph J. Hönes, Benjamin Kurt Miller, Ana M. Heras, Bernard H. Foing, **Automatically detecting anomalous exoplanet transits**, [https://arxiv.org/abs/2111.08679][Hon21], 2021.
 - Alex Cole, Benjamin Kurt Miller, Samuel J. Witte, Maxwell X. Cai, Meiert W. Grootes, Francesco Nattino, Christoph Weniger, **Fast and Credible Likelihood-Free Cosmology with Truncated Marginal Neural Ratio Estimation**, [https://arxiv.org/abs/2111.08030][Col21], 2021.
 - Patrick Forré, **Quasi-Measurable Spaces**, [https://arxiv.org/abs/2109.11631][For21b], 2021.
