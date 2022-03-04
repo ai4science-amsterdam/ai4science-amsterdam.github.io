@@ -21,27 +21,20 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
-#### Machine Learning of Combinatorial Rules in Mechanical Metamaterials
+#### Title: To be announced
+Date: 15-03-2022 14:00-1500 Central European Winter time
 
-Date: 01-03-2022 14:00-1500 Central European Winter time
 
-
- <img src="../people/MartinVanHecke.jpeg"
-     alt="MartinVanHecke"
+ <img src="../people/RajeshRanganath.jpeg"
+     alt="RajashRanganath"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
-Speaker: **Martin van Hecke**, Leiden University
+Speaker: **Rajesh Ranganath**, NYU
 
 **Abstract:** <br/>
 
-Combinatorial problems arising in puzzles, origami, and (meta)material design have rare sets of
-solutions, which define complex and sharply delineated boundaries in configuration space. These
-boundaries are difficult to capture with conventional statistical and numerical methods. Here we
-show that convolutional neural networks can learn to recognize these boundaries, down to finest de-
-tail, despite using heavily undersampled training sets, and can successfully generalize. This suggests
-that the network infers the underlying combinatorial rules from the sparse training set, opening up
-new possibilities for complex design of (meta)materials.
+To be announced
 
 
 <!---
@@ -67,6 +60,7 @@ To be announced.
 - 18 January 2022 - **Andrew Ferguson**
 - 7 February 2022 - **Jan-Matthis Lückmann** 
 - 15 February 2022 - **Anna Scaife**
+- 1 March 2022 - **Martin van Hecke**
 - 15 March 2022 - **Rajesh Ranganath**
 - 29 March 2022 - **Anna Scaife**
 - 12 April 2022 - **Gabriel Vivó-Truyols**
@@ -76,41 +70,30 @@ To be announced.
 
 ## Previous Colloquium
 
-#### Simulation-Based Inference for Neuroscience and Beyond
+#### Machine Learning of Combinatorial Rules in Mechanical Metamaterials
 
-Date: 07-02-2022 14:00-1500 Central European Winter time
+Date: 01-03-2022 14:00-1500 Central European Winter time
 
 
- <img src="../people/JanMatthisLuckmann.jpeg"
-     alt="JanMatthisLuckmann"
+ <img src="../people/MartinVanHecke.jpeg"
+     alt="MartinVanHecke"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
-Speaker: **Jan-Matthis Lückmann** , University of Tübingen
+Speaker: **Martin van Hecke**, Leiden University
 
 **Abstract:** <br/>
 
-Science and industry make extensive use of simulations to model the world. However,
-conventional statistical inference is often inapplicable to detailed simulation models because their
-associated likelihood functions are intractable. In this talk, I discuss how simulation-based
-inference (SBI) addresses this problem, with an emphasis on applications to biophysical models
-of neural dynamics. I highlight SBI’s potential to close the gap between data-driven and theory-
-driven models in neuroscience. Furthermore, I present our recently-introduced, first-ever
-benchmark of SBI that compares algorithms in a transparent and reproducible way, explaining
-different approaches, metrics for principled comparisons, key findings, and open challenges.
+Combinatorial problems arising in puzzles, origami, and (meta)material design have rare sets of
+solutions, which define complex and sharply delineated boundaries in configuration space. These
+boundaries are difficult to capture with conventional statistical and numerical methods. Here we
+show that convolutional neural networks can learn to recognize these boundaries, down to finest de-
+tail, despite using heavily undersampled training sets, and can successfully generalize. This suggests
+that the network infers the underlying combinatorial rules from the sparse training set, opening up
+new possibilities for complex design of (meta)materials.
 
-**Bio:**  <br/>
-Jan-Matthis Lückmann is currently finishing his PhD in Computer Science at the University of 
-Tübingen, advised by Prof. Jakob Macke. Jan-Matthis' research interests are at the intersection of 
-machine learning and computational neuroscience. His expertise lies in simulation-based 
-inference and its applications to mechanistic models. Jan-Matthis' work includes the proposal of 
-fast and flexible inference algorithms based on neural density estimation and their applications to 
-biophysical models in neuroscience. Most recently, he introduced the first-ever benchmark for the 
-rapidly developing field of simulation-based inference.
+<a class="radius button small" href="https://drive.google.com/file/d/1PryMUuxAw09Flpfa9J0Z7m4cQexa3Q5G/view?usp=sharing">Watch Back ›</a>
 
-<!--
-<a class="radius button small" href="https://drive.google.com/file/d/1KJt-T8hqy77dDNPrxViiCPbusLHW0Vp5/view?usp=sharing">Watch Back ›</a>
--->
 For an overview of more  previous colloquia, please have a look at out [blog][2].
 
 [1]: https://bereau.group/
