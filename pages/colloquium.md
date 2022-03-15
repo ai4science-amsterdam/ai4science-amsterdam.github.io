@@ -25,7 +25,7 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 Date: 15-03-2022 16:00-1700 Central European Winter time
 
 
- <img src="../people/RajeshRanganath.jpeg"
+ <img src="../people/Interpretability and Out of Distribution Generalization in Deep Predictive Models.jpeg"
      alt="RajashRanganath"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
@@ -84,7 +84,6 @@ To be announced.
 
 - 18 January 2022 - **Andrew Ferguson**
 - 7 February 2022 - **Jan-Matthis Lückmann** 
-- 15 February 2022 - **Anna Scaife**
 - 1 March 2022 - **Martin van Hecke**
 - 15 March 2022 - **Rajesh Ranganath**
 - 29 March 2022 - **Anna Scaife**
