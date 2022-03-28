@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Jan-Matthis Lückmann"
-subheadline: "1 February 2022"
+subheadline: "7 February 2022"
 teaser: "Simulation-Based Inference for Neuroscience and Beyond"
 categories:
     - colloquium
@@ -46,6 +46,7 @@ fast and flexible inference algorithms based on neural density estimation and th
 biophysical models in neuroscience. Most recently, he introduced the first-ever benchmark for the
 rapidly developing field of simulation-based inference.
 
+This meeting was not recorded.
 
 [1]: https://bereau.group/
 [2]: /blog/
