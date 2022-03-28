@@ -25,7 +25,7 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 Date: 15-03-2022 16:00-1700 Central European Winter time
 
 
- <img src="../people/Interpretability and Out of Distribution Generalization in Deep Predictive Models.jpeg"
+ <img src="../people/RajeshRanganath.jpeg"
      alt="RajashRanganath"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
