@@ -37,7 +37,6 @@ Speaker: **Anna Scaife**, Professor of Radio Astronomy at the University of Manc
 
 To be announced.
 
--->
 ## Schedule
 
 - 18 January 2022 - **Andrew Ferguson**
