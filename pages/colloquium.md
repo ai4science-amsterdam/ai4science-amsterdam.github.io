@@ -21,7 +21,7 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
-#### Catalogue curation, likelihood misspecification & dataset shift: challenges for Bayesian deep-learning in radio astronomy
+#### Catalogue curation, likelihood misspecification and dataset shift: challenges for Bayesian deep-learning in radio astronomy
 
 Date: 29-03-2022 14:00-1500 Central European Summer time
 
