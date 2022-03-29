@@ -37,7 +37,7 @@ Speaker: **Anna Scaife**, Professor of Radio Astronomy at the University of Manc
 
 Understanding the selection biases introduced by AI models in scientific analysis and extracting well-calibrated uncertainties on machine learning outputs are two key challenges facing the systematic use of such algorithms in radio astronomy. I this talk I will discuss our recent work on uncertainty calibration for radio galaxy classification including how the use of group-equivariant convolutions can correct effects of bias in model outputs, as well as how data curation in astronomy catalogues can cause likelihood misspecification in Bayesian deep-learning. I will go on to talk about how the effect of data curation can also affect the use of semi-supervised learning that leverages large unlabelled datasets - highly relevant for radio astronomy applications where the volume of labelled catalogue data is small, but the quantity of archival survey data is large.
 
-**Bio:** <br/>
+**Bio:**<br/>
 Anna is currently Professor of Radio Astronomy at Jodrell Bank Centre for Astrophysics and academic Co-Director of Policy@Manchester at the University of Manchester. Previously she has worked at the University of Southampton (UK), the Dublin Institute for Advanced Studies (Ireland) and the University of Cambridge (UK). She has a PhD from the University of Cambridge and an undergraduate degree from the University of Bristol. [https://www.turing.ac.uk/people/researchers/anna-scaife][10]
 
 ## Schedule
