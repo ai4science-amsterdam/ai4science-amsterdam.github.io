@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://ai4science-amsterdam.github.io//</id>
 	<title>AI4Science Lab</title>
-	<updated>2021-12-13T11:42:56+01:00</updated>
+	<updated>2022-03-31T09:43:25+02:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -27,6 +27,312 @@ We develop and use machine learning techniques to discover patterns in data stre
 
 	
 		<entry>
+			<id>https://ai4science-amsterdam.github.io//colloquium/anna-scaife/</id>
+			<title>Anna Scaife</title>
+			<link href="https://ai4science-amsterdam.github.io//colloquium/anna-scaife/" rel="alternate" type="text/html" title="Anna Scaife" />
+			<updated>2022-03-29T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>Catalogue curation, likelihood misspecification and dataset shift: challenges for Bayesian deep-learning in radio astronomy</summary>
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/anna-scaife/">&lt;h4 id=&quot;catalogue-curation-likelihood-misspecification-and-dataset-shift-challenges-for-bayesian-deep-learning-in-radio-astronomy&quot;&gt;Catalogue curation, likelihood misspecification and dataset shift: challenges for Bayesian deep-learning in radio astronomy&lt;/h4&gt;
+
+&lt;p&gt;Date: 29-03-2022 14:00-1500 Central European Summer time&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../people/AnnaScaife.jpeg&quot; alt=&quot;AnnaScaife&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Anna Scaife&lt;/strong&gt;, Professor of Radio Astronomy at the University of Manchester and Head of the Jodrell Bank Centre for Astrophysics Interferometry Centre of Excellence&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Understanding the selection biases introduced by AI models in scientific analysis and extracting well-calibrated uncertainties on machine learning outputs are two key challenges facing the systematic use of such algorithms in radio astronomy. I this talk I will discuss our recent work on uncertainty calibration for radio galaxy classification including how the use of group-equivariant convolutions can correct effects of bias in model outputs, as well as how data curation in astronomy catalogues can cause likelihood misspecification in Bayesian deep-learning. I will go on to talk about how the effect of data curation can also affect the use of semi-supervised learning that leverages large unlabelled datasets - highly relevant for radio astronomy applications where the volume of labelled catalogue data is small, but the quantity of archival survey data is large.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt;&lt;br /&gt;
+Anna is currently Professor of Radio Astronomy at Jodrell Bank Centre for Astrophysics and academic Co-Director of Policy@Manchester at the University of Manchester. Previously she has worked at the University of Southampton (UK), the Dublin Institute for Advanced Studies (Ireland) and the University of Cambridge (UK). She has a PhD from the University of Cambridge and an undergraduate degree from the University of Bristol.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/11usK-95DvkjC7WG7IyzdQnh2hTd2KmuG/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="colloquium" />
+			
+			
+				<category term="colloquium" />
+			
+
+			<published>2022-03-29T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://ai4science-amsterdam.github.io//colloquium/rajesh-ranganath/</id>
+			<title>Rajesh Ranganath</title>
+			<link href="https://ai4science-amsterdam.github.io//colloquium/rajesh-ranganath/" rel="alternate" type="text/html" title="Rajesh Ranganath" />
+			<updated>2022-03-15T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>Interpretability and Out of Distribution Generalization in Deep Predictive Models</summary>
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/rajesh-ranganath/">&lt;h4 id=&quot;interpretability-and-out-of-distribution-generalization-in-deep-predictive-models&quot;&gt;Interpretability and Out of Distribution Generalization in Deep Predictive Models&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../people/RajeshRanganath.jpeg&quot; alt=&quot;MartinVanHecke&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Rajesh Ranganath&lt;/strong&gt;, NYU&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Interpretability enriches what can be gleaned from a good predictive
+model. Techniques that learn-to-explain have arisen because they
+require only a single evaluation of a model to provide an
+interpretation. In the first part of this talk, I will discuss a flaw
+with several methods that learn-to-explain: the optimal explainer
+makes the prediction rather than highlighting the inputs that are
+useful for prediction. I will also describe an evaluation technique
+that can detect when the explainer makes the prediction along with a
+new method that learns-to-explain without this issue.
+In the second part of my talk, I will discuss our work on
+representation learning for out of distribution generalization. I will
+construct a family of representations that generalize when under
+changing  nuisance-induced spurious correlations and have applications
+to images and chest X-rays. I will show how nuisance variables can be
+constructed using limited prior knowledge and augmentations of the input.&lt;/p&gt;
+
+&lt;p&gt;Bio:
+Rajesh Ranganath is an assistant professor at NYU’s Courant Institute
+of Mathematical Sciences and the Center for Data Science. He is also
+affiliate faculty at the Department of Population Health at NYUMC. His
+research focuses on approximate inference, causal inference,
+probabilistic models,  and machine learning for healthcare. Rajesh
+completed his PhD at Princeton and BS and MS from Stanford University.
+Rajesh has won several awards including the NDSEG graduate fellowship,
+the Porter Ogden Jacobus Fellowship, given to the top four doctoral
+students at Princeton University, and the Savage Award in Theory and
+Methods.&lt;/p&gt;
+
+&lt;p&gt;This meeting was not recorded.
+&lt;!---
+&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1PryMUuxAw09Flpfa9J0Z7m4cQexa3Q5G/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;
+--&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="colloquium" />
+			
+			
+				<category term="colloquium" />
+			
+
+			<published>2022-03-15T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://ai4science-amsterdam.github.io//colloquium/martin-van-hecke/</id>
+			<title>Martin van Hecke</title>
+			<link href="https://ai4science-amsterdam.github.io//colloquium/martin-van-hecke/" rel="alternate" type="text/html" title="Martin van Hecke" />
+			<updated>2022-03-01T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>Machine Learning of Combinatiorial Rules in Mechanical Metamaterials</summary>
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/martin-van-hecke/">&lt;h4 id=&quot;machine-learning-of-combinatorial-rules-in-mechanical-metamaterials&quot;&gt;Machine Learning of Combinatorial Rules in Mechanical Metamaterials&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../people/MartinVanHecke.jpeg&quot; alt=&quot;MartinVanHecke&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Martin van Hecke&lt;/strong&gt;, Leiden University&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Combinatorial problems arising in puzzles, origami, and (meta)material design have rare sets of
+solutions, which define complex and sharply delineated boundaries in configuration space. These
+boundaries are difficult to capture with conventional statistical and numerical methods. Here we
+show that convolutional neural networks can learn to recognize these boundaries, down to finest de-
+tail, despite using heavily undersampled training sets, and can successfully generalize. This suggests
+that the network infers the underlying combinatorial rules from the sparse training set, opening up
+new possibilities for complex design of (meta)materials.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1PryMUuxAw09Flpfa9J0Z7m4cQexa3Q5G/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="colloquium" />
+			
+			
+				<category term="colloquium" />
+			
+
+			<published>2022-03-01T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://ai4science-amsterdam.github.io//colloquium/jan-matthis-luckmann/</id>
+			<title>Jan-Matthis Lückmann</title>
+			<link href="https://ai4science-amsterdam.github.io//colloquium/jan-matthis-luckmann/" rel="alternate" type="text/html" title="Jan-Matthis Lückmann" />
+			<updated>2022-02-07T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>Simulation-Based Inference for Neuroscience and Beyond</summary>
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/jan-matthis-luckmann/">&lt;h4 id=&quot;simulation-based-inference-for-neuroscience-and-beyond&quot;&gt;Simulation-Based Inference for Neuroscience and Beyond&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../people/JanMatthisLuckmann.jpeg&quot; alt=&quot;JanMatthisLuckmann&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Jan-Matthis Lückmann&lt;/strong&gt; , University of Tübingen&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Science and industry make extensive use of simulations to model the world. However,
+conventional statistical inference is often inapplicable to detailed simulation models because their
+associated likelihood functions are intractable. In this talk, I discuss how simulation-based
+inference (SBI) addresses this problem, with an emphasis on applications to biophysical models
+of neural dynamics. I highlight SBI’s potential to close the gap between data-driven and theory-
+driven models in neuroscience. Furthermore, I present our recently-introduced, first-ever
+benchmark of SBI that compares algorithms in a transparent and reproducible way, explaining
+different approaches, metrics for principled comparisons, key findings, and open challenges.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt;  &lt;br /&gt;
+Jan-Matthis Lückmann is currently finishing his PhD in Computer Science at the University of
+Tübingen, advised by Prof. Jakob Macke. Jan-Matthis’ research interests are at the intersection of
+machine learning and computational neuroscience. His expertise lies in simulation-based
+inference and its applications to mechanistic models. Jan-Matthis’ work includes the proposal of
+fast and flexible inference algorithms based on neural density estimation and their applications to
+biophysical models in neuroscience. Most recently, he introduced the first-ever benchmark for the
+rapidly developing field of simulation-based inference.&lt;/p&gt;
+
+&lt;p&gt;This meeting was not recorded.&lt;/p&gt;
+
+</content>
+
+			
+				<category term="colloquium" />
+			
+			
+				<category term="colloquium" />
+			
+
+			<published>2022-02-07T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://ai4science-amsterdam.github.io//colloquium/andrew-ferguson/</id>
+			<title>Andrew Ferguson</title>
+			<link href="https://ai4science-amsterdam.github.io//colloquium/andrew-ferguson/" rel="alternate" type="text/html" title="Andrew Ferguson" />
+			<updated>2022-01-18T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>Ultra-fast molecular simulators and data-driven protein design</summary>
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/andrew-ferguson/">&lt;h4 id=&quot;ultra-fast-molecular-simulators-and-data-driven-protein-design&quot;&gt;Ultra-fast molecular simulators and data-driven protein design&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../people/AndrewFerguson.jpeg&quot; alt=&quot;AndrewFerguson&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Andrew Ferguson&lt;/strong&gt;, Pritzker School of Molecular Engineering, University of Chicago&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Data-driven modeling and deep learning present powerful tools that are opening up new paradigms and opportunities in the understanding, discovery, and design of soft and biological materials. In this talk, I will first describe an approach based on latent space simulators to learn ultra-fast surrogate models of protein folding by stacking three specialized deep learning networks to (i) encode a molecular system into a slow latent space, (ii) propagate dynamics in this latent space, and (iii) generatively decode a synthetic molecular trajectory. I will then describe our recent applications of deep representational learning to expose the sequence-function relationship within homologous protein families and to use these principles for the data-driven design and experimental testing of synthetic proteins with new and/or elevated function.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Andrew Ferguson is an Associate Professor and Deputy Dean for Equity, Diversity, and Inclusion at the Pritzker School of Molecular Engineering at the University of Chicago. He received an M.Eng. in Chemical Engineering from Imperial College London in 2005, and a Ph.D. in Chemical and Biological Engineering from Princeton University in 2010. From 2010 to 2012 he was a Postdoctoral Fellow of the Ragon Institute of MGH, MIT, and Harvard in the Department of Chemical Engineering at MIT. He commenced his independent career as an Assistant Professor of Materials Science and Engineering at the University of Illinois at Urbana-Champaign in August 2012 and was promoted to Associate Professor of Materials Science and Engineering and Chemical and Biomolecular Engineering in January 2018. He joined the Pritzker School of Molecular Engineering in July 2018. His research uses theory, simulation, and machine learning to understand and design self-assembling materials, macromolecular folding, and antiviral therapies. He is the recipient of a 2020 Dreyfus Foundation Award for Machine Learning in the Chemical Sciences and Engineering, 2018/19 Junior Moulton Medal of the Institution of Chemical Engineers, 2017 UIUC College of Engineering Dean’s Award for Excellence in Research, 2016 AIChE CoMSEF Young Investigator Award for Modeling &amp;amp; Simulation, 2015 ACS OpenEye Outstanding Junior Faculty Award, 2014 NSF CAREER Award, 2014 ACS PRF Doctoral New Investigator, and was named the Institution of Chemical Engineers North America 2013 Young Chemical Engineer of the Year. He is the co-founder of the protein engineering company Evozyne, Inc. (&lt;a href=&quot;www.evozyne.com&quot;&gt;www.evozyne.com&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1KJt-T8hqy77dDNPrxViiCPbusLHW0Vp5/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="colloquium" />
+			
+			
+				<category term="colloquium" />
+			
+
+			<published>2022-01-18T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://ai4science-amsterdam.github.io//colloquium/atilim-gunes-baydin/</id>
+			<title>Atılım Güneş Baydin</title>
+			<link href="https://ai4science-amsterdam.github.io//colloquium/atilim-gunes-baydin/" rel="alternate" type="text/html" title="Atılım Güneş Baydin" />
+			<updated>2021-12-21T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>Probabilistic Programming in Scientific Simulators</summary>
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/atilim-gunes-baydin/">&lt;h4 id=&quot;probabilistic-programming-in-scientific-simulators&quot;&gt;Probabilistic Programming in Scientific Simulators&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../people/AtilimBayden.jpeg&quot; alt=&quot;AtilimBayden&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Atılım Güneş Baydin&lt;/strong&gt;, University of Oxford&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Probabilistic programming languages (PPLs) allow us to specify complex generative models as computer code and perform Bayesian inference in these models automatically. However, applications of these languages in the science domain remain limited because of the impracticability of rewriting complex scientific simulators in a PPL, the computational cost of inference, and the lack of scalable implementations. To address these, we present a novel probabilistic programming framework that couples directly to existing scientific simulators through a cross-platform probabilistic execution protocol and provides Markov chain Monte Carlo (MCMC) and deep-learning-based inference compilation (IC) engines for tractable inference. The talk will cover the technical details of how a PPL system can be coupled to any given simulator so that these two sides can be (1) implemented in different programming languages and (2) executed in separate processes and possibly on separate machines across a network connection. We show examples of the approach in particle physics, epidemiology, and simulation of composite materials. We show how the simulator can be replaced with a fast deep-learning-based surrogate making use of the probabilistic execution protocol and retaining the original address structure of the simulator. We also talk about technical challenges of repurposing simulators as probabilistic programs, such as dealing with very large numbers of latent variables and nested stochastic subprocedures.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1gc3Ca9qycyHnlHciE-ZTGoCsolhGsvuW/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="colloquium" />
+			
+			
+				<category term="colloquium" />
+			
+
+			<published>2021-12-21T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
 			<id>https://ai4science-amsterdam.github.io//colloquium/chris-rackauckas/</id>
 			<title>Chris Rackauckas</title>
 			<link href="https://ai4science-amsterdam.github.io//colloquium/chris-rackauckas/" rel="alternate" type="text/html" title="Chris Rackauckas" />
@@ -45,7 +351,7 @@ We develop and use machine learning techniques to discover patterns in data stre
 			<summary>The Interplay of Science-Guided AI and Differentiable Simulation</summary>
 			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/chris-rackauckas/">&lt;h4 id=&quot;the-interplay-of-science-guided-ai-and-differentiable-simulation&quot;&gt;The Interplay of Science-Guided AI and Differentiable Simulation&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;../people/ChrisRackauckas.jpeg&quot; alt=&quot;ChrisRackauckas&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../people/ChrisRackauckas.jpeg&quot; alt=&quot;ChrisRackauckas&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Speaker: &lt;strong&gt;Chris Rackauckas&lt;/strong&gt;, Applied Mathematics Instructor at the Massachusetts Institute of Technology&lt;/p&gt;
 
@@ -193,244 +499,6 @@ The ability to rapidly learn from high-dimensional data to make reliable predict
 			
 
 			<published>2021-06-22T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/alexander-tkatchenko/</id>
-			<title>Alexander Tkatchenko</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/alexander-tkatchenko/" rel="alternate" type="text/html" title="Alexander Tkatchenko" />
-			<updated>2021-05-25T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Jim Boelrijk</name>
-					
-					
-					
-				</author>
-			
-			<summary>On Electrons and Machine Learning Force Fields</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/alexander-tkatchenko/">&lt;p&gt;&lt;img src=&quot;../../people/AlexandreTkatchenko.jpeg&quot; alt=&quot;AlexandreTkatchenko&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Alexander Tkatchenko&lt;/strong&gt;, Professor of Physics, University of Luxembourg&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
-Machine Learning Force Fields (MLFF) should be accurate, efficient, and applicable to molecules, materials, and interfaces thereof. The first step toward ensuring broad applicability and reliability of MLFFs requires a robust conceptual understanding of how to map interacting electrons to interacting “atoms”. Here I discuss two aspects: (1) how electronic interactions are mapped to atoms with a critique of the “electronic nearsightedness” principle, and (2) our developments of symmetry-adapted gradient-domain machine learning (sGDML) framework for MLFFs generally applicable for modeling of molecules, materials, and their interfaces. I highlight the key importance of bridging fundamental physical priors and conservation laws with the flexibility of non-linear ML regressors to achieve the challenging goal of constructing chemically-accurate force fields for a broad set of systems. Applications of sGDML will be presented for small and large (bio/DNA) molecules, pristine and realistic solids, and interfaces between molecules and 2D materials.&lt;/p&gt;
-
-&lt;p&gt;For more information, see references: Sci. Adv. 3, e1603015 (2017); Nat. Commun. 9, 3887 (2018); Comp. Phys. Comm. 240, 38 (2019); J. Chem. Phys. 150, 114102 (2019); Sci. Adv. 5, eaax0024 (2019).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt; &lt;br /&gt;
-Alexandre Tkatchenko is a professor at the Department of Physics and Materials Science (and head of this department since January 2020) at the University of Luxembourg, where he holds a chair in Theoretical Chemical Physics. Tkatchenko also holds a distinguished visiting professor position at the Berlin Big Data Centre (BBDC) of the Technical University of Berlin. His group develops accurate and efficient first-principles computational models to study a wide range of complex materials, aiming at qualitative understanding and quantitative prediction of their structural, cohesive, electronic, and optical properties at the atomic scale and beyond. He has delivered more than 250 invited talks, seminars and colloquia worldwide, published 180 articles in prestigious journals (h-index of 67 with more than 22,000 citations; Top 1% ISI highly cited researcher in 2018-2020), and serves on the editorial boards of Science Advances and Physical Review Letters. Tkatchenko has received a number of awards, including APS Fellow from the American Physical Society, Gerhard Ertl Young Investigator Award of the German Physical Society, Dirac Medal from the World Association of Theoretical and Computational Chemists (WATOC), van der Waals prize of ICNI-2021, and three flagship grants from the European Research Council: a Starting Grant in 2011, a Consolidator Grant in 2017, and Proof-of-Concept Grant in 2020.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1nOuQ4naUpI4C0ee85xJQ_WAe_qk1MDhk/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-
-</content>
-
-			
-				<category term="colloquium" />
-			
-			
-				<category term="colloquium" />
-			
-
-			<published>2021-05-25T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/chandler-squires/</id>
-			<title>Chandler Squires</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/chandler-squires/" rel="alternate" type="text/html" title="Chandler Squires" />
-			<updated>2021-05-11T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Jim Boelrijk</name>
-					
-					
-					
-				</author>
-			
-			<summary>Predicting Gene Expression across Cell Types and Drugs</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/chandler-squires/">&lt;p&gt;&lt;img src=&quot;../../people/ChandlerSquires.png&quot; alt=&quot;ChandlerSquires&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Chandler Squires&lt;/strong&gt;, PhD Student, MIT&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
-One of the fundamental objectives in both science and machine learning is to predict the outcomes of actions in order to improve decision-making. As our primary application, we will consider predicting the effect of a drug on gene expression, where the effect may depend heavily on cell type.
- Ideally, we would separately measure the effect of each drug on every cell type, but this is infeasible due to the massive number of drugs and cell types. Instead, we take the approach of extrapolating these effects from a small number of measured outcomes. In this talk, I will present a simple structural model under which this extrapolation is justified, i.e., the effect of a drug in a new cell type can be identified from existing data. Motivated by this model, I will introduce a computationally efficient method for predicting the effect of a drug on gene expression. I will show that the proposed model and method are particularly effective on the prominent Connectivity Map dataset, which measures the effects of over 20,000 small molecules across 70 cell types. Finally, I will end with a discussion of broader scientific applications of the proposed method.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1dUVzLi43NNVgyPEF4JnK07laliUQKaiL/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-
-</content>
-
-			
-				<category term="colloquium" />
-			
-			
-				<category term="colloquium" />
-			
-
-			<published>2021-05-11T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/ferry-hooft/</id>
-			<title>Ferry Hooft</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/ferry-hooft/" rel="alternate" type="text/html" title="Ferry Hooft" />
-			<updated>2021-04-13T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Jim Boelrijk</name>
-					
-					
-					
-				</author>
-			
-			<summary>Discovering Collective Variables of Molecular Transitions via Genetic Algorithms and Neural Networks</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/ferry-hooft/">&lt;p&gt;&lt;img src=&quot;../../people/FerryHooft.jpg&quot; alt=&quot;ferryhooft&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Ferry Hooft&lt;/strong&gt;, PhD Student at Van ’t Hoff Institute for Molecular Sciences, AI4Science Laboratory, and Amsterdam Center for Multiscale Modeling, University of Amsterdam&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
-With the continual improvement of computing hardware and algorithms, simulations have become a powerful tool for understanding all sorts of (bio)molecular processes. To handle the large simulation data sets and to accelerate slow, activated transitions, a condensed set of descriptors, or collective variables (CVs), is needed to discern the relevant dynamics that describes the molecular process of interest. However, proposing an adequate set of CVs that can capture the intrinsic reaction coordinate of the molecular transition is often extremely difficult. Here, we present a framework to find an optimal set of CVs from a pool of candidates using a combination of artificial neural networks and genetic algorithms. The approach effectively replaces the encoder of an autoencoder network with genes to represent the latent space, i.e., the CVs.
-For more information, see this &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acs.jctc.0c00981&quot;&gt;article&lt;/a&gt; or &lt;a href=&quot;https://github.com/Ensing-Laboratory/FABULOUS&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1FhdN_bykXTxtkxdf17MRdF_Xz-cMmhe1/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-
-</content>
-
-			
-				<category term="colloquium" />
-			
-			
-				<category term="colloquium" />
-			
-
-			<published>2021-04-13T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/benjamin-miller/</id>
-			<title>Benjamin Miller</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/benjamin-miller/" rel="alternate" type="text/html" title="Benjamin Miller" />
-			<updated>2021-03-30T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Jim Boelrijk</name>
-					
-					
-					
-				</author>
-			
-			<summary>Constrained marginal likelihood-to-evidence ratio estimation</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/benjamin-miller/">&lt;p&gt;&lt;img src=&quot;../../people/BenjaminMiller.jpg&quot; alt=&quot;benjaminmiller&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Benjamin Miller&lt;/strong&gt;, PhD Student at AMLab and GRAPPA in the AI4Science initiative&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
-Empirical scientific research bounds inferred values of physical constants using posteriors marginalized over nuisance parameters. In a likelihood-based approach, the marginal posterior is usually sampled by marginalizing over samples from the joint posterior. This method suffers from the curse of dimensionality and the necessity of a tractable likelihood function. We introduce a set of algorithms which approximate any marginal posterior of interest directly and efficiently. The basis is neural likelihood-free (simulation-based) inference using likelihood-to-evidence ratio estimation. We increase simulator efficiency by constraining the prior using an indicator function. In this way, we learn an amortized estimate of the target posterior. In addition, we propose a method for principled reuse of simulated data based on an inhomogeneous Poisson point process. These algorithms were designed with the practical needs of computational physics in mind. Specifically targeting the regime of slow simulators and narrow target posteriors.
-The talk itself will focus on the details of &lt;a href=&quot;https://arxiv.org/abs/2011.13951&quot;&gt;this paper&lt;/a&gt; which introduced these methods. You can find an implementation of the method on &lt;a href=&quot;https://github.com/undark-lab/swyft&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1UCiUV0Efi3mfZJTCe9y2yJVnzZZ4SsUP/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-
-</content>
-
-			
-				<category term="colloquium" />
-			
-			
-				<category term="colloquium" />
-			
-
-			<published>2021-03-30T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/jakub-tomczak/</id>
-			<title>Jakub Tomczak</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/jakub-tomczak/" rel="alternate" type="text/html" title="Jakub Tomczak" />
-			<updated>2021-03-02T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Jim Boelrijk</name>
-					
-					
-					
-				</author>
-			
-			<summary>All that glitters is not Deep Learning in Life Sciences (but sometimes it is!)</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/jakub-tomczak/">&lt;p&gt;&lt;img src=&quot;../../people/JakubTomczak.jpg&quot; alt=&quot;jakubtomczak&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Jakub Tomczak&lt;/strong&gt;, Assistant Professor inside Computational Intelligence Group at Vrije Universiteit Amsterdam, former AMLAB member&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
-Life sciences is a fascinating field that tries to answer fundamental questions about ourselves, other species, and interactions within and among various environments. (Bio)chemistry and physics are typical tools to study and comprehend our world. However, due to the high complexity of biological systems, standard tools are not enough to understand and model all underlying relationships. Computational methods could serve as a possible remedy to that. In this talk, I will show how we can use computational intelligence, Bayesian inference, and deep learning to deal with some problems in life sciences. Specifically, we will discuss how to identify parameters in dynamical models of biological networks, how to find values of kinetic parameters in enzyme kinetics (including COVID-19), and how to count cells automatically&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1o2WGiCQJCEe8LLyClpteeSuE8VHZ95pj/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-</content>
-
-			
-				<category term="colloquium" />
-			
-			
-				<category term="colloquium" />
-			
-
-			<published>2021-03-02T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/eliu-huerta-escudero/</id>
-			<title>Eliu Huerta Escudero</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/eliu-huerta-escudero/" rel="alternate" type="text/html" title="Eliu Huerta Escudero" />
-			<updated>2021-02-16T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Jim Boelrijk</name>
-					
-					
-					
-				</author>
-			
-			<summary>Towards Accelerated, Reproducible, Physics-informed AI-driven Discovery</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/eliu-huerta-escudero/">&lt;p&gt;&lt;img src=&quot;../../people/EliuHuertaEscudero.jpg&quot; alt=&quot;eliuhuertaescudero&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Eliu Huerta Escudero&lt;/strong&gt;, National Center for Supercomputing Applications (NCSA), University of Illinois at Urbana-Champaign&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
-In this talk I will describe disruptive advances I have pioneered at the interface of domain-inspired AI and extreme scale computing. I will present exemplars on how to scale disruptive advances in AI, distributed computing, and scientific data infrastructure to open new pathways to conduct reproducible, accelerated, data-driven discovery.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt; &lt;br /&gt;
-Eliu Huerta is a theoretical astrophysicist, mathematician and computer scientist with broad research interests. He has done pioneering work at the interface of domain-inspired AI and extreme scale computing for Multi-Messenger Astrophysics, Cosmology, Observational Astronomy, and extreme scale simulations that describe multi-scale and multi-physics processes. He is the founding director of the Center for Artificial Intelligence Innovation at the University of Illinois at Urbana-Champaign, and the Head of the Gravity Group at the National Center for Supercomputing Applications. He leads several NSF- and DOE-funded interdisciplinary and multi-institutional projects that focus on disruptive AI applications and advanced computing for big-data physics experiments.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/18EJ3UaWuDVWWKCb4gLg2VCgRcj57Mz0T/view&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-
-</content>
-
-			
-				<category term="colloquium" />
-			
-			
-				<category term="colloquium" />
-			
-
-			<published>2021-02-16T00:00:00+01:00</published>
 		</entry>
 	
 </feed>

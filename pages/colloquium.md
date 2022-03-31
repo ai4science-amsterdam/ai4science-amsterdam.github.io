@@ -21,6 +21,37 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
+#### Title: To be confirmed.
+
+Date: 12-04-2022 11:00-1200 Central European Summer time
+
+
+ <img src="../people/GabrielVivoTruyols.jpeg"
+     alt="GabrielVivoTruyols"
+     width="100"
+     style="float: right; margin-right: 10px; border-radius:50%;" />
+
+Speaker: **Gabriel Vivó-Truyols**, Principal Scientist, Tecnometrix
+
+**Abstract:** <br/>
+
+To be confirmed.
+
+
+## Schedule
+
+- 18 January 2022 - **Andrew Ferguson**
+- 7 February 2022 - **Jan-Matthis Lückmann** 
+- 1 March 2022 - **Martin van Hecke**
+- 15 March 2022 - **Rajesh Ranganath**
+- 29 March 2022 - **Anna Scaife**
+- 12 April 2022 - **Gabriel Vivó-Truyols**
+- 26 April 2022 - **Maximilian Dax**
+- 24 May 2022 - **Francesca Grisoni**
+
+
+## Previous Colloquium
+
 #### Catalogue curation, likelihood misspecification and dataset shift: challenges for Bayesian deep-learning in radio astronomy
 
 Date: 29-03-2022 14:00-1500 Central European Summer time
@@ -40,66 +71,7 @@ Understanding the selection biases introduced by AI models in scientific analysi
 **Bio:**<br/>
 Anna is currently Professor of Radio Astronomy at Jodrell Bank Centre for Astrophysics and academic Co-Director of Policy@Manchester at the University of Manchester. Previously she has worked at the University of Southampton (UK), the Dublin Institute for Advanced Studies (Ireland) and the University of Cambridge (UK). She has a PhD from the University of Cambridge and an undergraduate degree from the University of Bristol.
 
-## Schedule
-
-- 18 January 2022 - **Andrew Ferguson**
-- 7 February 2022 - **Jan-Matthis Lückmann** 
-- 1 March 2022 - **Martin van Hecke**
-- 15 March 2022 - **Rajesh Ranganath**
-- 29 March 2022 - **Anna Scaife**
-- 12 April 2022 - **Gabriel Vivó-Truyols**
-- 26 April 2022 - **Maximilian Dax**
-- 24 May 2022 - **Francesca Grisoni**
-
-
-## Previous Colloquium
-
-#### Title: Interpretability and Out of Distribution Generalization in Deep Predictive Models
-Date: 15-03-2022 16:00-1700 Central European Winter time
-
-
- <img src="../people/RajeshRanganath.jpeg"
-     alt="RajashRanganath"
-     width="100"
-     style="float: right; margin-right: 10px; border-radius:50%;" />
-
-Speaker: **Rajesh Ranganath**, NYU
-
-**Abstract:** <br/>
-
-Interpretability enriches what can be gleaned from a good predictive
-model. Techniques that learn-to-explain have arisen because they
-require only a single evaluation of a model to provide an
-interpretation. In the first part of this talk, I will discuss a flaw
-with several methods that learn-to-explain: the optimal explainer
-makes the prediction rather than highlighting the inputs that are
-useful for prediction. I will also describe an evaluation technique
-that can detect when the explainer makes the prediction along with a
-new method that learns-to-explain without this issue.
-In the second part of my talk, I will discuss our work on
-representation learning for out of distribution generalization. I will
-construct a family of representations that generalize when under
-changing  nuisance-induced spurious correlations and have applications
-to images and chest X-rays. I will show how nuisance variables can be
-constructed using limited prior knowledge and augmentations of the input.
-
-Bio:
-Rajesh Ranganath is an assistant professor at NYU's Courant Institute
-of Mathematical Sciences and the Center for Data Science. He is also
-affiliate faculty at the Department of Population Health at NYUMC. His
-research focuses on approximate inference, causal inference,
-probabilistic models,  and machine learning for healthcare. Rajesh
-completed his PhD at Princeton and BS and MS from Stanford University.
-Rajesh has won several awards including the NDSEG graduate fellowship,
-the Porter Ogden Jacobus Fellowship, given to the top four doctoral
-students at Princeton University, and the Savage Award in Theory and
-Methods.
-
-This meeting was not recorded.
-
-<!---
-<a class="radius button small" href="https://drive.google.com/file/d/1PryMUuxAw09Flpfa9J0Z7m4cQexa3Q5G/view?usp=sharing">Watch Back ›</a>
--->
+<a class="radius button small" href="https://drive.google.com/file/d/11usK-95DvkjC7WG7IyzdQnh2hTd2KmuG/view?usp=sharing">Watch Back ›</a>
 
 For an overview of more  previous colloquia, please have a look at out [blog][2].
 
