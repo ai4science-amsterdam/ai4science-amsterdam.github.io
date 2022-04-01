@@ -21,7 +21,7 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
-#### Title: To be confirmed.
+#### Title: On the use of Bayesian statistics for chromatography and mass spectrometry: dealing with big data
 
 Date: 12-04-2022 11:00-1200 Central European Summer time
 
