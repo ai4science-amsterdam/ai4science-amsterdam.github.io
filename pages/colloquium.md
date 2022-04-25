@@ -21,7 +21,7 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
-#### Title: To be confirmed.
+#### Real-Time Gravitational Wave Science with Neural Posterior Estimation
 
 Date: 26-04-2022 14:00-1500 Central European Summer time
 
@@ -35,8 +35,11 @@ Speaker: **Maximilian Dax**, PhD Student at the Max Planck Institute for Intelli
 
 **Abstract:** <br/>
 
-To be confirmed.
+Inferring astrophyscial parameters from gravitational wave (GW) measurements is a central task in GW analysis. Standard inference methods, based e.g. on Markov chain Monte Carlo (MCMC), require days of computation for the analysis of a single GW event. In this talk I present our new approach DINGO that reduces this inference time to 20 seconds per event by using conditional normalizing flows. I then explain how physical symmetries can be used to enhance the accuracy of the inference networks. Finally, I demonstrate on real GW event data that our likelihood-free approach produces indistinguishable results from MCMC while being 1000 times faster.
 
+1. Dax et al. Real-Time Gravitational Wave Science with Neural Posterior Estimation. Phys.Rev.Lett. 127, 241103 (2021)
+
+2. Dax et al. Group equivariant neural posterior estimation. ICLR 2022
 
 ## Schedule
 
