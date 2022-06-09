@@ -21,21 +21,21 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
-#### Harnessing artificial intelligence for de novo drug design
+#### Title: To be announced.
 
-Date: 24-05-2022 14:00-1500 Central European Summer time
+Date: 21-06-2022 14:00-1500 Central European Summer time
 
 
- <img src="../people/FrancescaGrisoni.jpeg"
-     alt="FrancescaGrisoni"
+ <img src="../people/PeterGrunwald.jpeg"
+     alt="PeterGrunwald.jpeg"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
-Speaker: **Francesca Grisoni**, Eindhoven University of Technology
+Speaker: **Peter Grünwald**, MIT
 
 **Abstract:** <br/>
 
-Designing innovative molecules with the desired bioactivity is fundamentally a low-data problem. In fact, while the chemical universe is estimated to  contain 1023 to 10100 small molecules, humans have only discovered 104 drugs. Recent advances in deep learning have allowed for a more efficient use of available information in low-data regimes. Such technological breakthroughs have now permeated the drug discovery domain, leading to some of the first bioactive molecules designed by AI without the need of human-engineered rules. In this talk, I will focus on a particular instance of generative deep learning – the so-called chemical language models – and how they can be leveraged to accelerate de novo drug design.
+To be announced.
 
 
 ## Schedule
@@ -56,28 +56,24 @@ Designing innovative molecules with the desired bioactivity is fundamentally a l
 
 ## Previous Colloquium
 
-#### Real-Time Gravitational Wave Science with Neural Posterior Estimation
+#### Generative Coarse-Graining of Molecular Conformations
 
-Date: 26-04-2022 14:00-1500 Central European Summer time
+Date: 07-06-2022 14:00-1500 Central European Summer time
 
 
- <img src="../people/MaximilianDax.jpeg"
-     alt="MaximilianDax"
+ <img src="../people/WujieWang.jpeg"
+     alt="WujieWang.jpeg"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
-Speaker: **Maximilian Dax**, PhD Student at the Max Planck Institute for Intelligent Systems
+Speaker: **Wujie Wang**, MIT
 
 **Abstract:** <br/>
 
-Inferring astrophyscial parameters from gravitational wave (GW) measurements is a central task in GW analysis. Standard inference methods, based e.g. on Markov chain Monte Carlo (MCMC), require days of computation for the analysis of a single GW event. In this talk I present our new approach DINGO that reduces this inference time to 20 seconds per event by using conditional normalizing flows. I then explain how physical symmetries can be used to enhance the accuracy of the inference networks. Finally, I demonstrate on real GW event data that our likelihood-free approach produces indistinguishable results from MCMC while being 1000 times faster.
-
-1. Dax et al. Real-Time Gravitational Wave Science with Neural Posterior Estimation. Phys.Rev.Lett. 127, 241103 (2021)
-
-2. Dax et al. Group equivariant neural posterior estimation. ICLR 2022
+Coarse-graining (CG) of molecular simulations simplifies the particle representation by grouping selected atoms into pseudo-beads and therefore drastically accelerates simulation. However, such CG procedure induces information losses, which makes accurate backmapping, i.e., restoring finegrained (FG) coordinates from CG coordinates, a long-standing challenge. Inspired by the recent progress in generative models and equivariant networks, we propose a novel model that rigorously embeds the vital probabilistic nature and geometric consistency requirements of the backmapping transformation. Our model encodes the FG uncertainties into an invariant latent space and decodes them back to FG geometries via equivariant convolutions. To standardize the evaluation of this domain, we further provide three comprehensive benchmarks based on molecular dynamics trajectories. Extensive experiments show that our approach always recovers more realistic structures and outperforms existing data-driven methods with a significant margin.
 
 
-<a class="radius button small" href="https://drive.google.com/file/d/1Lf11UG088JvazNsdnrFSE34UlBtQk72N/view?usp=sharing">Watch Back ›</a>
+<a class="radius button small" href="https://drive.google.com/file/d/1nvc1Gr9vJ-NGJkWcPmuRKEwG1o5Wwvbe/view?usp=sharing">Watch Back ›</a>
 
 For an overview of more  previous colloquia, please have a look at out [blog][2].
 
