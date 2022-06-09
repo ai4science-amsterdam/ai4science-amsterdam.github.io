@@ -31,7 +31,7 @@ Date: 21-06-2022 14:00-1500 Central European Summer time
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
-Speaker: **Peter Grünwald**, MIT
+Speaker: **Peter Grünwald**, CWI
 
 **Abstract:** <br/>
 
