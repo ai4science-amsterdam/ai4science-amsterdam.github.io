@@ -1,0 +1,636 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Gabriel Vivo-Truyols</title>
+
+    <link rel="stylesheet" type="text/css" href="https://ai4science-amsterdam.github.io//assets/css/styles_feeling_responsive.css">
+
+  
+
+	<script src="https://ai4science-amsterdam.github.io//assets/js/modernizr.min.js"></script>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+	<script>
+		WebFont.load({
+			google: {
+				families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]
+			}
+		});
+	</script>
+
+	<noscript>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
+	</noscript>
+
+
+	<!-- Search Engine Optimization -->
+	<meta name="description" content="On the use of Bayesian statistics for chromatography and mass spectrometry: dealing with big data">
+	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
+	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
+	
+	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
+	
+	
+	<link rel="canonical" href="https://ai4science-amsterdam.github.io//colloquium/gabriel-vivo-truyols/">
+
+
+	<!-- Facebook Open Graph -->
+	<meta property="og:title" content="Gabriel Vivo-Truyols">
+	<meta property="og:description" content="On the use of Bayesian statistics for chromatography and mass spectrometry: dealing with big data">
+	<meta property="og:url" content="https://ai4science-amsterdam.github.io//colloquium/gabriel-vivo-truyols/">
+	<meta property="og:locale" content="en_EN">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="AI4Science Lab">
+	
+	<meta property="article:author" content="https://www.facebook.com/phlow.media">
+
+
+	
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="phlow">
+	<meta name="twitter:creator" content="phlow">
+	<meta name="twitter:title" content="Gabriel Vivo-Truyols">
+	<meta name="twitter:description" content="On the use of Bayesian statistics for chromatography and mass spectrometry: dealing with big data">
+	
+	
+
+	<link type="text/plain" rel="author" href="https://ai4science-amsterdam.github.io//humans.txt">
+
+	
+
+	
+
+	<link rel="icon" sizes="32x32" href="https://ai4science-amsterdam.github.io/assets/img/favicon-32x32.png">
+
+	<link rel="icon" sizes="192x192" href="https://ai4science-amsterdam.github.io/assets/img/touch-icon-192x192.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-180x180-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-152x152-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-144x144-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-120x120-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-114x114-precomposed.png">
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-76x76-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-72x72-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-precomposed.png">	
+
+	<meta name="msapplication-TileImage" content="https://ai4science-amsterdam.github.io/assets/img/msapplication_tileimage.png">
+
+	<meta name="msapplication-TileColor" content="#fabb00">
+
+
+	
+
+</head>
+<body id="top-of-page" class="post">
+	
+	
+<div id="navigation" class="sticky">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name">
+      <h1 class="show-for-small-only"><a href="https://ai4science-amsterdam.github.io/" class="icon-tree"> AI4Science Lab</a></h1>
+    </li>
+       <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+      <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+
+      <ul class="right">
+        
+
+              
+
+
+
+          
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a  href="https://ai4science-amsterdam.github.io//lab/">Lab</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//people/">People</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//research/">Research</a></li>
+                    
+                  </ul>
+
+              </li>
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="https://ai4science-amsterdam.github.io//consortium/">Consortium</a></li>
+
+            
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="https://ai4science-amsterdam.github.io//colloquium/">Colloquium</a></li>
+
+            
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a  href="https://ai4science-amsterdam.github.io//events.html/">Events</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//events2/">Ellis Workshop</a></li>
+                    
+                  </ul>
+
+              </li>
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="https://ai4science-amsterdam.github.io//publications/">Papers</a></li>
+
+            
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a  href="https://ai4science-amsterdam.github.io//blog/">Blog</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//blog/archive/">Blog Archive</a></li>
+                    
+                  </ul>
+
+              </li>
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="https://ai4science-amsterdam.github.io//search/">Search</a></li>
+
+            
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="https://ai4science-amsterdam.github.io//contact/">Contact</a></li>
+
+            
+            
+          
+        
+        
+      </ul>
+
+      <ul class="left">
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="https://ai4science-amsterdam.github.io//">AI4Science</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+        
+      </ul>
+    </section>
+  </nav>
+</div><!-- /#navigation -->
+
+	
+
+	
+
+<div id="masthead-with-text" style=" ">
+	<div class="row">
+		<div class="small-12 columns">
+			<div class="masthead-title"></div>
+		</div><!-- /.small-12.columns -->
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+
+
+
+
+
+
+
+
+
+	<div class="row t30">
+	<div class="medium-8 columns medium-offset-2 end">
+		<article itemscope itemtype="http://schema.org/Article">
+			<header>
+				
+
+				<div itemprop="name">
+					<p class="subheadline">14 April 2022</p>
+					<h1>Gabriel Vivo-Truyols</h1>
+				</div>
+			</header>
+
+
+			
+			<p class="teaser" itemprop="description">
+				On the use of Bayesian statistics for chromatography and mass spectrometry: dealing with big data
+			</p>
+			
+
+			<div itemprop="articleSection">
+			<h4 id="title-on-the-use-of-bayesian-statistics-for-chromatography-and-mass-spectrometry-dealing-with-big-data">Title: On the use of Bayesian statistics for chromatography and mass spectrometry: dealing with big data</h4>
+
+<p>Date: 12-04-2022 11:00-1200 Central European Summer time</p>
+
+<p><img src="../../people/GabrielVivoTruyols.jpeg" alt="GabrielVivoTruyols" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>Speaker: <strong>Gabriel Vivó-Truyols</strong>, Principal Scientist, Tecnometrix</p>
+
+<p><strong>Abstract:</strong> <br /></p>
+
+<p>Data analysis methods applied to chromatographic data, including base-line correction, peak detection, alignment and peak tracking, calibration and/or classification are a routine part of most modern analytical workflows. With the emergence of hyphenation (especially high-resolution mass spectrometry) and two-dimensional methods (e.g. LCxLC) new challenges for the data analysis are emerging.  We are witnessing a boom of the amount of data to be processed, so we can start to talk about Big Data in Analytical chemistry. Analysing these enormous and complex quantities of data becomes a tremendous challenge, especially because of the need to do it automatically. Traditionally, chromatographic data has been processed using the so-called frequentist approach. With this approach, we get just a final answer about the hypotheses we are testing, but we have no information about its probability of being true.
+Contrary to the frequentist approach, Bayesian statistics offers a very interesting alternative, estimating the probabilities of the processes mentioned above. This way of thinking opens a new world of possibilities, especially in the area of automated massive data treatment. In this way, the chromatographer has no longer to “trust” the results of the data analysis, but (s)he has to decide on the different configurations that explain the data, based on the probabilities of each one.</p>
+
+<p>We have applied this way of thinking to a broad range of situations. One example concerns toxicological screening, in which the probabilities of a list of compounds being present in the sample, analysed with LC-MS. Using a Bayesian approach, it is easy to build up evidence about the presence/absence of a compound by taking into account adduct formation, isotope ratios, retention times and mass values, resulting in more accurate values of probability. Another example is a Bayesian view of the well-known peak tracking methods. In (traditional) peak tracking methods, peaks of the same compound are recognized in different chromatographic conditions. A Bayesian thinking approaches the problem in a probabilistic way, i.e. assigning different possibilities of peaks to the different compounds available.</p>
+
+<p>The use of Bayesian statistics to deal with massive data treatment in chromatography constitutes a shift in the way we think about data analysis. Basically, we are proposing to work with probabilities of hypotheses (and update them as long as more information/data is taken into account), opposed to deliver the final answer to the user.</p>
+
+<p><a class="radius button small" href="https://drive.google.com/file/d/1vbIfaJKXQ4mx1cfch8zX_CuRfuVGhATB/view?usp=sharing">Watch Back ›</a></p>
+
+
+			</div>
+
+			
+						<div id="page-meta" class="t30">
+				<p>
+					<!-- Look the author details up from the site config. -->
+					
+					<!-- Output author details if some exist. -->
+					
+
+				
+				<time class="icon-calendar pr20" datetime="2022-04-12T00:00:00+02:00" itemprop="datePublished"> 2022-04-12</time>
+				
+
+				<span class="icon-archive pr20"> COLLOQUIUM</span>
+				<br />
+				<span class="pr20"><span class="icon-price-tag pr10"> colloquium</span> </span>
+			</p>
+
+			
+			<div id="post-nav" class="row">
+				
+				<div class="small-5 columns"><a class="button small radius prev" href="https://ai4science-amsterdam.github.io//colloquium/anna-scaife/">&laquo; Anna Scaife</a></div><!-- /.small-4.columns -->
+				
+				<div class="small-2 columns text-center"><a class="radius button small" href="https://ai4science-amsterdam.github.io//blog/archive/" title="Blog Archive">Archive</a></div><!-- /.small-4.columns -->
+				
+				<div class="small-5 columns text-right"><a class="button small radius next" href="https://ai4science-amsterdam.github.io//colloquium/maximillian-dax/">Maximilian Dax &raquo;</a></div><!-- /.small-4.columns -->
+				
+			</div>
+			
+			</div><!--  /.page-meta -->
+
+			
+
+			
+		</article>
+	</div><!-- /.medium-8.columns -->
+
+
+	
+
+
+	
+</div><!-- /.row -->
+
+
+	
+	    <div id="up-to-top" class="row">
+      <div class="small-12 columns" style="text-align: right;">
+        <a class="iconfont" href="#top-of-page">&#xf108;</a>
+      </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
+
+    <footer id="footer-content" class="bg-grau">
+      <div id="footer">
+        <div class="row">
+          <div class="medium-6 large-5 columns">
+            <h5 class="shadow-black">About This Site</h5>
+
+            <p class="shadow-black">
+              The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
+We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.
+              <a href="https://ai4science-amsterdam.github.io///lab">More ›</a>
+            </p>
+          </div><!-- /.large-6.columns -->
+
+
+          <div class="small-6 medium-3 large-3 large-offset-1 columns">
+            
+              
+                <h5 class="shadow-black">UvA Websites</h5>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+
+              <ul class="no-bullet shadow-black">
+              
+                
+                  <li >
+                    <a href="https://ai4science-amsterdam.github.io/"  title=""></a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="https://www.uva.nl" target="_blank"  title="UvA website">University of Amsterdam</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/faculty-of-science.html" target="_blank"  title="FNWI website">Faculty of Science</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="https://ivi.uva.nl" target="_blank"  title="Informatic Institute">Informatics Institute (IvI)</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="http://amlab.science.uva.nl/" target="_blank"  title="AMLAB">Amlab</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="https://ai4science-amsterdam.github.io//"  title="Take me home country roads">AI4Science home</a>
+                  </li>
+              
+              </ul>
+          </div><!-- /.large-4.columns -->
+
+
+          <div class="small-6 medium-3 large-3 columns">
+            
+              
+                <h5 class="shadow-black">Contact Us</h5>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+
+            <ul class="no-bullet shadow-black">
+            
+              
+                <li >
+                  <a href="https://ai4science-amsterdam.github.io/"  title=""></a>
+                </li>
+            
+              
+                <li >
+                  <a href="https://ai4science-amsterdam.github.io/"  title="Visit us">Visiting Adress: <br/> Science Park 904 <br/> 1098 XH Amsterdam</a>
+                </li>
+            
+              
+                <li >
+                  <a href="https://ai4science-amsterdam.github.io/"  title="">Postal Address: <br/> University of Amsterdam <br/> AI4Science Lab <br/> P.O. Box 94323 <br/> 1090 GH Amsterdam <br/> The Netherlands</a>
+                </li>
+            
+              
+                <li >
+                  <a href="https://ai4science-amsterdam.github.io/"  title="">Tel: +31 (0)20 525 7519</a>
+                </li>
+            
+              
+                <li >
+                  <a href="https://ai4science-amsterdam.github.io/"  title="">Email: ai4science.info@gmail.com</a>
+                </li>
+            
+            </ul>
+          </div><!-- /.large-3.columns -->
+        </div><!-- /.row -->
+
+      </div><!-- /#footer -->
+
+
+      <div id="subfooter">
+        <nav class="row">
+          <section id="subfooter-left" class="small-12 medium-6 columns credits">
+            <p> © 2020 UvA FNWI AI4Science Lab. All Rights Reserved |Design: <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>. |Header image: <a href="https://www.flickr.com/photos/mikemacmarketing/30212411048">Mike MacKenzie</a>.</p>
+          </section>
+
+          <section id="subfooter-right" class="small-12 medium-6 columns">
+            <ul class="inline-list social-icons">
+            
+              <li><a href="http://github.com/ai4science-amsterdam" target="_blank" class="icon-github" title="Code repository"></a></li>
+            
+              <li><a href="https://twitter.com/ai4science_lab" target="_blank" class="icon-twitter" title="Follow us on Twitter"></a></li>
+            
+            </ul>
+          </section>
+        </nav>
+      </div><!-- /#subfooter -->
+    </footer>
+
+	
+
+	
+
+
+<script src="https://ai4science-amsterdam.github.io//assets/js/javascript.min.js"></script>
+
+
+
+<script>
+    $("#masthead").backstretch("https://ai4science-amsterdam.github.io/images/banner.jpg", {fade: 700});
+    $("#masthead-with-text").backstretch("https://ai4science-amsterdam.github.io/images/banner.jpg", {fade: 700});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+

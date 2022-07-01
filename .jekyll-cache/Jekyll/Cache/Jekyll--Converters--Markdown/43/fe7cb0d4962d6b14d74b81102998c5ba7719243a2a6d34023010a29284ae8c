@@ -1,0 +1,67 @@
+I"�<blockquote>
+  <p>Knowledge Shared = Knowledge<sup>2</sup></p>
+</blockquote>
+
+<p>The AI4Science Colloquium is a bi-weekly colloquium series, held on alternating Tuesdays at 14:00 Central European Time. In this colloquium our very own Teodora Pandeva and Fiona Lippert invite renowned speakers to present and discuss their state-of-the-art AI solutions for scientific discovery. Interested? Subscribe to our Email-list to be notified.</p>
+
+<h2 id="email-list">Email List</h2>
+<p>To stay up to date with our activities and be invited to our biweekly AI4Science colloquium series, you may send a request to be included in our emaillist via <a href="/contact/">an email to us</a> with your name, affiliation and a one-sentence motivation for joining.</p>
+
+<h2 id="next-colloquium">Next Colloquium</h2>
+
+<h4 id="a-unified-theory-of-atom-cloud-representations-for-machine-learning">A unified theory of atom cloud representations for machine learning</h4>
+
+<p>Date: 05-07-2022 14:00-1500 Central European Summer time</p>
+
+<p><img src="../people/MicheleCeriotti.jpeg" alt="MicheleCeriotti.jpeg" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>Speaker: <strong>Michele Ceriotti</strong></p>
+
+<p><strong>Abstract:</strong> <br /></p>
+
+<p>Simulations of matter at the atomic scale are precious to provide a mechanistic understanding of chemical processes, and to design molecules and materials with predictive accuracy. As with many fields of science, machine learning have become an essential part of the modeling toolbox, with many frameworks having become well-established, and many more being developed in new research directions. The most effective frameworks incorporate fundamental physical principles, such as symmetry, locality, and hierarchical decompositions of the interactions between atoms, in the construction of the ML model. I will discuss a general framework that unifies several of the most recent developments in the field, including the representation of structures in terms of systematically-convergent atom-centered correlations of the neighbor density, as well as equivariant message-passing schemes that build automatically descriptors with equivalent information content. I will discuss a few examples of the implications of these fundamental findings, for both chemical machine learning and in general for problems that require a description of three-dimensional objects in terms of point clouds, and present some examples that highlight the limitations of some common approaches and point to strategies to overcome them.</p>
+
+<p><strong>Bio:</strong><br />
+Michele Ceriotti received his Ph.D. in Physics from ETH Zürich. He spent three years in Oxford as a Junior Research Fellow at Merton College. Since 2013 he leads the laboratory for Computational Science and Modeling, in the institute of Materials at EPFL, that focuses on method development for atomistic materials modeling based on statistical mechanics and machine learning.</p>
+
+<h2 id="schedule">Schedule</h2>
+
+<ul>
+  <li>18 January 2022 - <strong>Andrew Ferguson</strong></li>
+  <li>7 February 2022 - <strong>Jan-Matthis Lückmann</strong></li>
+  <li>1 March 2022 - <strong>Martin van Hecke</strong></li>
+  <li>15 March 2022 - <strong>Rajesh Ranganath</strong></li>
+  <li>29 March 2022 - <strong>Anna Scaife</strong></li>
+  <li>12 April 2022 - <strong>Gabriel Vivó-Truyols</strong></li>
+  <li>26 April 2022 - <strong>Maximilian Dax</strong></li>
+  <li>24 May 2022 - <strong>Francesca Grisoni</strong></li>
+  <li>7 June 2022 - <strong>Wujie Wang</strong></li>
+  <li>21 June 2022 - <strong>Peter Grünwald</strong></li>
+  <li>5 July 2022 - <strong>Michele Ceriotti</strong></li>
+  <li>19 July 2022 - <strong>Miguel Bessa</strong></li>
+</ul>
+
+<h2 id="previous-colloquium">Previous Colloquium</h2>
+
+<h2 id="next-colloquium-1">Next Colloquium</h2>
+
+<h4 id="e-is-the-new-p-evidence-and-optional-continuation">E is the New P: Evidence and Optional Continuation</h4>
+
+<p>Date: 21-06-2022 14:00-1500 Central European Summer time</p>
+
+<p><img src="../people/PeterGrunwald.jpeg" alt="PeterGrunwald.jpeg" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>Speaker: <strong>Peter Grünwald</strong>, CWI</p>
+
+<p><strong>Abstract:</strong> <br /></p>
+
+<p>How much evidence do the data give us about one hypothesis versus another? The standard way to measure evidence is still the p-value, despite a myriad of problems surrounding it. We present the E-value, a recently popularized notion of evidence which overcomes some of these issues. While E-values have lain dormant until 2019, their use has recenty exploded - we just had a one-week workshop (‘SAVI’ - safe anytime-valid inference) with attendees from netflix, booking (A/B testing), clinical trial design and meta-analysis.
+In simple cases, the E-value coincides with the Bayes factor, the notion of evidence preferred by Bayesians. But if the null is composite or nonparametric, or an alternative cannot be explicitly formulated, E-values and Bayes factors become distinct. Unlike the Bayes factor, E-values allow for tests with strict ‘ classical’ Type-I error control under optional continuation and combination of data from different sources. They are also the basic building blocks of anytime-valid confidence intervals that remain valid under optional stopping.</p>
+
+<!--
+<a class="radius button small" href="https://drive.google.com/file/d/1nvc1Gr9vJ-NGJkWcPmuRKEwG1o5Wwvbe/view?usp=sharing">Watch Back ›</a>
+-->
+
+<p>For an overview of more  previous colloquia, please have a look at out <a href="/blog/">blog</a>.</p>
+
+:ET

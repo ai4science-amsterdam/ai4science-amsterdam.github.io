@@ -10,6 +10,131 @@ We develop and use machine learning techniques to discover patterns in data stre
 		<atom:link href="https://ai4science-amsterdam.github.io//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Peter Grünwald</title>
+				<link>https://ai4science-amsterdam.github.io//colloquium/peter-grunwald/</link>
+				<pubDate>Tue, 21 Jun 2022 00:00:00 +0200</pubDate>
+				<description>&lt;h4 id=&quot;e-is-the-new-p-evidence-and-optional-continuation&quot;&gt;E is the New P: Evidence and Optional Continuation&lt;/h4&gt;
+
+&lt;p&gt;Date: 21-06-2022 14:00-1500 Central European Summer time&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../people/PeterGrunwald.jpeg&quot; alt=&quot;PeterGrunwald.jpeg&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Peter Grünwald&lt;/strong&gt;, CWI&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;How much evidence do the data give us about one hypothesis versus another? The standard way to measure evidence is still the p-value, despite a myriad of problems surrounding it. We present the E-value, a recently popularized notion of evidence which overcomes some of these issues. While E-values have lain dormant until 2019, their use has recenty exploded - we just had a one-week workshop (‘SAVI’ - safe anytime-valid inference) with attendees from netflix, booking (A/B testing), clinical trial design and meta-analysis.
+In simple cases, the E-value coincides with the Bayes factor, the notion of evidence preferred by Bayesians. But if the null is composite or nonparametric, or an alternative cannot be explicitly formulated, E-values and Bayes factors become distinct. Unlike the Bayes factor, E-values allow for tests with strict ‘ classical’ Type-I error control under optional continuation and combination of data from different sources. They are also the basic building blocks of anytime-valid confidence intervals that remain valid under optional stopping.&lt;/p&gt;
+
+&lt;p&gt;Note: this meeting was performed in person and was not recorded.&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/peter-grunwald/</guid>
+			</item>
+		
+			<item>
+				<title>Wujie Wang</title>
+				<link>https://ai4science-amsterdam.github.io//colloquium/wujie-wang/</link>
+				<pubDate>Tue, 07 Jun 2022 00:00:00 +0200</pubDate>
+				<description>&lt;h4 id=&quot;generative-coarse-graining-of-molecular-conformations&quot;&gt;Generative Coarse-Graining of Molecular Conformations&lt;/h4&gt;
+
+&lt;p&gt;Date: 07-06-2022 14:00-1500 Central European Summer time&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../people/WujieWang.jpeg&quot; alt=&quot;WujieWang&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Wujie Wang&lt;/strong&gt;, MIT&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Coarse-graining (CG) of molecular simulations simplifies the particle representation by grouping selected atoms into pseudo-beads and therefore drastically accelerates simulation. However, such CG procedure induces information losses, which makes accurate backmapping, i.e., restoring finegrained (FG) coordinates from CG coordinates, a long-standing challenge. Inspired by the recent progress in generative models and equivariant networks, we propose a novel model that rigorously embeds the vital probabilistic nature and geometric consistency requirements of the backmapping transformation. Our model encodes the FG uncertainties into an invariant latent space and decodes them back to FG geometries via equivariant convolutions. To standardize the evaluation of this domain, we further provide three comprehensive benchmarks based on molecular dynamics trajectories. Extensive experiments show that our approach always recovers more realistic structures and outperforms existing data-driven methods with a significant margin.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1nvc1Gr9vJ-NGJkWcPmuRKEwG1o5Wwvbe/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/wujie-wang/</guid>
+			</item>
+		
+			<item>
+				<title>Francesca Grisoni</title>
+				<link>https://ai4science-amsterdam.github.io//colloquium/francesca-grisoni/</link>
+				<pubDate>Tue, 24 May 2022 00:00:00 +0200</pubDate>
+				<description>&lt;h4 id=&quot;harnessing-artificial-intelligence-for-de-novo-drug-design&quot;&gt;Harnessing artificial intelligence for de novo drug design&lt;/h4&gt;
+
+&lt;p&gt;Date: 24-05-2022 14:00-1500 Central European Summer time&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../people/FrancescaGrisoni.jpeg&quot; alt=&quot;FrancescaGrisoni&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Francesca Grisoni&lt;/strong&gt;, Eindhoven University of Technology&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Designing innovative molecules with the desired bioactivity is fundamentally a low-data problem. In fact, while the chemical universe is estimated to contain 1023 to 10100 small molecules, humans have only discovered 104 drugs. Recent advances in deep learning have allowed for a more efficient use of available information in low-data regimes. Such technological breakthroughs have now permeated the drug discovery domain, leading to some of the first bioactive molecules designed by AI without the need of human-engineered rules. In this talk, I will focus on a particular instance of generative deep learning – the so-called chemical language models – and how they can be leveraged to accelerate de novo drug design.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1cfMSNVY1tSrMphtbrbV91YLvXj91cure/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/francesca-grisoni/</guid>
+			</item>
+		
+			<item>
+				<title>Maximilian Dax</title>
+				<link>https://ai4science-amsterdam.github.io//colloquium/maximillian-dax/</link>
+				<pubDate>Tue, 26 Apr 2022 00:00:00 +0200</pubDate>
+				<description>&lt;h4 id=&quot;titlereal-time-gravitational-wave-science-with-neural-posterior-estimation&quot;&gt;Title:Real-Time Gravitational Wave Science with Neural Posterior Estimation&lt;/h4&gt;
+
+&lt;p&gt;Date: 26-04-2022 11:00-1200 Central European Summer time&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../people/MaximilianDax.jpeg&quot; alt=&quot;MaximilianDax&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Maximilian Dax&lt;/strong&gt;, PhD Student at the Max Planck Institute for Intelligent Systems&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Inferring astrophyscial parameters from gravitational wave (GW) measurements is a central task in GW analysis. Standard inference methods, based e.g. on Markov chain Monte Carlo (MCMC), require days of computation for the analysis of a single GW event. In this talk I present our new approach DINGO that reduces this inference time to 20 seconds per event by using conditional normalizing flows. I then explain how physical symmetries can be used to enhance the accuracy of the inference networks. Finally, I demonstrate on real GW event data that our likelihood-free approach produces indistinguishable results from MCMC while being 1000 times faster.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dax et al. Real-Time Gravitational Wave Science with Neural Posterior Estimation. Phys.Rev.Lett. 127, 241103 (2021)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dax et al. Group equivariant neural posterior estimation. ICLR 2022&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1Lf11UG088JvazNsdnrFSE34UlBtQk72N/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/maximillian-dax/</guid>
+			</item>
+		
+			<item>
+				<title>Gabriel Vivo-Truyols</title>
+				<link>https://ai4science-amsterdam.github.io//colloquium/gabriel-vivo-truyols/</link>
+				<pubDate>Tue, 12 Apr 2022 00:00:00 +0200</pubDate>
+				<description>&lt;h4 id=&quot;title-on-the-use-of-bayesian-statistics-for-chromatography-and-mass-spectrometry-dealing-with-big-data&quot;&gt;Title: On the use of Bayesian statistics for chromatography and mass spectrometry: dealing with big data&lt;/h4&gt;
+
+&lt;p&gt;Date: 12-04-2022 11:00-1200 Central European Summer time&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../people/GabrielVivoTruyols.jpeg&quot; alt=&quot;GabrielVivoTruyols&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Gabriel Vivó-Truyols&lt;/strong&gt;, Principal Scientist, Tecnometrix&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Data analysis methods applied to chromatographic data, including base-line correction, peak detection, alignment and peak tracking, calibration and/or classification are a routine part of most modern analytical workflows. With the emergence of hyphenation (especially high-resolution mass spectrometry) and two-dimensional methods (e.g. LCxLC) new challenges for the data analysis are emerging.  We are witnessing a boom of the amount of data to be processed, so we can start to talk about Big Data in Analytical chemistry. Analysing these enormous and complex quantities of data becomes a tremendous challenge, especially because of the need to do it automatically. Traditionally, chromatographic data has been processed using the so-called frequentist approach. With this approach, we get just a final answer about the hypotheses we are testing, but we have no information about its probability of being true.
+Contrary to the frequentist approach, Bayesian statistics offers a very interesting alternative, estimating the probabilities of the processes mentioned above. This way of thinking opens a new world of possibilities, especially in the area of automated massive data treatment. In this way, the chromatographer has no longer to “trust” the results of the data analysis, but (s)he has to decide on the different configurations that explain the data, based on the probabilities of each one.&lt;/p&gt;
+
+&lt;p&gt;We have applied this way of thinking to a broad range of situations. One example concerns toxicological screening, in which the probabilities of a list of compounds being present in the sample, analysed with LC-MS. Using a Bayesian approach, it is easy to build up evidence about the presence/absence of a compound by taking into account adduct formation, isotope ratios, retention times and mass values, resulting in more accurate values of probability. Another example is a Bayesian view of the well-known peak tracking methods. In (traditional) peak tracking methods, peaks of the same compound are recognized in different chromatographic conditions. A Bayesian thinking approaches the problem in a probabilistic way, i.e. assigning different possibilities of peaks to the different compounds available.&lt;/p&gt;
+
+&lt;p&gt;The use of Bayesian statistics to deal with massive data treatment in chromatography constitutes a shift in the way we think about data analysis. Basically, we are proposing to work with probabilities of hypotheses (and update them as long as more information/data is taken into account), opposed to deliver the final answer to the user.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1vbIfaJKXQ4mx1cfch8zX_CuRfuVGhATB/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/gabriel-vivo-truyols/</guid>
+			</item>
+		
+			<item>
 				<title>Anna Scaife</title>
 				<link>https://ai4science-amsterdam.github.io//colloquium/anna-scaife/</link>
 				<pubDate>Tue, 29 Mar 2022 00:00:00 +0200</pubDate>
@@ -167,111 +292,6 @@ rapidly developing field of simulation-based inference.&lt;/p&gt;
 
 </description>
 				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/andrew-ferguson/</guid>
-			</item>
-		
-			<item>
-				<title>Atılım Güneş Baydin</title>
-				<link>https://ai4science-amsterdam.github.io//colloquium/atilim-gunes-baydin/</link>
-				<pubDate>Tue, 21 Dec 2021 00:00:00 +0100</pubDate>
-				<description>&lt;h4 id=&quot;probabilistic-programming-in-scientific-simulators&quot;&gt;Probabilistic Programming in Scientific Simulators&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../people/AtilimBayden.jpeg&quot; alt=&quot;AtilimBayden&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Atılım Güneş Baydin&lt;/strong&gt;, University of Oxford&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Probabilistic programming languages (PPLs) allow us to specify complex generative models as computer code and perform Bayesian inference in these models automatically. However, applications of these languages in the science domain remain limited because of the impracticability of rewriting complex scientific simulators in a PPL, the computational cost of inference, and the lack of scalable implementations. To address these, we present a novel probabilistic programming framework that couples directly to existing scientific simulators through a cross-platform probabilistic execution protocol and provides Markov chain Monte Carlo (MCMC) and deep-learning-based inference compilation (IC) engines for tractable inference. The talk will cover the technical details of how a PPL system can be coupled to any given simulator so that these two sides can be (1) implemented in different programming languages and (2) executed in separate processes and possibly on separate machines across a network connection. We show examples of the approach in particle physics, epidemiology, and simulation of composite materials. We show how the simulator can be replaced with a fast deep-learning-based surrogate making use of the probabilistic execution protocol and retaining the original address structure of the simulator. We also talk about technical challenges of repurposing simulators as probabilistic programs, such as dealing with very large numbers of latent variables and nested stochastic subprocedures.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1gc3Ca9qycyHnlHciE-ZTGoCsolhGsvuW/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/atilim-gunes-baydin/</guid>
-			</item>
-		
-			<item>
-				<title>Chris Rackauckas</title>
-				<link>https://ai4science-amsterdam.github.io//colloquium/chris-rackauckas/</link>
-				<pubDate>Tue, 23 Nov 2021 00:00:00 +0100</pubDate>
-				<description>&lt;h4 id=&quot;the-interplay-of-science-guided-ai-and-differentiable-simulation&quot;&gt;The Interplay of Science-Guided AI and Differentiable Simulation&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../people/ChrisRackauckas.jpeg&quot; alt=&quot;ChrisRackauckas&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Chris Rackauckas&lt;/strong&gt;, Applied Mathematics Instructor at the Massachusetts Institute of Technology&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Science-Guided AI or Scientific machine learning (SciML) methods allow for the automatic discovery of mechanistic models by infusing neural network training into the simulation process. In this talk we will start by showcasing some of the ways that SciML is being used, from discovery of extrapolatory epidemic models to nonlinear mixed effects models in pharmacology. From there, we will discuss some of the increasingly advanced computational techniques behind the training process, focusing on the numerical issues involved in handling differentiation of highly stiff and chaotic systems. The viewers will leave with an understanding of how compiler techniques are being infused into the simulation stack to increasingly automate the process of developing mechanistic models.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/14wWf4SuFOYf3vFLJ814m563LdI01gxTl/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/chris-rackauckas/</guid>
-			</item>
-		
-			<item>
-				<title>Jan-Willem van de Meent</title>
-				<link>https://ai4science-amsterdam.github.io//colloquium/janwillem-vandemeent/</link>
-				<pubDate>Tue, 09 Nov 2021 00:00:00 +0100</pubDate>
-				<description>&lt;h4 id=&quot;compositional-inference-in-probabilistic-programs&quot;&gt;Compositional Inference in Probabilistic Programs&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../people/JanWillemVanDeMeent.jpeg&quot; alt=&quot;JanWillem&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Jan-Willem van de Meent&lt;/strong&gt;, Associate Professor (UHD), AMLab, University of Amsterdam&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Deep probabilistic programming systems combine the principles of deep learning with the principles of probabilistic modeling. The user programmatically specifies a deep generative model (a neural mapping from latent variables to data), along with a corresponding inference model (a neural mapping from data to latent variables), which together can be trained using stochastic gradient descent with little or no supervision.&lt;/p&gt;
-
-&lt;p&gt;In this talk, I will discuss recent innovations in training deep probabilistic programs by combining techniques from variational inference and importance sampling. For many years, deep generative models were typically trained by maximizing a reparameterized lower bound, as is done in variational autoencoders. However, this approach can fail to converge to a meaningful representation in more structured problems, such as tasks the involve reasoning about shared features for a small batch of inputs. I will discuss how we can overcome these difficulties, using variational methods that learn proposals for importance samplers, as well as a programming abstractions for high-level specification of such methods in probabilistic programming systems.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/12QHeLakkguFd9mLA9I2ylcqVeUEyVS2R/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/janwillem-vandemeent/</guid>
-			</item>
-		
-			<item>
-				<title>Saer Samanipour</title>
-				<link>https://ai4science-amsterdam.github.io//colloquium/saer-samanipour/</link>
-				<pubDate>Tue, 31 Aug 2021 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;img src=&quot;../../people/SaerSamanipour2.jpeg&quot; alt=&quot;SaerSamanipour&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Saer Samanipour&lt;/strong&gt;, Assistant Professor at the University of Amsterdam and honorary research fellow at the UQ, Australia&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;High resolution mass spectrometry is one of the main tools for chemical characterization of complex samples. The samples analyzed with this instrument result into large datasets comprising of up to 8.0e12 variables that could potentially carry crucial structural information about the sample chemistry. At the same time there are different sources of signal redundancy in such datasets. In this talk I will present two case studies where machine learning enables the removal of the data redundancy without any information loss. The first case study will discuss the seamless conversion from the profile mode to centroided and vice versa. In this case, we developed a self adjusting centroiding algorithm to detect and extract the meaningful information in such complex datasets. Additionally, a regression model was developed to convert the extracted information to the raw data. The second case study, is related to the development of a stochastic classification model to detect the isotopic signal in the mass spectra and therefore increase the level of confidence in the generated identifications.&lt;/p&gt;
-
-&lt;!-- 
-&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1IZsF5hh3TPpZmp9DtmgYR6JJNX6vZsoL/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;
---&gt;
-</description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/saer-samanipour/</guid>
-			</item>
-		
-			<item>
-				<title>Pratyush Tiwari</title>
-				<link>https://ai4science-amsterdam.github.io//colloquium/pratyush-tiwary/</link>
-				<pubDate>Tue, 22 Jun 2021 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;img src=&quot;../../people/PratyushTiwari.png&quot; alt=&quot;PratyushTiwari&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Pratyush Tiwary&lt;/strong&gt;, Asst. Prof University of Maryland, Washington DC&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;
-The ability to rapidly learn from high-dimensional data to make reliable predictions about the future is crucial in many contexts. This could be a fly avoiding predators, or the retina processing terabytes of data guiding complex human actions. Modern day artificial intelligence (AI) aims to mimic this fidelity and has been successful in many domains of life. It is tempting to ask if AI could also be used to understand and predict the dynamics of complex molecules with millions of atoms. In this talk I will show that certain flavors of AI can indeed help us understand generic molecular dynamics and also predict it even in situations with arbitrary long memories. However this requires close integration of AI with old and new ideas in statistical mechanics. I will talk about such methods developed by my group (1-3). I will demonstrate the methods on different problems, where we predict mechanisms at timescales much longer than milliseconds while keeping all-atom/femtosecond resolution. These include ligand dissociation from flexible protein/RNA and crystal nucleation with competing polymorphs. I will conclude by discussing some generic challenges and  solutions regarding reliability, interpretability and extrapolative powers of AI when used to guide and complement simulations and perhaps even experiments in chemistry.&lt;/p&gt;
-
-&lt;p&gt;References:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Wang, Y., Ribeiro, J.M.L. &amp;amp; Tiwary, P. Past–future information bottleneck for sampling molecular reaction coordinate simultaneously with thermodynamics and kinetics. Nat. Commun. 10, 3573 (2019).&lt;/li&gt;
-  &lt;li&gt;Tsai, S.T, Kuo, E.J. &amp;amp; Tiwary, P.  Learning Molecular Dynamics with Simple Language Model built upon Long Short-Term Memory Neural Network. Nat. Commun. 11, 5115 (2020).&lt;/li&gt;
-  &lt;li&gt;Wang, Y., Ribeiro, J.M.L. and Tiwary, P. Machine learning approaches for analyzing and enhancing molecular dynamics simulations. Curr. Op. Sruc. Bio., 61, 139 (2020).&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1IZsF5hh3TPpZmp9DtmgYR6JJNX6vZsoL/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/pratyush-tiwary/</guid>
 			</item>
 		
 	</channel>
