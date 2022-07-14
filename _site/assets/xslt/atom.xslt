@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="https://ai4science-amsterdam.github.io//assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="https://ai4science-amsterdam.github.io/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="https://ai4science-amsterdam.github.io//assets/js/modernizr.min.js"></script>
+	<script src="https://ai4science-amsterdam.github.io/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -39,14 +39,14 @@ We develop and use machine learning techniques to discover patterns in data stre
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	<link rel="canonical" href="https://ai4science-amsterdam.github.io//assets/xslt/atom.xslt">
+	<link rel="canonical" href="https://ai4science-amsterdam.github.io/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.">
-	<meta property="og:url" content="https://ai4science-amsterdam.github.io//assets/xslt/atom.xslt">
+	<meta property="og:url" content="https://ai4science-amsterdam.github.io/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="AI4Science Lab">
@@ -65,7 +65,7 @@ We develop and use machine learning techniques to discover patterns in data stre
 	
 	
 
-	<link type="text/plain" rel="author" href="https://ai4science-amsterdam.github.io//humans.txt">
+	<link type="text/plain" rel="author" href="https://ai4science-amsterdam.github.io/humans.txt">
 
 	
 
@@ -108,7 +108,7 @@ We develop and use machine learning techniques to discover patterns in data stre
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="https://ai4science-amsterdam.github.io/" class="icon-tree"> AI4Science Lab</a></h1>
+      <h1 class="show-for-small-only"><a href="https://ai4science-amsterdam.github.io" class="icon-tree"> AI4Science Lab</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -137,19 +137,19 @@ We develop and use machine learning techniques to discover patterns in data stre
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="https://ai4science-amsterdam.github.io//lab/">Lab</a>
+                <a  href="https://ai4science-amsterdam.github.io/lab/">Lab</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://ai4science-amsterdam.github.io//people/">People</a></li>
+                      <li><a  href="https://ai4science-amsterdam.github.io/people/">People</a></li>
                     
 
                       
 
-                      <li><a  href="https://ai4science-amsterdam.github.io//research/">Research</a></li>
+                      <li><a  href="https://ai4science-amsterdam.github.io/research/">Research</a></li>
                     
                   </ul>
 
@@ -167,7 +167,7 @@ We develop and use machine learning techniques to discover patterns in data stre
             
             
               <li class="divider"></li>
-              <li><a  href="https://ai4science-amsterdam.github.io//consortium/">Consortium</a></li>
+              <li><a  href="https://ai4science-amsterdam.github.io/consortium/">Consortium</a></li>
 
             
             
@@ -183,7 +183,7 @@ We develop and use machine learning techniques to discover patterns in data stre
             
             
               <li class="divider"></li>
-              <li><a  href="https://ai4science-amsterdam.github.io//colloquium/">Colloquium</a></li>
+              <li><a  href="https://ai4science-amsterdam.github.io/colloquium/">Colloquium</a></li>
 
             
             
@@ -201,14 +201,14 @@ We develop and use machine learning techniques to discover patterns in data stre
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="https://ai4science-amsterdam.github.io//events.html/">Events</a>
+                <a  href="https://ai4science-amsterdam.github.io/events.html/">Events</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://ai4science-amsterdam.github.io//events2/">Ellis Workshop</a></li>
+                      <li><a  href="https://ai4science-amsterdam.github.io/events2/">Ellis Workshop</a></li>
                     
                   </ul>
 
@@ -226,7 +226,7 @@ We develop and use machine learning techniques to discover patterns in data stre
             
             
               <li class="divider"></li>
-              <li><a  href="https://ai4science-amsterdam.github.io//publications/">Papers</a></li>
+              <li><a  href="https://ai4science-amsterdam.github.io/publications/">Papers</a></li>
 
             
             
@@ -244,14 +244,14 @@ We develop and use machine learning techniques to discover patterns in data stre
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="https://ai4science-amsterdam.github.io//blog/">Blog</a>
+                <a  href="https://ai4science-amsterdam.github.io/blog/">Blog</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://ai4science-amsterdam.github.io//blog/archive/">Blog Archive</a></li>
+                      <li><a  href="https://ai4science-amsterdam.github.io/blog/archive/">Blog Archive</a></li>
                     
                   </ul>
 
@@ -269,7 +269,7 @@ We develop and use machine learning techniques to discover patterns in data stre
             
             
               <li class="divider"></li>
-              <li><a  href="https://ai4science-amsterdam.github.io//search/">Search</a></li>
+              <li><a  href="https://ai4science-amsterdam.github.io/search/">Search</a></li>
 
             
             
@@ -285,7 +285,7 @@ We develop and use machine learning techniques to discover patterns in data stre
             
             
               <li class="divider"></li>
-              <li><a  href="https://ai4science-amsterdam.github.io//contact/">Contact</a></li>
+              <li><a  href="https://ai4science-amsterdam.github.io/contact/">Contact</a></li>
 
             
             
@@ -304,7 +304,7 @@ We develop and use machine learning techniques to discover patterns in data stre
 
             
             
-              <li><a  href="https://ai4science-amsterdam.github.io//">AI4Science</a></li>
+              <li><a  href="https://ai4science-amsterdam.github.io/">AI4Science</a></li>
               <li class="divider"></li>
 
             
@@ -371,7 +371,7 @@ We develop and use machine learning techniques to discover patterns in data stre
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="https://ai4science-amsterdam.github.io/" title="AI4Science Lab – Where AI meets Science.">
-				<img src="https://ai4science-amsterdam.github.io//assets/img/logo.png" alt="AI4Science Lab – Where AI meets Science.">
+				<img src="https://ai4science-amsterdam.github.io/assets/img/logo.png" alt="AI4Science Lab – Where AI meets Science.">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -450,7 +450,7 @@ We develop and use machine learning techniques to discover patterns in data stre
             <p class="shadow-black">
               The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.
-              <a href="https://ai4science-amsterdam.github.io///lab">More ›</a>
+              <a href="https://ai4science-amsterdam.github.io//lab">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -476,7 +476,7 @@ We develop and use machine learning techniques to discover patterns in data stre
               
                 
                   <li >
-                    <a href="https://ai4science-amsterdam.github.io/"  title=""></a>
+                    <a href="https://ai4science-amsterdam.github.io"  title=""></a>
                   </li>
               
                 
@@ -501,7 +501,7 @@ We develop and use machine learning techniques to discover patterns in data stre
               
                 
                   <li >
-                    <a href="https://ai4science-amsterdam.github.io//"  title="Take me home country roads">AI4Science home</a>
+                    <a href="https://ai4science-amsterdam.github.io/"  title="Take me home country roads">AI4Science home</a>
                   </li>
               
               </ul>
@@ -527,27 +527,27 @@ We develop and use machine learning techniques to discover patterns in data stre
             
               
                 <li >
-                  <a href="https://ai4science-amsterdam.github.io/"  title=""></a>
+                  <a href="https://ai4science-amsterdam.github.io"  title=""></a>
                 </li>
             
               
                 <li >
-                  <a href="https://ai4science-amsterdam.github.io/"  title="Visit us">Visiting Adress: <br/> Science Park 904 <br/> 1098 XH Amsterdam</a>
+                  <a href="https://ai4science-amsterdam.github.io"  title="Visit us">Visiting Adress: <br/> Science Park 904 <br/> 1098 XH Amsterdam</a>
                 </li>
             
               
                 <li >
-                  <a href="https://ai4science-amsterdam.github.io/"  title="">Postal Address: <br/> University of Amsterdam <br/> AI4Science Lab <br/> P.O. Box 94323 <br/> 1090 GH Amsterdam <br/> The Netherlands</a>
+                  <a href="https://ai4science-amsterdam.github.io"  title="">Postal Address: <br/> University of Amsterdam <br/> AI4Science Lab <br/> P.O. Box 94323 <br/> 1090 GH Amsterdam <br/> The Netherlands</a>
                 </li>
             
               
                 <li >
-                  <a href="https://ai4science-amsterdam.github.io/"  title="">Tel: +31 (0)20 525 7519</a>
+                  <a href="https://ai4science-amsterdam.github.io"  title="">Tel: +31 (0)20 525 7519</a>
                 </li>
             
               
                 <li >
-                  <a href="https://ai4science-amsterdam.github.io/"  title="">Email: ai4science.info@gmail.com</a>
+                  <a href="https://ai4science-amsterdam.github.io"  title="">Email: ai4science.info@gmail.com</a>
                 </li>
             
             </ul>
@@ -579,7 +579,7 @@ We develop and use machine learning techniques to discover patterns in data stre
 		
 
 
-<script src="https://ai4science-amsterdam.github.io//assets/js/javascript.min.js"></script>
+<script src="https://ai4science-amsterdam.github.io/assets/js/javascript.min.js"></script>
 
 
 

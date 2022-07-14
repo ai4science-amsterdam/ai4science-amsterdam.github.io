@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="//assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="//assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>https://ai4science-amsterdam.github.io//</id>
+	<id>https://ai4science-amsterdam.github.io/</id>
 	<title>AI4Science Lab</title>
-	<updated>2022-07-01T12:35:53+02:00</updated>
+	<updated>2022-07-01T13:18:47+02:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -20,16 +20,16 @@ We develop and use machine learning techniques to discover patterns in data stre
 		</author>
 	
 
-	<link href="https://ai4science-amsterdam.github.io//atom.xml" rel="self" type="application/rss+xml" />
-	<link href="https://ai4science-amsterdam.github.io//" rel="alternate" type="text/html" />
+	<link href="https://ai4science-amsterdam.github.io/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://ai4science-amsterdam.github.io/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="4.2.0">Jekyll</generator>
 
 	
 		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/peter-grunwald/</id>
+			<id>https://ai4science-amsterdam.github.io/colloquium/peter-grunwald/</id>
 			<title>Peter Grünwald</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/peter-grunwald/" rel="alternate" type="text/html" title="Peter Grünwald" />
+			<link href="https://ai4science-amsterdam.github.io/colloquium/peter-grunwald/" rel="alternate" type="text/html" title="Peter Grünwald" />
 			<updated>2022-06-21T00:00:00+02:00</updated>
 
 			
@@ -43,7 +43,7 @@ We develop and use machine learning techniques to discover patterns in data stre
 				</author>
 			
 			<summary>E is the New P: Evidence and Optional Continuation</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/peter-grunwald/">&lt;h4 id=&quot;e-is-the-new-p-evidence-and-optional-continuation&quot;&gt;E is the New P: Evidence and Optional Continuation&lt;/h4&gt;
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io/colloquium/peter-grunwald/">&lt;h4 id=&quot;e-is-the-new-p-evidence-and-optional-continuation&quot;&gt;E is the New P: Evidence and Optional Continuation&lt;/h4&gt;
 
 &lt;p&gt;Date: 21-06-2022 14:00-1500 Central European Summer time&lt;/p&gt;
 
@@ -71,9 +71,9 @@ In simple cases, the E-value coincides with the Bayes factor, the notion of evid
 		</entry>
 	
 		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/wujie-wang/</id>
+			<id>https://ai4science-amsterdam.github.io/colloquium/wujie-wang/</id>
 			<title>Wujie Wang</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/wujie-wang/" rel="alternate" type="text/html" title="Wujie Wang" />
+			<link href="https://ai4science-amsterdam.github.io/colloquium/wujie-wang/" rel="alternate" type="text/html" title="Wujie Wang" />
 			<updated>2022-06-07T00:00:00+02:00</updated>
 
 			
@@ -87,7 +87,7 @@ In simple cases, the E-value coincides with the Bayes factor, the notion of evid
 				</author>
 			
 			<summary>Generative Coarse-Graining of Molecular Conformations</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/wujie-wang/">&lt;h4 id=&quot;generative-coarse-graining-of-molecular-conformations&quot;&gt;Generative Coarse-Graining of Molecular Conformations&lt;/h4&gt;
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io/colloquium/wujie-wang/">&lt;h4 id=&quot;generative-coarse-graining-of-molecular-conformations&quot;&gt;Generative Coarse-Graining of Molecular Conformations&lt;/h4&gt;
 
 &lt;p&gt;Date: 07-06-2022 14:00-1500 Central European Summer time&lt;/p&gt;
 
@@ -114,9 +114,9 @@ In simple cases, the E-value coincides with the Bayes factor, the notion of evid
 		</entry>
 	
 		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/francesca-grisoni/</id>
+			<id>https://ai4science-amsterdam.github.io/colloquium/francesca-grisoni/</id>
 			<title>Francesca Grisoni</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/francesca-grisoni/" rel="alternate" type="text/html" title="Francesca Grisoni" />
+			<link href="https://ai4science-amsterdam.github.io/colloquium/francesca-grisoni/" rel="alternate" type="text/html" title="Francesca Grisoni" />
 			<updated>2022-05-24T00:00:00+02:00</updated>
 
 			
@@ -130,7 +130,7 @@ In simple cases, the E-value coincides with the Bayes factor, the notion of evid
 				</author>
 			
 			<summary>Harnessing artificial intelligence for de novo drug design</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/francesca-grisoni/">&lt;h4 id=&quot;harnessing-artificial-intelligence-for-de-novo-drug-design&quot;&gt;Harnessing artificial intelligence for de novo drug design&lt;/h4&gt;
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io/colloquium/francesca-grisoni/">&lt;h4 id=&quot;harnessing-artificial-intelligence-for-de-novo-drug-design&quot;&gt;Harnessing artificial intelligence for de novo drug design&lt;/h4&gt;
 
 &lt;p&gt;Date: 24-05-2022 14:00-1500 Central European Summer time&lt;/p&gt;
 
@@ -157,9 +157,9 @@ In simple cases, the E-value coincides with the Bayes factor, the notion of evid
 		</entry>
 	
 		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/maximillian-dax/</id>
+			<id>https://ai4science-amsterdam.github.io/colloquium/maximillian-dax/</id>
 			<title>Maximilian Dax</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/maximillian-dax/" rel="alternate" type="text/html" title="Maximilian Dax" />
+			<link href="https://ai4science-amsterdam.github.io/colloquium/maximillian-dax/" rel="alternate" type="text/html" title="Maximilian Dax" />
 			<updated>2022-04-26T00:00:00+02:00</updated>
 
 			
@@ -173,7 +173,7 @@ In simple cases, the E-value coincides with the Bayes factor, the notion of evid
 				</author>
 			
 			<summary>Real-Time Gravitational Wave Science with Neural Posterior Estimation</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/maximillian-dax/">&lt;h4 id=&quot;titlereal-time-gravitational-wave-science-with-neural-posterior-estimation&quot;&gt;Title:Real-Time Gravitational Wave Science with Neural Posterior Estimation&lt;/h4&gt;
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io/colloquium/maximillian-dax/">&lt;h4 id=&quot;titlereal-time-gravitational-wave-science-with-neural-posterior-estimation&quot;&gt;Title:Real-Time Gravitational Wave Science with Neural Posterior Estimation&lt;/h4&gt;
 
 &lt;p&gt;Date: 26-04-2022 11:00-1200 Central European Summer time&lt;/p&gt;
 
@@ -209,9 +209,9 @@ In simple cases, the E-value coincides with the Bayes factor, the notion of evid
 		</entry>
 	
 		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/gabriel-vivo-truyols/</id>
+			<id>https://ai4science-amsterdam.github.io/colloquium/gabriel-vivo-truyols/</id>
 			<title>Gabriel Vivo-Truyols</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/gabriel-vivo-truyols/" rel="alternate" type="text/html" title="Gabriel Vivo-Truyols" />
+			<link href="https://ai4science-amsterdam.github.io/colloquium/gabriel-vivo-truyols/" rel="alternate" type="text/html" title="Gabriel Vivo-Truyols" />
 			<updated>2022-04-12T00:00:00+02:00</updated>
 
 			
@@ -225,7 +225,7 @@ In simple cases, the E-value coincides with the Bayes factor, the notion of evid
 				</author>
 			
 			<summary>On the use of Bayesian statistics for chromatography and mass spectrometry: dealing with big data</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/gabriel-vivo-truyols/">&lt;h4 id=&quot;title-on-the-use-of-bayesian-statistics-for-chromatography-and-mass-spectrometry-dealing-with-big-data&quot;&gt;Title: On the use of Bayesian statistics for chromatography and mass spectrometry: dealing with big data&lt;/h4&gt;
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io/colloquium/gabriel-vivo-truyols/">&lt;h4 id=&quot;title-on-the-use-of-bayesian-statistics-for-chromatography-and-mass-spectrometry-dealing-with-big-data&quot;&gt;Title: On the use of Bayesian statistics for chromatography and mass spectrometry: dealing with big data&lt;/h4&gt;
 
 &lt;p&gt;Date: 12-04-2022 11:00-1200 Central European Summer time&lt;/p&gt;
 
@@ -257,9 +257,9 @@ Contrary to the frequentist approach, Bayesian statistics offers a very interest
 		</entry>
 	
 		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/anna-scaife/</id>
+			<id>https://ai4science-amsterdam.github.io/colloquium/anna-scaife/</id>
 			<title>Anna Scaife</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/anna-scaife/" rel="alternate" type="text/html" title="Anna Scaife" />
+			<link href="https://ai4science-amsterdam.github.io/colloquium/anna-scaife/" rel="alternate" type="text/html" title="Anna Scaife" />
 			<updated>2022-03-29T00:00:00+02:00</updated>
 
 			
@@ -273,7 +273,7 @@ Contrary to the frequentist approach, Bayesian statistics offers a very interest
 				</author>
 			
 			<summary>Catalogue curation, likelihood misspecification and dataset shift: challenges for Bayesian deep-learning in radio astronomy</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/anna-scaife/">&lt;h4 id=&quot;catalogue-curation-likelihood-misspecification-and-dataset-shift-challenges-for-bayesian-deep-learning-in-radio-astronomy&quot;&gt;Catalogue curation, likelihood misspecification and dataset shift: challenges for Bayesian deep-learning in radio astronomy&lt;/h4&gt;
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io/colloquium/anna-scaife/">&lt;h4 id=&quot;catalogue-curation-likelihood-misspecification-and-dataset-shift-challenges-for-bayesian-deep-learning-in-radio-astronomy&quot;&gt;Catalogue curation, likelihood misspecification and dataset shift: challenges for Bayesian deep-learning in radio astronomy&lt;/h4&gt;
 
 &lt;p&gt;Date: 29-03-2022 14:00-1500 Central European Summer time&lt;/p&gt;
 
@@ -303,9 +303,9 @@ Anna is currently Professor of Radio Astronomy at Jodrell Bank Centre for Astrop
 		</entry>
 	
 		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/rajesh-ranganath/</id>
+			<id>https://ai4science-amsterdam.github.io/colloquium/rajesh-ranganath/</id>
 			<title>Rajesh Ranganath</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/rajesh-ranganath/" rel="alternate" type="text/html" title="Rajesh Ranganath" />
+			<link href="https://ai4science-amsterdam.github.io/colloquium/rajesh-ranganath/" rel="alternate" type="text/html" title="Rajesh Ranganath" />
 			<updated>2022-03-15T00:00:00+01:00</updated>
 
 			
@@ -319,7 +319,7 @@ Anna is currently Professor of Radio Astronomy at Jodrell Bank Centre for Astrop
 				</author>
 			
 			<summary>Interpretability and Out of Distribution Generalization in Deep Predictive Models</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/rajesh-ranganath/">&lt;h4 id=&quot;interpretability-and-out-of-distribution-generalization-in-deep-predictive-models&quot;&gt;Interpretability and Out of Distribution Generalization in Deep Predictive Models&lt;/h4&gt;
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io/colloquium/rajesh-ranganath/">&lt;h4 id=&quot;interpretability-and-out-of-distribution-generalization-in-deep-predictive-models&quot;&gt;Interpretability and Out of Distribution Generalization in Deep Predictive Models&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&quot;../../people/RajeshRanganath.jpeg&quot; alt=&quot;MartinVanHecke&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
@@ -373,9 +373,9 @@ Methods.&lt;/p&gt;
 		</entry>
 	
 		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/martin-van-hecke/</id>
+			<id>https://ai4science-amsterdam.github.io/colloquium/martin-van-hecke/</id>
 			<title>Martin van Hecke</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/martin-van-hecke/" rel="alternate" type="text/html" title="Martin van Hecke" />
+			<link href="https://ai4science-amsterdam.github.io/colloquium/martin-van-hecke/" rel="alternate" type="text/html" title="Martin van Hecke" />
 			<updated>2022-03-01T00:00:00+01:00</updated>
 
 			
@@ -389,7 +389,7 @@ Methods.&lt;/p&gt;
 				</author>
 			
 			<summary>Machine Learning of Combinatiorial Rules in Mechanical Metamaterials</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/martin-van-hecke/">&lt;h4 id=&quot;machine-learning-of-combinatorial-rules-in-mechanical-metamaterials&quot;&gt;Machine Learning of Combinatorial Rules in Mechanical Metamaterials&lt;/h4&gt;
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io/colloquium/martin-van-hecke/">&lt;h4 id=&quot;machine-learning-of-combinatorial-rules-in-mechanical-metamaterials&quot;&gt;Machine Learning of Combinatorial Rules in Mechanical Metamaterials&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&quot;../../people/MartinVanHecke.jpeg&quot; alt=&quot;MartinVanHecke&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
@@ -420,9 +420,9 @@ new possibilities for complex design of (meta)materials.&lt;/p&gt;
 		</entry>
 	
 		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/jan-matthis-luckmann/</id>
+			<id>https://ai4science-amsterdam.github.io/colloquium/jan-matthis-luckmann/</id>
 			<title>Jan-Matthis Lückmann</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/jan-matthis-luckmann/" rel="alternate" type="text/html" title="Jan-Matthis Lückmann" />
+			<link href="https://ai4science-amsterdam.github.io/colloquium/jan-matthis-luckmann/" rel="alternate" type="text/html" title="Jan-Matthis Lückmann" />
 			<updated>2022-02-07T00:00:00+01:00</updated>
 
 			
@@ -436,7 +436,7 @@ new possibilities for complex design of (meta)materials.&lt;/p&gt;
 				</author>
 			
 			<summary>Simulation-Based Inference for Neuroscience and Beyond</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/jan-matthis-luckmann/">&lt;h4 id=&quot;simulation-based-inference-for-neuroscience-and-beyond&quot;&gt;Simulation-Based Inference for Neuroscience and Beyond&lt;/h4&gt;
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io/colloquium/jan-matthis-luckmann/">&lt;h4 id=&quot;simulation-based-inference-for-neuroscience-and-beyond&quot;&gt;Simulation-Based Inference for Neuroscience and Beyond&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&quot;../../people/JanMatthisLuckmann.jpeg&quot; alt=&quot;JanMatthisLuckmann&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
@@ -477,9 +477,9 @@ rapidly developing field of simulation-based inference.&lt;/p&gt;
 		</entry>
 	
 		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/andrew-ferguson/</id>
+			<id>https://ai4science-amsterdam.github.io/colloquium/andrew-ferguson/</id>
 			<title>Andrew Ferguson</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/andrew-ferguson/" rel="alternate" type="text/html" title="Andrew Ferguson" />
+			<link href="https://ai4science-amsterdam.github.io/colloquium/andrew-ferguson/" rel="alternate" type="text/html" title="Andrew Ferguson" />
 			<updated>2022-01-18T00:00:00+01:00</updated>
 
 			
@@ -493,7 +493,7 @@ rapidly developing field of simulation-based inference.&lt;/p&gt;
 				</author>
 			
 			<summary>Ultra-fast molecular simulators and data-driven protein design</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/andrew-ferguson/">&lt;h4 id=&quot;ultra-fast-molecular-simulators-and-data-driven-protein-design&quot;&gt;Ultra-fast molecular simulators and data-driven protein design&lt;/h4&gt;
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io/colloquium/andrew-ferguson/">&lt;h4 id=&quot;ultra-fast-molecular-simulators-and-data-driven-protein-design&quot;&gt;Ultra-fast molecular simulators and data-driven protein design&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&quot;../../people/AndrewFerguson.jpeg&quot; alt=&quot;AndrewFerguson&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 

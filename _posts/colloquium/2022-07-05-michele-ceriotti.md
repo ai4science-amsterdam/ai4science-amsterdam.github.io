@@ -35,9 +35,8 @@ Simulations of matter at the atomic scale are precious to provide a mechanistic 
 **Bio:**<br/>
 Michele Ceriotti received his Ph.D. in Physics from ETH Zürich. He spent three years in Oxford as a Junior Research Fellow at Merton College. Since 2013 he leads the laboratory for Computational Science and Modeling, in the institute of Materials at EPFL, that focuses on method development for atomistic materials modeling based on statistical mechanics and machine learning.
 
-<!--
-<a class="radius button small" href="https://drive.google.com/file/d/1nvc1Gr9vJ-NGJkWcPmuRKEwG1o5Wwvbe/view?usp=sharing">Watch Back ›</a>
--->
+<a class="radius button small" href="https://drive.google.com/file/d/1piVbnetRwbMxMFyVIgoq1cOvAw3BlqBP/view?usp=sharing">Watch Back ›</a>
+
 [1]: https://bereau.group/
 [2]: /blog/
 [9]: /contact/
