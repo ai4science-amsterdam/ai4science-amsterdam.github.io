@@ -21,20 +21,7 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
-#### To be announced
-
-Date: 19-07-2022 14:00-1500 Central European Summer time
-
- <img src="../people/MiguelBessa.jpeg"
-     alt="MiguelBessa.jpeg"
-     width="100"
-     style="float: right; margin-right: 10px; border-radius:50%;" />
-
-Speaker: **Miguel Bessa**
-
-**Abstract:** <br/>
-
-To be announced.
+Our colloquium is on a summer break and will be back with more interesting talks in the next semester (September 2022).
 
 ## Schedule
 
@@ -49,7 +36,6 @@ To be announced.
 - 7 June 2022 - **Wujie Wang**
 - 21 June 2022 - **Peter Grünwald**
 - 5 July 2022 - **Michele Ceriotti**
-- 19 July 2022 - **Miguel Bessa**
 
 
 ## Previous Colloquium
