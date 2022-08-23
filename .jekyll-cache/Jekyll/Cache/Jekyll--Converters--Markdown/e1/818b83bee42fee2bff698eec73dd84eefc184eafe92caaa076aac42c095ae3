@@ -1,4 +1,4 @@
-I";<p>You just need to choose a template like the <a href="https://ai4science-amsterdam.github.io/design/page/"><code class="language-plaintext highlighter-rouge">page</code></a>- or <a href="https://ai4science-amsterdam.github.io/design/page-fullwidth/"><code class="language-plaintext highlighter-rouge">page-fullwidth</code></a>-template and then just use <code class="language-plaintext highlighter-rouge">{% include gallery %}</code>.
+I"=<p>You just need to choose a template like the <a href="https://ai4science-amsterdam.github.io//design/page/"><code class="language-plaintext highlighter-rouge">page</code></a>- or <a href="https://ai4science-amsterdam.github.io//design/page-fullwidth/"><code class="language-plaintext highlighter-rouge">page-fullwidth</code></a>-template and then just use <code class="language-plaintext highlighter-rouge">{% include gallery %}</code>.
 <!--more--></p>
 
 <div>

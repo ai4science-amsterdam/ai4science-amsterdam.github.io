@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://ai4science-amsterdam.github.io/sitemap.xml
+Sitemap: https://ai4science-amsterdam.github.io//sitemap.xml

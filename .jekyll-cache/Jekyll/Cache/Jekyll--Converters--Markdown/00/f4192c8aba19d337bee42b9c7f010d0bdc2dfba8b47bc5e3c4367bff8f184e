@@ -1,4 +1,4 @@
-I"\R<div class="row">
+I"`R<div class="row">
 <div class="medium-4 medium-push-8 columns">
     <div class="panel radius">
       <p id="toc"><strong>Table of Contents</strong></p>
@@ -75,7 +75,7 @@
     <p><em>Feeling Responsive</em> supports you with different templates for your content. These are the actual page/post formats:</p>
 
     <h3 id="pagepost">Page/Post</h3>
-    <p>The <a href="https://ai4science-amsterdam.github.io/design/page/">page/post format</a> has no sidebar by default, its content is centered and beneath the content the visitor gets some metadata like categories, tags, date and author if provided via data in front matter of the post.</p>
+    <p>The <a href="https://ai4science-amsterdam.github.io//design/page/">page/post format</a> has no sidebar by default, its content is centered and beneath the content the visitor gets some metadata like categories, tags, date and author if provided via data in front matter of the post.</p>
 
     <p>use in front matter via: <code class="language-plaintext highlighter-rouge">layout: page</code></p>
 
@@ -86,17 +86,17 @@
     <p>If you want to show metadata like categories, tags and date at the end of the page, just enter <code class="language-plaintext highlighter-rouge">show_meta: true</code>. It’s on by default. You can change it via <code class="language-plaintext highlighter-rouge">_config.yml</code>. To turn of metadata just enter – <em>yes, you guessed right</em> – <code class="language-plaintext highlighter-rouge">show_meta: false</code>.</p>
 
     <h3 id="page-full-width">Page Full Width</h3>
-    <p>If you want full control of styling a page, then use the <a href="https://ai4science-amsterdam.github.io/design/page-fullwidth/">page fullwidth template</a>. To set up a grid, just use the <a href="http://foundation.zurb.com/docs/components/grid.html">foundation grid system</a>.</p>
+    <p>If you want full control of styling a page, then use the <a href="https://ai4science-amsterdam.github.io//design/page-fullwidth/">page fullwidth template</a>. To set up a grid, just use the <a href="http://foundation.zurb.com/docs/components/grid.html">foundation grid system</a>.</p>
 
     <p>use in front matter via: <code class="language-plaintext highlighter-rouge">layout: page-fullwidth</code></p>
 
     <h3 id="frontpage">Frontpage</h3>
-    <p>This template is special. It allows you to define three <em>widgets</em> which are displayed with a headline, image, description and a link to the content. It’s used for the <a href="https://ai4science-amsterdam.github.io">homepage</a> of this website.</p>
+    <p>This template is special. It allows you to define three <em>widgets</em> which are displayed with a headline, image, description and a link to the content. It’s used for the <a href="https://ai4science-amsterdam.github.io/">homepage</a> of this website.</p>
 
     <p>use in front matter via: <code class="language-plaintext highlighter-rouge">layout: frontpage</code></p>
 
     <h3 id="video">Video</h3>
-    <p>If you’re a video producer or cineast, you’ll like the <a href="https://ai4science-amsterdam.github.io/design/video/">video template</a>. It darkens the layout to black and lets the video stand out full-width.</p>
+    <p>If you’re a video producer or cineast, you’ll like the <a href="https://ai4science-amsterdam.github.io//design/video/">video template</a>. It darkens the layout to black and lets the video stand out full-width.</p>
 
     <p>use in front matter via: <code class="language-plaintext highlighter-rouge">layout: video</code></p>
 

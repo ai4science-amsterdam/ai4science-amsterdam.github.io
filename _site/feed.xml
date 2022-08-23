@@ -1,17 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://ai4science-amsterdam.github.io/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="https://ai4science-amsterdam.github.io/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="https://ai4science-amsterdam.github.io//assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://ai4science-amsterdam.github.io//assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>AI4Science Lab</title>
 		<description>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</description>
-		<link>https://ai4science-amsterdam.github.io/</link>
-		<atom:link href="https://ai4science-amsterdam.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://ai4science-amsterdam.github.io//</link>
+		<atom:link href="https://ai4science-amsterdam.github.io//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Michele Ceriotti</title>
+				<link>https://ai4science-amsterdam.github.io//colloquium/michele-ceriotti/</link>
+				<pubDate>Tue, 05 Jul 2022 00:00:00 +0200</pubDate>
+				<description>&lt;h4 id=&quot;a-unified-theory-of-atom-cloud-representations-for-machine-learning&quot;&gt;A unified theory of atom cloud representations for machine learning&lt;/h4&gt;
+
+&lt;p&gt;Date: 05-07-2022 14:00-1500 Central European Summer time&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../people/MicheleCeriotti.jpeg&quot; alt=&quot;MicheleCeriotti.jpeg&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Michele Ceriotti&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Simulations of matter at the atomic scale are precious to provide a mechanistic understanding of chemical processes, and to design molecules and materials with predictive accuracy. As with many fields of science, machine learning have become an essential part of the modeling toolbox, with many frameworks having become well-established, and many more being developed in new research directions. The most effective frameworks incorporate fundamental physical principles, such as symmetry, locality, and hierarchical decompositions of the interactions between atoms, in the construction of the ML model. I will discuss a general framework that unifies several of the most recent developments in the field, including the representation of structures in terms of systematically-convergent atom-centered correlations of the neighbor density, as well as equivariant message-passing schemes that build automatically descriptors with equivalent information content. I will discuss a few examples of the implications of these fundamental findings, for both chemical machine learning and in general for problems that require a description of three-dimensional objects in terms of point clouds, and present some examples that highlight the limitations of some common approaches and point to strategies to overcome them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt;&lt;br /&gt;
+Michele Ceriotti received his Ph.D. in Physics from ETH Zürich. He spent three years in Oxford as a Junior Research Fellow at Merton College. Since 2013 he leads the laboratory for Computational Science and Modeling, in the institute of Materials at EPFL, that focuses on method development for atomistic materials modeling based on statistical mechanics and machine learning.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1piVbnetRwbMxMFyVIgoq1cOvAw3BlqBP/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/michele-ceriotti/</guid>
+			</item>
 		
 			<item>
 				<title>Peter Grünwald</title>
-				<link>https://ai4science-amsterdam.github.io/colloquium/peter-grunwald/</link>
+				<link>https://ai4science-amsterdam.github.io//colloquium/peter-grunwald/</link>
 				<pubDate>Tue, 21 Jun 2022 00:00:00 +0200</pubDate>
 				<description>&lt;h4 id=&quot;e-is-the-new-p-evidence-and-optional-continuation&quot;&gt;E is the New P: Evidence and Optional Continuation&lt;/h4&gt;
 
@@ -29,12 +54,12 @@ In simple cases, the E-value coincides with the Bayes factor, the notion of evid
 &lt;p&gt;Note: this meeting was performed in person and was not recorded.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io/colloquium/peter-grunwald/</guid>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/peter-grunwald/</guid>
 			</item>
 		
 			<item>
 				<title>Wujie Wang</title>
-				<link>https://ai4science-amsterdam.github.io/colloquium/wujie-wang/</link>
+				<link>https://ai4science-amsterdam.github.io//colloquium/wujie-wang/</link>
 				<pubDate>Tue, 07 Jun 2022 00:00:00 +0200</pubDate>
 				<description>&lt;h4 id=&quot;generative-coarse-graining-of-molecular-conformations&quot;&gt;Generative Coarse-Graining of Molecular Conformations&lt;/h4&gt;
 
@@ -51,12 +76,12 @@ In simple cases, the E-value coincides with the Bayes factor, the notion of evid
 &lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1nvc1Gr9vJ-NGJkWcPmuRKEwG1o5Wwvbe/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io/colloquium/wujie-wang/</guid>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/wujie-wang/</guid>
 			</item>
 		
 			<item>
 				<title>Francesca Grisoni</title>
-				<link>https://ai4science-amsterdam.github.io/colloquium/francesca-grisoni/</link>
+				<link>https://ai4science-amsterdam.github.io//colloquium/francesca-grisoni/</link>
 				<pubDate>Tue, 24 May 2022 00:00:00 +0200</pubDate>
 				<description>&lt;h4 id=&quot;harnessing-artificial-intelligence-for-de-novo-drug-design&quot;&gt;Harnessing artificial intelligence for de novo drug design&lt;/h4&gt;
 
@@ -73,12 +98,12 @@ In simple cases, the E-value coincides with the Bayes factor, the notion of evid
 &lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1cfMSNVY1tSrMphtbrbV91YLvXj91cure/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io/colloquium/francesca-grisoni/</guid>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/francesca-grisoni/</guid>
 			</item>
 		
 			<item>
 				<title>Maximilian Dax</title>
-				<link>https://ai4science-amsterdam.github.io/colloquium/maximillian-dax/</link>
+				<link>https://ai4science-amsterdam.github.io//colloquium/maximillian-dax/</link>
 				<pubDate>Tue, 26 Apr 2022 00:00:00 +0200</pubDate>
 				<description>&lt;h4 id=&quot;titlereal-time-gravitational-wave-science-with-neural-posterior-estimation&quot;&gt;Title:Real-Time Gravitational Wave Science with Neural Posterior Estimation&lt;/h4&gt;
 
@@ -104,12 +129,12 @@ In simple cases, the E-value coincides with the Bayes factor, the notion of evid
 &lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1Lf11UG088JvazNsdnrFSE34UlBtQk72N/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io/colloquium/maximillian-dax/</guid>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/maximillian-dax/</guid>
 			</item>
 		
 			<item>
 				<title>Gabriel Vivo-Truyols</title>
-				<link>https://ai4science-amsterdam.github.io/colloquium/gabriel-vivo-truyols/</link>
+				<link>https://ai4science-amsterdam.github.io//colloquium/gabriel-vivo-truyols/</link>
 				<pubDate>Tue, 12 Apr 2022 00:00:00 +0200</pubDate>
 				<description>&lt;h4 id=&quot;title-on-the-use-of-bayesian-statistics-for-chromatography-and-mass-spectrometry-dealing-with-big-data&quot;&gt;Title: On the use of Bayesian statistics for chromatography and mass spectrometry: dealing with big data&lt;/h4&gt;
 
@@ -131,12 +156,12 @@ Contrary to the frequentist approach, Bayesian statistics offers a very interest
 &lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1vbIfaJKXQ4mx1cfch8zX_CuRfuVGhATB/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io/colloquium/gabriel-vivo-truyols/</guid>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/gabriel-vivo-truyols/</guid>
 			</item>
 		
 			<item>
 				<title>Anna Scaife</title>
-				<link>https://ai4science-amsterdam.github.io/colloquium/anna-scaife/</link>
+				<link>https://ai4science-amsterdam.github.io//colloquium/anna-scaife/</link>
 				<pubDate>Tue, 29 Mar 2022 00:00:00 +0200</pubDate>
 				<description>&lt;h4 id=&quot;catalogue-curation-likelihood-misspecification-and-dataset-shift-challenges-for-bayesian-deep-learning-in-radio-astronomy&quot;&gt;Catalogue curation, likelihood misspecification and dataset shift: challenges for Bayesian deep-learning in radio astronomy&lt;/h4&gt;
 
@@ -156,12 +181,12 @@ Anna is currently Professor of Radio Astronomy at Jodrell Bank Centre for Astrop
 &lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/11usK-95DvkjC7WG7IyzdQnh2hTd2KmuG/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io/colloquium/anna-scaife/</guid>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/anna-scaife/</guid>
 			</item>
 		
 			<item>
 				<title>Rajesh Ranganath</title>
-				<link>https://ai4science-amsterdam.github.io/colloquium/rajesh-ranganath/</link>
+				<link>https://ai4science-amsterdam.github.io//colloquium/rajesh-ranganath/</link>
 				<pubDate>Tue, 15 Mar 2022 00:00:00 +0100</pubDate>
 				<description>&lt;h4 id=&quot;interpretability-and-out-of-distribution-generalization-in-deep-predictive-models&quot;&gt;Interpretability and Out of Distribution Generalization in Deep Predictive Models&lt;/h4&gt;
 
@@ -205,12 +230,12 @@ Methods.&lt;/p&gt;
 --&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io/colloquium/rajesh-ranganath/</guid>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/rajesh-ranganath/</guid>
 			</item>
 		
 			<item>
 				<title>Martin van Hecke</title>
-				<link>https://ai4science-amsterdam.github.io/colloquium/martin-van-hecke/</link>
+				<link>https://ai4science-amsterdam.github.io//colloquium/martin-van-hecke/</link>
 				<pubDate>Tue, 01 Mar 2022 00:00:00 +0100</pubDate>
 				<description>&lt;h4 id=&quot;machine-learning-of-combinatorial-rules-in-mechanical-metamaterials&quot;&gt;Machine Learning of Combinatorial Rules in Mechanical Metamaterials&lt;/h4&gt;
 
@@ -231,12 +256,12 @@ new possibilities for complex design of (meta)materials.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1PryMUuxAw09Flpfa9J0Z7m4cQexa3Q5G/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io/colloquium/martin-van-hecke/</guid>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/martin-van-hecke/</guid>
 			</item>
 		
 			<item>
 				<title>Jan-Matthis Lückmann</title>
-				<link>https://ai4science-amsterdam.github.io/colloquium/jan-matthis-luckmann/</link>
+				<link>https://ai4science-amsterdam.github.io//colloquium/jan-matthis-luckmann/</link>
 				<pubDate>Mon, 07 Feb 2022 00:00:00 +0100</pubDate>
 				<description>&lt;h4 id=&quot;simulation-based-inference-for-neuroscience-and-beyond&quot;&gt;Simulation-Based Inference for Neuroscience and Beyond&lt;/h4&gt;
 
@@ -267,31 +292,7 @@ rapidly developing field of simulation-based inference.&lt;/p&gt;
 &lt;p&gt;This meeting was not recorded.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io/colloquium/jan-matthis-luckmann/</guid>
-			</item>
-		
-			<item>
-				<title>Andrew Ferguson</title>
-				<link>https://ai4science-amsterdam.github.io/colloquium/andrew-ferguson/</link>
-				<pubDate>Tue, 18 Jan 2022 00:00:00 +0100</pubDate>
-				<description>&lt;h4 id=&quot;ultra-fast-molecular-simulators-and-data-driven-protein-design&quot;&gt;Ultra-fast molecular simulators and data-driven protein design&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../people/AndrewFerguson.jpeg&quot; alt=&quot;AndrewFerguson&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Andrew Ferguson&lt;/strong&gt;, Pritzker School of Molecular Engineering, University of Chicago&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Data-driven modeling and deep learning present powerful tools that are opening up new paradigms and opportunities in the understanding, discovery, and design of soft and biological materials. In this talk, I will first describe an approach based on latent space simulators to learn ultra-fast surrogate models of protein folding by stacking three specialized deep learning networks to (i) encode a molecular system into a slow latent space, (ii) propagate dynamics in this latent space, and (iii) generatively decode a synthetic molecular trajectory. I will then describe our recent applications of deep representational learning to expose the sequence-function relationship within homologous protein families and to use these principles for the data-driven design and experimental testing of synthetic proteins with new and/or elevated function.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Andrew Ferguson is an Associate Professor and Deputy Dean for Equity, Diversity, and Inclusion at the Pritzker School of Molecular Engineering at the University of Chicago. He received an M.Eng. in Chemical Engineering from Imperial College London in 2005, and a Ph.D. in Chemical and Biological Engineering from Princeton University in 2010. From 2010 to 2012 he was a Postdoctoral Fellow of the Ragon Institute of MGH, MIT, and Harvard in the Department of Chemical Engineering at MIT. He commenced his independent career as an Assistant Professor of Materials Science and Engineering at the University of Illinois at Urbana-Champaign in August 2012 and was promoted to Associate Professor of Materials Science and Engineering and Chemical and Biomolecular Engineering in January 2018. He joined the Pritzker School of Molecular Engineering in July 2018. His research uses theory, simulation, and machine learning to understand and design self-assembling materials, macromolecular folding, and antiviral therapies. He is the recipient of a 2020 Dreyfus Foundation Award for Machine Learning in the Chemical Sciences and Engineering, 2018/19 Junior Moulton Medal of the Institution of Chemical Engineers, 2017 UIUC College of Engineering Dean’s Award for Excellence in Research, 2016 AIChE CoMSEF Young Investigator Award for Modeling &amp;amp; Simulation, 2015 ACS OpenEye Outstanding Junior Faculty Award, 2014 NSF CAREER Award, 2014 ACS PRF Doctoral New Investigator, and was named the Institution of Chemical Engineers North America 2013 Young Chemical Engineer of the Year. He is the co-founder of the protein engineering company Evozyne, Inc. (&lt;a href=&quot;www.evozyne.com&quot;&gt;www.evozyne.com&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1KJt-T8hqy77dDNPrxViiCPbusLHW0Vp5/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io/colloquium/andrew-ferguson/</guid>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/jan-matthis-luckmann/</guid>
 			</item>
 		
 	</channel>

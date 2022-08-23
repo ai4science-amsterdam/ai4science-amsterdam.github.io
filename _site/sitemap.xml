@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 66 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 67 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/old_post_examples/design/2014-07-09-post-left-sidebar/</loc>
+	<loc>https://ai4science-amsterdam.github.io//old_post_examples/design/2014-07-09-post-left-sidebar/</loc>
 	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,24 +20,9 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/old_post_examples/design/2014-07-10-breadcrumb/</loc>
+	<loc>https://ai4science-amsterdam.github.io//old_post_examples/design/2014-07-10-breadcrumb/</loc>
 	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/old_post_examples/design/2014-07-10-page/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -50,24 +35,9 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/old_post_examples/design/2014-07-10-post-right-sidebar/</loc>
+	<loc>https://ai4science-amsterdam.github.io//old_post_examples/design/2014-07-10-page/</loc>
 	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/old_post_examples/design/2014-08-19-page-fullwidth/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -80,24 +50,9 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/old_post_examples/design/2014-09-10-portfolio/</loc>
+	<loc>https://ai4science-amsterdam.github.io//old_post_examples/design/2014-07-10-post-right-sidebar/</loc>
 	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/design/grid/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -110,24 +65,9 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/old_post_examples/design/2014-09-14-video/</loc>
+	<loc>https://ai4science-amsterdam.github.io//old_post_examples/design/2014-08-19-page-fullwidth/</loc>
 	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/old_post_examples/design/2014-09-15-gallery/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -140,24 +80,9 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/old_post_examples/design/2014-10-08-header-image-pattern/</loc>
+	<loc>https://ai4science-amsterdam.github.io//old_post_examples/design/2014-09-10-portfolio/</loc>
 	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/old_post_examples/design/2014-10-09-header-full-width-image/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -170,24 +95,9 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/old_post_examples/design/2014-10-09-header-image-color/</loc>
+	<loc>https://ai4science-amsterdam.github.io//design/grid/</loc>
 	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/old_post_examples/design/2014-10-09-header-logo-only/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -200,24 +110,9 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/old_post_examples/design/2015-02-10-header-with-text/</loc>
+	<loc>https://ai4science-amsterdam.github.io//old_post_examples/design/2014-09-14-video/</loc>
 	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/old_post_examples/design/2015-03-12-no-header-but-image/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -230,24 +125,9 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/old_post_examples/design/2015-08-11-no-header/</loc>
+	<loc>https://ai4science-amsterdam.github.io//old_post_examples/design/2014-09-15-gallery/</loc>
 	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/old_post_examples/design/2015-08-15-comments/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -260,24 +140,9 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/old_post_examples/design/2015-08-16-typography/</loc>
+	<loc>https://ai4science-amsterdam.github.io//old_post_examples/design/2014-10-08-header-image-pattern/</loc>
 	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/old_post_examples/design/2015-10-15-mediaelement_js/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -290,9 +155,9 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/404.html</loc>
+	<loc>https://ai4science-amsterdam.github.io//old_post_examples/design/2014-10-09-header-full-width-image/</loc>
 	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -305,9 +170,9 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/blog/archive/</loc>
+	<loc>https://ai4science-amsterdam.github.io//old_post_examples/design/2014-10-09-header-image-color/</loc>
 	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -319,12 +184,130 @@
 	
 
 	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//old_post_examples/design/2014-10-09-header-logo-only/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/atom.xml</loc>
+	<loc>https://ai4science-amsterdam.github.io//old_post_examples/design/2015-02-10-header-with-text/</loc>
 	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//old_post_examples/design/2015-03-12-no-header-but-image/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//old_post_examples/design/2015-08-11-no-header/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//old_post_examples/design/2015-08-15-comments/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//old_post_examples/design/2015-08-16-typography/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//old_post_examples/design/2015-10-15-mediaelement_js/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//404.html</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//blog/archive/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -339,463 +322,9 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/pages/pages-root-folder/blabla/</loc>
+	<loc>https://ai4science-amsterdam.github.io//atom.xml</loc>
 	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/changelog/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/consortium/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/contact/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/design/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/documentation/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/events.html/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/events2/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/events1231/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/events1214/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/events/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/feed.xml</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/getting-started/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/headers/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/humans.txt</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/blog/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/blabla</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/pages/pages-root-folder/index_old/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/info/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/lab/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/people/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/meet-the-people-old/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/publications/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/redirect-page/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/research/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/roadmap/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/robots.txt</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/search/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/sitemap.xml</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -810,24 +339,9 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/pages/who-are-we/</loc>
+	<loc>https://ai4science-amsterdam.github.io//pages/pages-root-folder/blabla/</loc>
 	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/blog/page2/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -840,24 +354,9 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/blog/page3/</loc>
+	<loc>https://ai4science-amsterdam.github.io//changelog/</loc>
 	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ai4science-amsterdam.github.io/blog/page4/</loc>
-	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -870,9 +369,9 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/blog/page5/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/</loc>
 	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -885,9 +384,525 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/blog/page6/</loc>
+	<loc>https://ai4science-amsterdam.github.io//consortium/</loc>
 	
-		<lastmod>2022-07-01T13:18:47+02:00</lastmod>
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//contact/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//design/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//documentation/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//events.html/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//events2/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//events1231/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//events1214/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//events/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//feed.xml</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//getting-started/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//headers/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//humans.txt</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//blog/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//blabla</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//pages/pages-root-folder/index_old/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//info/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//lab/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//people/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//meet-the-people-old/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//publications/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//redirect-page/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//research/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//roadmap/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//robots.txt</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//search/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//sitemap.xml</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//pages/who-are-we/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//blog/page2/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//blog/page3/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//blog/page4/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//blog/page5/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//blog/page6/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//blog/page7/</loc>
+	
+		<lastmod>2022-08-23T23:17:36+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -903,11 +918,26 @@
 	
 
 
-<!-- Posts: 30 links with priority=0.5, changefreq=monthly -->
+<!-- Posts: 31 links with priority=0.5, changefreq=monthly -->
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/peter-grunwald/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/michele-ceriotti/</loc>
+	
+		<lastmod>2022-07-05T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/peter-grunwald/</loc>
 	
 		<lastmod>2022-06-21T00:00:00+02:00</lastmod>
 	
@@ -922,7 +952,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/wujie-wang/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/wujie-wang/</loc>
 	
 		<lastmod>2022-06-07T00:00:00+02:00</lastmod>
 	
@@ -937,7 +967,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/francesca-grisoni/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/francesca-grisoni/</loc>
 	
 		<lastmod>2022-05-24T00:00:00+02:00</lastmod>
 	
@@ -952,7 +982,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/maximillian-dax/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/maximillian-dax/</loc>
 	
 		<lastmod>2022-04-26T00:00:00+02:00</lastmod>
 	
@@ -967,7 +997,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/gabriel-vivo-truyols/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/gabriel-vivo-truyols/</loc>
 	
 		<lastmod>2022-04-12T00:00:00+02:00</lastmod>
 	
@@ -982,7 +1012,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/anna-scaife/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/anna-scaife/</loc>
 	
 		<lastmod>2022-03-29T00:00:00+02:00</lastmod>
 	
@@ -997,7 +1027,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/rajesh-ranganath/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/rajesh-ranganath/</loc>
 	
 		<lastmod>2022-03-15T00:00:00+01:00</lastmod>
 	
@@ -1012,7 +1042,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/martin-van-hecke/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/martin-van-hecke/</loc>
 	
 		<lastmod>2022-03-01T00:00:00+01:00</lastmod>
 	
@@ -1027,7 +1057,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/jan-matthis-luckmann/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/jan-matthis-luckmann/</loc>
 	
 		<lastmod>2022-02-07T00:00:00+01:00</lastmod>
 	
@@ -1042,7 +1072,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/andrew-ferguson/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/andrew-ferguson/</loc>
 	
 		<lastmod>2022-01-18T00:00:00+01:00</lastmod>
 	
@@ -1057,7 +1087,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/atilim-gunes-baydin/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/atilim-gunes-baydin/</loc>
 	
 		<lastmod>2021-12-21T00:00:00+01:00</lastmod>
 	
@@ -1072,7 +1102,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/chris-rackauckas/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/chris-rackauckas/</loc>
 	
 		<lastmod>2021-11-23T00:00:00+01:00</lastmod>
 	
@@ -1087,7 +1117,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/janwillem-vandemeent/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/janwillem-vandemeent/</loc>
 	
 		<lastmod>2021-11-09T00:00:00+01:00</lastmod>
 	
@@ -1102,7 +1132,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/saer-samanipour/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/saer-samanipour/</loc>
 	
 		<lastmod>2021-08-31T00:00:00+02:00</lastmod>
 	
@@ -1117,7 +1147,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/pratyush-tiwary/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/pratyush-tiwary/</loc>
 	
 		<lastmod>2021-06-22T00:00:00+02:00</lastmod>
 	
@@ -1132,7 +1162,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/alexander-tkatchenko/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/alexander-tkatchenko/</loc>
 	
 		<lastmod>2021-05-25T00:00:00+02:00</lastmod>
 	
@@ -1147,7 +1177,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/chandler-squires/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/chandler-squires/</loc>
 	
 		<lastmod>2021-05-11T00:00:00+02:00</lastmod>
 	
@@ -1162,7 +1192,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/ferry-hooft/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/ferry-hooft/</loc>
 	
 		<lastmod>2021-04-13T00:00:00+02:00</lastmod>
 	
@@ -1177,7 +1207,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/benjamin-miller/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/benjamin-miller/</loc>
 	
 		<lastmod>2021-03-30T00:00:00+02:00</lastmod>
 	
@@ -1192,7 +1222,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/jakub-tomczak/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/jakub-tomczak/</loc>
 	
 		<lastmod>2021-03-02T00:00:00+01:00</lastmod>
 	
@@ -1207,7 +1237,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/eliu-huerta-escudero/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/eliu-huerta-escudero/</loc>
 	
 		<lastmod>2021-02-16T00:00:00+01:00</lastmod>
 	
@@ -1222,7 +1252,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/mario-geiger/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/mario-geiger/</loc>
 	
 		<lastmod>2021-02-02T00:00:00+01:00</lastmod>
 	
@@ -1237,7 +1267,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/dim-coumou/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/dim-coumou/</loc>
 	
 		<lastmod>2021-01-19T00:00:00+01:00</lastmod>
 	
@@ -1252,7 +1282,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/lucie-smith/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/lucie-smith/</loc>
 	
 		<lastmod>2020-11-24T00:00:00+01:00</lastmod>
 	
@@ -1267,7 +1297,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/frank-noe/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/frank-noe/</loc>
 	
 		<lastmod>2020-11-10T00:00:00+01:00</lastmod>
 	
@@ -1282,7 +1312,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/gabor-csanyi/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/gabor-csanyi/</loc>
 	
 		<lastmod>2020-10-27T00:00:00+01:00</lastmod>
 	
@@ -1297,7 +1327,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/david-fischer/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/david-fischer/</loc>
 	
 		<lastmod>2020-10-13T00:00:00+02:00</lastmod>
 	
@@ -1312,7 +1342,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/christoph-weniger/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/christoph-weniger/</loc>
 	
 		<lastmod>2020-09-28T00:00:00+02:00</lastmod>
 	
@@ -1327,7 +1357,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/erik-henning-thiede/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/erik-henning-thiede/</loc>
 	
 		<lastmod>2020-09-15T00:00:00+02:00</lastmod>
 	
@@ -1342,7 +1372,7 @@
 
 	
 	<url>
-	<loc>https://ai4science-amsterdam.github.io/colloquium/tristan-bereau/</loc>
+	<loc>https://ai4science-amsterdam.github.io//colloquium/tristan-bereau/</loc>
 	
 		<lastmod>2020-06-30T00:00:00+02:00</lastmod>
 	
