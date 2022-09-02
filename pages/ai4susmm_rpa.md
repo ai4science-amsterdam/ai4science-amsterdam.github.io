@@ -59,7 +59,7 @@ The Van 't Hoff Institute for Molecular Sciences (HIMS) acts as secretary of the
 The core group of this RPA AI for Sustainable Molecules and Materials will function as the board, which is the decision making body that oversees the RPA-wide activities, and consists of:
 
 * [Prof. dr. D. (Daniel) Bonn][15], IoP
-* [Dr. B. (Bernd) Ensing][13] (Coordinator), HIMS, AI4Science Lab 
+* [Dr. B. (Bernd) Ensing][13] (coordinator), HIMS, AI4Science Lab 
 * [Prof. dr. M.A. (Michel) Haring][16], SILS
 * [Dr. J.W. (Jan-Willem) van de Meent][17], IvI
 * [Dr. J.C. (Chris) Slootweg][18], HIMS
