@@ -1,0 +1,635 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>AI for Sustainable Molecules and Materials</title>
+
+    <link rel="stylesheet" type="text/css" href="https://ai4science-amsterdam.github.io//assets/css/styles_feeling_responsive.css">
+
+  
+
+	<script src="https://ai4science-amsterdam.github.io//assets/js/modernizr.min.js"></script>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+	<script>
+		WebFont.load({
+			google: {
+				families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]
+			}
+		});
+	</script>
+
+	<noscript>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
+	</noscript>
+
+
+	<!-- Search Engine Optimization -->
+	<meta name="description" content="The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
+We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.">
+	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
+	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
+	
+	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
+	
+	
+	<link rel="canonical" href="https://ai4science-amsterdam.github.io//ai4susmm_rpa/">
+
+
+	<!-- Facebook Open Graph -->
+	<meta property="og:title" content="AI for Sustainable Molecules and Materials">
+	<meta property="og:description" content="The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
+We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.">
+	<meta property="og:url" content="https://ai4science-amsterdam.github.io//ai4susmm_rpa/">
+	<meta property="og:locale" content="en_EN">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="AI4Science Lab">
+	
+	<meta property="article:author" content="https://www.facebook.com/phlow.media">
+
+
+	
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="phlow">
+	<meta name="twitter:creator" content="phlow">
+	<meta name="twitter:title" content="AI for Sustainable Molecules and Materials">
+	<meta name="twitter:description" content="The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
+We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.">
+	
+	
+
+	<link type="text/plain" rel="author" href="https://ai4science-amsterdam.github.io//humans.txt">
+
+	
+
+	
+
+	<link rel="icon" sizes="32x32" href="https://ai4science-amsterdam.github.io/assets/img/favicon-32x32.png">
+
+	<link rel="icon" sizes="192x192" href="https://ai4science-amsterdam.github.io/assets/img/touch-icon-192x192.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-180x180-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-152x152-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-144x144-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-120x120-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-114x114-precomposed.png">
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-76x76-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-72x72-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-precomposed.png">	
+
+	<meta name="msapplication-TileImage" content="https://ai4science-amsterdam.github.io/assets/img/msapplication_tileimage.png">
+
+	<meta name="msapplication-TileColor" content="#fabb00">
+
+
+	
+
+</head>
+<body id="top-of-page" class="page-fullwidth">
+	
+	
+<div id="navigation" class="sticky">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name">
+      <h1 class="show-for-small-only"><a href="https://ai4science-amsterdam.github.io/" class="icon-tree"> AI4Science Lab</a></h1>
+    </li>
+       <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+      <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+
+      <ul class="right">
+        
+
+              
+
+
+
+          
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a  href="https://ai4science-amsterdam.github.io//lab/">Lab</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//people/">People</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//research/">Research</a></li>
+                    
+                  </ul>
+
+              </li>
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="https://ai4science-amsterdam.github.io//consortium/">Consortium</a></li>
+
+            
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="https://ai4science-amsterdam.github.io//colloquium/">Colloquium</a></li>
+
+            
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a  href="https://ai4science-amsterdam.github.io//events.html/">Events</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//events2/">Ellis Workshop</a></li>
+                    
+                  </ul>
+
+              </li>
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="https://ai4science-amsterdam.github.io//publications/">Papers</a></li>
+
+            
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a  href="https://ai4science-amsterdam.github.io//blog/">Blog</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//blog/archive/">Blog Archive</a></li>
+                    
+                  </ul>
+
+              </li>
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="https://ai4science-amsterdam.github.io//search/">Search</a></li>
+
+            
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="https://ai4science-amsterdam.github.io//contact/">Contact</a></li>
+
+            
+            
+          
+        
+        
+      </ul>
+
+      <ul class="left">
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="https://ai4science-amsterdam.github.io//">AI4Science</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+        
+      </ul>
+    </section>
+  </nav>
+</div><!-- /#navigation -->
+
+	
+
+	
+
+<div id="masthead-with-text" style=" ">
+	<div class="row">
+		<div class="small-12 columns">
+			<div class="masthead-title"> AI4Sustainability</div>
+		</div><!-- /.small-12.columns -->
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+
+
+
+
+
+
+
+
+
+	
+
+
+<div class="row t30">
+	<div class="medium-12 columns">
+		<article>
+			<header>
+				<p class="subheadline">Research Priority Area</p>
+				<h1>AI for Sustainable Molecules and Materials</h1>
+			</header>
+
+			
+
+			<p><a href="https://www.amsterdamsciencepark.nl">Amsterdam Science Park</a> is an European hub for digital innovation and sustainability. The Faculty of Science (FNWI) in particular is in a unique position to link these two key disciplines because we have one of the best computer science institutes in the world, with unique knowledge of AI, Machine Learning, etc. Many major changes for the next decade will come from this. At the same time, the big challenges of the next decade are in the sustainability domain, such as the sustainability of all materials we produce, use and waste, see Kate Raworth’s figure of the Doughnut Economy below. The faculty also has a lot of knowledge and expertise in this area in its institutes, and so is uniquely positioned to combine the two. And that’s what we’re going to do.</p>
+
+<p>More specifically: AI can be used as a tool in the prediction, design, analysis and testing (both by experiment and by modelling) for improved and novel molecules and materials that are safe and sustainable-by-design (SSbD) to reach a non-toxic environment. Examples are use of molecules and materials in food &amp; agriculture, building materials, green industrial processes, energy transition, consumer materials, health, etc, etc. Disciplines involved are Physics, Chemistry, Biology, Ecology, Earth and Environmental Science, and of course Informatics. Emphasis is on the development of state- of-the-art AI/ML methods that can enable scientific discovery in the context of sustainable and safe molecules and materials, with a strong input from the mentioned disciplines, in the form or expertise on modeling, theory forming and experimentation.</p>
+
+<center>
+<figure>
+    <img src="../images/fig_AI4SusMM_DoughnutEconomy.png" alt="Kate Raworth’s figure of the Doughnut Economy" width="600" style="float: center; margin-right: 10px; text-align: center;" />
+     <figcaption>Kate Raworth’s figure of the Doughnut Economy.</figcaption>
+ </figure>
+ </center>
+
+<h3 id="how-will-the-focus-area-forge-new-scientific-connections-and-between-which-fields">How will the focus area forge new scientific connections and between which fields?</h3>
+
+<p>To strengthen FNWI’s focus on smart and green and create synergy between the <a href="https://www.uva.nl/en/about-the-uva/about-the-university/sustainability/sustainable-operations/sustainable-waste-separation/sustainable-waste-separation.html">Zero Waste theme</a>, <a href="https://www.topsectorenergie.nl/nieuws/duurzame-materialennl-maakt-nederland-koploper-van-de-materialentransitie">Duurzame MaterialenNL</a>, the <a href="https://ai4science-amsterdam.github.io">AI4Science lab</a>, <a href="https://www.amcel.nl">AMCEL</a>, the <a href="https://iop.fnwi.uva.nl/computational_soft_matter/">Computational Soft Matter lab</a>, and <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-amsterdam/">Microsoft Research</a>, we initiate the RPA AI4SustainableM&amp;M’s that targets breakthroughs in sustainable innovation with AI and computational methods for molecules and materials to aid in realizing the materials transition needed for a sustainable society.</p>
+
+<p>This RPA will bring together existing disciplinary strengths of <a href="https://ivi.uva.nl">IvI</a>, <a href="https://iop.uva.nl">IoP</a>, <a href="https://hims.uva.nl">HIMS</a>, <a href="https://ibed.uva.nl">IBED</a> and <a href="https://sils.uva.nl">SILS</a> in an interdisciplinary program interfacing AI, computational molecular and materials science, with the development of sustainable technologies. Bridging sustainability with molecular and materials science will allow to predict quantitative structure-property relationships in the broadest sense: from functionality to degradability and interactions with the molecular or biological environment.</p>
+
+<h3 id="the-different-components-of-the-proposal">The different components of the proposal</h3>
+
+<p>Capitalizing on these opportunities will require the development of “hybrid” models that combine deep learning with conventional simulation. The resulting models have the potential to dramatically accelerate discovery of sustainable technologies by identifying promising molecular and material compositions in a high-dimensional design space that cannot possibly be explored by way of physical experimentation alone or using existing simulation methods. This requires fundamental research on deep learning methods that leverage symmetries to facilitate generalization, “invert” simulations, learn fast surrogates for expensive numerical computations, and navigate the trade-off between exploration and exploitation in a high-dimensional design space. Depending on the desired resolution, the models describing the molecules and materials of interest can involve electronic structure calculations, atomistic force fields, or coarse-grained (or even lattice) descriptions, alerts for toxicity. For complex systems as ultimately the real environment in which the safe and sustainable molecules and materials are to be produced, used and reused, a multi-scale approach can be employed, requiring smart algorithms to bridge relevant temporal and spatial scales. As these approaches are often still computationally intensive, the combination with deep learning methodology will allow for a much more efficient exploration of the multidimensional parameter space.</p>
+
+<h3 id="the-central-research-question-and-how-it-is-addressed">The central research question and how it is addressed</h3>
+
+<p>The goal of this RPA is to combine the deep learning methodological research with fundamental scientific experimental research on molecules and materials, where computational science is the “glue” that connects these two components. As such, we can contribute to alleviating sustainability challenges resulting from the current linear use of resources by (re-)designing processes, materials, molecules and products to keep resources and products in closed cycles where possible and focus on circular design, re-use, recovery and recycling, resource and energy efficiency, as well as nature- inspired solutions. This RPA presents an opportunity to develop proof-of-concept work for AI-driven computational approaches that can guide experimental efforts both on functionality as well as on environmental fate and impact of the materials and molecules. Our goal is to leverage the outcomes of this RPA as seed research to establish close connections between the UvA and industry partners, ideally in the form of one or more labs.</p>
+
+<h3 id="how-will-the-focus-area-have-an-effect-on-education">How will the focus area have an effect on education?</h3>
+
+<p>AI is becoming increasingly important in all disciplines of science. It is therefore important to incorporate the growing role of AI, Machine Learning and other relevant informatics tools into all the disciplinary curricula. As a research-based university, this faculty must foster research into the role AI can play along the different disciplinary educational paths. However, the heart of the RPA is interdisciplinary research and education. Here we can anticipate strong interactions with the interdisciplinary education, notably Future Planet Studies and the new Science and Design BSc. Programs. Note that the Science and Design curriculum is focused on four interdisciplinary themes: 1) high-tech designer materials, 2) renewable energy and resources, 3) engineering life and health, and 4) information science, modelling and simulation, where this new RPA AI for Sustainable Molecules and Materials will greatly stimulate the interdisciplinary teaching for all four themes. The expectation is that dedicated interdisciplinary AI education will also be interesting for, e.g., the Amsterdam University College, so that synergies with AUC education will also be possible.</p>
+
+<h3 id="which-types-of-societal-impact-does-the-focus-area-aim-for">Which types of societal impact does the focus area aim for?</h3>
+
+<p>RPA AI4SustainableM&amp;M’s research at FNWI will be interdisciplinary, system-aware, applicative, creative, and will have strong connections with leading industries and sectors, where we connect fundamental research embedded in a broad traditional university with innovations at higher TRLs. The sustainability issues we are tackling are pressing, we do not have much time to transition. Therefore, we focus on making research applicable and strive for co-creation with implementation partners and parallel trajectories of R&amp;D and implementation to break with the traditional research-pilot-implementation sequence to accelerate the innovation process. We aim for close collaborations with industry, businesses, and the municipality of Amsterdam to i) inform our research priorities, ii) collect useful and interesting data-sets, iii) co-create and develop, iv) bring our solutions into application. We envision an open atmosphere of continuous learning, with strong ties with FNWI’s educational programs, and exchange of ideas to nurture the RPA theme and to develop fundamental knowledge that has the potential to lead to real world applications in the future that will contribute to a more sustainable world.</p>
+
+<h2 id="governance-and-organization">Governance and organization:</h2>
+
+<h3 id="which-institute-acts-as-secretary-of-the-focus-area">Which institute acts as secretary of the focus area?</h3>
+<p>The Van ‘t Hoff Institute for Molecular Sciences (HIMS) acts as secretary of the focus area.</p>
+
+<h3 id="how-does-decision-making-take-place">How does decision-making take place?</h3>
+<p>The core group of this RPA AI for Sustainable Molecules and Materials will function as the board, which is the decision making body that oversees the RPA-wide activities, and consists of:</p>
+
+<ul>
+  <li><a href="https://www.uva.nl/en/profile/b/o/p.g.bolhuis/p.g.bolhuis.html">Prof. dr. P.G. (Peter) Bolhuis</a>, HIMS</li>
+  <li><a href="https://www.uva.nl/en/profile/b/o/d.bonn/d.bonn.html">Prof. dr. D. (Daniel) Bonn</a>, IoP</li>
+  <li><a href="https://www.uva.nl/en/profile/e/n/b.ensing/b.ensing.html">Dr. B. (Bernd) Ensing</a> (Coordinator), HIMS, AI4Science Lab</li>
+  <li><a href="https://www.uva.nl/en/profile/h/a/m.a.haring/m.a.haring.html">Prof. dr. M.A. (Michel) Haring</a>, SILS</li>
+  <li><a href="https://www.uva.nl/en/profile/m/e/j.w.vandemeent/j.w.van-de-meent.html">Dr. J.W. (Jan-Willem) van de Meent</a>, IvI</li>
+  <li><a href="https://www.uva.nl/en/profile/s/l/j.c.slootweg/j.c.slootweg.html">Dr. J.C. (Chris) Slootweg</a>, HIMS</li>
+  <li><a href="https://www.uva.nl/en/profile/w/e/a.p.vanwezel/a.p.van-wezel.html">Prof. dr. A.P. (Annemarie) van Wezel</a>, IBED</li>
+</ul>
+
+<h3 id="contact">Contact</h3>
+
+<p>Get in contact with AI4Sustainability via:</p>
+
+<p><a href="https://www.uva.nl/profiel/b/a/m.j.bartels/m.j.bartels.html">Marcel Bartels</a><br />
+<em>Instituutsmanager</em> HIMS<br /></p>
+
+<p>Van ‘t Hoff Institute for Molecular Sciences<br />
+University of Amsterdam<br /></p>
+
+
+		</article>
+	</div><!-- /.medium-12.columns -->
+</div><!-- /.row -->
+
+
+
+
+	
+	    <div id="up-to-top" class="row">
+      <div class="small-12 columns" style="text-align: right;">
+        <a class="iconfont" href="#top-of-page">&#xf108;</a>
+      </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
+
+    <footer id="footer-content" class="bg-grau">
+      <div id="footer">
+        <div class="row">
+          <div class="medium-6 large-5 columns">
+            <h5 class="shadow-black">About This Site</h5>
+
+            <p class="shadow-black">
+              The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
+We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.
+              <a href="https://ai4science-amsterdam.github.io///lab">More ›</a>
+            </p>
+          </div><!-- /.large-6.columns -->
+
+
+          <div class="small-6 medium-3 large-3 large-offset-1 columns">
+            
+              
+                <h5 class="shadow-black">UvA Websites</h5>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+
+              <ul class="no-bullet shadow-black">
+              
+                
+                  <li >
+                    <a href="https://ai4science-amsterdam.github.io/"  title=""></a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="https://www.uva.nl" target="_blank"  title="UvA website">University of Amsterdam</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/faculty-of-science.html" target="_blank"  title="FNWI website">Faculty of Science</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="https://ivi.uva.nl" target="_blank"  title="Informatic Institute">Informatics Institute (IvI)</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="http://amlab.science.uva.nl/" target="_blank"  title="AMLAB">Amlab</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="https://ai4science-amsterdam.github.io//"  title="Take me home country roads">AI4Science home</a>
+                  </li>
+              
+              </ul>
+          </div><!-- /.large-4.columns -->
+
+
+          <div class="small-6 medium-3 large-3 columns">
+            
+              
+                <h5 class="shadow-black">Contact Us</h5>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+
+            <ul class="no-bullet shadow-black">
+            
+              
+                <li >
+                  <a href="https://ai4science-amsterdam.github.io/"  title=""></a>
+                </li>
+            
+              
+                <li >
+                  <a href="https://ai4science-amsterdam.github.io/"  title="Visit us">Visiting Adress: <br/> Science Park 904 <br/> 1098 XH Amsterdam</a>
+                </li>
+            
+              
+                <li >
+                  <a href="https://ai4science-amsterdam.github.io/"  title="">Postal Address: <br/> University of Amsterdam <br/> AI4Science Lab <br/> P.O. Box 94323 <br/> 1090 GH Amsterdam <br/> The Netherlands</a>
+                </li>
+            
+              
+                <li >
+                  <a href="https://ai4science-amsterdam.github.io/"  title="">Tel: +31 (0)20 525 7519</a>
+                </li>
+            
+              
+                <li >
+                  <a href="https://ai4science-amsterdam.github.io/"  title="">Email: ai4science.info@gmail.com</a>
+                </li>
+            
+            </ul>
+          </div><!-- /.large-3.columns -->
+        </div><!-- /.row -->
+
+      </div><!-- /#footer -->
+
+
+      <div id="subfooter">
+        <nav class="row">
+          <section id="subfooter-left" class="small-12 medium-6 columns credits">
+            <p> © 2020 UvA FNWI AI4Science Lab. All Rights Reserved |Design: <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>. |Header image: <a href="https://www.flickr.com/photos/mikemacmarketing/30212411048">Mike MacKenzie</a>.</p>
+          </section>
+
+          <section id="subfooter-right" class="small-12 medium-6 columns">
+            <ul class="inline-list social-icons">
+            
+              <li><a href="http://github.com/ai4science-amsterdam" target="_blank" class="icon-github" title="Code repository"></a></li>
+            
+              <li><a href="https://twitter.com/ai4science_lab" target="_blank" class="icon-twitter" title="Follow us on Twitter"></a></li>
+            
+            </ul>
+          </section>
+        </nav>
+      </div><!-- /#subfooter -->
+    </footer>
+
+	
+
+	
+
+
+<script src="https://ai4science-amsterdam.github.io//assets/js/javascript.min.js"></script>
+
+
+
+<script>
+    $("#masthead").backstretch("https://ai4science-amsterdam.github.io/images/header_drop.jpg", {fade: 700});
+    $("#masthead-with-text").backstretch("https://ai4science-amsterdam.github.io/images/header_drop.jpg", {fade: 700});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
