@@ -19,7 +19,6 @@ In this first call, four 2-year PD projects will be funded as part of the RPA AI
 
 These projects must involve at least two different supervisors from at least two of the abovementioned involved institutes, who must first submit a pre-proposal (topic and half a page of description) by September 30th. The board of AI4Sustainability will select which pre-proposals are to be developed into full proposals to be delivered by November 15th (details about full proposals to follow later). If you are interested in submitting a project proposal, please send it in PDF format to program coordinator Marcel Bartels (M.J.Bartels@uva.nl) indicating the name of PD supervisors and affiliated institutes in the PDF.
  
-Questions?
 Do you have questions about this vacancy? Or do you want to know more about the RPA AI4Sustainability? Please contact: Marcel Bartels (M.J.Bartels@uva.nl) or scientific coordinator Dr. Bernd Ensing (b.ensing@uva.nl).
 
 
