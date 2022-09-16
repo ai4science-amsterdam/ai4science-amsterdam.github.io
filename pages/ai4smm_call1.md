@@ -28,7 +28,7 @@ In this first call, four 2-year PD projects will be funded as part of AI4SMM’s
 
 ### Time line and procedure
 
- | 3 October 2022       | Introduction and Q&A session on the call. Time 16.00 hr, room TBA. |
+ | 3 October 2022       | Introduction and Q&A session on the call. Time 16.00 hr, room D1.111. |
  | 7 November 2022    | Deadline call pre-proposals                      |
  | 15 November 2022 | Decision by AI4SMM board on go/no go pre-proposals |
  | 23 December 2022  | Deadline full-proposals  |
