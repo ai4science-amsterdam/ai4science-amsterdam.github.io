@@ -26,14 +26,14 @@ More specifically: AI can be used as a tool in the prediction, design, analysis 
 
 ### How will the focus area forge new scientific connections and between which fields?
 
-To strengthen FNWI’s focus on smart and green and create synergy between the [Zero Waste theme][2], [Duurzame MaterialenNL][3], the [AI4Science lab][4], [AMCEL][5], the [Computational Soft Matter lab][6], and [Microsoft Research][7], we initiate the Research Focus Area (RPA) "**Artificial Intelligence for Sustainable Molecules and Materials**" (**AI4SMM**) that targets breakthroughs in sustainable innovation with AI and computational methods for molecules and materials to aid in realizing the materials transition needed for a sustainable society.
+To strengthen FNWI’s focus on smart and green and create synergy between the [Zero Waste theme][2], [Duurzame MaterialenNL][3], the [AI4Science lab][4], [AMCEL][5], the [Computational Soft Matter lab][6], and [Microsoft Research][7], we initiate the Research Focus Area (RPA) "**Artificial Intelligence for Sustainable Molecules and Materials**" (**AI4SMM**) that targets breakthroughs in sustainable innovation with AI and computational methods for molecules and materials to aid in realising the materials transition needed for a sustainable society.
 
 This RPA will bring together existing disciplinary strengths of [IvI][8], [IoP][9], [HIMS][10], [IBED][11] and [SILS][12] in an interdisciplinary program interfacing AI, computational molecular and materials science, with the development of sustainable technologies. Bridging sustainability with molecular and materials science will allow to predict quantitative structure-property relationships in the broadest sense: from functionality to degradability and interactions with the molecular or biological environment.
 
 
 ### The different components of the AI4SMM focus area
 
-Capitalizing on these opportunities will require the development of “hybrid” models that combine deep learning with conventional simulation. The resulting models have the potential to dramatically accelerate discovery of sustainable technologies by identifying promising molecular and material compositions in a high-dimensional design space that cannot possibly be explored by way of physical experimentation alone or using existing simulation methods. This requires fundamental research on deep learning methods that leverage symmetries to facilitate generalization, “invert” simulations, learn fast surrogates for expensive numerical computations, and navigate the trade-off between exploration and exploitation in a high-dimensional design space. Depending on the desired resolution, the models describing the molecules and materials of interest can involve electronic structure calculations, atomistic force fields, or coarse-grained (or even lattice) descriptions, alerts for toxicity. For complex systems as ultimately the real environment in which the safe and sustainable molecules and materials are to be produced, used and reused, a multi-scale approach can be employed, requiring smart algorithms to bridge relevant temporal and spatial scales. As these approaches are often still computationally intensive, the combination with deep learning methodology will allow for a much more efficient exploration of the multidimensional parameter space.
+Capitalising on these opportunities will require the development of “hybrid” models that combine deep learning with conventional simulation. The resulting models have the potential to dramatically accelerate discovery of sustainable technologies by identifying promising molecular and material compositions in a high-dimensional design space that cannot possibly be explored by way of physical experimentation alone or using existing simulation methods. This requires fundamental research on deep learning methods that leverage symmetries to facilitate generalisation, “invert” simulations, learn fast surrogates for expensive numerical computations, and navigate the trade-off between exploration and exploitation in a high-dimensional design space. Depending on the desired resolution, the models describing the molecules and materials of interest can involve electronic structure calculations, atomistic force fields, or coarse-grained (or even lattice) descriptions, alerts for toxicity. For complex systems as ultimately the real environment in which the safe and sustainable molecules and materials are to be produced, used and reused, a multi-scale approach can be employed, requiring smart algorithms to bridge relevant temporal and spatial scales. As these approaches are often still computationally intensive, the combination with deep learning methodology will allow for a much more efficient exploration of the multidimensional parameter space.
 
 ### The central research question and how it is addressed
 
@@ -50,7 +50,7 @@ AI is becoming increasingly important in all disciplines of science. It is there
 RPA AI4SMM's research at FNWI will be interdisciplinary, system-aware, applicative, creative, and will have strong connections with leading industries and sectors, where we connect fundamental research embedded in a broad traditional university with innovations at higher TRLs. The sustainability issues we are tackling are pressing, we do not have much time to transition. Therefore, we focus on making research applicable and strive for co-creation with implementation partners and parallel trajectories of R&D and implementation to break with the traditional research-pilot-implementation sequence to accelerate the innovation process. We aim for close collaborations with industry, businesses, and the municipality of Amsterdam to i) inform our research priorities, ii) collect useful and interesting data-sets, iii) co-create and develop, iv) bring our solutions into application. We envision an open atmosphere of continuous learning, with strong ties with FNWI’s educational programs, and exchange of ideas to nurture the RPA theme and to develop fundamental knowledge that has the potential to lead to real world applications in the future that will contribute to a more sustainable world.
 
 
-## Governance and organization:
+## Governance and organisation:
 
 ### Which institute acts as secretary of the focus area?
 The Van 't Hoff Institute for Molecular Sciences (HIMS) acts as secretary of the focus area.
@@ -71,7 +71,7 @@ The core group of this RPA *AI for Sustainable Molecules and Materials* will fun
 Get in contact with AI4SMM via:
 
 [Marcel Bartels](https://www.uva.nl/profiel/b/a/m.j.bartels/m.j.bartels.html)<br>
-*Instituutsmanager* HIMS<br>
+*Instituuts manager* HIMS<br>
 
 Van 't Hoff Institute for Molecular Sciences<br>
 University of Amsterdam<br>

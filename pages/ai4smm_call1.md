@@ -13,10 +13,10 @@ permalink: "/ai4smm_call1/"
 The FNWI Research Priority Area "*Artificial Intelligence for Sustainable Molecules and Materials" (AI4SMM)* has opened a call for  pre-proposals to fund **four interdisciplinary 2-year postdoctoral fellow projects**. Applications are to be submitted by potential PD supervisors.
 
 ### Introduction
-The AI4SMM RPA is focused on connecting and advancing two research areas that are already core strengths at the UvA Faculty of Science and will, in combination, have an important societal impact: (1) development and application of artifical intelligence and deep learning for data analysis and pattern recognition and (2)  design and utilisation of more sustainable molecules and materials that contribute to a more sustainable society.  AI4SMM extends the FNWI [AI4Science][1] initiative, adopting its mission of bringing together experts from different FNWI institutes and creating a laboratory in which scientists work on AI-based solutions for scientific questions, but with a clear focus on molecules, materials, and sustainability. An elaborate description of the program is available [online][2].
+The AI4SMM RPA is focused on connecting and advancing two research areas that are already core strengths at the UvA Faculty of Science and will, in combination, have an important societal impact: (1) development and application of artificial intelligence and deep learning for data analysis and pattern recognition and (2)  design and utilisation of more sustainable molecules and materials that contribute to a more sustainable society.  AI4SMM extends the FNWI [AI4Science][1] initiative, adopting its mission of bringing together experts from different FNWI institutes and creating a laboratory in which scientists work on AI-based solutions for scientific questions, but with a clear focus on molecules, materials, and sustainability. An elaborate description of the program is available [online][2].
 While the board of AI4SMM is formed by researchers from the FNWI institutes [HIMS][3], [IoP][4], [IvI][5], [IBED][6] and [SILS][7], this call is open to all tenured or tenure track staff of the Faculty of Science. 
 
-In this first call, four 2-year PD projects will be funded as part of AI4SMM’s mission. These projects will give shape to the AI4SMM research aims and will function as the initial core of a growing consortium of supervisors, researchers, students, as well as external academic and industrial partners interested in employing AI for sustainability. The proposed research must fit within the multidisciplinary AI4SMM aims, bridging between AI research (including machine learning, data science, simulation-based inference, surrogate modelling) and scientific research related to making and using sustainable molecules and materials and their material dynamics (related e.g. to sustainable food production, biodegradable plastics, (porous) materials and processes for CO2 capture or utilization, non-fossil fuels, energy storage, energy-efficient catalysis for fertilizer production, enzymatic catalysts, pollution and toxicity in natural habitats, etc.), as described in the [AI4SMM mission][2]. 
+In this first call, four 2-year PD projects will be funded as part of AI4SMM’s mission. These projects will give shape to the AI4SMM research aims and will function as the initial core of a growing consortium of supervisors, researchers, students, as well as external academic and industrial partners interested in employing AI for sustainability. The proposed research must fit within the multidisciplinary AI4SMM aims, bridging between AI research (including machine learning, data science, simulation-based inference, surrogate modelling) and scientific research related to making and using sustainable molecules and materials and their material dynamics (related e.g. to sustainable food production, biodegradable plastics, (porous) materials and processes for CO2 capture or utilisation, non-fossil fuels, energy storage, energy-efficient catalysis for fertiliser production, enzymatic catalysts, pollution and toxicity in natural habitats, etc.), as described in the [AI4SMM mission][2]. 
 
 
 ### Call conditions
@@ -26,13 +26,13 @@ In this first call, four 2-year PD projects will be funded as part of AI4SMM’s
 -	Personnel positions granted in this call should be filled ultimately 1 July 2023, otherwise the project will be withdrawn.
 
 
-### Time line and procedue
+### Time line and procedure
 
  | 3 October 2022       | Introduction and Q&A session on the call. Time 16.00 hr, room TBA. |
  | 7 November 2022    | Deadline call pre-proposals                      |
  | 15 November 2022 | Decision by AI4SMM board on go/no go pre-proposals |
  | 23 December 2022  | Deadline full-proposals  |
- | 12 Januari 2023       | Decision by AI4SMM board on granting full-proposals |
+ | 12 January 2023       | Decision by AI4SMM board on granting full-proposals |
 
 ### Format
 
