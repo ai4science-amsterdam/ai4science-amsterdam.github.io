@@ -71,6 +71,21 @@ The bi-weekly AI4Science colloquium is back, if you want to learn more about sta
 
 ____________________________________________________________________________________________________
 
+
+<center> <h2>New FNWI Research Priority Area</h2> </center>
+<center> <h1>AI for Sustainable Molecules and Materials</h1> </center>
+
+To strengthen FNWI’s focus on smart and green, the Research Focus Area
+(RPA) “Artificial Intelligence for Sustainable Molecules and
+Materials” (AI4SMM) has been launched. AI4SMM targets breakthroughs in
+sustainable innovation with AI and computational methods for molecules
+and materials to aid in realising the materials transition needed for
+a sustainable society. 
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/ai4smm_rpa/">Learn More›</a>
+
+____________________________________________________________________________________________________
+
 <center> <h1>AI4Science Lab</h1> </center>
 
 > How can we detect, classify, and predict relevant patterns in scientific data if they are hidden within large amount of non-relevant data?
