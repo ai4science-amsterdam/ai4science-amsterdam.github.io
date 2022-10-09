@@ -13,7 +13,6 @@ permalink: "/colloquium/"
 ---
 > Knowledge Shared = Knowledge<sup>2</sup>
 
-
 The AI4Science Colloquium is a bi-weekly colloquium series, held on alternating Tuesdays at 14:00 Central European Time. In this colloquium our very own Teodora Pandeva and Fiona Lippert invite renowned speakers to present and discuss their state-of-the-art AI solutions for scientific discovery. Interested? Subscribe to our Email-list to be notified.
 
 ## Email List
@@ -21,7 +20,23 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
-Our colloquium is on a summer break and will be back with more interesting talks in the next semester (September 2022).
+#### Geometry-based Data Exploration
+Date: 11-10-2022 14:00-1500 Central European Summer time
+
+ <img src="../people/GuyWolf.jpeg"
+     alt="GuyWolf.jpeg"
+     width="100"
+     style="float: right; margin-right: 10px; border-radius:50%;" />
+
+Speaker: **Guy Wolf**, Université de Montréal
+
+**Abstract:** <br/>
+
+High-throughput data collection technologies are becoming increasingly common in many fields, especially in biomedical applications involving single cell data (e.g., scRNA-seq and CyTOF). These introduce a rising need for exploratory analysis to reveal and understand hidden structure in the collected (high-dimensional) Big Data. A crucial aspect in such analysis is the separation of intrinsic data geometry from data distribution, as (a) the latter is typically biased by collection artifacts and data availability, and (b) rare subpopulations and sparse transitions between meta-stable states are often of great interest in biomedical data analysis. In this talk, I will show several tools that leverage manifold learning, graph signal processing, and harmonic analysis for biomedical (in particular, genomic/proteomic) data exploration, with emphasis on visualization, data generation/augmentation, and nonlinear feature extraction. A common thread in the presented tools is the construction of a data-driven diffusion geometry that both captures intrinsic structure in data and provides a generalization of Fourier harmonics on it. These, in turn, are used to process data features along the data geometry for denoising and generative purposes. Finally, I will relate this approach to the recently-proposed geometric scattering transform that generalizes Mallat's scattering to non-Euclidean domains, and provides a mathematical framework for theoretical understanding of the emerging field of geometric deep learning.
+
+**Bio:**<br/>
+Guy Wolf is an associate professor in the Department of Mathematics and Statistics (DMS) at the Université de Montréal (UdeM), a core academic member of Mila (the Quebec AI institute), and an associate researcher with CRCHUM (the Montreal university hospital research center). He is also affiliated with the IVADO institute of data valorization. He holds an M.Sc. and a Ph.D. in computer science from Tel Aviv University. Prior to joining UdeM, he was a postdoctoral researcher (2013-2015) in the Department of Computer Science at École Normale Supérieure in Paris (France), and a Gibbs Assistant Professor (2015-2018) in the Applied Mathematics Program at Yale University. Between 2004 and 2009 he served in the Israeli Defense Forces in IT software design and development roles related to data analysis and visualization. His research focuses on manifold learning and geometric deep learning for exploratory data analysis, including methods for dimensionality reduction, visualization, denoising, data augmentation, and coarse graining. Further, he is particularly interested in biomedical data exploration applications of such methods, e.g., in single cell genomics/proteomics and neuroscience.
+
 
 ## Schedule
 
@@ -36,11 +51,10 @@ Our colloquium is on a summer break and will be back with more interesting talks
 - 7 June 2022 - **Wujie Wang**
 - 21 June 2022 - **Peter Grünwald**
 - 5 July 2022 - **Michele Ceriotti**
+- 11 October 2022 - **Guy Wolf**
 
 
 ## Previous Colloquium
-
-## Next Colloquium
 
 #### A unified theory of atom cloud representations for machine learning
 
@@ -61,6 +75,7 @@ Simulations of matter at the atomic scale are precious to provide a mechanistic 
 Michele Ceriotti received his Ph.D. in Physics from ETH Zürich. He spent three years in Oxford as a Junior Research Fellow at Merton College. Since 2013 he leads the laboratory for Computational Science and Modeling, in the institute of Materials at EPFL, that focuses on method development for atomistic materials modeling based on statistical mechanics and machine learning.
 
 <a class="radius button small" href="https://drive.google.com/file/d/1piVbnetRwbMxMFyVIgoq1cOvAw3BlqBP/view?usp=sharing">Watch Back ›</a>
+
 
 For an overview of more  previous colloquia, please have a look at out [blog][2].
 
