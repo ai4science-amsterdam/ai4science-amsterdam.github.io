@@ -20,6 +20,48 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
+#### Deep Gaussian Markov Random Fields
+
+Date: 25-10-2022 14:00-1500 Central European Summer time
+
+ <img src="../people/FredrikLindsten.png"
+     alt="FredrikLindsten"
+     width="100"
+     style="float: right; margin-right: 10px; border-radius:50%;" />
+
+Speaker: **Fredrik Lindsten**, Linköping University
+
+**Abstract:** <br/>
+
+Machine learning methods on graphs are relevant for many application domains due to their ability to model complex dependencies and structures. Gaussian Markov Random Fields (GMRFs) provide a principled way to define Gaussian models on graphs by utilizing their sparsity structure. In this talk I will show how we can use graph neural networks (GNNs) and convolutional neural networks (CNNs) do design scalable and flexible GMRFs. Starting with lattice graphs, we establish a formal connection between CNNs and GMRFs, by showing that common GMRFs are special cases of a generative model where the inverse mapping from data to latent variables is given by a 1-layer linear CNN. This connection allows us to generalize GMRFs to multi-layer CNN architectures, effectively increasing the order of the corresponding GMRF in a way which has favorable computational scaling. I will also discuss how this Deep GMRF can be generalized to arbitrary graphs using a specialized GNN layer. Well-established tools, such as autodiff and variational inference, can be used for simple and efficient inference and learning of the Deep GMRF, and for a Gaussian likelihood, close to exact Bayesian inference is available for the latent field. I demonstrate the flexibility of the proposed model and show that it compares favorably to other methods, both Bayesian and deep-learning-based, on spatial and non-spatial data.
+
+Joint work with Joel Oskarsson (LiU) and Per Sidén (LiU/Qualcomm Arriver)
+
+Papers:
+
+[Deep Gaussian Markov Random Fields][10]
+
+[Scalable Deep Gaussian Markov Random Fields for General Graphs][11]
+
+## Schedule
+
+- 18 January 2022 - **Andrew Ferguson**
+- 7 February 2022 - **Jan-Matthis Lückmann** 
+- 1 March 2022 - **Martin van Hecke**
+- 15 March 2022 - **Rajesh Ranganath**
+- 29 March 2022 - **Anna Scaife**
+- 12 April 2022 - **Gabriel Vivó-Truyols**
+- 26 April 2022 - **Maximilian Dax**
+- 24 May 2022 - **Francesca Grisoni**
+- 7 June 2022 - **Wujie Wang**
+- 21 June 2022 - **Peter Grünwald**
+- 5 July 2022 - **Michele Ceriotti**
+- 11 October 2022 - **Guy Wolf**
+- 25 October 2022 - **Fredrik Lindsten**
+
+
+## Previous Colloquium
+
 #### Geometry-based Data Exploration
 Date: 11-10-2022 14:00-1500 Central European Summer time
 
@@ -38,44 +80,9 @@ High-throughput data collection technologies are becoming increasingly common in
 Guy Wolf is an associate professor in the Department of Mathematics and Statistics (DMS) at the Université de Montréal (UdeM), a core academic member of Mila (the Quebec AI institute), and an associate researcher with CRCHUM (the Montreal university hospital research center). He is also affiliated with the IVADO institute of data valorization. He holds an M.Sc. and a Ph.D. in computer science from Tel Aviv University. Prior to joining UdeM, he was a postdoctoral researcher (2013-2015) in the Department of Computer Science at École Normale Supérieure in Paris (France), and a Gibbs Assistant Professor (2015-2018) in the Applied Mathematics Program at Yale University. Between 2004 and 2009 he served in the Israeli Defense Forces in IT software design and development roles related to data analysis and visualization. His research focuses on manifold learning and geometric deep learning for exploratory data analysis, including methods for dimensionality reduction, visualization, denoising, data augmentation, and coarse graining. Further, he is particularly interested in biomedical data exploration applications of such methods, e.g., in single cell genomics/proteomics and neuroscience.
 
 
-## Schedule
-
-- 18 January 2022 - **Andrew Ferguson**
-- 7 February 2022 - **Jan-Matthis Lückmann** 
-- 1 March 2022 - **Martin van Hecke**
-- 15 March 2022 - **Rajesh Ranganath**
-- 29 March 2022 - **Anna Scaife**
-- 12 April 2022 - **Gabriel Vivó-Truyols**
-- 26 April 2022 - **Maximilian Dax**
-- 24 May 2022 - **Francesca Grisoni**
-- 7 June 2022 - **Wujie Wang**
-- 21 June 2022 - **Peter Grünwald**
-- 5 July 2022 - **Michele Ceriotti**
-- 11 October 2022 - **Guy Wolf**
-
-
-## Previous Colloquium
-
-#### A unified theory of atom cloud representations for machine learning
-
-Date: 05-07-2022 14:00-1500 Central European Summer time
-
- <img src="../people/MicheleCeriotti.jpeg"
-     alt="MicheleCeriotti.jpeg"
-     width="100"
-     style="float: right; margin-right: 10px; border-radius:50%;" />
-
-Speaker: **Michele Ceriotti**
-
-**Abstract:** <br/>
-
-Simulations of matter at the atomic scale are precious to provide a mechanistic understanding of chemical processes, and to design molecules and materials with predictive accuracy. As with many fields of science, machine learning have become an essential part of the modeling toolbox, with many frameworks having become well-established, and many more being developed in new research directions. The most effective frameworks incorporate fundamental physical principles, such as symmetry, locality, and hierarchical decompositions of the interactions between atoms, in the construction of the ML model. I will discuss a general framework that unifies several of the most recent developments in the field, including the representation of structures in terms of systematically-convergent atom-centered correlations of the neighbor density, as well as equivariant message-passing schemes that build automatically descriptors with equivalent information content. I will discuss a few examples of the implications of these fundamental findings, for both chemical machine learning and in general for problems that require a description of three-dimensional objects in terms of point clouds, and present some examples that highlight the limitations of some common approaches and point to strategies to overcome them.
-
-**Bio:**<br/>
-Michele Ceriotti received his Ph.D. in Physics from ETH Zürich. He spent three years in Oxford as a Junior Research Fellow at Merton College. Since 2013 he leads the laboratory for Computational Science and Modeling, in the institute of Materials at EPFL, that focuses on method development for atomistic materials modeling based on statistical mechanics and machine learning.
-
+<!--
 <a class="radius button small" href="https://drive.google.com/file/d/1piVbnetRwbMxMFyVIgoq1cOvAw3BlqBP/view?usp=sharing">Watch Back ›</a>
-
+-->
 
 For an overview of more  previous colloquia, please have a look at out [blog][2].
 
@@ -88,3 +95,6 @@ For an overview of more  previous colloquia, please have a look at out [blog][2]
 [6]:https://pubs.acs.org/doi/10.1021/acs.jctc.0c00981
 [7]:https://github.com/Ensing-Laboratory/FABULOUS
 [8]:www.evozyne.com
+[10]:https://arxiv.org/abs/2002.07467
+[11]:https://arxiv.org/abs/2206.05032
+
