@@ -166,49 +166,17 @@ We develop and use machine learning techniques to discover patterns in data stre
           
             
             
-              <li class="divider"></li>
-              <li><a  href="https://ai4science-amsterdam.github.io//consortium/">Consortium</a></li>
-
-            
-            
-          
-        
-
-              
-
-
-
-          
-          
-            
-            
-              <li class="divider"></li>
-              <li><a  href="https://ai4science-amsterdam.github.io//colloquium/">Colloquium</a></li>
-
-            
-            
-          
-        
-
-              
-
-
-
-          
-          
-            
-            
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="https://ai4science-amsterdam.github.io//events.html/">Events</a>
+                <a  href="https://ai4science-amsterdam.github.io//consortium/">Consortium</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://ai4science-amsterdam.github.io//events2/">Ellis Workshop</a></li>
+                      <li><a  href="https://ai4science-amsterdam.github.io//consortium/">Consortium</a></li>
                     
                   </ul>
 
@@ -225,10 +193,85 @@ We develop and use machine learning techniques to discover patterns in data stre
           
             
             
-              <li class="divider"></li>
-              <li><a  href="https://ai4science-amsterdam.github.io//publications/">Papers</a></li>
 
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a  href="https://ai4science-amsterdam.github.io//ai4smm_rpa/">AI4SMM</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//ai4smm_rpa/">AI4SMM</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//ai4smm_call1/">AI4SMM Fellowships</a></li>
+                    
+                  </ul>
+
+              </li>
             
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a  href="https://ai4science-amsterdam.github.io//events/">Events</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//colloquium/">Colloquia</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//events2/">Workshops</a></li>
+                    
+                  </ul>
+
+              </li>
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a  href="https://ai4science-amsterdam.github.io//publications/">Papers</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//publications/">Papers</a></li>
+                    
+                  </ul>
+
+              </li>
             
           
         
