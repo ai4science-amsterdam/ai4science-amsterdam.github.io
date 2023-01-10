@@ -38,19 +38,19 @@
   url: "/events/"
   side: right
   dropdown:
-  - title: Colloquia
+  - title: "Colloquia"
     url: "/colloquium/"
   - title: "Workshops"
     url: "/events2/"
 
-- title: Papers
+- title: "Papers"
   url: "/publications/"
   side: right
   dropdown:
   - title: Papers
     url: "/publications/"
 
-- title: Blog
+- title: "Blog"
   url: "/blog/"
   side: right 
   dropdown:
