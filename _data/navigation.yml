@@ -47,7 +47,7 @@
   url: "/publications/"
   side: right
   dropdown:
-  - title: Papers
+  - title: "Papers"
     url: "/publications/"
 
 - title: "Blog"
