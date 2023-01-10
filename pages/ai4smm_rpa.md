@@ -15,7 +15,7 @@ permalink: "/ai4smm_rpa/"
 ### Open call for postdoc positions
 
 AI4SMM has opened a call for pre-proposals to fund four interdisciplinary 2-year postdoctoral fellow projects. 
-For more information, please click [here](https://ai4science-amsterdam.github.io/ai4smm_call1).. Hello.
+For more information, please click [here](https://ai4science-amsterdam.github.io/ai4smm_call1).
 
 ---
 

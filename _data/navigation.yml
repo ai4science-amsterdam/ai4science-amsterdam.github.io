@@ -8,74 +8,41 @@
   dropdown:
   - title: "People"
     url: "/people/"
-#  - title: "Associate Members"
-#    url: "/people/#associate_members"
   - title: "Research"
     url: "/research/"
-#  - title: "design a grid"
-#    url: "/design/grid/"
+
 - title: "Consortium"
   url: "/consortium/"
   side: right
-#  dropdown:
-#  - title: "Grid & Colors"
-#    url: "/design/grid/"
-#  - title: "Typography"
-#    url: "/design/typography/typography/"
-#  - title: "Page/Post"
-#    url: "/design/page/"
-#  - title: "Post-Left-Sidebar"
-#    url: "/design/post-left-sidebar/"
-#  - title: "Post-Right-Sidebar"
-#    url: "/design/post-right-sidebar/"
-#  - title: "Page Full-Width"
-#    url: "/design/page-fullwidth/"
-#  - title: "Blog-Page"
-#    url: "/blog/"
-#  - title: "Video"
-#    url: "/design/video/"
-#  - title: "Gallery"
-#    url: "/design/gallery/"
-#  - title: "Portfolio"
-#    url: "/design/portfolio/"
+  dropdown:
+  - title: "Consortium"
+    url: "/consortium/"
 
 - title: "Colloquium"
   url: "/colloquium/"
   side: right
+  dropdown:
+  - title: "Colloquium"
+    url: "/colloquium/"
 
 - title: "Events"
   url: "/events.html/"
   side: right
   dropdown:
-#  - title: "Header with Full-Width-Image"
-#    url: "/design/header-full-width-image/"
-#  - title: "Header with Image and Pattern"
-#    url: "/design/header-image-pattern/"
-#  - title: "Header with image and color"
-#    url: "/design/header-image-color/"
-#  - title: "Header Only With Logo"
-#    url: "/design/header-logo-only/"
-#  - title: "Header With Text"
-#    url: "/design/header-with-text/"
-#  - title: "No Header"
-#    url: "/design/no-header/"
-#  - title: "No Header but Image"
-#    url: "/design/no-header-but-image/"
-  - title: "Ellis Workshop"
+  - title: Colloquia"
+    url: "/colloquium/"
+  - title: "Workshops"
     url: "/events2/"
-
-#- title: Blog
-#  url: "/documentation/"
-#  side: right
-#  dropdown:
-#  - title: "Changelog"
-#    url: "/changelog/"
-#  - title: "Roadmap"
-#    url: "/roadmap/"
+  - title: "Previous Events"
+    url: "/events2/"
 
 - title: Papers
   url: "/publications/"
   side: right
+  dropdown:
+  - title: Papers
+    url: "/publications/"
+
 - title: Blog
   url: "/blog/"
   side: right 
