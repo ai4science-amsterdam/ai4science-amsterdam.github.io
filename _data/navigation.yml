@@ -18,22 +18,29 @@
   - title: "Consortium"
     url: "/consortium/"
 
-- title: "Colloquium"
-  url: "/colloquium/"
+- title: "AI4SMM"
+  url: "/ai4smm_rpa/"
   side: right
   dropdown:
-  - title: "Colloquium"
-    url: "/colloquium/"
+  - title: "AI4SMM"
+    url: "/ai4smm_rpa/"
+  - title: "AI4SMM Fellowships"
+    url: "/ai4smm_call1/"
+    
+# - title: "Colloquium"
+#  url: "/colloquium/"
+#  side: right
+#  dropdown:
+#  - title: "Colloquium"
+#    url: "/colloquium/"
 
 - title: "Events"
-  url: "/events.html/"
+  url: "/events/"
   side: right
   dropdown:
-  - title: Colloquia"
+  - title: Colloquia
     url: "/colloquium/"
   - title: "Workshops"
-    url: "/events2/"
-  - title: "Previous Events"
     url: "/events2/"
 
 - title: Papers
