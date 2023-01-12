@@ -4,60 +4,14 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: default2
-header: no
-#   image_fullwidth: banner.jpg
-widget1:
-  title: "Radio Astronomy"
-  url: '/highlights/'
-  image: fig_project3b_s.png
-  #text: 'test'
-  text: 'An active field of research in astronomy deals with recognising rare features in data streams from space obervations in (almost) real time. This challenging task arises from the massive imaging surveys of the sky carried our at a wide range of wavelengths (optical, radio, X-ray). The purpose is no longer just to find objects that are there all or most of the time, but also to spot so-called ‘transient’ objects that appear only fleetingly.'
-widget2:
-  title: "Liquid Chromatography"
-  url: '/highlights/'
-  image: fig_project2.png
-  text: 'test'  
-  text: 'Two-dimensional liquid chromatography (2DLC) is a powerful technique to separate and detect trace molecular compounds in complex samples such as food contaminants, industrial production streams, urine, or blood, to name but a few examples. However, successful implementation requires time-consuming experiment-specific optimization of many parameters. Machine learning can aid with data-analysis and the acceleration of optimization.'  
-widget3:
-  title: "Gravitational Waves"
-  url: '/highlights/'
-  image: fig_project1.png
-  text: 'The breakthrough discovery of the first gravitational wave signal in September 2015 (Nobel Prize 2017) has opened a new window to the Universe. Analyses of the signal waveforms during the initial inspiral, merger and final ringdown phase provide crucial information about the properties of superheavy stellar objects.'
-widget4:
-  title: "Project Fiona"
-  url: '/highlights/'
-  image: fig_project1.png
-  text: 'TODO'
-widget5:
-  title: "Project Teodora"
-  url: '/highlights/'
-  image: fig_project1.png
-  text: 'TODO'
-#widget6:
-#  title: "Gravitational Waves"
-#  url: '/highlights/'
-#  image: fig_project1.png
-#  text: 'TODO'
-#
-# Use the call for action to show a button on the frontpage
-#
-# To make internal links, just use a permalink like this
-# url: /getting-started/
-#
-# To style the button in different colors, use no value
-# to use the main color or success, alert or secondary.
-# To change colors see sass/_01_settings_colors.scss
-#
-#callforaction:
-#  url: https://tinyletter.com/feeling-responsive
-#  text: Inform me about new updates and features ›
-#  style: alert
+layout: page-fullwidth
+header: 
+    image_fullwidth: banner.jpg
+    title: <span style="font-family:verdana;font-size:1em;">AI4Science</span> <br>  <span style="font-family:verdana;font-size:0.5em;">Artificial Intelligence for Scientific Discovery</span> 
+
+
 permalink: /index.html
-#
-# This is a nasty hack to make the navigation highlight
-# this page as active in the topbar navigation
-#
+
 homepage: true
 ---
 
