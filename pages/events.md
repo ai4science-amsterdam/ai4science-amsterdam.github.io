@@ -21,7 +21,7 @@ To see the colloquium schedule, subscribe to the email announcements, and watch 
 
 ## Workshops and symposia
 
-#### Machine Learning for Scientific Research in Amsterdam
+#### AI4Science Symposium
 
 * When: 24 February 2023
 * Where: LAB42 Room L1.01, Science Park, Amsterdam
