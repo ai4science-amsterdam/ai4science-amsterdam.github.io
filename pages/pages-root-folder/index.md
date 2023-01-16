@@ -5,10 +5,10 @@
 # this work, you have to use › layout: frontpage
 #
 layout: page-fullwidth
+title: "AI4Science Lab"
 header: 
     image_fullwidth: banner.jpg
-    title: <span style="font-family:verdana;font-size:1em;">AI4Science</span> <br>  <span style="font-family:verdana;font-size:0.5em;">Artificial Intelligence for Scientific Discovery</span> 
-
+    title: <span style="text-transform:none; font-family:inherit; font-size:1.2em;">AI4Science</span> <br>  <span style="text-transform:none; font-family:FontAwesome,Gill Sans; font-size:0.5em;">Artificial Intelligence for Scientific Discovery</span>
 
 permalink: /index.html
 
