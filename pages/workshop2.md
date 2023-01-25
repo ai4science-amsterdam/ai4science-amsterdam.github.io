@@ -2,11 +2,11 @@
 layout: page-fullwidth 
 show_meta: false
 subheadline: "Friday 24 February 2023"
-title: "Machine Learning for Science Symposium"
+title: "AI4Science Symposium"
 teaser: "LAB42 Room L1.01, Science Park, Amsterdam."
 header:
    image_fullwidth: "molsim3_s.jpg"
-   title: ' Machine Learning for Science Symposium'
+   title: ' AI4Science Symposium'
 permalink: "/workshop2/"
 ---
 

@@ -7,11 +7,11 @@
 (function($) {
 
 	skel.breakpoints({
-		xlarge:	'(max-width: 1680px)',
-		large:	'(max-width: 1280px)',
-		medium:	'(max-width: 980px)',
-		small:	'(max-width: 736px)',
-		xsmall:	'(max-width: 480px)'
+		xlarge:	'(max-width: 80px)',
+		large:	'(max-width: 80px)',
+		medium:	'(max-width: 0px)',
+		small:	'(max-width: 6px)',
+		xsmall:	'(max-width: 0px)'
 	});
 
 	$(function() {
