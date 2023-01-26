@@ -12,12 +12,6 @@ permalink: "/ai4smm_rpa/"
 
 
 ---
-### Open call for postdoc positions
-
-AI4SMM has opened a call for pre-proposals to fund four interdisciplinary 2-year postdoctoral fellow projects. 
-For more information, please click [here](https://ai4science-amsterdam.github.io/ai4smm_call1).
-
----
 
 ### Introduction to the new RPA
 
@@ -76,7 +70,13 @@ The core group of this RPA *AI for Sustainable Molecules and Materials* will fun
 * [Dr. J.C. (Chris) Slootweg][18], HIMS
 * [Prof. dr. A.P. (Annemarie) van Wezel][19], IBED
 
+---
+### Call for postdoc positions
 
+__This call is closed now__. AI4SMM has opened a call for pre-proposals to fund four interdisciplinary 2-year postdoctoral fellow projects. 
+For more information, please click [here](https://ai4science-amsterdam.github.io/ai4smm_call1).
+
+---
 ### Contact
 
 Get in contact with AI4SMM via:
