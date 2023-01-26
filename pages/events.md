@@ -23,10 +23,17 @@ To see the colloquium schedule, subscribe to the email announcements, and watch 
 
 #### AI4Science Symposium
 
+During this Friday afternoon, we present and discuss exciting
+developments and opportunities of AI and machine learning for
+scientific research in Chemistry, Ecology, Physics, Life Sciences, and
+Astrophysics. Meet your colleagues from different research institites,
+present a poster, explore your ideas for AI4Science projects,
+become a member or the AI4Science consortium, or join for a drink.
+
 * When: 24 February 2023
 * Where: LAB42 Room L1.01, Science Park, Amsterdam
 
-Further details to be announced.
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/workshop2/">Read More›</a>
 
 #### ChemAI Day
 

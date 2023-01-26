@@ -7,11 +7,11 @@ permalink: "/workshop2/"
 ---
 
 
-Artificial intelligence and machine learning is rapidly finding its
-way into the natural sciences where it is applied for the analysis of
+Artificial intelligence and machine learning are rapidly finding their
+way into the natural sciences, where they are applied for the analysis of
 research data, finding patterns and making predictions. At the same
-time, research topics and tools initiate the study and development of
-new machine learning models. The co-development of both fields is
+time, research topics and methodologies initiate the study and development of
+new machine learning algorithms. The co-development of both fields is
 self-catalyzed by the shared interest in building accurate models and
 distribution functions of the highly complex phenomena of nature.
 
@@ -24,7 +24,7 @@ new collaborations, research projects, and funding opportunities.
 Six scientists connected to the different FNWI institutes will give
 lectures on how artificial intelligence advances their scientific
 research. During the poster sessions, young and senior researchers
-can discuss their results and/or opportunities for AI models or
+can present their results and discuss opportunities for AI models or
 scientific research. The symposium concludes with drinks and snacks.
 
 The symposium is open to everyone with an interest in artificial
@@ -38,7 +38,6 @@ registration, and how to contribute a poster.
 ### Registration
 
 Registration is free but obligatory.
-
 To register, please copy and fill-out the following form and send this
 as an email to
 [ai4science.info@gmail.com](MAILTO:ai4science.info@gmail.com?subject=AI4Science%20Symposium%20Registration&body=Dear%20AI4Science
@@ -59,7 +58,7 @@ Symposium%20organisers,%0A%0AWith%20this%20email,%20I%20wish%20to%20register%20f
 
 ### Program:
 	
- 
+ <span> </span>
 
 | Time           |    Speaker    |
 |--------- |---------|
@@ -76,6 +75,8 @@ Symposium%20organisers,%0A%0AWith%20this%20email,%20I%20wish%20to%20register%20f
 
 
 ### Organisers
+
+ <span> </span>
 
 * Patrick Forré
 * Bernd Ensing
