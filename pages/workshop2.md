@@ -77,5 +77,5 @@ Symposium%20organisers,%0A%0AWith%20this%20email,%20I%20wish%20to%20register%20f
 
 ### Organisers
 
-* [Patrick Forré](https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html)
-* [Bernd Ensing](https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing/)
+* Patrick Forré
+* Bernd Ensing
