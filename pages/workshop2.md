@@ -6,7 +6,6 @@ header:
 permalink: "/workshop2/"
 ---
 
-## AI4Science Symposium
 
 Artificial intelligence and machine learning is rapidly finding its
 way into the natural sciences where it is applied for the analysis of
