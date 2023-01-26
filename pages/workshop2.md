@@ -6,7 +6,7 @@ header:
 permalink: "/workshop2/"
 ---
 
-# AI4Science Symposium
+## AI4Science Symposium
 
 Artificial intelligence and machine learning is rapidly finding its
 way into the natural sciences where it is applied for the analysis of
@@ -76,3 +76,7 @@ Symposium%20organisers,%0A%0AWith%20this%20email,%20I%20wish%20to%20register%20f
 |  17.20 - 18.30	|  Posters + drinks & snacks |
 
 
+### Organisers
+
+* [Patrick Forré](https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html)
+* [Bernd Ensing](https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing/)
