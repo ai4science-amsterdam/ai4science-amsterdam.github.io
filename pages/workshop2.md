@@ -51,11 +51,11 @@ Symposium%20organisers,%0A%0AWith%20this%20email,%20I%20wish%20to%20register%20f
 	wish to register for the AI4Science Symposium on 24 February.<br><br>My first and last name:<br>My position [Student/PhD/Faculty/Other]:<br>Organization:<br>Institute:<br>Research group:<br><br>Presenting a poster [yes/no]:<br>Poster title:<br><br>kind regards,</span>
 
 
- * submitting a poster is optional
- * the deadline for registration is 19 February 2023
- * you will receive a confirmation email within 2 working days
- * in case of cancelation, please inform us by
- [email](MAILTO:ai4science.info@gmail.com?subject=Cancelation%20AI4Science%20Symposium) not later than 22 February 2023
+ * Submitting a poster is of course optional.
+ * The deadline for registration is 19 February 2023.
+ * You will receive a confirmation email within 2 working days.
+ * In case of cancelation, please inform us by.
+ [email](MAILTO:ai4science.info@gmail.com?subject=Cancelation%20AI4Science%20Symposium) not later than 22 February 2023.
 
 ### Program:
 	
