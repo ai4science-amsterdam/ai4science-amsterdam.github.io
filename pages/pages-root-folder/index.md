@@ -14,13 +14,33 @@ permalink: /index.html
 homepage: true
 ---
 
+
 ----------------------------------------------------------------------------------------------------------
 <center> <h2>Upcoming Events</h2> </center>
-<center> <h1>The AI4Science Colloquium</h1> </center>
+<center> <h1>The AI4Science Symposium</h1> </center>
 
-The bi-weekly AI4Science colloquium is back, if you want to learn more about state of the art AI solutions for Science, please tune in. Check out the Colloquium page for the schedule, recordings of previous colloquia and more!  
+On Friday, 24 February, we organise an AI4Science Symposium in the
+Amsterdam Science Park LAB42 building for everyone interested in machine
+learning developments and applications for scientific discovery. 
+Researchers from the different FNWI institutes show-case recent progress
+in their fields and discuss future challenges and opportunities for
+AI4Science. 
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/colloquium/">Learn More›</a>
+The goal of the symposium is to learn about the latest AI4Science developments,
+exchange ideas, and bring scientists and AI experts in contact.
+Information on the (free) registration and poster
+submission is found <a href="/events/">on this website</a>.
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/events/">Learn More›</a>
+
+
+[comment]: ----------------------------------------------------------------------------------------------------------
+[comment]: <center> <h2>Upcoming Events</h2> </center>
+[comment]: <center> <h1>The AI4Science Colloquium</h1> </center>
+
+[comment]: The bi-weekly AI4Science colloquium is back, if you want to learn more about state of the art AI solutions for Science, please tune in. Check out the Colloquium page for the schedule, recordings of previous colloquia and more!  
+
+[comment]: <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/colloquium/">Learn More›</a>
 
 ____________________________________________________________________________________________________
 
