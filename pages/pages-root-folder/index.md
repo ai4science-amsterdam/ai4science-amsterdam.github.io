@@ -17,7 +17,7 @@ homepage: true
 
 ----------------------------------------------------------------------------------------------------------
 <center> <h2>Upcoming Events</h2> </center>
-<center> <h1>The AI4Science Symposium</h1> </center>
+<center> <h1>AI4Science Symposium, 24 February 2023</h1> </center>
 
 On Friday, 24 February, we organise an AI4Science Symposium in the
 Amsterdam Science Park LAB42 building for everyone interested in machine
