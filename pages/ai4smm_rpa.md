@@ -31,7 +31,7 @@ More specifically: AI can be used as a tool in the prediction, design, analysis 
 
 ### How will the focus area forge new scientific connections and between which fields?
 
-To strengthen FNWI’s focus on smart and green and create synergy between the [Zero Waste theme][2], [Duurzame MaterialenNL][3], the [AI4Science lab][4], [AMCEL][5], the [Computational Soft Matter lab][6], and [Microsoft Research][7], we initiate the Research Focus Area (RPA) "**Artificial Intelligence for Sustainable Molecules and Materials**" (**AI4SMM**) that targets breakthroughs in sustainable innovation with AI and computational methods for molecules and materials to aid in realising the materials transition needed for a sustainable society.
+To strengthen FNWI’s focus on smart and green and create synergy between the [Zero Waste theme][2], [Duurzame MaterialenNL][3], the [UvA Sustainability Platform (USP)][23], the [AI4Science lab][4], [AMCEL][5], the [Computational Soft Matter lab][6], and [Microsoft Research][7], we initiate the Research Focus Area (RPA) "**Artificial Intelligence for Sustainable Molecules and Materials**" (**AI4SMM**) that targets breakthroughs in sustainable innovation with AI and computational methods for molecules and materials to aid in realising the materials transition needed for a sustainable society.
 
 This RPA will bring together existing disciplinary strengths of [IvI][8], [IoP][9], [HIMS][10], [IBED][11] and [SILS][12] in an interdisciplinary program interfacing AI, computational molecular and materials science, with the development of sustainable technologies. Bridging sustainability with molecular and materials science will allow to predict quantitative structure-property relationships in the broadest sense: from functionality to degradability and interactions with the molecular or biological environment.
 
@@ -110,5 +110,6 @@ University of Amsterdam<br>
 [20]: https://www.uva.nl/programmas/bachelors/future-planet-studies/future-planet-studies.html
 [21]: https://www.folia.nl/actueel/151772/met-nieuwe-betastudie-science-design-begeeft-de-uva-zich-richting-de-techniek
 [22]: https://www.auc.nl
+[23]: https://sustainabilityplatform.uva.nl
 
 
