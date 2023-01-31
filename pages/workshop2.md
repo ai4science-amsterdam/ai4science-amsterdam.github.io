@@ -63,13 +63,13 @@ Symposium%20organisers,%0A%0AWith%20this%20email,%20I%20wish%20to%20register%20f
 | Time           |    Speaker    |
 |--------- |---------|
 |  13.00 - 13.15   | 	Opening |
-|  13.15 - 13.40	|  Lecture 1  |
-|  13.45 - 14.10	|  Lecture 2    |
-|  14.15 - 13.40	|  Lecture 3    |
+|  13.15 - 13.40	|  [Patrick Forré][0] (IvI) <br> _Past, present, and future of the AI4Science Lab_|
+|  13.45 - 14.10	|  [Alberto Pérez de Alba Ortíz ][1] ([CSM][6]) |
+|  14.15 - 13.40	|  [Huub Hoefsloot][2] (SILS)   |
 |  14.45 - 15.45	|  Posters + coffee break  |
-|  15.45 - 16.10	|  Lecture 4    |
-|  16.15 - 16.40	|  Lecture 5    |
-|  16.45 - 17.10	|  Lecture 6    |
+|  15.45 - 16.10	|  [Saer Samanipour][3] (HIMS) & [Antonia Praetorius][4] (IBED)   |
+|  16.15 - 16.40	|  [Daniela Huppenkothen][5] ([SRON][7])  |
+|  16.45 - 17.10	|  tba   |
 |  17.15 - 17.30	|  Conclusions   |
 |  17.20 - 18.30	|  Posters + drinks & snacks |
 
@@ -80,3 +80,12 @@ Symposium%20organisers,%0A%0AWith%20this%20email,%20I%20wish%20to%20register%20f
 
 * Patrick Forré
 * Bernd Ensing
+
+[0]: http://amlab.science.uva.nl/people/PatrickForre/
+[1]: https://colloid.nl/people/dr-alberto-perez-de-alba-ortiz/
+[2]: http://www.bdagroup.nl/content/People/huub_hoefsloot.php
+[3]: https://www.uva.nl/en/profile/s/a/s.samanipour/s.samanipour.html
+[4]: https://www.uva.nl/en/profile/p/r/a.praetorius/a.praetorius.html
+[5]: https://huppenkothen.org
+[6]: https://iop.fnwi.uva.nl/computational_soft_matter
+[7]: https://www.sron.nl
