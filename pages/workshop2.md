@@ -71,7 +71,7 @@ Symposium%20organisers,%0A%0AWith%20this%20email,%20I%20wish%20to%20register%20f
 |  16.15 - 16.40	|  [Daniela Huppenkothen][5] ([SRON][7])  |
 |  16.45 - 17.10	|  tba   |
 |  17.15 - 17.30	|  Conclusions   |
-|  17.20 - 18.30	|  Posters + drinks & snacks |
+|  17.30 - 18.30	|  Posters + drinks & snacks |
 
 
 ### Organisers
