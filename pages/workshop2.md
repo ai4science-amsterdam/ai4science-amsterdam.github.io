@@ -64,7 +64,7 @@ Symposium%20organisers,%0A%0AWith%20this%20email,%20I%20wish%20to%20register%20f
 |--------- |---------|
 |  13.00 - 13.15   | 	Opening |
 |  13.15 - 13.40	|  [Patrick Forré][0] (IvI) <br> _Past, present, and future of the AI4Science Lab_|
-|  13.45 - 14.10	|  [Alberto Pérez de Alba Ortíz ][1] ([CSM][6]) |
+|  13.45 - 14.10	|  [Alberto Pérez de Alba Ortíz][1] ([CSM][6])<br> _Harnessing ML to sample, analyze & engineer modes in molecular & colloidal systems_|
 |  14.15 - 13.40	|  [Huub Hoefsloot][2] (SILS)   |
 |  14.45 - 15.45	|  Posters + coffee break  |
 |  15.45 - 16.10	|  [Saer Samanipour][3] (HIMS) & [Antonia Praetorius][4] (IBED)   |
