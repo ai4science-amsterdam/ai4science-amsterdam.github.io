@@ -53,7 +53,7 @@ Symposium%20organisers,%0A%0AWith%20this%20email,%20I%20wish%20to%20register%20f
  * Submitting a poster is of course optional.
  * The deadline for registration is 19 February 2023.
  * You will receive a confirmation email within 2 working days.
- * In case of cancelation, please inform us by.
+ * In case of cancelation, please inform us by 
  [email](MAILTO:ai4science.info@gmail.com?subject=Cancelation%20AI4Science%20Symposium) not later than 22 February 2023.
 
 ### Program:
