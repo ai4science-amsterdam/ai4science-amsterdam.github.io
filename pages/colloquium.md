@@ -13,7 +13,6 @@ permalink: "/colloquium/"
 ---
 > Knowledge Shared = Knowledge<sup>2</sup>
 
-
 The AI4Science Colloquium is a bi-weekly colloquium series, held on alternating Tuesdays at 14:00 Central European Time. In this colloquium our very own Teodora Pandeva and Fiona Lippert invite renowned speakers to present and discuss their state-of-the-art AI solutions for scientific discovery. Interested? Subscribe to our Email-list to be notified.
 
 ## Email List
@@ -21,89 +20,69 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
-#### Simulation-Based Inference for Neuroscience and Beyond
+#### Deep Gaussian Markov Random Fields
 
-Date: 07-02-2022 14:00-1500 Central European Winter time
+Date: 25-10-2022 14:00-1500 Central European Summer time
 
-
- <img src="../people/JanMatthisLuckmann.jpeg"
-     alt="JanMatthisLuckmann"
+ <img src="../people/FredrikLindsten.png"
+     alt="FredrikLindsten"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
-Speaker: **Jan-Matthis Lückmann** , University of Tübingen
+Speaker: **Fredrik Lindsten**, Linköping University
 
 **Abstract:** <br/>
 
-Science and industry make extensive use of simulations to model the world. However,
-conventional statistical inference is often inapplicable to detailed simulation models because their
-associated likelihood functions are intractable. In this talk, I discuss how simulation-based
-inference (SBI) addresses this problem, with an emphasis on applications to biophysical models
-of neural dynamics. I highlight SBI’s potential to close the gap between data-driven and theory-
-driven models in neuroscience. Furthermore, I present our recently-introduced, first-ever
-benchmark of SBI that compares algorithms in a transparent and reproducible way, explaining
-different approaches, metrics for principled comparisons, key findings, and open challenges.
+Machine learning methods on graphs are relevant for many application domains due to their ability to model complex dependencies and structures. Gaussian Markov Random Fields (GMRFs) provide a principled way to define Gaussian models on graphs by utilizing their sparsity structure. In this talk I will show how we can use graph neural networks (GNNs) and convolutional neural networks (CNNs) do design scalable and flexible GMRFs. Starting with lattice graphs, we establish a formal connection between CNNs and GMRFs, by showing that common GMRFs are special cases of a generative model where the inverse mapping from data to latent variables is given by a 1-layer linear CNN. This connection allows us to generalize GMRFs to multi-layer CNN architectures, effectively increasing the order of the corresponding GMRF in a way which has favorable computational scaling. I will also discuss how this Deep GMRF can be generalized to arbitrary graphs using a specialized GNN layer. Well-established tools, such as autodiff and variational inference, can be used for simple and efficient inference and learning of the Deep GMRF, and for a Gaussian likelihood, close to exact Bayesian inference is available for the latent field. I demonstrate the flexibility of the proposed model and show that it compares favorably to other methods, both Bayesian and deep-learning-based, on spatial and non-spatial data.
 
-**Bio:**  <br/>
-Jan-Matthis Lückmann is currently finishing his PhD in Computer Science at the University of 
-Tübingen, advised by Prof. Jakob Macke. Jan-Matthis' research interests are at the intersection of 
-machine learning and computational neuroscience. His expertise lies in simulation-based 
-inference and its applications to mechanistic models. Jan-Matthis' work includes the proposal of 
-fast and flexible inference algorithms based on neural density estimation and their applications to 
-biophysical models in neuroscience. Most recently, he introduced the first-ever benchmark for the 
-rapidly developing field of simulation-based inference.
+Joint work with Joel Oskarsson (LiU) and Per Sidén (LiU/Qualcomm Arriver)
 
-<!---
-#### Title: To be announced
+Papers:
 
-Date: 15-02-2022 14:00-1500 Central European Winter time
+[Deep Gaussian Markov Random Fields][10]
 
+[Scalable Deep Gaussian Markov Random Fields for General Graphs][11]
 
- <img src="../people/AnnaScaife.jpeg"
-     alt="AnnaScaife"
-     width="100"
-     style="float: right; margin-right: 10px; border-radius:50%;" />
-
-Speaker: **Anna Scaife**, Professor of Radio Astronomy at the University of Manchester and Head of the Jodrell Bank Centre for Astrophysics Interferometry Centre of Excellence
-
-**Abstract:** <br/>
-
-To be announced.
-
--->
 ## Schedule
 
 - 18 January 2022 - **Andrew Ferguson**
 - 7 February 2022 - **Jan-Matthis Lückmann** 
-- 15 February 2022 - **Anna Scaife**
+- 1 March 2022 - **Martin van Hecke**
 - 15 March 2022 - **Rajesh Ranganath**
-- 29 March 2022 - **Katie Bouman**
+- 29 March 2022 - **Anna Scaife**
 - 12 April 2022 - **Gabriel Vivó-Truyols**
+- 26 April 2022 - **Maximilian Dax**
+- 24 May 2022 - **Francesca Grisoni**
+- 7 June 2022 - **Wujie Wang**
+- 21 June 2022 - **Peter Grünwald**
+- 5 July 2022 - **Michele Ceriotti**
+- 11 October 2022 - **Guy Wolf**
+- 25 October 2022 - **Fredrik Lindsten**
 
 
 ## Previous Colloquium
 
-#### Ultra-fast molecular simulators and data-driven protein design
+#### Geometry-based Data Exploration
+Date: 11-10-2022 14:00-1500 Central European Summer time
 
-Date: 18-01-2022 14:00-1500 Central European Winter time
-
-
- <img src="../people/AndrewFerguson.jpeg"
-     alt="AndrewFerguson"
+ <img src="../people/GuyWolf.jpeg"
+     alt="GuyWolf.jpeg"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
-Speaker: **Andrew Ferguson**, Pritzker School of Molecular Engineering, University of Chicago
+Speaker: **Guy Wolf**, Université de Montréal
 
 **Abstract:** <br/>
 
-Data-driven modeling and deep learning present powerful tools that are opening up new paradigms and opportunities in the understanding, discovery, and design of soft and biological materials. In this talk, I will first describe an approach based on latent space simulators to learn ultra-fast surrogate models of protein folding by stacking three specialized deep learning networks to (i) encode a molecular system into a slow latent space, (ii) propagate dynamics in this latent space, and (iii) generatively decode a synthetic molecular trajectory. I will then describe our recent applications of deep representational learning to expose the sequence-function relationship within homologous protein families and to use these principles for the data-driven design and experimental testing of synthetic proteins with new and/or elevated function.
+High-throughput data collection technologies are becoming increasingly common in many fields, especially in biomedical applications involving single cell data (e.g., scRNA-seq and CyTOF). These introduce a rising need for exploratory analysis to reveal and understand hidden structure in the collected (high-dimensional) Big Data. A crucial aspect in such analysis is the separation of intrinsic data geometry from data distribution, as (a) the latter is typically biased by collection artifacts and data availability, and (b) rare subpopulations and sparse transitions between meta-stable states are often of great interest in biomedical data analysis. In this talk, I will show several tools that leverage manifold learning, graph signal processing, and harmonic analysis for biomedical (in particular, genomic/proteomic) data exploration, with emphasis on visualization, data generation/augmentation, and nonlinear feature extraction. A common thread in the presented tools is the construction of a data-driven diffusion geometry that both captures intrinsic structure in data and provides a generalization of Fourier harmonics on it. These, in turn, are used to process data features along the data geometry for denoising and generative purposes. Finally, I will relate this approach to the recently-proposed geometric scattering transform that generalizes Mallat's scattering to non-Euclidean domains, and provides a mathematical framework for theoretical understanding of the emerging field of geometric deep learning.
 
 **Bio:**<br/>
+Guy Wolf is an associate professor in the Department of Mathematics and Statistics (DMS) at the Université de Montréal (UdeM), a core academic member of Mila (the Quebec AI institute), and an associate researcher with CRCHUM (the Montreal university hospital research center). He is also affiliated with the IVADO institute of data valorization. He holds an M.Sc. and a Ph.D. in computer science from Tel Aviv University. Prior to joining UdeM, he was a postdoctoral researcher (2013-2015) in the Department of Computer Science at École Normale Supérieure in Paris (France), and a Gibbs Assistant Professor (2015-2018) in the Applied Mathematics Program at Yale University. Between 2004 and 2009 he served in the Israeli Defense Forces in IT software design and development roles related to data analysis and visualization. His research focuses on manifold learning and geometric deep learning for exploratory data analysis, including methods for dimensionality reduction, visualization, denoising, data augmentation, and coarse graining. Further, he is particularly interested in biomedical data exploration applications of such methods, e.g., in single cell genomics/proteomics and neuroscience.
 
-Andrew Ferguson is an Associate Professor and Deputy Dean for Equity, Diversity, and Inclusion at the Pritzker School of Molecular Engineering at the University of Chicago. He received an M.Eng. in Chemical Engineering from Imperial College London in 2005, and a Ph.D. in Chemical and Biological Engineering from Princeton University in 2010. From 2010 to 2012 he was a Postdoctoral Fellow of the Ragon Institute of MGH, MIT, and Harvard in the Department of Chemical Engineering at MIT. He commenced his independent career as an Assistant Professor of Materials Science and Engineering at the University of Illinois at Urbana-Champaign in August 2012 and was promoted to Associate Professor of Materials Science and Engineering and Chemical and Biomolecular Engineering in January 2018. He joined the Pritzker School of Molecular Engineering in July 2018. His research uses theory, simulation, and machine learning to understand and design self-assembling materials, macromolecular folding, and antiviral therapies. He is the recipient of a 2020 Dreyfus Foundation Award for Machine Learning in the Chemical Sciences and Engineering, 2018/19 Junior Moulton Medal of the Institution of Chemical Engineers, 2017 UIUC College of Engineering Dean's Award for Excellence in Research, 2016 AIChE CoMSEF Young Investigator Award for Modeling & Simulation, 2015 ACS OpenEye Outstanding Junior Faculty Award, 2014 NSF CAREER Award, 2014 ACS PRF Doctoral New Investigator, and was named the Institution of Chemical Engineers North America 2013 Young Chemical Engineer of the Year. He is the co-founder of the protein engineering company Evozyne, Inc. ([www.evozyne.com][8]).
 
-<a class="radius button small" href="https://drive.google.com/file/d/1KJt-T8hqy77dDNPrxViiCPbusLHW0Vp5/view?usp=sharing">Watch Back ›</a>
+<!--
+<a class="radius button small" href="https://drive.google.com/file/d/1piVbnetRwbMxMFyVIgoq1cOvAw3BlqBP/view?usp=sharing">Watch Back ›</a>
+-->
 
 For an overview of more  previous colloquia, please have a look at out [blog][2].
 
@@ -116,4 +95,6 @@ For an overview of more  previous colloquia, please have a look at out [blog][2]
 [6]:https://pubs.acs.org/doi/10.1021/acs.jctc.0c00981
 [7]:https://github.com/Ensing-Laboratory/FABULOUS
 [8]:www.evozyne.com
+[10]:https://arxiv.org/abs/2002.07467
+[11]:https://arxiv.org/abs/2206.05032
 

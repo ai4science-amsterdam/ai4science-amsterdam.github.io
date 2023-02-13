@@ -9,7 +9,7 @@ title: "AI4Science -- Artificial Intelligence for Scientific Discovery"
 header:
   #title: "AI4Science"
   #title: "AI4Science -- Artificial Intelligence for Scientific Discovery"
-  #slogan: "Artificial Intelligence for Scientific Discovery"
+  slogan: "Artificial Intelligence for Scientific Discovery"
   image_fullwidth: banner.jpg
 widget1:
   title: "Upcoming Event"

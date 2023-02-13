@@ -111,7 +111,11 @@ We develop and use machine learning techniques to discover patterns in data stre
       <h1 class="show-for-small-only"><a href="https://ai4science-amsterdam.github.io/" class="icon-tree"> AI4Science Lab</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-      <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
+
+<!-- ***** 25-1-2023: "menu-icon" removed by Bernd after failing to change its color to white in _sass/foundation-components/_top-bar.scss (look for "menu-icon" and "hamburger icon") *****  -->
+      <!--  <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>  -->
+      <li class="toggle-topbar"><a href="#"><span>Menu</span></a></li>
+
     </ul>
     <section class="top-bar-section">
 
@@ -166,49 +170,17 @@ We develop and use machine learning techniques to discover patterns in data stre
           
             
             
-              <li class="divider"></li>
-              <li><a  href="https://ai4science-amsterdam.github.io//consortium/">Consortium</a></li>
-
-            
-            
-          
-        
-
-              
-
-
-
-          
-          
-            
-            
-              <li class="divider"></li>
-              <li><a  href="https://ai4science-amsterdam.github.io//colloquium/">Colloquium</a></li>
-
-            
-            
-          
-        
-
-              
-
-
-
-          
-          
-            
-            
 
               <li class="divider"></li>
               <li class="has-dropdown">
-                <a  href="https://ai4science-amsterdam.github.io//events.html/">Events</a>
+                <a  href="https://ai4science-amsterdam.github.io//consortium/">Consortium</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://ai4science-amsterdam.github.io//events2/">Ellis Workshop</a></li>
+                      <li><a  href="https://ai4science-amsterdam.github.io//consortium/">Consortium</a></li>
                     
                   </ul>
 
@@ -225,10 +197,85 @@ We develop and use machine learning techniques to discover patterns in data stre
           
             
             
-              <li class="divider"></li>
-              <li><a  href="https://ai4science-amsterdam.github.io//publications/">Papers</a></li>
 
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a  href="https://ai4science-amsterdam.github.io//ai4smm_rpa/">AI4SMM</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//ai4smm_rpa/">AI4SMM</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//ai4smm_call1/">AI4SMM Fellowships</a></li>
+                    
+                  </ul>
+
+              </li>
             
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a  href="https://ai4science-amsterdam.github.io//events/">Events</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//colloquium/">Colloquia</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//events/">Workshops</a></li>
+                    
+                  </ul>
+
+              </li>
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a  href="https://ai4science-amsterdam.github.io//publications/">Papers</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//publications/">Papers</a></li>
+                    
+                  </ul>
+
+              </li>
             
           
         
@@ -370,8 +417,8 @@ We develop and use machine learning techniques to discover patterns in data stre
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://ai4science-amsterdam.github.io/" title="AI4Science Lab – Test">
-				<img src="https://ai4science-amsterdam.github.io//assets/img/logo.png" alt="AI4Science Lab – Test">
+			<a id="logo" href="https://ai4science-amsterdam.github.io/" title="AI4Science Lab – Where AI meets Science.">
+				<img src="https://ai4science-amsterdam.github.io//assets/img/logo.png" alt="AI4Science Lab – Where AI meets Science.">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
