@@ -63,9 +63,9 @@ Symposium%20organisers,%0A%0AWith%20this%20email,%20I%20wish%20to%20register%20f
 | Time           |    Speaker    |
 |--------- |---------|
 |  13.00 - 13.15   | 	Opening |
-|  13.15 - 13.40	|  [Patrick Forré][0] (IvI) <br> _Past, present, and future of the AI4Science Lab_|
-|  13.45 - 14.10	|  [Alberto Pérez de Alba Ortíz][1] ([CSM][6])<br> _Harnessing ML to sample, analyze & engineer modes in molecular & colloidal systems_|
-|  14.15 - 13.40	|  [Huub Hoefsloot][2] (SILS) <br> _How to get biological knowledge in a deep learner_   |
+|  13.15 - 13.40	|  [Patrick Forré][0] (IvI) <br> _Past, Present, and Future of the AI4Science Lab_|
+|  13.45 - 14.10	|  [Alberto Pérez de Alba Ortíz][1] ([CSM][6])<br> _Harnessing ML to Sample, Analyze & Engineer Modes in Molecular & Colloidal Systems_|
+|  14.15 - 13.40	|  [Huub Hoefsloot][2] (SILS) <br> _How to get Biological Knowledge in a Deep Learner_   |
 |  14.45 - 15.45	|  Posters + coffee break  |
 |  15.45 - 16.10	|  [Saer Samanipour][3] (HIMS) & [Antonia Praetorius][4] (IBED)   |
 |  16.15 - 16.40	|  [Daniela Huppenkothen][5] ([SRON][7]) <br> _Inferring the Properties of Black Holes and Neutron Stars with Machine Learning_  |
