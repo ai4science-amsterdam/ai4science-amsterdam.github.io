@@ -69,7 +69,7 @@ Symposium%20organisers,%0A%0AWith%20this%20email,%20I%20wish%20to%20register%20f
 |  14.45 - 15.45	|  Posters + coffee break  |
 |  15.45 - 16.10	|  [Saer Samanipour][3] (HIMS) & [Antonia Praetorius][4] (IBED)   |
 |  16.15 - 16.40	|  [Daniela Huppenkothen][5] ([SRON][7]) <br> _Inferring the Properties of Black Holes and Neutron Stars with Machine Learning_  |
-|  16.45 - 17.10	|  tba   |
+|  16.45 - 17.10	|  [Jean-Michel Désert][8] ([API]) <br> _Numerical tools to dicepher exoplanet atmospheres_ |
 |  17.15 - 17.30	|  Conclusions   |
 |  17.30 - 19.00	|  Posters + drinks & snacks |
 
@@ -89,3 +89,4 @@ Symposium%20organisers,%0A%0AWith%20this%20email,%20I%20wish%20to%20register%20f
 [5]: https://huppenkothen.org
 [6]: https://iop.fnwi.uva.nl/computational_soft_matter
 [7]: https://www.sron.nl
+[8]: https://www.uva.nl/en/profile/d/e/j.m.l.b.desert/j.m.l.b.desert.html
