@@ -69,7 +69,7 @@ Symposium%20organisers,%0A%0AWith%20this%20email,%20I%20wish%20to%20register%20f
 |  14.45 - 15.45	|  Posters + coffee break  |
 |  15.45 - 16.10	|  [Huub Hoefsloot][2] (SILS) <br> _How to get Biological Knowledge in a Deep Learner_  |
 |  16.15 - 16.40	|  [Daniela Huppenkothen][5] ([SRON][7]) <br> _Inferring the Properties of Black Holes and Neutron Stars with Machine Learning_  |
-|  16.45 - 17.10	|  [Saer Samanipour][3] (HIMS) & [Antonia Praetorius][4] (IBED) <br> _tba_  |
+|  16.45 - 17.10	|  [Saer Samanipour][3] (HIMS) & [Antonia Praetorius][4] (IBED) <br> _From molecular structure to chemical risk assessment. An AI toolbox towards safe(r) chemicals_  |
 |  17.15 - 17.30	|  Conclusions   |
 |  17.30 - 19.00	|  Posters + drinks & snacks |
 
