@@ -1,4 +1,4 @@
-I"<p>Artificial intelligence and machine learning are rapidly finding their
+I"<p>Artificial intelligence and machine learning are rapidly finding their
 way into the natural sciences, where they are applied for the analysis of
 research data, finding patterns and making predictions. At the same
 time, research topics and methodologies initiate the study and development of
@@ -89,7 +89,7 @@ Symposium%20organisers,%0A%0AWith%20this%20email,%20I%20wish%20to%20register%20f
     </tr>
     <tr>
       <td>16.45 - 17.10</td>
-      <td><a href="https://www.uva.nl/en/profile/s/a/s.samanipour/s.samanipour.html">Saer Samanipour</a> (HIMS) &amp; <a href="https://www.uva.nl/en/profile/p/r/a.praetorius/a.praetorius.html">Antonia Praetorius</a> (IBED) <br /> <em>tba</em></td>
+      <td><a href="https://www.uva.nl/en/profile/s/a/s.samanipour/s.samanipour.html">Saer Samanipour</a> (HIMS) &amp; <a href="https://www.uva.nl/en/profile/p/r/a.praetorius/a.praetorius.html">Antonia Praetorius</a> (IBED) <br /> <em>From molecular structure to chemical risk assessment. An AI toolbox towards safe(r) chemicals</em></td>
     </tr>
     <tr>
       <td>17.15 - 17.30</td>
@@ -110,5 +110,12 @@ Symposium%20organisers,%0A%0AWith%20this%20email,%20I%20wish%20to%20register%20f
   <li>Patrick Forré</li>
   <li>Bernd Ensing</li>
 </ul>
+
+<h3 id="sponsors">Sponsors</h3>
+
+<p>The AI4Science Lab thanks <a href="https://www.cecam.org">CECAM</a>, and in particular the
+<a href="https://www.cecam.org/cecam-nl">CECAM-NL</a> node, for financial support of the AI4Science Symposium.</p>
+
+<p><img src="../images/cecam_logo.png" width="200" alt="cecam_logo" /></p>
 
 :ET

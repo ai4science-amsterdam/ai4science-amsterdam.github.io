@@ -81,6 +81,15 @@ Symposium%20organisers,%0A%0AWith%20this%20email,%20I%20wish%20to%20register%20f
 * Patrick Forré
 * Bernd Ensing
 
+
+### Sponsors
+
+
+The AI4Science Lab thanks [CECAM][9], and in particular the
+[CECAM-NL][10] node, for financial support of the AI4Science Symposium.
+
+<img src="../images/cecam_logo.png" width='200'  alt='cecam_logo'>
+
 [0]: http://amlab.science.uva.nl/people/PatrickForre/
 [1]: https://colloid.nl/people/dr-alberto-perez-de-alba-ortiz/
 [2]: http://www.bdagroup.nl/content/People/huub_hoefsloot.php
@@ -90,3 +99,10 @@ Symposium%20organisers,%0A%0AWith%20this%20email,%20I%20wish%20to%20register%20f
 [6]: https://iop.fnwi.uva.nl/computational_soft_matter
 [7]: https://www.sron.nl
 [8]: https://www.uva.nl/en/profile/d/e/j.m.l.b.desert/j.m.l.b.desert.html
+[9]: https://www.cecam.org
+[10]: https://www.cecam.org/cecam-nl
+
+
+
+
+
