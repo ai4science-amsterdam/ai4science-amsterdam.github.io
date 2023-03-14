@@ -15,46 +15,30 @@ new machine learning algorithms. The co-development of both fields is
 self-catalyzed by the shared interest in building accurate models and
 distribution functions of the highly complex phenomena of nature.
 
-The aim of this AI4Science Symposium is three-fold: (1) show-case
+The aim of this AI4Science Symposium was three-fold: (1) show-case
 recent progress of artificial intelligence for scientific discovery within
 the different FNWI research institutes and outside, (2) bring AI experts and
 scientists together to exchange ideas, and (3) explore possibilities for
 new collaborations, research projects, and funding opportunities.
 
-Six scientists connected to the different FNWI institutes will give
-lectures on how artificial intelligence advances their scientific
+Six scientists connected to the different FNWI institutes gave
+lectures on how artificial intelligence is advancing their scientific
 research. During the poster sessions, young and senior researchers
-can present their results and discuss opportunities for AI models or
-scientific research. The symposium concludes with drinks and snacks.
+ presented their results and discuss opportunities for AI models or
+scientific research. The symposium concluded with drinks and snacks.
 
-The symposium is open to everyone with an interest in artificial
-intelligence for scientific discovery. See below for the program, (free)
-registration, and how to contribute a poster.
+The symposium was open to everyone with an interest in artificial
+intelligence for scientific discovery.
 
-* When: Friday afternoon, 24 February 2023, from 13.00 until 18.30
-* Where: Room L1.01, LAB42, Science Park, Amsterdam
+### Impression
+![BerndPatrickIntro](../images/symposium/BerndPatrickIntro.jpg)
+*Opening of the AI4Science Symposium by our directors Patrick Forré (right) and Bernd Ensing (left)*
 
+![PosterPresentation1](../images/symposium/PosterPresentation1.jpg)
+*Poster presentations*
 
-### Registration
-
-Registration is free but obligatory.
-To register, please copy and fill-out the following form and send this
-as an email to
-[ai4science.info@gmail.com](MAILTO:ai4science.info@gmail.com?subject=AI4Science%20Symposium%20Registration&body=Dear%20AI4Science
-Symposium%20organisers,%0A%0AWith%20this%20email,%20I%20wish%20to%20register%20for%20the%20AI4Science%20Symposium%20on%2024%20February.%0A%0A%20%20My%20first%20and%20last%20name:%0A%20%20My%20position:%20[Student/PhD/Faculty/Other]:%0A%20%20Organization:%0A%20%20Institute:%0A%20%20Research group:%0A%0A%20%20Presenting%20a%20poster%20[yes/no]:%0A%20%20Poster%20title:%0A%0Akind%20regards,).
-
-
-
-<span class="alert-box text">
-	Dear AI4Science Symposium organisers,<br><br>With this email, I
-	wish to register for the AI4Science Symposium on 24 February.<br><br>My first and last name:<br>My position [Student/PhD/Faculty/Other]:<br>Organization:<br>Institute:<br>Research group:<br><br>Presenting a poster [yes/no]:<br>Poster title:<br><br>kind regards,</span>
-
-
- * Submitting a poster is of course optional.
- * The deadline for registration is 19 February 2023.
- * You will receive a confirmation email within 2 working days.
- * In case of cancelation, please inform us by 
- [email](MAILTO:ai4science.info@gmail.com?subject=Cancelation%20AI4Science%20Symposium) not later than 22 February 2023.
+![PosterPresentation2](../images/symposium/PosterPresentation2.jpg)
+*More poster presentations*
 
 ### Program:
 	

@@ -20,6 +20,47 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
+#### Conformal prediction under distribution shift
+
+Date: 14-03-2023 14:00-1500 Central European Winter time
+
+ <img src="../people/AadityaRamdas.png"
+     alt="Aaditya Ramdas"
+     width="100"
+     style="float: right; margin-right: 10px; border-radius:50%;" />
+
+Speaker: **Aaditya Ramdas**, Carnegie Mellon University
+
+**Abstract:** <br/>
+
+Conformal prediction is a modern technique for quantifying predictive uncertainty for arbitrary ML models. Its validity relies on the assumptions of exchangeability of the data, and symmetry of the given model fitting algorithm as a function of the data. However, exchangeability is often violated when predictive models are deployed in practice, and in such settings, we might want to use an algorithm that treats observations asymmetrically (eg: upweighting more recent observations).This paper proposes a new methodology to deal with both aspects: we use weighted quantiles to introduce robustness against distribution drift, and design a new technique to allow for asymmetric algorithms. Our algorithms are provably robust, with substantially less loss of coverage under distribution drift or shift, while also reducing to the same algorithm and coverage guarantees as existing conformal prediction methods if the data points are in fact exchangeable.This is joint work with Rina Barber, Emmanuel Candes and Ryan Tibshirani. A preprint is at [https://arxiv.org/abs/2202.13415][12].
+
+**Bio:** <br/>
+
+Aaditya Ramdas (PhD, 2015) is an assistant professor at Carnegie Mellon University, in the Departments of Statistics and Machine Learning. He was a postdoc at UC Berkeley (2015–2018) and obtained his PhD at CMU (2010–2015), receiving the Umesh K. Gavaskar Memorial Thesis Award. Aaditya was an inaugural winner of the COPSS Leadership Award, and a recipient of the 2021 Bernoulli New Researcher Award. His work is supported by an NSF CAREER Award, an Adobe Faculty Research Award (2020), a Google Research Scholar award (2022), amongst others. He was a CUSO lecturer in 2022, and will be a Lunteren lecturer in 2023. Aaditya's main theoretical and methodological research interests include post-selection inference (interactive, structured, online, post-hoc control of false decision rates, etc), game-theoretic statistics (sequential uncertainty quantification, confidence sequences, always-valid p-values, safe anytime-valid inference, e-processes, supermartingales, e-values, etc), and distribution-free black-box predictive inference (conformal prediction, calibration, etc). His areas of applied interest include privacy, neuroscience, genetics and auditing, and his group's work has received multiple best paper awards.
+
+
+
+## Schedule
+
+- 18 January 2022 - **Andrew Ferguson**
+- 7 February 2022 - **Jan-Matthis Lückmann** 
+- 1 March 2022 - **Martin van Hecke**
+- 15 March 2022 - **Rajesh Ranganath**
+- 29 March 2022 - **Anna Scaife**
+- 12 April 2022 - **Gabriel Vivó-Truyols**
+- 26 April 2022 - **Maximilian Dax**
+- 24 May 2022 - **Francesca Grisoni**
+- 7 June 2022 - **Wujie Wang**
+- 21 June 2022 - **Peter Grünwald**
+- 5 July 2022 - **Michele Ceriotti**
+- 11 October 2022 - **Guy Wolf**
+- 25 October 2022 - **Fredrik Lindsten**
+- 14 March 2023 - **Aaditya Ramdas**
+
+
+## Previous Colloquium
+
 #### Deep Gaussian Markov Random Fields
 
 Date: 25-10-2022 14:00-1500 Central European Summer time
@@ -43,43 +84,6 @@ Papers:
 
 [Scalable Deep Gaussian Markov Random Fields for General Graphs][11]
 
-## Schedule
-
-- 18 January 2022 - **Andrew Ferguson**
-- 7 February 2022 - **Jan-Matthis Lückmann** 
-- 1 March 2022 - **Martin van Hecke**
-- 15 March 2022 - **Rajesh Ranganath**
-- 29 March 2022 - **Anna Scaife**
-- 12 April 2022 - **Gabriel Vivó-Truyols**
-- 26 April 2022 - **Maximilian Dax**
-- 24 May 2022 - **Francesca Grisoni**
-- 7 June 2022 - **Wujie Wang**
-- 21 June 2022 - **Peter Grünwald**
-- 5 July 2022 - **Michele Ceriotti**
-- 11 October 2022 - **Guy Wolf**
-- 25 October 2022 - **Fredrik Lindsten**
-
-
-## Previous Colloquium
-
-#### Geometry-based Data Exploration
-Date: 11-10-2022 14:00-1500 Central European Summer time
-
- <img src="../people/GuyWolf.jpeg"
-     alt="GuyWolf.jpeg"
-     width="100"
-     style="float: right; margin-right: 10px; border-radius:50%;" />
-
-Speaker: **Guy Wolf**, Université de Montréal
-
-**Abstract:** <br/>
-
-High-throughput data collection technologies are becoming increasingly common in many fields, especially in biomedical applications involving single cell data (e.g., scRNA-seq and CyTOF). These introduce a rising need for exploratory analysis to reveal and understand hidden structure in the collected (high-dimensional) Big Data. A crucial aspect in such analysis is the separation of intrinsic data geometry from data distribution, as (a) the latter is typically biased by collection artifacts and data availability, and (b) rare subpopulations and sparse transitions between meta-stable states are often of great interest in biomedical data analysis. In this talk, I will show several tools that leverage manifold learning, graph signal processing, and harmonic analysis for biomedical (in particular, genomic/proteomic) data exploration, with emphasis on visualization, data generation/augmentation, and nonlinear feature extraction. A common thread in the presented tools is the construction of a data-driven diffusion geometry that both captures intrinsic structure in data and provides a generalization of Fourier harmonics on it. These, in turn, are used to process data features along the data geometry for denoising and generative purposes. Finally, I will relate this approach to the recently-proposed geometric scattering transform that generalizes Mallat's scattering to non-Euclidean domains, and provides a mathematical framework for theoretical understanding of the emerging field of geometric deep learning.
-
-**Bio:**<br/>
-Guy Wolf is an associate professor in the Department of Mathematics and Statistics (DMS) at the Université de Montréal (UdeM), a core academic member of Mila (the Quebec AI institute), and an associate researcher with CRCHUM (the Montreal university hospital research center). He is also affiliated with the IVADO institute of data valorization. He holds an M.Sc. and a Ph.D. in computer science from Tel Aviv University. Prior to joining UdeM, he was a postdoctoral researcher (2013-2015) in the Department of Computer Science at École Normale Supérieure in Paris (France), and a Gibbs Assistant Professor (2015-2018) in the Applied Mathematics Program at Yale University. Between 2004 and 2009 he served in the Israeli Defense Forces in IT software design and development roles related to data analysis and visualization. His research focuses on manifold learning and geometric deep learning for exploratory data analysis, including methods for dimensionality reduction, visualization, denoising, data augmentation, and coarse graining. Further, he is particularly interested in biomedical data exploration applications of such methods, e.g., in single cell genomics/proteomics and neuroscience.
-
-
 <!--
 <a class="radius button small" href="https://drive.google.com/file/d/1piVbnetRwbMxMFyVIgoq1cOvAw3BlqBP/view?usp=sharing">Watch Back ›</a>
 -->
@@ -97,4 +101,5 @@ For an overview of more  previous colloquia, please have a look at out [blog][2]
 [8]:www.evozyne.com
 [10]:https://arxiv.org/abs/2002.07467
 [11]:https://arxiv.org/abs/2206.05032
+[12]:https://arxiv.org/abs/2202.13415
 
