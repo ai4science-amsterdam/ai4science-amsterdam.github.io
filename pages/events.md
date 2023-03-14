@@ -53,7 +53,7 @@ become a member or the AI4Science consortium, or join for a drink.
 * When: 24 February 2023
 * Where: LAB42 Room L1.01, Science Park, Amsterdam
 
-The event was a great success! Click to button for some impressions of the event.
+The event was a great success! Click the button for some impressions of the event.
 
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/workshop2/">Read More›</a>
