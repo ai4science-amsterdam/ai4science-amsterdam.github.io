@@ -147,5 +147,28 @@ Images from:
 
 [Nussbaumer et al. (2019) A Geostatistical Approach to Estimate High Resolution Nocturnal Bird Migration Densities from a Weather Radar Network][1]
 
+--------------------------------------------
+
+## Protein Stabilization for Vaccine Design
+
+<br/>
+
+<img src="../images/fig_project_cong.png"
+     alt="VacinneDesign"
+     width="400"
+     style="float: right; margin-right: 10px;" />
+
+Highly contagious viruses, such as SARS-CoV-2, can have a negative impact on the health of people and the stability of social resources. Vaccines are an effective means of stopping the widespread spread of viruses in the population by giving people immunity to a particular virus, thereby stopping them from spreading the virus and protecting those at risk of being infected. One of the core aspects of vaccine development is the development of antigens. One of the ways in which antigens are developed is by mutating one/some of the amino acids in the antigen, thus making the antigen stable, which in turn triggers an immune response and the production of a large number of antibodies.
+Among the methods for finding a viable antigen, the structural based approach has worked well and is widely used. However, their success rate for single point variants is only 5% to 10%. As a result, it can take a considerable amount of time to design a stable antigen that is feasible with multiple variants. Thanks to the large amount of available protein structure/sequence data, deep learning-based approaches have recently achieved unprecedented success in research for proteins, e.g. protein property prediction and protein structure prediction. In this project, our goal is to apply the cutting-edge deep learning methods (e.g. Graph Neural Networks, Transformers, Equivariant Neural Networks, AlphaFold2 etc…) to model our problems. Allowing the model to suggest variant sites and variant amino acids for antigens with correspondingly predicted stabilities, leading to the help for designing of stable antigens.
+
+ By Cong Liu
+
+<img src="../people/CongLiu.jpg"
+     alt="Cong Liu"
+     width="100"
+     style="float: center; margin-right: 10px; border-radius:50%;"/>
+
+--------------------------------------------
+
 [1]: https://doi.org/10.1111/ecog.04003
 [2]: https://www.mdpi.com/2072-4292/11/19/2233 

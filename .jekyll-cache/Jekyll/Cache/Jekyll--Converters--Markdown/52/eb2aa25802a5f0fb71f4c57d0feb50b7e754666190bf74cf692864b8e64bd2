@@ -1,4 +1,4 @@
-I"š <hr />
+I"‰#<hr />
 <center> <h2>Upcoming Events</h2> </center>
 <center> <h1>AI4Science Symposium, 24 February 2023</h1> </center>
 
@@ -148,7 +148,7 @@ The Ai4Science Colloquiem is a bi-weekly event in which we will invite pronounce
       </p>
       <p>
       <ul class="actions">
-        <li><a href="/research" class="button">Learn More</a></li>
+        <a href="/research" class="button">Learn More</a>
       </ul>
       </p>
     </div>
@@ -196,14 +196,19 @@ The Ai4Science Colloquiem is a bi-weekly event in which we will invite pronounce
     </article>
 
     <article>
+
     <div class="content">
       <header>
+        <h3>Protein Stabilization for Vaccine Design</h3>
       </header>
       <div class="image fit">
+        <img src="images/fig_project_cong.png" alt="" />
       </div>
+      <p>The stability of the antigen is crucial for the development of effective vaccines against highly contagious viruses. Mutating amino acids on spike proteins is one method of developing antigens, but it can be a time-consuming process. Deep learning-based methods have recently shown promising results in protein research, and with the abundance of protein structures available in the Protein Data Bank and AlphaFold2, we can train deep-learning models to suggest mutations and predict protein stability, which could accelerate vaccine research and design.</p>
       <p>
-      </p>
-      <p>
+      <ul class="actions">
+        <a href="/research" class="button">Learn More</a>
+      </ul>
       </p>
     </div>
     </article>
