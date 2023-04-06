@@ -15,32 +15,31 @@ homepage: true
 ---
 
 
-----------------------------------------------------------------------------------------------------------
-<center> <h2>Upcoming Events</h2> </center>
-<center> <h1>AI4Science Symposium, 24 February 2023</h1> </center>
-
-On Friday, 24 February, we organise an AI4Science Symposium in the
-Amsterdam Science Park LAB42 building for everyone interested in machine
-learning developments and applications for scientific discovery. 
-Researchers from the different FNWI institutes show-case recent progress
-in their fields and discuss future challenges and opportunities for
-AI4Science. 
-
-The goal of the symposium is to learn about the latest AI4Science developments,
-exchange ideas, and bring scientists and AI experts in contact.
-Information on the (free) registration and poster
-submission is found <a href="/events/">on this website</a>.
-
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/events/">Learn More›</a>
-
-
-[comment]: ----------------------------------------------------------------------------------------------------------
+[comment]:----------------------------------------------------------------------------------------------------------
 [comment]: <center> <h2>Upcoming Events</h2> </center>
-[comment]: <center> <h1>The AI4Science Colloquium</h1> </center>
+[comment]: <center> <h1>AI4Science Symposium, 24 February 2023</h1> </center>
 
-[comment]: The bi-weekly AI4Science colloquium is back, if you want to learn more about state of the art AI solutions for Science, please tune in. Check out the Colloquium page for the schedule, recordings of previous colloquia and more!  
+[comment]: On Friday, 24 February, we organise an AI4Science Symposium in the
+[comment]: Amsterdam Science Park LAB42 building for everyone interested in machine
+[comment]: learning developments and applications for scientific discovery. 
+[comment]: Researchers from the different FNWI institutes show-case recent progress
+[comment]: in their fields and discuss future challenges and opportunities for
+[comment]: AI4Science. 
 
-[comment]: <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/colloquium/">Learn More›</a>
+[comment]:The goal of the symposium is to learn about the latest AI4Science developments,
+[comment]:exchange ideas, and bring scientists and AI experts in contact.
+[comment]:Information on the (free) registration and poster
+[comment]:submission is found <a href="/events/">on this website</a>.
+
+[comment]:<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/events/">Learn More›</a>
+
+ ----------------------------------------------------------------------------------------------------------
+<center> <h2>Upcoming Events</h2> </center>
+<center> <h1>The AI4Science Colloquium</h1> </center>
+
+The bi-weekly AI4Science colloquium is back, if you want to learn more about state of the art AI solutions for Science, please tune in. Check out the Colloquium page for the schedule, recordings of previous colloquia and more!  
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/colloquium/">Learn More›</a>
 
 ____________________________________________________________________________________________________
 

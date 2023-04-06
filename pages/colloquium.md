@@ -20,24 +20,20 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 ## Next Colloquium
 
-#### Conformal prediction under distribution shift
+#### Machine Learning in Supercooled Liquids
 
-Date: 14-03-2023 14:00-1500 Central European Winter time
+Date: 11-04-2023 14:00-1500 Central European Winter time
 
- <img src="../people/AadityaRamdas.png"
-     alt="Aaditya Ramdas"
+ <img src="../people/LauraFilion.jpeg"
+     alt="Laura Filion"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
-Speaker: **Aaditya Ramdas**, Carnegie Mellon University
+Speaker: **Laura Filion**, University of Utrecht
 
 **Abstract:** <br/>
 
-Conformal prediction is a modern technique for quantifying predictive uncertainty for arbitrary ML models. Its validity relies on the assumptions of exchangeability of the data, and symmetry of the given model fitting algorithm as a function of the data. However, exchangeability is often violated when predictive models are deployed in practice, and in such settings, we might want to use an algorithm that treats observations asymmetrically (eg: upweighting more recent observations).This paper proposes a new methodology to deal with both aspects: we use weighted quantiles to introduce robustness against distribution drift, and design a new technique to allow for asymmetric algorithms. Our algorithms are provably robust, with substantially less loss of coverage under distribution drift or shift, while also reducing to the same algorithm and coverage guarantees as existing conformal prediction methods if the data points are in fact exchangeable.This is joint work with Rina Barber, Emmanuel Candes and Ryan Tibshirani. A preprint is at [https://arxiv.org/abs/2202.13415][12].
-
-**Bio:** <br/>
-
-Aaditya Ramdas (PhD, 2015) is an assistant professor at Carnegie Mellon University, in the Departments of Statistics and Machine Learning. He was a postdoc at UC Berkeley (2015–2018) and obtained his PhD at CMU (2010–2015), receiving the Umesh K. Gavaskar Memorial Thesis Award. Aaditya was an inaugural winner of the COPSS Leadership Award, and a recipient of the 2021 Bernoulli New Researcher Award. His work is supported by an NSF CAREER Award, an Adobe Faculty Research Award (2020), a Google Research Scholar award (2022), amongst others. He was a CUSO lecturer in 2022, and will be a Lunteren lecturer in 2023. Aaditya's main theoretical and methodological research interests include post-selection inference (interactive, structured, online, post-hoc control of false decision rates, etc), game-theoretic statistics (sequential uncertainty quantification, confidence sequences, always-valid p-values, safe anytime-valid inference, e-processes, supermartingales, e-values, etc), and distribution-free black-box predictive inference (conformal prediction, calibration, etc). His areas of applied interest include privacy, neuroscience, genetics and auditing, and his group's work has received multiple best paper awards.
+Developments in machine learning (ML) have opened the door to fully new methods for studying phase transitions due to their ability to extremely efficiently identify complex patterns in systems of many particles. Applications of machine learning techniques vary from the use of developing new ML-based order parameters for complex crystal structures, to locating phase transitions, to speeding up simulations. The rapid emergence of multiple applications of machine learning to statistical mechanics and materials science demonstrates that these techniques are becoming an important tool for studying soft matter systems. In this talk, I will briefly present an overview of the work my group is doing on using machine learning to study soft matter systems, with a focus on new strategies to connect the dynamics and structure in glassy fluids.
 
 
 
@@ -57,32 +53,29 @@ Aaditya Ramdas (PhD, 2015) is an assistant professor at Carnegie Mellon Universi
 - 11 October 2022 - **Guy Wolf**
 - 25 October 2022 - **Fredrik Lindsten**
 - 14 March 2023 - **Aaditya Ramdas**
-
+- 11 April 2023 - **Laura Filion**
 
 ## Previous Colloquium
 
-#### Deep Gaussian Markov Random Fields
+#### Conformal prediction under distribution shift
 
-Date: 25-10-2022 14:00-1500 Central European Summer time
+Date: 14-03-2023 14:00-1500 Central European Winter time
 
- <img src="../people/FredrikLindsten.png"
-     alt="FredrikLindsten"
+ <img src="../people/AadityaRamdas.png"
+     alt="Aaditya Ramdas"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
-Speaker: **Fredrik Lindsten**, Linköping University
+Speaker: **Aaditya Ramdas**, Carnegie Mellon University
 
 **Abstract:** <br/>
 
-Machine learning methods on graphs are relevant for many application domains due to their ability to model complex dependencies and structures. Gaussian Markov Random Fields (GMRFs) provide a principled way to define Gaussian models on graphs by utilizing their sparsity structure. In this talk I will show how we can use graph neural networks (GNNs) and convolutional neural networks (CNNs) do design scalable and flexible GMRFs. Starting with lattice graphs, we establish a formal connection between CNNs and GMRFs, by showing that common GMRFs are special cases of a generative model where the inverse mapping from data to latent variables is given by a 1-layer linear CNN. This connection allows us to generalize GMRFs to multi-layer CNN architectures, effectively increasing the order of the corresponding GMRF in a way which has favorable computational scaling. I will also discuss how this Deep GMRF can be generalized to arbitrary graphs using a specialized GNN layer. Well-established tools, such as autodiff and variational inference, can be used for simple and efficient inference and learning of the Deep GMRF, and for a Gaussian likelihood, close to exact Bayesian inference is available for the latent field. I demonstrate the flexibility of the proposed model and show that it compares favorably to other methods, both Bayesian and deep-learning-based, on spatial and non-spatial data.
+Conformal prediction is a modern technique for quantifying predictive uncertainty for arbitrary ML models. Its validity relies on the assumptions of exchangeability of the data, and symmetry of the given model fitting algorithm as a function of the data. However, exchangeability is often violated when predictive models are deployed in practice, and in such settings, we might want to use an algorithm that treats observations asymmetrically (eg: upweighting more recent observations).This paper proposes a new methodology to deal with both aspects: we use weighted quantiles to introduce robustness against distribution drift, and design a new technique to allow for asymmetric algorithms. Our algorithms are provably robust, with substantially less loss of coverage under distribution drift or shift, while also reducing to the same algorithm and coverage guarantees as existing conformal prediction methods if the data points are in fact exchangeable.This is joint work with Rina Barber, Emmanuel Candes and Ryan Tibshirani. A preprint is at [https://arxiv.org/abs/2202.13415][12].
 
-Joint work with Joel Oskarsson (LiU) and Per Sidén (LiU/Qualcomm Arriver)
+**Bio:** <br/>
 
-Papers:
+Aaditya Ramdas (PhD, 2015) is an assistant professor at Carnegie Mellon University, in the Departments of Statistics and Machine Learning. He was a postdoc at UC Berkeley (2015–2018) and obtained his PhD at CMU (2010–2015), receiving the Umesh K. Gavaskar Memorial Thesis Award. Aaditya was an inaugural winner of the COPSS Leadership Award, and a recipient of the 2021 Bernoulli New Researcher Award. His work is supported by an NSF CAREER Award, an Adobe Faculty Research Award (2020), a Google Research Scholar award (2022), amongst others. He was a CUSO lecturer in 2022, and will be a Lunteren lecturer in 2023. Aaditya's main theoretical and methodological research interests include post-selection inference (interactive, structured, online, post-hoc control of false decision rates, etc), game-theoretic statistics (sequential uncertainty quantification, confidence sequences, always-valid p-values, safe anytime-valid inference, e-processes, supermartingales, e-values, etc), and distribution-free black-box predictive inference (conformal prediction, calibration, etc). His areas of applied interest include privacy, neuroscience, genetics and auditing, and his group's work has received multiple best paper awards.
 
-[Deep Gaussian Markov Random Fields][10]
-
-[Scalable Deep Gaussian Markov Random Fields for General Graphs][11]
 
 <!--
 <a class="radius button small" href="https://drive.google.com/file/d/1piVbnetRwbMxMFyVIgoq1cOvAw3BlqBP/view?usp=sharing">Watch Back ›</a>
