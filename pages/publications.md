@@ -22,9 +22,11 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 ## Publications
 {: #publications }
 
-- Jim Boelrijk, Denice van Herwerden, Bernd Ensing, Patrick Forré, Saer Samanipour, **Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data**,[doi:10.26434/chemrxiv-2022-85wcl][Boe22a], accepted to Journal of Cheminformatics, 2023.
-- Kaitlin Maile, Dennis G. Wilson, Patrick Forré, **Equivariance-aware Architectural Optimization of Neural Networks**, accepted to ICLR 2023, [openreview][Mai23a].
-- Jim Boelrijk, Bernd Ensing, Patrick Forré, **Multi-objective optimization via equivariant deep hypervolume approximation**, accepted to ICLR 2023, [openreview][Boe23b].
+- Teodora Pandeva, Patrick Forré, **Multi-View Independent Component Analysis with Shared and Individual Sources**, [https://arxiv.org/abs/2210.02083][Pan22a], [openreview][Pan23b], accepted to UAI 2023.
+- Teodora Pandeva, Patrick Forré, **Multi-View Independent Component Analysis for Omics Data Integration**, [openreview][Pan23a], ICLR 2023 Workshop: Machine Learning and Global Health.
+- Jim Boelrijk, Denice van Herwerden, Bernd Ensing, Patrick Forré, Saer Samanipour, **Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data**,[doi:10.26434/chemrxiv-2022-85wcl][Boe22a], Journal of Cheminformatics 15 (1), 2023.
+- Kaitlin Maile, Dennis G. Wilson, Patrick Forré, **Equivariance-aware Architectural Optimization of Neural Networks**, ICLR 2023, [openreview][Mai23a].
+- Jim Boelrijk, Bernd Ensing, Patrick Forré, **Multi-objective optimization via equivariant deep hypervolume approximation**, ICLR 2023, [openreview][Boe23b].
 - Jim Boelrijk, Bernd Ensing, Patrick Forré, Bob Pirok, **Closed-loop automatic gradient design for liquid chromatography using Bayesian optimization**, Analytica Chimica Acta, 2023, 340789, [https://doi.org/10.1016/j.aca.2023.340789][Boe23a].
 - Kaitlin Maile, Dennis George Wilson, Patrick Forré, **Towards Architectural Optimization of Equivariant Neural Networks over Subgroups**, NeurIPS 2022 Workshop: NeurReps, [openreview][Mai22a].
 - David Ruhe, Kaze Wong, Miles Cranmer, Patrick Forré, **Normalizing Flows for Hierarchical Bayesian Analysis: A Gravitational Wave Population Study**, NeurIPS 2022 Workshop: Machine Learning and the Physical Sciences, [https://arxiv.org/abs/2211.09008][Ruh22d].
@@ -55,8 +57,8 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 ## Preprints
 {: #preprints }
 
+- Arnaud Delaunoy, Benjamin Kurt Miller, Patrick Forré, Christoph Weniger, Gilles Louppe, **Balancing Simulation-based Inference for Conservative Posteriors**, [https://arxiv.org/abs/2304.10978][Del23], 2023.
 - Teodora Pandeva, Tim Bakker, Christian A. Naesseth, Patrick Forré, **E-Valuating Classifier Two-Sample Tests**, [https://arxiv.org/abs/2210.13027][Pan22b], 2022.
-- Teodora Pandeva, Patrick Forré, **Multi-View Independent Component Analysis with Shared and Individual Sources**, [https://arxiv.org/abs/2210.02083][Pan22a], 2022.
 - Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré, **Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu's Theorem**, [https://arxiv.org/abs/2202.09393][Lan22], 2022.
 - Christoph J. Hönes, Benjamin Kurt Miller, Ana M. Heras, Bernard H. Foing, **Automatically detecting anomalous exoplanet transits**, [https://arxiv.org/abs/2111.08679][Hon21], 2021.
 - Patrick Forré, **Quasi-Measurable Spaces**, [https://arxiv.org/abs/2109.11631][For21b], 2021.
@@ -79,6 +81,7 @@ Back to [Publications](#publications) or [Preprints](#preprints).
 [Boe23b]: https://openreview.net/forum?id=fSa5IjNMmmi
 [Bos22]: https://pubs.acs.org/doi/full/10.1021/acs.analchem.2c03160
 [Col22]: https://iopscience.iop.org/article/10.1088/1475-7516/2022/09/004/meta
+[Del23]: https://arxiv.org/abs/2304.10978
 [Fal20a]: https://arxiv.org/abs/2006.06663
 [Fal20b]: https://slideslive.com/38930928/neural-ordinary-differential-equations-on-manifolds
 [Fed20a]: https://arxiv.org/abs/2002.07017
@@ -106,6 +109,8 @@ Back to [Publications](#publications) or [Preprints](#preprints).
 [Mil22d]: https://github.com/undark-lab/swyft
 [Pan22a]: https://arxiv.org/abs/2210.02083
 [Pan22b]: https://arxiv.org/abs/2210.13027
+[Pan23a]: https://openreview.net/forum?id=r5KL-AfXt75
+[Pan23b]: https://openreview.net/forum?id=WW6O-e7YJ2O
 [Ruh21a]: https://arxiv.org/abs/2103.15418
 [Ruh21b]: https://ui.adsabs.harvard.edu/abs/2021ascl.soft03015R/abstract
 [Ruh21c]: https://openreview.net/forum?id=VPjw9KPWRSK
