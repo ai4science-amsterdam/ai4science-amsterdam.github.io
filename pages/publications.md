@@ -23,6 +23,7 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 {: #publications }
 
 - Teodora Pandeva, Patrick Forré, **Multi-View Independent Component Analysis with Shared and Individual Sources**, [https://arxiv.org/abs/2210.02083][Pan22a], [openreview][Pan23b], accepted to UAI 2023.
+- David Ruhe, Jayesh K. Gupta, Steven de Keninck, Max Welling, Johannes Brandstetter, **Geometric Clifford Algebra Networks**, [https://arxiv.org/abs/2302.06594][Ruh23a], accepted to ICML 2023.
 - Teodora Pandeva, Patrick Forré, **Multi-View Independent Component Analysis for Omics Data Integration**, [openreview][Pan23a], ICLR 2023 Workshop: Machine Learning and Global Health.
 - Jim Boelrijk, Denice van Herwerden, Bernd Ensing, Patrick Forré, Saer Samanipour, **Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data**,[doi:10.26434/chemrxiv-2022-85wcl][Boe22a], Journal of Cheminformatics 15 (1), 2023.
 - Kaitlin Maile, Dennis G. Wilson, Patrick Forré, **Equivariance-aware Architectural Optimization of Neural Networks**, ICLR 2023, [openreview][Mai23a].
@@ -116,6 +117,7 @@ Back to [Publications](#publications) or [Preprints](#preprints).
 [Ruh21c]: https://openreview.net/forum?id=VPjw9KPWRSK
 [Ruh22d]: https://arxiv.org/abs/2211.09008
 [Ruh22a]: https://doi.org/10.1016/j.ascom.2021.100512
+[Ruh23a]: https://arxiv.org/abs/2302.06594
 [Ver20a]: https://arxiv.org/abs/2006.00896
 [Wei21a]: https://arxiv.org/abs/2106.06020
 
