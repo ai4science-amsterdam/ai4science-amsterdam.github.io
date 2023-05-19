@@ -25,7 +25,7 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 - Teodora Pandeva, Patrick Forré, **Multi-View Independent Component Analysis with Shared and Individual Sources**, [https://arxiv.org/abs/2210.02083][Pan22a], [openreview][Pan23b], accepted to UAI 2023.
 - David Ruhe, Jayesh K. Gupta, Steven de Keninck, Max Welling, Johannes Brandstetter, **Geometric Clifford Algebra Networks**, [https://arxiv.org/abs/2302.06594][Ruh23a], accepted to ICML 2023.
 - Teodora Pandeva, Patrick Forré, **Multi-View Independent Component Analysis for Omics Data Integration**, [openreview][Pan23a], ICLR 2023 Workshop: Machine Learning and Global Health.
-- Jim Boelrijk, Denice van Herwerden, Bernd Ensing, Patrick Forré, Saer Samanipour, **Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data**,[doi:10.26434/chemrxiv-2022-85wcl][Boe22a], Journal of Cheminformatics 15 (1), 2023.
+- Jim Boelrijk, Denice van Herwerden, Bernd Ensing, Patrick Forré, Saer Samanipour, **Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data**, [doi:10.26434/chemrxiv-2022-85wcl][Boe22a], Journal of Cheminformatics 15 (1), 2023.
 - Kaitlin Maile, Dennis G. Wilson, Patrick Forré, **Equivariance-aware Architectural Optimization of Neural Networks**, ICLR 2023, [openreview][Mai23a].
 - Jim Boelrijk, Bernd Ensing, Patrick Forré, **Multi-objective optimization via equivariant deep hypervolume approximation**, ICLR 2023, [openreview][Boe23b].
 - Jim Boelrijk, Bernd Ensing, Patrick Forré, Bob Pirok, **Closed-loop automatic gradient design for liquid chromatography using Bayesian optimization**, Analytica Chimica Acta, 2023, 340789, [https://doi.org/10.1016/j.aca.2023.340789][Boe23a].
@@ -58,6 +58,7 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 ## Preprints
 {: #preprints }
 
+- David Ruhe, Johannes Brandstetter, Patrick Forré, **Clifford Group Equivariant Neural Networks**, [https://arxiv.org/abs/2305.11141][Ruh23b], 2023.
 - Arnaud Delaunoy, Benjamin Kurt Miller, Patrick Forré, Christoph Weniger, Gilles Louppe, **Balancing Simulation-based Inference for Conservative Posteriors**, [https://arxiv.org/abs/2304.10978][Del23], 2023.
 - Teodora Pandeva, Tim Bakker, Christian A. Naesseth, Patrick Forré, **E-Valuating Classifier Two-Sample Tests**, [https://arxiv.org/abs/2210.13027][Pan22b], 2022.
 - Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré, **Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu's Theorem**, [https://arxiv.org/abs/2202.09393][Lan22], 2022.
@@ -118,6 +119,7 @@ Back to [Publications](#publications) or [Preprints](#preprints).
 [Ruh22d]: https://arxiv.org/abs/2211.09008
 [Ruh22a]: https://doi.org/10.1016/j.ascom.2021.100512
 [Ruh23a]: https://arxiv.org/abs/2302.06594
+[Ruh23b]: https://arxiv.org/abs/2305.11141
 [Ver20a]: https://arxiv.org/abs/2006.00896
 [Wei21a]: https://arxiv.org/abs/2106.06020
 
