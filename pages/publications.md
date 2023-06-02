@@ -58,6 +58,7 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 ## Preprints
 {: #preprints }
 
+- Marco Federici, David Ruhe, Patrick Forré, **On the Effectiveness of Hybrid Mutual Information Estimation**, [https://arxiv.org/abs/2306.00608][Fed23a], 2023.
 - David Ruhe, Johannes Brandstetter, Patrick Forré, **Clifford Group Equivariant Neural Networks**, [https://arxiv.org/abs/2305.11141][Ruh23b], 2023.
 - Arnaud Delaunoy, Benjamin Kurt Miller, Patrick Forré, Christoph Weniger, Gilles Louppe, **Balancing Simulation-based Inference for Conservative Posteriors**, [https://arxiv.org/abs/2304.10978][Del23], 2023.
 - Teodora Pandeva, Tim Bakker, Christian A. Naesseth, Patrick Forré, **E-Valuating Classifier Two-Sample Tests**, [https://arxiv.org/abs/2210.13027][Pan22b], 2022.
@@ -88,6 +89,7 @@ Back to [Publications](#publications) or [Preprints](#preprints).
 [Fal20b]: https://slideslive.com/38930928/neural-ordinary-differential-equations-on-manifolds
 [Fed20a]: https://arxiv.org/abs/2002.07017
 [Fed21a]: https://arxiv.org/abs/2106.03783
+[Fed23a]: https://arxiv.org/abs/2306.00608
 [For21a]: https://arxiv.org/abs/2104.11547
 [For21b]: https://arxiv.org/abs/2109.11631
 [Gal21a]: https://openreview.net/pdf?id=x9xn6HKgefz
