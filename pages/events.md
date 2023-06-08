@@ -23,7 +23,7 @@ To see the colloquium schedule, subscribe to the email announcements, and watch 
 
 #### ChemAI Day
 
-* When: 8 June 2023
+* When: 16 November 2023
 * Where: LAB42 Room L1.01, Science Park, Amsterdam
 
 Further details to be announced.
