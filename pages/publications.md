@@ -58,6 +58,7 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 ## Preprints
 {: #preprints }
 
+- Fiona Lippert, Bart Kranstauber, Emiel van Loon, Patrick Forré, **Deep Gaussian Markov Random Fields for Graph-Structured Dynamical Systems**, [https://arxiv.org/abs/2306.08445][Lip23a], 2023.
 - Marco Federici, David Ruhe, Patrick Forré, **On the Effectiveness of Hybrid Mutual Information Estimation**, [https://arxiv.org/abs/2306.00608][Fed23a], 2023.
 - David Ruhe, Johannes Brandstetter, Patrick Forré, **Clifford Group Equivariant Neural Networks**, [https://arxiv.org/abs/2305.11141][Ruh23b], 2023.
 - Arnaud Delaunoy, Benjamin Kurt Miller, Patrick Forré, Christoph Weniger, Gilles Louppe, **Balancing Simulation-based Inference for Conservative Posteriors**, [https://arxiv.org/abs/2304.10978][Del23], 2023.
@@ -103,6 +104,7 @@ Back to [Publications](#publications) or [Preprints](#preprints).
 [Lan22]: https://arxiv.org/abs/2202.09393
 [Lip22a]: https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14007
 [Lip22b]: https://openreview.net/forum?id=mbWJIF2z6dZ
+[Lip23a]: https://arxiv.org/abs/2306.08445
 [Mai22a]: https://openreview.net/forum?id=KJFpArxWe-g
 [Mai23a]: https://openreview.net/forum?id=a6rCdfABJXg
 [Mil20a]: https://arxiv.org/abs/2011.13951
