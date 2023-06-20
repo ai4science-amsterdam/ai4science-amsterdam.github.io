@@ -25,6 +25,7 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 - Teodora Pandeva, Patrick Forré, **Multi-View Independent Component Analysis with Shared and Individual Sources**, [https://arxiv.org/abs/2210.02083][Pan22a], [openreview][Pan23b], accepted to UAI 2023.
 - David Ruhe, Jayesh K. Gupta, Steven de Keninck, Max Welling, Johannes Brandstetter, **Geometric Clifford Algebra Networks**, [https://arxiv.org/abs/2302.06594][Ruh23a], accepted to ICML 2023.
 - Benjamin Kurt Miller, Marco Federici, Christoph Weniger, Patrick Forré, **Simulation-based Inference with the Generalized Kullback-Leibler Divergence**, [openreview][Mil23a], accepted to ICML 2023 Workshop: Synergy of Scientific and Machine Learning Modeling.
+- Arnaud Delaunoy, Benjamin Kurt Miller, Patrick Forré, Christoph Weniger, Gilles Louppe, **Balancing Simulation-based Inference for Conservative Posteriors**, [https://arxiv.org/abs/2304.10978][Del23a], [openreview][Del23b], accepted to AABI 2023.
 - Teodora Pandeva, Patrick Forré, **Multi-View Independent Component Analysis for Omics Data Integration**, [openreview][Pan23a], ICLR 2023 Workshop: Machine Learning and Global Health.
 - Jim Boelrijk, Denice van Herwerden, Bernd Ensing, Patrick Forré, Saer Samanipour, **Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data**, [doi:10.26434/chemrxiv-2022-85wcl][Boe22a], Journal of Cheminformatics 15 (1), 2023.
 - Kaitlin Maile, Dennis G. Wilson, Patrick Forré, **Equivariance-aware Architectural Optimization of Neural Networks**, ICLR 2023, [openreview][Mai23a].
@@ -62,7 +63,6 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 - Fiona Lippert, Bart Kranstauber, Emiel van Loon, Patrick Forré, **Deep Gaussian Markov Random Fields for Graph-Structured Dynamical Systems**, [https://arxiv.org/abs/2306.08445][Lip23a], 2023.
 - Marco Federici, David Ruhe, Patrick Forré, **On the Effectiveness of Hybrid Mutual Information Estimation**, [https://arxiv.org/abs/2306.00608][Fed23a], 2023.
 - David Ruhe, Johannes Brandstetter, Patrick Forré, **Clifford Group Equivariant Neural Networks**, [https://arxiv.org/abs/2305.11141][Ruh23b], 2023.
-- Arnaud Delaunoy, Benjamin Kurt Miller, Patrick Forré, Christoph Weniger, Gilles Louppe, **Balancing Simulation-based Inference for Conservative Posteriors**, [https://arxiv.org/abs/2304.10978][Del23], 2023.
 - Teodora Pandeva, Tim Bakker, Christian A. Naesseth, Patrick Forré, **E-Valuating Classifier Two-Sample Tests**, [https://arxiv.org/abs/2210.13027][Pan22b], 2022.
 - Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré, **Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu's Theorem**, [https://arxiv.org/abs/2202.09393][Lan22], 2022.
 - Christoph J. Hönes, Benjamin Kurt Miller, Ana M. Heras, Bernard H. Foing, **Automatically detecting anomalous exoplanet transits**, [https://arxiv.org/abs/2111.08679][Hon21], 2021.
@@ -86,7 +86,8 @@ Back to [Publications](#publications) or [Preprints](#preprints).
 [Boe23b]: https://openreview.net/forum?id=fSa5IjNMmmi
 [Bos22]: https://pubs.acs.org/doi/full/10.1021/acs.analchem.2c03160
 [Col22]: https://iopscience.iop.org/article/10.1088/1475-7516/2022/09/004/meta
-[Del23]: https://arxiv.org/abs/2304.10978
+[Del23a]: https://arxiv.org/abs/2304.10978
+[Del23b]: https://arxiv.org/abs/2304.10978
 [Fal20a]: https://arxiv.org/abs/2006.06663
 [Fal20b]: https://slideslive.com/38930928/neural-ordinary-differential-equations-on-manifolds
 [Fed20a]: https://arxiv.org/abs/2002.07017
