@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://ai4science-amsterdam.github.io//</id>
 	<title>AI4Science Lab</title>
-	<updated>2023-03-15T10:10:30+01:00</updated>
+	<updated>2023-08-08T13:05:33+02:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -25,6 +25,51 @@ We develop and use machine learning techniques to discover patterns in data stre
 
 	<generator uri="http://jekyllrb.com" version="4.2.0">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://ai4science-amsterdam.github.io//colloquium/aaditya-ramdas/</id>
+			<title>Aaditya Ramdas</title>
+			<link href="https://ai4science-amsterdam.github.io//colloquium/aaditya-ramdas/" rel="alternate" type="text/html" title="Aaditya Ramdas" />
+			<updated>2023-03-14T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>Conformal prediction under distribution shift</summary>
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/aaditya-ramdas/">&lt;h4 id=&quot;conformal-prediction-under-distribution-shift&quot;&gt;Conformal prediction under distribution shift&lt;/h4&gt;
+
+&lt;p&gt;Date: 14-03-2023 14:00-1500 Central European Winter time&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;....//people/AadityaRamdas.png&quot; alt=&quot;Aaditya Ramdas&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Aaditya Ramdas&lt;/strong&gt;, Carnegie Mellon University&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Conformal prediction is a modern technique for quantifying predictive uncertainty for arbitrary ML models. Its validity relies on the assumptions of exchangeability of the data, and symmetry of the given model fitting algorithm as a function of the data. However, exchangeability is often violated when predictive models are deployed in practice, and in such settings, we might want to use an algorithm that treats observations asymmetrically (eg: upweighting more recent observations).This paper proposes a new methodology to deal with both aspects: we use weighted quantiles to introduce robustness against distribution drift, and design a new technique to allow for asymmetric algorithms. Our algorithms are provably robust, with substantially less loss of coverage under distribution drift or shift, while also reducing to the same algorithm and coverage guarantees as existing conformal prediction methods if the data points are in fact exchangeable.This is joint work with Rina Barber, Emmanuel Candes and Ryan Tibshirani. A preprint is at &lt;a href=&quot;https://arxiv.org/abs/2202.13415&quot;&gt;https://arxiv.org/abs/2202.13415&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aaditya Ramdas (PhD, 2015) is an assistant professor at Carnegie Mellon University, in the Departments of Statistics and Machine Learning. He was a postdoc at UC Berkeley (2015–2018) and obtained his PhD at CMU (2010–2015), receiving the Umesh K. Gavaskar Memorial Thesis Award. Aaditya was an inaugural winner of the COPSS Leadership Award, and a recipient of the 2021 Bernoulli New Researcher Award. His work is supported by an NSF CAREER Award, an Adobe Faculty Research Award (2020), a Google Research Scholar award (2022), amongst others. He was a CUSO lecturer in 2022, and will be a Lunteren lecturer in 2023. Aaditya’s main theoretical and methodological research interests include post-selection inference (interactive, structured, online, post-hoc control of false decision rates, etc), game-theoretic statistics (sequential uncertainty quantification, confidence sequences, always-valid p-values, safe anytime-valid inference, e-processes, supermartingales, e-values, etc), and distribution-free black-box predictive inference (conformal prediction, calibration, etc). His areas of applied interest include privacy, neuroscience, genetics and auditing, and his group’s work has received multiple best paper awards.&lt;/p&gt;
+
+</content>
+
+			
+				<category term="colloquium" />
+			
+			
+				<category term="colloquium" />
+			
+
+			<published>2023-03-14T00:00:00+01:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://ai4science-amsterdam.github.io//colloquium/fredrik-lindsten/</id>
@@ -438,76 +483,6 @@ Anna is currently Professor of Radio Astronomy at Jodrell Bank Centre for Astrop
 			
 
 			<published>2022-03-29T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/rajesh-ranganath/</id>
-			<title>Rajesh Ranganath</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/rajesh-ranganath/" rel="alternate" type="text/html" title="Rajesh Ranganath" />
-			<updated>2022-03-15T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Jim Boelrijk</name>
-					
-					
-					
-				</author>
-			
-			<summary>Interpretability and Out of Distribution Generalization in Deep Predictive Models</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/rajesh-ranganath/">&lt;h4 id=&quot;interpretability-and-out-of-distribution-generalization-in-deep-predictive-models&quot;&gt;Interpretability and Out of Distribution Generalization in Deep Predictive Models&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../people/RajeshRanganath.jpeg&quot; alt=&quot;MartinVanHecke&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Rajesh Ranganath&lt;/strong&gt;, NYU&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Interpretability enriches what can be gleaned from a good predictive
-model. Techniques that learn-to-explain have arisen because they
-require only a single evaluation of a model to provide an
-interpretation. In the first part of this talk, I will discuss a flaw
-with several methods that learn-to-explain: the optimal explainer
-makes the prediction rather than highlighting the inputs that are
-useful for prediction. I will also describe an evaluation technique
-that can detect when the explainer makes the prediction along with a
-new method that learns-to-explain without this issue.
-In the second part of my talk, I will discuss our work on
-representation learning for out of distribution generalization. I will
-construct a family of representations that generalize when under
-changing  nuisance-induced spurious correlations and have applications
-to images and chest X-rays. I will show how nuisance variables can be
-constructed using limited prior knowledge and augmentations of the input.&lt;/p&gt;
-
-&lt;p&gt;Bio:
-Rajesh Ranganath is an assistant professor at NYU’s Courant Institute
-of Mathematical Sciences and the Center for Data Science. He is also
-affiliate faculty at the Department of Population Health at NYUMC. His
-research focuses on approximate inference, causal inference,
-probabilistic models,  and machine learning for healthcare. Rajesh
-completed his PhD at Princeton and BS and MS from Stanford University.
-Rajesh has won several awards including the NDSEG graduate fellowship,
-the Porter Ogden Jacobus Fellowship, given to the top four doctoral
-students at Princeton University, and the Savage Award in Theory and
-Methods.&lt;/p&gt;
-
-&lt;p&gt;This meeting was not recorded.
-&lt;!---
-&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1PryMUuxAw09Flpfa9J0Z7m4cQexa3Q5G/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;
---&gt;&lt;/p&gt;
-
-</content>
-
-			
-				<category term="colloquium" />
-			
-			
-				<category term="colloquium" />
-			
-
-			<published>2022-03-15T00:00:00+01:00</published>
 		</entry>
 	
 </feed>
