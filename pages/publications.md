@@ -22,10 +22,10 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 ## Publications
 {: #publications }
 
-- Teodora Pandeva, Patrick Forré, **Multi-View Independent Component Analysis with Shared and Individual Sources**, [https://arxiv.org/abs/2210.02083][Pan22a], [openreview][Pan23b], accepted to UAI 2023.
-- David Ruhe, Jayesh K. Gupta, Steven de Keninck, Max Welling, Johannes Brandstetter, **Geometric Clifford Algebra Networks**, [https://arxiv.org/abs/2302.06594][Ruh23a], accepted to ICML 2023.
-- Benjamin Kurt Miller, Marco Federici, Christoph Weniger, Patrick Forré, **Simulation-based Inference with the Generalized Kullback-Leibler Divergence**, [openreview][Mil23a], accepted to ICML 2023 Workshop: Synergy of Scientific and Machine Learning Modeling.
-- Arnaud Delaunoy, Benjamin Kurt Miller, Patrick Forré, Christoph Weniger, Gilles Louppe, **Balancing Simulation-based Inference for Conservative Posteriors**, [https://arxiv.org/abs/2304.10978][Del23a], [openreview][Del23b], accepted to AABI 2023.
+- Teodora Pandeva, Patrick Forré, **Multi-View Independent Component Analysis with Shared and Individual Sources**, [https://arxiv.org/abs/2210.02083][Pan22a], [openreview][Pan23b], UAI 2023, PMLR 216:1639-1650, 2023.
+- David Ruhe, Jayesh K. Gupta, Steven de Keninck, Max Welling, Johannes Brandstetter, **Geometric Clifford Algebra Networks**, [https://arxiv.org/abs/2302.06594][Ruh23a], ICML 2023.
+- Benjamin Kurt Miller, Marco Federici, Christoph Weniger, Patrick Forré, **Simulation-based Inference with the Generalized Kullback-Leibler Divergence**, [openreview][Mil23a], ICML 2023 Workshop: Synergy of Scientific and Machine Learning Modeling.
+- Arnaud Delaunoy, Benjamin Kurt Miller, Patrick Forré, Christoph Weniger, Gilles Louppe, **Balancing Simulation-based Inference for Conservative Posteriors**, [https://arxiv.org/abs/2304.10978][Del23a], [openreview][Del23b], AABI 2023.
 - Teodora Pandeva, Patrick Forré, **Multi-View Independent Component Analysis for Omics Data Integration**, [openreview][Pan23a], ICLR 2023 Workshop: Machine Learning and Global Health.
 - Jim Boelrijk, Denice van Herwerden, Bernd Ensing, Patrick Forré, Saer Samanipour, **Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data**, [doi:10.26434/chemrxiv-2022-85wcl][Boe22a], Journal of Cheminformatics 15 (1), 2023.
 - Kaitlin Maile, Dennis G. Wilson, Patrick Forré, **Equivariance-aware Architectural Optimization of Neural Networks**, ICLR 2023, [openreview][Mai23a].
