@@ -60,6 +60,7 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 ## Preprints
 {: #preprints }
 
+- Marco Federici, Patrick Forré, Ryota Tomioka, Bastiaan S. Veeling, **Latent Representation and Simulation of Markov Processes via Time-Lagged Information Bottleneck**, [https://arxiv.org/abs/2309.07200][Fed23b], 2023.
 - Fiona Lippert, Bart Kranstauber, Emiel van Loon, Patrick Forré, **Deep Gaussian Markov Random Fields for Graph-Structured Dynamical Systems**, [https://arxiv.org/abs/2306.08445][Lip23a], 2023.
 - Marco Federici, David Ruhe, Patrick Forré, **On the Effectiveness of Hybrid Mutual Information Estimation**, [https://arxiv.org/abs/2306.00608][Fed23a], 2023.
 - David Ruhe, Johannes Brandstetter, Patrick Forré, **Clifford Group Equivariant Neural Networks**, [https://arxiv.org/abs/2305.11141][Ruh23b], 2023.
@@ -93,6 +94,7 @@ Back to [Publications](#publications) or [Preprints](#preprints).
 [Fed20a]: https://arxiv.org/abs/2002.07017
 [Fed21a]: https://arxiv.org/abs/2106.03783
 [Fed23a]: https://arxiv.org/abs/2306.00608
+[Fed23b]: https://arxiv.org/abs/2309.07200
 [For21a]: https://arxiv.org/abs/2104.11547
 [For21b]: https://arxiv.org/abs/2109.11631
 [Gal21a]: https://openreview.net/pdf?id=x9xn6HKgefz
