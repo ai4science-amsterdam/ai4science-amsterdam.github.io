@@ -22,6 +22,8 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 ## Publications
 {: #publications }
 
+- David Ruhe, Johannes Brandstetter, Patrick Forré, **Clifford Group Equivariant Neural Networks**, [https://arxiv.org/abs/2305.11141][Ruh23b], accepted for an oral presentation at NeurIPS 2023.
+- Fiona Lippert, Bart Kranstauber, Emiel van Loon, Patrick Forré, **Deep Gaussian Markov Random Fields for Graph-Structured Dynamical Systems**, [https://arxiv.org/abs/2306.08445][Lip23a], accepted to NeurIPS 2023.
 - Teodora Pandeva, Patrick Forré, **Multi-View Independent Component Analysis with Shared and Individual Sources**, [https://arxiv.org/abs/2210.02083][Pan22a], [openreview][Pan23b], UAI 2023, PMLR 216:1639-1650, 2023.
 - David Ruhe, Jayesh K. Gupta, Steven de Keninck, Max Welling, Johannes Brandstetter, **Geometric Clifford Algebra Networks**, [https://arxiv.org/abs/2302.06594][Ruh23a], ICML 2023.
 - Benjamin Kurt Miller, Marco Federici, Christoph Weniger, Patrick Forré, **Simulation-based Inference with the Generalized Kullback-Leibler Divergence**, [openreview][Mil23a], ICML 2023 Workshop: Synergy of Scientific and Machine Learning Modeling.
@@ -61,9 +63,7 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 {: #preprints }
 
 - Marco Federici, Patrick Forré, Ryota Tomioka, Bastiaan S. Veeling, **Latent Representation and Simulation of Markov Processes via Time-Lagged Information Bottleneck**, [https://arxiv.org/abs/2309.07200][Fed23b], 2023.
-- Fiona Lippert, Bart Kranstauber, Emiel van Loon, Patrick Forré, **Deep Gaussian Markov Random Fields for Graph-Structured Dynamical Systems**, [https://arxiv.org/abs/2306.08445][Lip23a], 2023.
 - Marco Federici, David Ruhe, Patrick Forré, **On the Effectiveness of Hybrid Mutual Information Estimation**, [https://arxiv.org/abs/2306.00608][Fed23a], 2023.
-- David Ruhe, Johannes Brandstetter, Patrick Forré, **Clifford Group Equivariant Neural Networks**, [https://arxiv.org/abs/2305.11141][Ruh23b], 2023.
 - Teodora Pandeva, Tim Bakker, Christian A. Naesseth, Patrick Forré, **E-Valuating Classifier Two-Sample Tests**, [https://arxiv.org/abs/2210.13027][Pan22b], 2022.
 - Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré, **Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu's Theorem**, [https://arxiv.org/abs/2202.09393][Lan22], 2022.
 - Christoph J. Hönes, Benjamin Kurt Miller, Ana M. Heras, Bernard H. Foing, **Automatically detecting anomalous exoplanet transits**, [https://arxiv.org/abs/2111.08679][Hon21], 2021.
