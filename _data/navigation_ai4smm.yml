@@ -1,0 +1,41 @@
+- title: "AI4Science"
+  url: "/"
+  side: left
+
+- title: "AI4SMM"
+  url: "/ai4smm_rpa/"
+  side: right
+
+- title: "About"
+  url: "/ai4smm_rpa/"
+  side: right
+
+- title: "People"
+  url: "/ai4smm_people/"
+  side: right
+
+- title: "Research"
+  url: "/ai4smm_projects/"
+  side: right
+  dropdown:
+  - title: "Research projects"
+    url: "/ai4smm_students/"
+  - title: "Bachelor/Master projects"
+    url: "/ai4smm_students/"
+
+- title: "Events"
+  url: "/ai4smm_call1/"
+  side: right
+  dropdown:
+  - title: "AI4SMM Fellowships"
+    url: "/ai4smm_call1/"  
+  - title: "AI4SMM Fellowships"
+    url: "/ai4smm_call1/"  
+    
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

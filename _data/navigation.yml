@@ -24,6 +24,10 @@
   dropdown:
   - title: "AI4SMM"
     url: "/ai4smm_rpa/"
+  - title: "People"
+    url: "/ai4smm_people/"
+  - title: "Student projects"
+    url: "/ai4smm_students/"
   - title: "AI4SMM Fellowships"
     url: "/ai4smm_call1/"
     
