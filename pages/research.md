@@ -16,7 +16,7 @@ permalink: "/research/"
 ## Gravitational Waves
 <br/>
 
-<img src="../images/ai4smm_project1.png"
+<img src="../images/fig_project1.png"
      alt="Project1"
      width="400"
      style="float: left; margin-right: 10px;" />
