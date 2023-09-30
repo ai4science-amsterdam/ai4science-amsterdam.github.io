@@ -117,46 +117,46 @@ permalink: "/ai4smm_people/"
 <div class="flex flex-4">
 <div class="box person">
     <div class="image round">
-      <a href="">
+      <a href="https://www.uva.nl/en/profile/q/u/f.quattrocchio/f.quattrocchio.html">
       <img src="../images/ai4smm_people/FrancescaQuattrocchio.jpg" alt="Francesca Quattrocchio" /></a>
     </div>
-    <h4><a href="">Francesca Quattrocchio</a></h4>
-    <p></p>
+    <h4><a href="https://www.uva.nl/en/profile/q/u/f.quattrocchio/f.quattrocchio.html">Francesca Quattrocchio</a></h4>
+    <p>Assistant Professor <a href="https://sils.uva.nl/content/research-groups/plant-development--epigenetics/plant-development--epigenetics.html">Plant Development & Genetics</a> (SILS)</p>
 </div>
 <div class="box person">
     <div class="image round">
-      <a href="">
+      <a href="https://www.uva.nl/en/profile/s/a/s.samanipour/s.samanipour.html">
       <img src="../images/ai4smm_people/SaerSamanipour.jpg" alt="Saer Samanipour" /></a>
     </div>
-    <h4><a href="">Saer Samanipour</a></h4>
-    <p></p>
+    <h4><a href="https://www.uva.nl/en/profile/s/a/s.samanipour/s.samanipour.html">Saer Samanipour</a></h4>
+    <p>Assistant Professor <a href="https://hims.uva.nl/content/research-groups/analytical-chemistry/analytical-chemistry.html">Analytical Chemistry</a> (HIMS)</p>
 </div>
 <div class="box person">
     <div class="image round">
-      <a href="">
+      <a href="https://www.uva.nl/en/profile/s/c/p.schall/p.schall.html">
       <img src="../images/ai4smm_people/PeterSchall.jpg" alt="Peter Schall" /></a>
     </div>
-    <h4><a href="">Peter Schall</a></h4>
-    <p></p>
+    <h4><a href="https://www.uva.nl/en/profile/s/c/p.schall/p.schall.html">Peter Schall</a></h4>
+    <p>Professor <a href="https://peterschall.de">Soft Matter Physics</a> (IoP)</p>
 </div>
 <div class="box person">
     <div class="image round">
-      <a href="">
+      <a href="https://www.uva.nl/en/profile/s/h/n.shahidzadeh/n.shahidzadeh.html">
       <img src="../images/ai4smm_people/NoushineShahidzadeh.jpg" alt="Noushine Shahidzadeh" /></a>
     </div>
-    <h4><a href="">Noushine Shahidzadeh</a></h4>
-     <p></p>
+    <h4><a href="https://www.uva.nl/en/profile/s/h/n.shahidzadeh/n.shahidzadeh.html">Noushine Shahidzadeh</a></h4>
+     <p>Professor <a href="https://iop.fnwi.uva.nl/scm/">Soft Matter</a> (IoP)</p>
 </div>
 </div>
 
 <div class="flex flex-4">
 <div class="box person">
     <div class="image round">
-      <a href="">
+      <a href="https://www.uva.nl/en/profile/w/o/s.woutersen/s.woutersen.html">
       <img src="../images/ai4smm_people/SanderWoutersen.jpg" alt="Sander Woutersen" /></a>
     </div>
-    <h4><a href="">Sander Woutersen</a></h4>
-    <p></p>
+    <h4><a href="https://www.uva.nl/en/profile/w/o/s.woutersen/s.woutersen.html">Sander Woutersen</a></h4>
+    <p>Professor <a href="https://hims.uva.nl/content/research-groups/molecular-photonics/molecular-photonics.html">Molecular Photonics</a> (HIMS)</p>
 </div>
 <div class="box person"></div>
 <div class="box person"></div>
@@ -176,7 +176,7 @@ permalink: "/ai4smm_people/"
       <img src="../images/ai4smm_people/DanielBonn.jpg" alt="Daniel Bonn" /></a>
     </div>
     <h4><a href="https://www.uva.nl/en/profile/b/o/d.bonn/d.bonn.html">Daniel Bonn</a></h4>
-    <p></p>
+     <p>Professor <a href="https://iop.fnwi.uva.nl/scm/">Soft Matter</a> (IoP)</p>
 </div>
 <div class="box person">
     <div class="image round">
@@ -184,23 +184,23 @@ permalink: "/ai4smm_people/"
       <img src="../images/ai4smm_people/BerndEnsing.jpg" alt="Bernd Ensing" /></a>
     </div>
     <h4><a href="https://www.uva.nl/en/profile/e/n/b.ensing/b.ensing.html">Bernd Ensing</a></h4>
-    <p></p>
+    <p>Associate Processor <a href="https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing/">Computational Chemistry</a> (HIMS)</p>
 </div>
 <div class="box person">
     <div class="image round">
       <a href="https://www.uva.nl/en/profile/h/a/m.a.haring/m.a.haring.html">
-      <img src="../images/ai4smm_people/.jpg" alt="MichelHaring.jpg" />Michel Haring</a>
+      <img src="../images/ai4smm_people/MichelHaring.jpg" alt="Michel Haring" /></a>
     </div>
     <h4><a href="https://www.uva.nl/en/profile/h/a/m.a.haring/m.a.haring.html">Michel Haring</a></h4>
-    <p></p>
+    <p>Professor <a href="Plant Physiology">Plant Physiology</a> (SILS)</p>
 </div>
 <div class="box person">
     <div class="image round">
       <a href="https://www.uva.nl/en/profile/m/e/j.w.vandemeent/j.w.van-de-meent.html">
-      <img src="../images/ai4smm_people/Jan-Willemvande Meent.jpg" alt="Jan-Willem van de Meent" /></a>
+      <img src="../images/ai4smm_people/Jan-WillemvandeMeent.jpg" alt="Jan-Willem van de Meent" /></a>
     </div>
     <h4><a href="https://www.uva.nl/en/profile/m/e/j.w.vandemeent/j.w.van-de-meent.html">Jan-Willem van de Meent</a></h4>
-    <p></p>
+    <p>Associate Processor <a href="http://amlab.science.uva.nl/people/JanWillemVanDeMeent/">AMLab</a> (IvI)</p>
 </div>
 </div>
 
@@ -211,7 +211,7 @@ permalink: "/ai4smm_people/"
       <img src="../images/ai4smm_people/ChrisSlootweg.jpg" alt="Chris Slootweg" /></a>
     </div>
     <h4><a href="https://www.uva.nl/en/profile/s/l/j.c.slootweg/j.c.slootweg.html">Chris Slootweg</a></h4>
-    <p></p>
+    <p>Associate Professor <a href="https://hims.uva.nl/content/research-groups/synthetic-organic-chemistry/group-members/group-members.html">Synthetic Organic Chemistry</a> (HIMS)</p>
 </div>
 <div class="box person">
     <div class="image round">
@@ -219,10 +219,26 @@ permalink: "/ai4smm_people/"
       <img src="../images/ai4smm_people/AnnemarievanWezel.jpg" alt="Annemarie van Wezel" /></a>
     </div>
     <h4><a href="https://www.uva.nl/en/profile/w/e/a.p.vanwezel/a.p.van-wezel.html">Annemarie van Wezel</a></h4>
-    <p></p>
+    <p>Professor <a href="https://ibed.uva.nl/content/research-departments/fame/freshwater-and-marine-ecology.html">Environmental Ecology</a> (IBED)</p>
 </div>
 <div class="box person"></div>
 <div class="box person"></div>
 </div>
+
+
+<div class="flex flex-4">
+<div class="box person">
+    <div class="image round">
+      <a href="https://www.uva.nl/profiel/b/a/m.j.bartels/m.j.bartels.html">
+      <img src="../images/ai4smm_people/ChrisSlootweg.jpg" alt="Marcel Bartels" /></a>
+    </div>
+    <h4><a href="https://www.uva.nl/profiel/b/a/m.j.bartels/m.j.bartels.html">Marcel Bartels</a></h4>
+    <p>Contact person (HIMS)</p>
+</div>
+<div class="box person"></div>
+<div class="box person"></div>
+<div class="box person"></div>
+</div>
+
 
 ---
