@@ -1,17 +1,5 @@
----
-layout: page-fullwidth_ai4smm 
-show_meta: false
-subheadline: "Research Priority Area"
-title: "AI for Sustainable Molecules and Materials"
-teaser: "AI4SMM Lab Members."
-header:
-   image_fullwidth: "header_drop.jpg"
-   title: ' AI4SMM Members'
-permalink: "/ai4smm_people/"
----
-
----
-## Postdoctoral Fellows
+I"m<hr />
+<h2 id="postdoctoral-fellows">Postdoctoral Fellows</h2>
 
 <div class="flex flex-4">
 <div class="box person">
@@ -23,10 +11,10 @@ permalink: "/ai4smm_people/"
 </div>
 <div class="box person">
           <div class="image round">
-            <a href="https://scholar.google.com/citations?hl=de&user=T6PZ3qIAAAAJ&view_op=list_works&sortby=pubdate">
+            <a href="https://scholar.google.com/citations?hl=de&amp;user=T6PZ3qIAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">
             <img src="../ai4smm_people/MaximBrodmerkel.jpg" alt="Maxim Brodmerkel" /></a>
           </div>
-          <h4><a href="https://scholar.google.com/citations?hl=de&user=T6PZ3qIAAAAJ&view_op=list_works&sortby=pubdate">Maxim N. Brodmerkel</a></h4>
+          <h4><a href="https://scholar.google.com/citations?hl=de&amp;user=T6PZ3qIAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Maxim N. Brodmerkel</a></h4>
 </div>
 <div class="box person">
           <div class="image round">
@@ -38,12 +26,9 @@ permalink: "/ai4smm_people/"
 <div class="box person"></div>
 </div>
 
+<hr />
+<h2 id="project-leaders">Project leaders</h2>
 
-
----
-## Project leaders
-
-		
 <div class="flex flex-4">
 <div class="box person">
     <div class="image round">
@@ -163,11 +148,8 @@ permalink: "/ai4smm_people/"
 <div class="box person"></div>
 </div>
 
-
-
----
-## AI4SMM Board
-
+<hr />
+<h2 id="ai4smm-board">AI4SMM Board</h2>
 
 <div class="flex flex-4">
 <div class="box person">
@@ -222,4 +204,5 @@ permalink: "/ai4smm_people/"
     <p></p>
 </div>
 </div>
----
+<hr />
+:ET
