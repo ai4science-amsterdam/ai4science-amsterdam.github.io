@@ -17,21 +17,21 @@ permalink: "/ai4smm_people/"
 <div class="box person">
     <div class="image round">
     <a href="https://github.com/mfederici">
-    <img src="../ai4smm_people/MarcoFederici.jpg" alt="Marco Federici" /></a>
+    <img src="../images/ai4smm_people/MarcoFederici.jpg" alt="Marco Federici" /></a>
     </div>
 	<h4><a href="https://github.com/mfederici">Marco Federici</a></h4>
 </div>
 <div class="box person">
           <div class="image round">
             <a href="https://scholar.google.com/citations?hl=de&user=T6PZ3qIAAAAJ&view_op=list_works&sortby=pubdate">
-            <img src="../ai4smm_people/MaximBrodmerkel.jpg" alt="Maxim Brodmerkel" /></a>
+            <img src="../images/ai4smm_people/MaximBrodmerkel.jpg" alt="Maxim Brodmerkel" /></a>
           </div>
           <h4><a href="https://scholar.google.com/citations?hl=de&user=T6PZ3qIAAAAJ&view_op=list_works&sortby=pubdate">Maxim N. Brodmerkel</a></h4>
 </div>
 <div class="box person">
           <div class="image round">
             <a href="">
-            <img src="../ai4smm_people/AlexanderKorotkevich.jpg" alt="Alexander Korotkevich" /></a>
+            <img src="../images/ai4smm_people/AlexanderKorotkevich.jpg" alt="Alexander Korotkevich" /></a>
           </div>
           <h4><a href="">Alexander Korotkevich</a></h4>
 </div>
@@ -48,7 +48,7 @@ permalink: "/ai4smm_people/"
 <div class="box person">
     <div class="image round">
       <a href="https://www.uva.nl/en/profile/b/o/p.g.bolhuis/p.g.bolhuis.html">
-      <img src="../people/PeterBolhuis.jpg" alt="Peter Bolhuis" /></a>
+      <img src="../images/ai4smm_people/PeterBolhuis.jpg" alt="Peter Bolhuis" /></a>
     </div>
     <h4><a href="https://www.uva.nl/en/profile/b/o/p.g.bolhuis/p.g.bolhuis.html">Peter Bolhuis</a></h4>
     <p>Professor <a href="https://www.compchem.nl/staff_members/prof-dr-p-g-peter-bolhuis/">Computational Chemistry</a> (HIMS)</p>
@@ -56,7 +56,7 @@ permalink: "/ai4smm_people/"
 <div class="box person">
     <div class="image round">
       <a href="https://www.uva.nl/en/profile/c/o/c.j.m.coulais/c.j.m.coulais.html">
-      <img src="../people/CorentinCoulais.jpg" alt="Corentin Coulais" /></a>
+      <img src="../images/ai4smm_people/CorentinCoulais.jpg" alt="Corentin Coulais" /></a>
     </div>
     <h4><a href="https://www.uva.nl/en/profile/c/o/c.j.m.coulais/c.j.m.coulais.html">Corentin Coulais</a></h4>
     <p>Associate Professor <a href="https://coulaislab.com">Machine Materials Lab</a> (IvI)</p>
@@ -64,7 +64,7 @@ permalink: "/ai4smm_people/"
 <div class="box person">
     <div class="image round">
       <a href="https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html">
-      <img src="../people/PatrickForre.jpg" alt="Patrick Forré" /></a>
+      <img src="../images/people/PatrickForre.jpg" alt="Patrick Forré" /></a>
     </div>
     <h4><a href="https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html">Patrick Forré</a></h4>
     <p>Assistant professor <a href="https://ai4science-amsterdam.github.io">AI4Science</a>, <a href="http://amlab.science.uva.nl/people/PatrickForre/">AMLab</a> (IvI)</p>
@@ -72,7 +72,7 @@ permalink: "/ai4smm_people/"
 <div class="box person">
     <div class="image round">
       <a href="https://www.uva.nl/profiel/h/o/h.c.vanhoof/h.c.van-hoof.html">
-      <img src="../people/HerkevanHoof.jpg" alt="Herke van Hoof" /></a>
+      <img src="../images/ai4smm_people/HerkevanHoof.jpg" alt="Herke van Hoof" /></a>
     </div>
     <h4><a href="https://www.uva.nl/profiel/h/o/h.c.vanhoof/h.c.van-hoof.html">Herke van Hoof</a></h4>
      <p>Assistant professor <a href="http://amlab.science.uva.nl/people/HerkeVanHoof/">AMLab</a> (IvI)</p>
@@ -83,34 +83,34 @@ permalink: "/ai4smm_people/"
 <div class="box person">
     <div class="image round">
       <a href="https://www.uva.nl/en/profile/j/a/s.jabbarifarouji/s.jabbari-farouji.html">
-      <img src="../people/SaraJabbari-Farouji.jpg" alt="Sara Jabbari-Farouji" /></a>
+      <img src="../images/ai4smm_people/SaraJabbari-Farouji.jpg" alt="Sara Jabbari-Farouji" /></a>
     </div>
     <h4><a href="https://www.uva.nl/en/profile/j/a/s.jabbarifarouji/s.jabbari-farouji.html">Sara Jabbari-Farouji</a></h4>
     <p>Assistant Professor <a href="https://staff.fnwi.uva.nl/s.jabbarifarouji/">Computational Soft Matter</a></p>
 </div>
 <div class="box person">
     <div class="image round">
-      <a href="">
-      <img src="../people/Jan-WillemvandeMeent.jpg" alt="Jan-Willem van de Meent" /></a>
+      <a href="https://www.uva.nl/en/profile/m/e/j.w.vandemeent/j.w.van-de-meent.html">
+      <img src="../images/ai4smm_people/Jan-WillemvandeMeent.jpg" alt="Jan-Willem van de Meent" /></a>
     </div>
-    <h4><a href="">Jan-Willem van de Meent</a></h4>
-    <p></p>
+    <h4><a href="https://www.uva.nl/en/profile/m/e/j.w.vandemeent/j.w.van-de-meent.html">Jan-Willem van de Meent</a></h4>
+    <p>Associate Professor <a href="http://amlab.science.uva.nl/people/JanWillemVanDeMeent/">AMLab</a> (IvI)</p>
 </div>
 <div class="box person">
     <div class="image round">
-      <a href="Alberto Pérez de Alba Ortíz">
-      <img src="../people/AlbertoPerezdeAlbaOrtiz.jpg" alt="" /></a>
+      <a href="https://www.uva.nl/en/profile/p/e/a.perezdealbaortiz/a.perez-de-alba-ortiz.html">
+      <img src="../images/ai4smm_people/AlbertoPerezdeAlbaOrtiz.jpg" alt="" /></a>
     </div>
-    <h4><a href="">Alberto Pérez de Alba Ortíz</a></h4>
-    <p></p>
+    <h4><a href="https://www.uva.nl/en/profile/p/e/a.perezdealbaortiz/a.perez-de-alba-ortiz.html">Alberto Pérez de Alba Ortíz</a></h4>
+    <p>Assistant Professor <a href="https://iop.fnwi.uva.nl/computational_soft_matter/team.html/">Computational Soft Matter</a></p>
 </div>
 <div class="box person">
     <div class="image round">
-      <a href="">
-      <img src="../people/AntoniaPraetorius.jpg" alt="Antonia Praetorius" /></a>
+      <a href="https://www.uva.nl/en/profile/p/r/a.praetorius/a.praetorius.html">
+      <img src="../images/ai4smm_people/AntoniaPraetorius.jpg" alt="Antonia Praetorius" /></a>
     </div>
-    <h4><a href="">Antonia Praetorius</a></h4>
-     <p></p>
+    <h4><a href="https://www.uva.nl/en/profile/p/r/a.praetorius/a.praetorius.html">Antonia Praetorius</a></h4>
+     <p>Assistant Professor Environmental Chemistry (IBED)</p>
 </div>
 </div>
 
@@ -118,7 +118,7 @@ permalink: "/ai4smm_people/"
 <div class="box person">
     <div class="image round">
       <a href="">
-      <img src="../people/FrancescaQuattrocchio.jpg" alt="Francesca Quattrocchio" /></a>
+      <img src="../images/ai4smm_people/FrancescaQuattrocchio.jpg" alt="Francesca Quattrocchio" /></a>
     </div>
     <h4><a href="">Francesca Quattrocchio</a></h4>
     <p></p>
@@ -126,7 +126,7 @@ permalink: "/ai4smm_people/"
 <div class="box person">
     <div class="image round">
       <a href="">
-      <img src="../people/SaerSamanipour.jpg" alt="Saer Samanipour" /></a>
+      <img src="../images/ai4smm_people/SaerSamanipour.jpg" alt="Saer Samanipour" /></a>
     </div>
     <h4><a href="">Saer Samanipour</a></h4>
     <p></p>
@@ -134,7 +134,7 @@ permalink: "/ai4smm_people/"
 <div class="box person">
     <div class="image round">
       <a href="">
-      <img src="../people/PeterSchall.jpg" alt="Peter Schall" /></a>
+      <img src="../images/ai4smm_people/PeterSchall.jpg" alt="Peter Schall" /></a>
     </div>
     <h4><a href="">Peter Schall</a></h4>
     <p></p>
@@ -142,7 +142,7 @@ permalink: "/ai4smm_people/"
 <div class="box person">
     <div class="image round">
       <a href="">
-      <img src="../people/NoushineShahidzadeh.jpg" alt="Noushine Shahidzadeh" /></a>
+      <img src="../images/ai4smm_people/NoushineShahidzadeh.jpg" alt="Noushine Shahidzadeh" /></a>
     </div>
     <h4><a href="">Noushine Shahidzadeh</a></h4>
      <p></p>
@@ -153,7 +153,7 @@ permalink: "/ai4smm_people/"
 <div class="box person">
     <div class="image round">
       <a href="">
-      <img src="../people/SanderWoutersen.jpg" alt="Sander Woutersen" /></a>
+      <img src="../images/ai4smm_people/SanderWoutersen.jpg" alt="Sander Woutersen" /></a>
     </div>
     <h4><a href="">Sander Woutersen</a></h4>
     <p></p>
@@ -173,7 +173,7 @@ permalink: "/ai4smm_people/"
 <div class="box person">
     <div class="image round">
       <a href="https://www.uva.nl/en/profile/b/o/d.bonn/d.bonn.html">
-      <img src="../people/DanielBonn.jpg" alt="Daniel Bonn" /></a>
+      <img src="../images/ai4smm_people/DanielBonn.jpg" alt="Daniel Bonn" /></a>
     </div>
     <h4><a href="https://www.uva.nl/en/profile/b/o/d.bonn/d.bonn.html">Daniel Bonn</a></h4>
     <p></p>
@@ -181,7 +181,7 @@ permalink: "/ai4smm_people/"
 <div class="box person">
     <div class="image round">
       <a href="https://www.uva.nl/en/profile/e/n/b.ensing/b.ensing.html">
-      <img src="../people/BerndEnsing.jpg" alt="Bernd Ensing" /></a>
+      <img src="../images/ai4smm_people/BerndEnsing.jpg" alt="Bernd Ensing" /></a>
     </div>
     <h4><a href="https://www.uva.nl/en/profile/e/n/b.ensing/b.ensing.html">Bernd Ensing</a></h4>
     <p></p>
@@ -189,7 +189,7 @@ permalink: "/ai4smm_people/"
 <div class="box person">
     <div class="image round">
       <a href="https://www.uva.nl/en/profile/h/a/m.a.haring/m.a.haring.html">
-      <img src="../people/.jpg" alt="MichelHaring.jpg" />Michel Haring</a>
+      <img src="../images/ai4smm_people/.jpg" alt="MichelHaring.jpg" />Michel Haring</a>
     </div>
     <h4><a href="https://www.uva.nl/en/profile/h/a/m.a.haring/m.a.haring.html">Michel Haring</a></h4>
     <p></p>
@@ -197,7 +197,7 @@ permalink: "/ai4smm_people/"
 <div class="box person">
     <div class="image round">
       <a href="https://www.uva.nl/en/profile/m/e/j.w.vandemeent/j.w.van-de-meent.html">
-      <img src="../people/Jan-Willemvande Meent.jpg" alt="Jan-Willem van de Meent" /></a>
+      <img src="../images/ai4smm_people/Jan-Willemvande Meent.jpg" alt="Jan-Willem van de Meent" /></a>
     </div>
     <h4><a href="https://www.uva.nl/en/profile/m/e/j.w.vandemeent/j.w.van-de-meent.html">Jan-Willem van de Meent</a></h4>
     <p></p>
@@ -208,7 +208,7 @@ permalink: "/ai4smm_people/"
 <div class="box person">
     <div class="image round">
       <a href="https://www.uva.nl/en/profile/s/l/j.c.slootweg/j.c.slootweg.html">
-      <img src="../people/ChrisSlootweg.jpg" alt="Chris Slootweg" /></a>
+      <img src="../images/ai4smm_people/ChrisSlootweg.jpg" alt="Chris Slootweg" /></a>
     </div>
     <h4><a href="https://www.uva.nl/en/profile/s/l/j.c.slootweg/j.c.slootweg.html">Chris Slootweg</a></h4>
     <p></p>
@@ -216,10 +216,13 @@ permalink: "/ai4smm_people/"
 <div class="box person">
     <div class="image round">
       <a href="https://www.uva.nl/en/profile/w/e/a.p.vanwezel/a.p.van-wezel.html">
-      <img src="../people/AnnemarievanWezel.jpg" alt="Annemarie van Wezel" /></a>
+      <img src="../images/ai4smm_people/AnnemarievanWezel.jpg" alt="Annemarie van Wezel" /></a>
     </div>
     <h4><a href="https://www.uva.nl/en/profile/w/e/a.p.vanwezel/a.p.van-wezel.html">Annemarie van Wezel</a></h4>
     <p></p>
 </div>
+<div class="box person"></div>
+<div class="box person"></div>
 </div>
+
 ---
