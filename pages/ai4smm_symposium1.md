@@ -7,7 +7,7 @@ title: "AI for Sustainable Molecules and Materials"
 header:
    image_fullwidth: "header_drop.jpg"
    title: ' AI4SMM'
-permalink: "/ai4smm_symposium1"
+permalink: "/ai4smm_symposium1/"
 ---
 
 
