@@ -207,7 +207,12 @@ We develop and use machine learning techniques to discover patterns in data stre
 
                       
 
-                      <li><a  href="https://ai4science-amsterdam.github.io//ai4smm_rpa/">AI4SMM</a></li>
+                      <li><a  href="https://ai4science-amsterdam.github.io//ai4smm_home/">AI4SMM</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//ai4smm_rpa/">About</a></li>
                     
 
                       
