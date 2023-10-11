@@ -23,10 +23,17 @@ To see the colloquium schedule, subscribe to the email announcements, and watch 
 
 #### ChemAI Day
 
+Together with the Amsterdam Chemistry Network, we are organizing the
+ChemAI Symposium this November 16th in LAB42 in Amsterdam.
+Please join us! We are looking forward to connect with academic and
+industrial partners to enlarge our consortium. Click on the button
+below to see the program and to register.
+
 * When: 16 November 2023
 * Where: LAB42 Room L1.01, Science Park, Amsterdam
 
-Further details to be announced.
+<a class="radius button small"
+href="https://www.acnetwork.nl/chemai">ChemAI Event</a>
 
 #### AI4 Enzyme Instructed Catalysis Workshop
 
