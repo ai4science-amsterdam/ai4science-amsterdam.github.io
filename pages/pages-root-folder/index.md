@@ -40,7 +40,7 @@ __________________________________________
 <center> <h1>ChemAI Day</h1> </center>
 
 Together with the Amsterdam Chemistry Network, we are organizing the
-ChemAI Symposium this November 16th in LAB42 in Amsterdam.
+ChemAI Symposium on November 16th in LAB42 in Amsterdam.
 Please join us! We are looking forward to connect with academic and
 industrial partners to enlarge our consortium.
 
@@ -48,7 +48,8 @@ industrial partners to enlarge our consortium.
 * Where: LAB42 Room L1.01, Science Park, Amsterdam
 
 <a class="radius button small"
-href="https://www.acnetwork.nl/chemai">ChemAI Event</a>
+href="https://www.acnetwork.nl/chemai">ChemAI Event> </a>
+
 __________________________________________
 
 
