@@ -33,7 +33,25 @@ homepage: true
 
 [comment]:<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/events/">Learn More›</a>
 
- ----------------------------------------------------------------------------------------------------------
+
+__________________________________________
+
+<center> <h2>Entering the fifth paradigm for chemistry!</h2> </center>
+<center> <h1>ChemAI Day</h1> </center>
+
+Together with the Amsterdam Chemistry Network, we are organizing the
+ChemAI Symposium this November 16th in LAB42 in Amsterdam.
+Please join us! We are looking forward to connect with academic and
+industrial partners to enlarge our consortium.
+
+* When: 16 November 2023
+* Where: LAB42 Room L1.01, Science Park, Amsterdam
+
+<a class="radius button small"
+href="https://www.acnetwork.nl/chemai">ChemAI Event</a>
+__________________________________________
+
+
 <center> <h2>Upcoming Events</h2> </center>
 <center> <h1>The AI4Science Colloquium</h1> </center>
 
