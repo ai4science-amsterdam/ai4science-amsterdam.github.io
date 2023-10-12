@@ -1,10 +1,12 @@
-I"�<h3 id="metamaterials-designed-by-ai-for-sustainable-steel">Metamaterials designed by AI for Sustainable Steel</h3>
+I"[<h3 id="metamaterials-designed-by-ai-for-sustainable-steel">Metamaterials designed by AI for Sustainable Steel</h3>
+
+<p><img src="../images//ai4smm_project1.png" alt="Project1" style="float: right; margin: 20px; max-width: 300px; height: auto; " /></p>
 
 <p>Designing sustainable yet high-performance mechanical systems is extremely difficult because
 there are often conflicting requirements. For example, making a lighter energy damper is hard because the
 energy absorbed by a material increases with its mass. An emerging opportunity is to use mechanical metamaterials to design components that meet specific criteria, such as yield strength and energy absorption, whilst minimizing the CO2 budget. We develop deep learning methods to accelerate the computational design of dissipative metamaterials that in turn enable new technology for sustainable steel.</p>
 
-<p>By:</p>
+<h5 id="principal-investigators">Principal investigators:</h5>
 <ul>
   <li>Corentin Coulais (IoP)</li>
   <li>Jan-Willem van de Meent (IvI)</li>
@@ -16,7 +18,7 @@ energy absorbed by a material increases with its mass. An emerging opportunity i
 
 <p>To accelerate the energy transition towards sustainable sources, there is an urgency to develop novel technologies. Thermal Energy Storage (TES) materials are a technology that can contribute to a secure energy supply. We investigate salt hydrates for which the reversible dehydration/hydration reactions can store/release heat. These have very high energy densities and are therefore promising candidates to reduce energy costs and peak power demand. We aim to increase efficiency, utilization, and lifetimes as well as to reduce capital costs. Delivering tunable and durable salt hydrates for TES could enable their widespread use in industry and society.</p>
 
-<p>By:</p>
+<h5 id="principal-investigators-1">Principal investigators:</h5>
 <ul>
   <li>Alexander Korotkevich (AI4SMM)</li>
   <li>Noushine Shahidzadeh (IoP)</li>
@@ -30,7 +32,7 @@ energy absorbed by a material increases with its mass. An emerging opportunity i
 
 <p>A data-driven approach can help to simplify the suite of chemical additives used in plastics to support the development of Safe-and-Sustainable-by-Design (SSbD) polymeric materials. Currently, most plastics are neither circular nor sustainable, in large parts due to the wide range of different chemical additives—which impart specific functions on plastic materials—posing safety concerns and limiting effective recycling strategies. We develop Graph Neural Network (GNN) models to categorize chemical additives into SSbD categories, based on their 3D molecular structure. The resulting short-list of safe chemical additives covering key functions is much needed for a transition towards the production of more sustainable plastics.</p>
 
-<p>By:</p>
+<h5 id="principal-investigators-2">Principal investigators:</h5>
 <ul>
   <li>Marco Federici</li>
   <li>Saer Samanipour (HIMS)</li>
@@ -44,7 +46,7 @@ energy absorbed by a material increases with its mass. An emerging opportunity i
 
 <p>We use machine learning to predict structure, aggregation and rheological behavior of naturally occurring complex protein mixtures in plants to design sustainable and healthy plant-based food products. Focusing on emerging plant proteins, such as RuBisCo, pea, and potato proteins that can serve as sustainable substitutes for animal proteins, we develop a transferable colloidal model to predict aggregation, gelation and structural properties of complex mixtures and employ experimental data to train and validate the model. By leveraging this AI-driven model, we can accelerate a design pipeline for sustainable, plant waste-based, protein mixtures for food production.</p>
 
-<p>By:</p>
+<h5 id="principal-investigators-3">Principal investigators:</h5>
 <ul>
   <li>Maxim Brodmerkel (AI4SMM)</li>
   <li>Peter Bolhuis (HIMS)</li>

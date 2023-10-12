@@ -15,14 +15,24 @@ permalink: "/ai4smm_students/"
 
 ### Research projects for Bachelor and Master students
 
+Below follows a listing of available research projects for Bachelor or Master students
+with an interest in AI for Sustainable Molecules and Materials, and with
+a background in a relevant discipline, such as AI, Computational Science, Physics, Chemistry,
+Biology, Astrophysics, etc. UvA and VU students interested in such a project are 
+invited to contact one of the supervising faculty. Experience with machine learning and 
+programming is recommended.  
+
+Supervisors and group leaders with a student project relevant for the mission of AI4SMM 
+can have their project description posted here by sending an email request to Bernd Ensing.
+
 ----------------------------------------------
 #### Master project 1
 ## AI-guided catalytic conversion of plastic waste into sustainable molecules
 
-<img src="../images//ai4smm_project1.png"
+<img src="../images//ai4smm_student_project1.png"
      alt="Project1"
      width="400"
-     style="float: right; margin-right: 10px;" />
+     style="float: right; margin: 20px;" />
 
 Plastics are ubiquitous in every part of our society. However, only 9%
 of used plastics are recycled, which creates an unsustainable
@@ -44,7 +54,7 @@ introducing an AI-guiding framework based on active learning and
 Bayesian optimization cycles, you will use and improve the simulator to
 guide future experiments.
 
-Supervision:
+##### Supervision:
  * Christian Naesseth (IvI)
  * Shiju. N. Raveendran (HIMS)
  * Bernd Ensing (HIMS)
