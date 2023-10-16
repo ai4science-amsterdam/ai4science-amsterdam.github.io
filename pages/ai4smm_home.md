@@ -6,7 +6,7 @@ title: "AI for Sustainable Molecules and Materials"
 # teaser: "Hi, welcome to our lab."
 header:
    image_fullwidth: "header_drop.jpg"
-   title: ' AI4SMM'
+   title: <span style="text-transform:none; font-family:inherit; font-size:1.2em;">AI4SMM</span> <br>  <span style="text-transform:none; font-family:FontAwesome,Gill Sans; font-size:0.5em;">Artificial Intelligence for Sustainable Molecules and Materials</span>
 permalink: "/ai4smm_home/"
 ---
 
@@ -20,14 +20,15 @@ materials for a sustainable planet by leveraging the utility of artificial intel
 The multidisciplinary AI4SMM Laboratory bridges the FNWI strengths related to
 sustainability, AI, and design of smart materials and molecules. AI4SMM aims to
 be a knowledge hub within a green and smart ecosystem that includes the UvA Sustainability
-Platform, the AI4Science Lab, AMLab, the Computational Soft Matter Lab, the Computational
-Chemistry Group, but also the  MaterialenNL Platform, Port of Amsterdam, and so forth.
+Platform, the AI4Science Lab, AMLab, the Data Science Center, the Computational Soft Matter Lab, 
+the Computational Chemistry Group, but also the  MaterialenNL Platform, Port of Amsterdam, 
+Microsoft Research, and so forth.
 
-Click on the red button to read more about our mission and our aims for scientific research, 
-education, and connecting with academic and industrial partners.
+Read more about our mission and our aims for scientific research, 
+education, and connecting with academic and industrial partners on our "About AI4SMM" page.
 
 <center> <a class="radius button small" style="margin: auto;"
-href="../ai4smm_rpa/">Learn More></a> </center>
+href="../ai4smm_rpa/">About AI4SMM></a> </center>
 
 [comment]: Welcome, who are we? Link to our mission
 [comment]: New post-docs starting
@@ -57,7 +58,44 @@ href="https://www.acnetwork.nl/chemai">ChemAI Event> </a> </center>
 
 ---
 
-[comment]:<center> <h2>Welcome to new AI4SMM Lab members</h2> </center>
-[comment]:<center> <h1>AI4SMM Postdoctoral Fellows</h1> </center>
+<center> <h2>A warm welcome to three AI4SMM postdoctoral fellows</h2> </center>
+<center> <h1>AI4SMM Research</h1> </center>
 
+Early 2023, the AI4SMM call for research proposals for postdoctoral fellowship projects 
+was concluded and four excellent multidisciplinary projects were awarded. 
+We are very happy that we can now welcome our first AI4SMM postdoctoral fellows to the lab:
+
+<div style="margin: auto; width: 575px; height: 300px;">
+<div style="margin: 5px; border: 1px solid #ccc; float: left; width: 180px;">
+  <a target="_blank" href="../images/ai4smm_people/MaximBrodmerkel.jpg">
+    <img src="../images/ai4smm_people/MaximBrodmerkel.jpg" alt="Maxim Brodmerkel" style="width: 100%; height: auto;">
+  </a>
+  <div style="padding: 15px; text-align: center;">Maxim<br>Brodmerkel</div>
+</div>
+
+<div style="margin: 5px; border: 1px solid #ccc; float: left; width: 180px;">
+  <a target="_blank" href="../images/ai4smm_people/MarcoFederici.jpg">
+    <img src="../images/ai4smm_people/MarcoFederici.jpg" alt="Marco Federici" style="width: 100%; height: auto;">
+  </a>
+  <div style="padding: 15px; text-align: center;">Marco<br>Federici</div>
+</div>
+
+<div style="margin: 5px; border: 1px solid #ccc; float: left; width: 180px;">
+  <a target="_blank" href="../images/ai4smm_people/AlexanderKorotkevich.jpg">
+    <img src="../images/ai4smm_people/AlexanderKorotkevich.jpg" alt="Alexander Korotkevich" style="width: 100%; height: auto;">
+  </a>
+  <div style="padding: 15px; text-align: center;">Alexander<br>Korotkevich</div>
+</div>
+</div>
+
+<div style="float: none;">
+Maxim will be working on Machine Learning-based models of plant protein mixtures for sustainable 
+food design. Marco's project is on chemical additives for safe-and-sustainable-by-design plastics.
+And Alexander studies salt hydrates for thermal energy storage.
+Click below to read further about their research plans.<br>
+
+<center> <a class="radius button small center" href="../ai4smm_projects">Research Projects></a> </center>
+</div>
+
+---
 
