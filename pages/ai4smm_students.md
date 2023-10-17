@@ -6,14 +6,14 @@ title: "Multidisciplinary research projects"
 #teaser: "Hi, welcome to our lab."
 header:
    image_fullwidth: "header_drop.jpg"
-   title: ' AI4SMM'
+   title: <span style="text-transform:none; font-family:inherit; font-size:1.2em;">AI4SMM Student projects</span> <br>  <span style="text-transform:none; font-family:FontAwesome,Gill Sans; font-size:0.5em;">Artificial Intelligence for Sustainable Molecules and Materials</span>
 permalink: "/ai4smm_students/"
 ---
-
 
 ---
 
 ### Research projects for Bachelor and Master students
+{:.no_toc}
 
 Below follows a listing of available research projects for Bachelor or Master students
 with an interest in AI for Sustainable Molecules and Materials, and with
@@ -26,7 +26,12 @@ Supervisors and group leaders with a student project relevant for the mission of
 can have their project description posted here by sending an email request to Bernd Ensing.
 
 ----------------------------------------------
+* This will become a table of contents (this text will be scrapped).
+{:toc}
+----------------------------------------------
+
 #### Master project 1
+{:.no_toc}
 ## AI-guided catalytic conversion of plastic waste into sustainable molecules
 
 <img src="../images//ai4smm_student_project1.png"
@@ -55,6 +60,7 @@ Bayesian optimization cycles, you will use and improve the simulator to
 guide future experiments.
 
 ##### Supervision:
+{:.no_toc}
  * Christian Naesseth (IvI)
  * Shiju. N. Raveendran (HIMS)
  * Bernd Ensing (HIMS)
