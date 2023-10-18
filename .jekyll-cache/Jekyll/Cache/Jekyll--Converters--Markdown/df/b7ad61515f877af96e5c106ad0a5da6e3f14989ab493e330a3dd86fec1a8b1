@@ -1,4 +1,4 @@
-I"7-<!-- force style for table  -->
+I"6<!-- force style for table  -->
 <style type="text/css">
     li { list-style-type: disc; }
 </style>
@@ -8,9 +8,16 @@
 <h2 id="publications">Publications</h2>
 
 <ul>
-  <li>Jim Boelrijk, Denice van Herwerden, Bernd Ensing, Patrick Forré, Saer Samanipour, <strong>Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data</strong>,<a href="https://doi.org/10.26434/chemrxiv-2022-85wcl">doi:10.26434/chemrxiv-2022-85wcl</a>, accepted to Journal of Cheminformatics, 2023.</li>
-  <li>Kaitlin Maile, Dennis G. Wilson, Patrick Forré, <strong>Equivariance-aware Architectural Optimization of Neural Networks</strong>, accepted to ICLR 2023, <a href="https://openreview.net/forum?id=a6rCdfABJXg">openreview</a>.</li>
-  <li>Jim Boelrijk, Bernd Ensing, Patrick Forré, <strong>Multi-objective optimization via equivariant deep hypervolume approximation</strong>, accepted to ICLR 2023, <a href="https://openreview.net/forum?id=fSa5IjNMmmi">openreview</a>.</li>
+  <li>David Ruhe, Johannes Brandstetter, Patrick Forré, <strong>Clifford Group Equivariant Neural Networks</strong>, <a href="https://arxiv.org/abs/2305.11141">https://arxiv.org/abs/2305.11141</a>, accepted for an oral presentation at NeurIPS 2023.</li>
+  <li>Fiona Lippert, Bart Kranstauber, Emiel van Loon, Patrick Forré, <strong>Deep Gaussian Markov Random Fields for Graph-Structured Dynamical Systems</strong>, <a href="https://arxiv.org/abs/2306.08445">https://arxiv.org/abs/2306.08445</a>, accepted to NeurIPS 2023.</li>
+  <li>Teodora Pandeva, Patrick Forré, <strong>Multi-View Independent Component Analysis with Shared and Individual Sources</strong>, <a href="https://arxiv.org/abs/2210.02083">https://arxiv.org/abs/2210.02083</a>, <a href="https://openreview.net/forum?id=WW6O-e7YJ2O">openreview</a>, UAI 2023, PMLR 216:1639-1650, 2023.</li>
+  <li>David Ruhe, Jayesh K. Gupta, Steven de Keninck, Max Welling, Johannes Brandstetter, <strong>Geometric Clifford Algebra Networks</strong>, <a href="https://arxiv.org/abs/2302.06594">https://arxiv.org/abs/2302.06594</a>, ICML 2023.</li>
+  <li>Benjamin Kurt Miller, Marco Federici, Christoph Weniger, Patrick Forré, <strong>Simulation-based Inference with the Generalized Kullback-Leibler Divergence</strong>, <a href="https://openreview.net/forum?id=tPb1Fe58ro">openreview</a>, ICML 2023 Workshop: Synergy of Scientific and Machine Learning Modeling.</li>
+  <li>Arnaud Delaunoy, Benjamin Kurt Miller, Patrick Forré, Christoph Weniger, Gilles Louppe, <strong>Balancing Simulation-based Inference for Conservative Posteriors</strong>, <a href="https://arxiv.org/abs/2304.10978">https://arxiv.org/abs/2304.10978</a>, <a href="https://arxiv.org/abs/2304.10978">openreview</a>, AABI 2023.</li>
+  <li>Teodora Pandeva, Patrick Forré, <strong>Multi-View Independent Component Analysis for Omics Data Integration</strong>, <a href="https://openreview.net/forum?id=r5KL-AfXt75">openreview</a>, ICLR 2023 Workshop: Machine Learning and Global Health.</li>
+  <li>Jim Boelrijk, Denice van Herwerden, Bernd Ensing, Patrick Forré, Saer Samanipour, <strong>Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data</strong>, <a href="https://doi.org/10.26434/chemrxiv-2022-85wcl">doi:10.26434/chemrxiv-2022-85wcl</a>, Journal of Cheminformatics 15 (1), 2023.</li>
+  <li>Kaitlin Maile, Dennis G. Wilson, Patrick Forré, <strong>Equivariance-aware Architectural Optimization of Neural Networks</strong>, ICLR 2023, <a href="https://openreview.net/forum?id=a6rCdfABJXg">openreview</a>.</li>
+  <li>Jim Boelrijk, Bernd Ensing, Patrick Forré, <strong>Multi-objective optimization via equivariant deep hypervolume approximation</strong>, ICLR 2023, <a href="https://openreview.net/forum?id=fSa5IjNMmmi">openreview</a>.</li>
   <li>Jim Boelrijk, Bernd Ensing, Patrick Forré, Bob Pirok, <strong>Closed-loop automatic gradient design for liquid chromatography using Bayesian optimization</strong>, Analytica Chimica Acta, 2023, 340789, <a href="https://www.sciencedirect.com/science/article/pii/S0003267023000107">https://doi.org/10.1016/j.aca.2023.340789</a>.</li>
   <li>Kaitlin Maile, Dennis George Wilson, Patrick Forré, <strong>Towards Architectural Optimization of Equivariant Neural Networks over Subgroups</strong>, NeurIPS 2022 Workshop: NeurReps, <a href="https://openreview.net/forum?id=KJFpArxWe-g">openreview</a>.</li>
   <li>David Ruhe, Kaze Wong, Miles Cranmer, Patrick Forré, <strong>Normalizing Flows for Hierarchical Bayesian Analysis: A Gravitational Wave Population Study</strong>, NeurIPS 2022 Workshop: Machine Learning and the Physical Sciences, <a href="https://arxiv.org/abs/2211.09008">https://arxiv.org/abs/2211.09008</a>.</li>
@@ -41,8 +48,9 @@
 <h2 id="preprints">Preprints</h2>
 
 <ul>
+  <li>Marco Federici, Patrick Forré, Ryota Tomioka, Bastiaan S. Veeling, <strong>Latent Representation and Simulation of Markov Processes via Time-Lagged Information Bottleneck</strong>, <a href="https://arxiv.org/abs/2309.07200">https://arxiv.org/abs/2309.07200</a>, 2023.</li>
+  <li>Marco Federici, David Ruhe, Patrick Forré, <strong>On the Effectiveness of Hybrid Mutual Information Estimation</strong>, <a href="https://arxiv.org/abs/2306.00608">https://arxiv.org/abs/2306.00608</a>, 2023.</li>
   <li>Teodora Pandeva, Tim Bakker, Christian A. Naesseth, Patrick Forré, <strong>E-Valuating Classifier Two-Sample Tests</strong>, <a href="https://arxiv.org/abs/2210.13027">https://arxiv.org/abs/2210.13027</a>, 2022.</li>
-  <li>Teodora Pandeva, Patrick Forré, <strong>Multi-View Independent Component Analysis with Shared and Individual Sources</strong>, <a href="https://arxiv.org/abs/2210.02083">https://arxiv.org/abs/2210.02083</a>, 2022.</li>
   <li>Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré, <strong>Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu’s Theorem</strong>, <a href="https://arxiv.org/abs/2202.09393">https://arxiv.org/abs/2202.09393</a>, 2022.</li>
   <li>Christoph J. Hönes, Benjamin Kurt Miller, Ana M. Heras, Bernard H. Foing, <strong>Automatically detecting anomalous exoplanet transits</strong>, <a href="https://arxiv.org/abs/2111.08679">https://arxiv.org/abs/2111.08679</a>, 2021.</li>
   <li>Patrick Forré, <strong>Quasi-Measurable Spaces</strong>, <a href="https://arxiv.org/abs/2109.11631">https://arxiv.org/abs/2109.11631</a>, 2021.</li>

@@ -1,0 +1,635 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>AI for Sustainable Molecules and Materials</title>
+
+    <link rel="stylesheet" type="text/css" href="https://ai4science-amsterdam.github.io//assets/css/styles_feeling_responsive.css">
+
+  
+
+	<script src="https://ai4science-amsterdam.github.io//assets/js/modernizr.min.js"></script>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+	<script>
+		WebFont.load({
+			google: {
+				families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]
+			}
+		});
+	</script>
+
+	<noscript>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
+	</noscript>
+
+
+	<!-- Search Engine Optimization -->
+	<meta name="description" content="The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
+We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.">
+	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
+	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
+	
+	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
+	
+	
+	<link rel="canonical" href="https://ai4science-amsterdam.github.io//ai4smm_home/">
+
+
+	<!-- Facebook Open Graph -->
+	<meta property="og:title" content="AI for Sustainable Molecules and Materials">
+	<meta property="og:description" content="The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
+We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.">
+	<meta property="og:url" content="https://ai4science-amsterdam.github.io//ai4smm_home/">
+	<meta property="og:locale" content="en_EN">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="AI4Science Lab">
+	
+	<meta property="article:author" content="https://www.facebook.com/phlow.media">
+
+
+	
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="phlow">
+	<meta name="twitter:creator" content="phlow">
+	<meta name="twitter:title" content="AI for Sustainable Molecules and Materials">
+	<meta name="twitter:description" content="The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
+We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.">
+	
+	
+
+	<link type="text/plain" rel="author" href="https://ai4science-amsterdam.github.io//humans.txt">
+
+	
+
+	
+
+	<link rel="icon" sizes="32x32" href="https://ai4science-amsterdam.github.io/assets/img/favicon-32x32.png">
+
+	<link rel="icon" sizes="192x192" href="https://ai4science-amsterdam.github.io/assets/img/touch-icon-192x192.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-180x180-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-152x152-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-144x144-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-120x120-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-114x114-precomposed.png">
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-76x76-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-72x72-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" href="https://ai4science-amsterdam.github.io/assets/img/apple-touch-icon-precomposed.png">	
+
+	<meta name="msapplication-TileImage" content="https://ai4science-amsterdam.github.io/assets/img/msapplication_tileimage.png">
+
+	<meta name="msapplication-TileColor" content="#fabb00">
+
+
+	
+
+</head>
+<body id="top-of-page" class="page-fullwidth">
+	
+	
+<div id="navigation" class="sticky">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name">
+      <h1 class="show-for-small-only"><a href="https://ai4science-amsterdam.github.io/" class="icon-tree"> AI4Science Lab</a></h1>
+    </li>
+       <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+
+<!-- ***** 25-1-2023: "menu-icon" removed by Bernd after failing to change its color to white in _sass/foundation-components/_top-bar.scss (look for "menu-icon" and "hamburger icon") *****  -->
+      <!--  <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>  -->
+      <li class="toggle-topbar"><a href="#"><span>Menu</span></a></li>
+
+    </ul>
+    <section class="top-bar-section">
+
+      <ul class="right">
+        
+
+              
+
+
+
+          
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li class="active"><a  href="https://ai4science-amsterdam.github.io//ai4smm_home/">AI4SMM</a></li>
+
+            
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="https://ai4science-amsterdam.github.io//ai4smm_rpa/">About</a></li>
+
+            
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="https://ai4science-amsterdam.github.io//ai4smm_people/">People</a></li>
+
+            
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a  href="https://ai4science-amsterdam.github.io//ai4smm_projects/">Research</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//ai4smm_projects/">Research projects</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//ai4smm_students/">Bachelor/Master projects</a></li>
+                    
+                  </ul>
+
+              </li>
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a  href="https://ai4science-amsterdam.github.io//ai4smm_events/">Events</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//ai4smm_symposium1/">AI4SMM Kickoff Symposium</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://ai4science-amsterdam.github.io//ai4smm_call1/">AI4SMM Fellowships</a></li>
+                    
+                  </ul>
+
+              </li>
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="https://ai4science-amsterdam.github.io//search/">Search</a></li>
+
+            
+            
+          
+        
+
+              
+
+
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a  href="https://ai4science-amsterdam.github.io//contact/">Contact</a></li>
+
+            
+            
+          
+        
+        
+      </ul>
+
+      <ul class="left">
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="https://ai4science-amsterdam.github.io//">AI4Science</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+        
+      </ul>
+    </section>
+  </nav>
+</div><!-- /#navigation -->
+
+	
+
+	
+
+<div id="masthead-with-text" style=" ">
+	<div class="row">
+		<div class="small-12 columns">
+			<div class="masthead-title"><span style="text-transform:none; font-family:inherit; font-size:1.2em;">AI4SMM</span> <br>  <span style="text-transform:none; font-family:FontAwesome,Gill Sans; font-size:0.5em;">Artificial Intelligence for Sustainable Molecules and Materials</span></div>
+		</div><!-- /.small-12.columns -->
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+
+
+
+
+
+
+
+
+
+	
+
+
+<div class="row t30">
+	<div class="medium-12 columns">
+		<article>
+			<header>
+				<p class="subheadline">Research Priority Area</p>
+				<h1>AI for Sustainable Molecules and Materials</h1>
+			</header>
+
+			
+
+			<p>Researchers discover, study, and design molecules and
+materials in all FNWI institutes related to chemistry, ecology, physics, 
+and biology. The research focus area <em>Artificial Intelligence for Sustainable Molecules and Materials</em>
+(AI4SMM) connects and promotes research focused on making molecules and 
+materials for a sustainable planet by leveraging the utility of artificial intelligence.</p>
+
+<p>The multidisciplinary AI4SMM Laboratory bridges the FNWI strengths related to
+sustainability, AI, and design of smart materials and molecules. AI4SMM aims to
+be a knowledge hub within a green and smart ecosystem that includes the UvA Sustainability
+Platform, the AI4Science Lab, AMLab, the Data Science Center, the Computational Soft Matter Lab, 
+the Computational Chemistry Group, but also the  MaterialenNL Platform, Port of Amsterdam, 
+Microsoft Research, and so forth.</p>
+
+<p>Read more about our mission and our aims for scientific research, 
+education, and connecting with academic and industrial partners on our “About AI4SMM” page.</p>
+
+<center> <a class="radius button small" style="margin: auto;" href="../ai4smm_rpa/">About AI4SMM&gt;</a> </center>
+
+<hr />
+
+<center> <h2>Entering the fifth paradigm for chemistry!</h2> </center>
+<center> <h1>ChemAI Day</h1> </center>
+
+<p>The AI4Science Lab and the Amsterdam Chemistry Network are organizing the
+ChemAI Symposium on November 16th in LAB42 in Amsterdam.
+Please join us! We are looking forward to connect with academic and
+industrial partners and explore how we can exploit artificial intelligence
+to make chemical processes and materials in a sustainable manner.</p>
+
+<ul>
+  <li>When: 16 November 2023</li>
+  <li>Where: LAB42 Room L1.01, Science Park, Amsterdam</li>
+</ul>
+
+<center> <a class="radius button small center" href="https://www.acnetwork.nl/chemai">ChemAI Event&gt; </a> </center>
+
+<hr />
+
+<center> <h2>A warm welcome to three AI4SMM postdoctoral fellows</h2> </center>
+<center> <h1>AI4SMM Research</h1> </center>
+
+<p>Early 2023, the AI4SMM call for research proposals for postdoctoral fellowship projects 
+was concluded and four excellent multidisciplinary projects were awarded. 
+We are very happy that we can now welcome our first AI4SMM postdoctoral fellows to the lab:</p>
+
+<div style="margin: auto; width: 575px; height: 300px;">
+<div style="margin: 5px; border: 1px solid #ccc; float: left; width: 180px;">
+  <a target="_blank" href="../images/ai4smm_people/MaximBrodmerkel.jpg">
+    <img src="../images/ai4smm_people/MaximBrodmerkel.jpg" alt="Maxim Brodmerkel" style="width: 100%; height: auto;" />
+  </a>
+  <div style="padding: 15px; text-align: center;">Maxim<br />Brodmerkel</div>
+</div>
+
+<div style="margin: 5px; border: 1px solid #ccc; float: left; width: 180px;">
+  <a target="_blank" href="../images/ai4smm_people/MarcoFederici.jpg">
+    <img src="../images/ai4smm_people/MarcoFederici.jpg" alt="Marco Federici" style="width: 100%; height: auto;" />
+  </a>
+  <div style="padding: 15px; text-align: center;">Marco<br />Federici</div>
+</div>
+
+<div style="margin: 5px; border: 1px solid #ccc; float: left; width: 180px;">
+  <a target="_blank" href="../images/ai4smm_people/AlexanderKorotkevich.jpg">
+    <img src="../images/ai4smm_people/AlexanderKorotkevich.jpg" alt="Alexander Korotkevich" style="width: 100%; height: auto;" />
+  </a>
+  <div style="padding: 15px; text-align: center;">Alexander<br />Korotkevich</div>
+</div>
+</div>
+
+<div style="float: none;">
+Maxim will be working on Machine Learning-based models of plant protein mixtures for sustainable 
+food design. Marco's project is on chemical additives for safe-and-sustainable-by-design plastics.
+And Alexander studies salt hydrates for thermal energy storage.
+Click below to read further about their research plans.<br />
+
+<center> <a class="radius button small center" href="../ai4smm_projects">Research Projects&gt;</a> </center>
+</div>
+
+<hr />
+
+
+		</article>
+	</div><!-- /.medium-12.columns -->
+</div><!-- /.row -->
+
+
+
+
+	
+	    <div id="up-to-top" class="row">
+      <div class="small-12 columns" style="text-align: right;">
+        <a class="iconfont" href="#top-of-page">&#xf108;</a>
+      </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
+
+    <footer id="footer-content" class="bg-grau">
+      <div id="footer">
+        <div class="row">
+          <div class="medium-6 large-5 columns">
+            <h5 class="shadow-black">About This Site</h5>
+
+            <p class="shadow-black">
+              The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
+We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.
+              <a href="https://ai4science-amsterdam.github.io///lab">More ›</a>
+            </p>
+          </div><!-- /.large-6.columns -->
+
+
+          <div class="small-6 medium-3 large-3 large-offset-1 columns">
+            
+              
+                <h5 class="shadow-black">UvA Websites</h5>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+
+              <ul class="no-bullet shadow-black">
+              
+                
+                  <li >
+                    <a href="https://ai4science-amsterdam.github.io/"  title=""></a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="https://www.uva.nl" target="_blank"  title="UvA website">University of Amsterdam</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/faculty-of-science.html" target="_blank"  title="FNWI website">Faculty of Science</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="https://ivi.uva.nl" target="_blank"  title="Informatic Institute">Informatics Institute (IvI)</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="http://amlab.science.uva.nl/" target="_blank"  title="AMLAB">Amlab</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="https://ai4science-amsterdam.github.io//"  title="Take me home country roads">AI4Science home</a>
+                  </li>
+              
+              </ul>
+          </div><!-- /.large-4.columns -->
+
+
+          <div class="small-6 medium-3 large-3 columns">
+            
+              
+                <h5 class="shadow-black">Contact Us</h5>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+
+            <ul class="no-bullet shadow-black">
+            
+              
+                <li >
+                  <a href="https://ai4science-amsterdam.github.io/"  title=""></a>
+                </li>
+            
+              
+                <li >
+                  <a href="https://ai4science-amsterdam.github.io/"  title="Visit us">Visiting Adress: <br/> Science Park 904 <br/> 1098 XH Amsterdam</a>
+                </li>
+            
+              
+                <li >
+                  <a href="https://ai4science-amsterdam.github.io/"  title="">Postal Address: <br/> University of Amsterdam <br/> AI4Science Lab <br/> P.O. Box 94323 <br/> 1090 GH Amsterdam <br/> The Netherlands</a>
+                </li>
+            
+              
+                <li >
+                  <a href="https://ai4science-amsterdam.github.io/"  title="">Tel: +31 (0)20 525 7519</a>
+                </li>
+            
+              
+                <li >
+                  <a href="https://ai4science-amsterdam.github.io/"  title="">Email: ai4science.info@gmail.com</a>
+                </li>
+            
+            </ul>
+          </div><!-- /.large-3.columns -->
+        </div><!-- /.row -->
+
+      </div><!-- /#footer -->
+
+
+      <div id="subfooter">
+        <nav class="row">
+          <section id="subfooter-left" class="small-12 medium-6 columns credits">
+            <p> © 2020 UvA FNWI AI4Science Lab. All Rights Reserved |Design: <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>. |Header image: <a href="https://www.flickr.com/photos/mikemacmarketing/30212411048">Mike MacKenzie</a>.</p>
+          </section>
+
+          <section id="subfooter-right" class="small-12 medium-6 columns">
+            <ul class="inline-list social-icons">
+            
+              <li><a href="http://github.com/ai4science-amsterdam" target="_blank" class="icon-github" title="Code repository"></a></li>
+            
+              <li><a href="https://twitter.com/ai4science_lab" target="_blank" class="icon-twitter" title="Follow us on Twitter"></a></li>
+            
+            </ul>
+          </section>
+        </nav>
+      </div><!-- /#subfooter -->
+    </footer>
+
+	
+
+	
+
+
+<script src="https://ai4science-amsterdam.github.io//assets/js/javascript.min.js"></script>
+
+
+
+<script>
+    $("#masthead").backstretch("https://ai4science-amsterdam.github.io/images/header_drop.jpg", {fade: 700});
+    $("#masthead-with-text").backstretch("https://ai4science-amsterdam.github.io/images/header_drop.jpg", {fade: 700});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+

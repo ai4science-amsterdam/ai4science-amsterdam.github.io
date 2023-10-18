@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth 
+layout: page-fullwidth_ai4smm 
 show_meta: false
 title: "Call for PD fellowship positions"
 subheadline: "AI for Sustainable Molecules and Materials"

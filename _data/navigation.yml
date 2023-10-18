@@ -19,13 +19,19 @@
     url: "/consortium/"
 
 - title: "AI4SMM"
-  url: "/ai4smm_rpa/"
+  url: "/ai4smm_home/"
   side: right
   dropdown:
   - title: "AI4SMM"
+    url: "/ai4smm_home/"
+  - title: "About"
     url: "/ai4smm_rpa/"
-  - title: "AI4SMM Fellowships"
-    url: "/ai4smm_call1/"
+  - title: "People"
+    url: "/ai4smm_people/"
+  - title: "Bachelor / Master projects"
+    url: "/ai4smm_students/"
+  - title: "AI4SMM Events"
+    url: "/ai4smm_events/"
     
 # - title: "Colloquium"
 #  url: "/colloquium/"
