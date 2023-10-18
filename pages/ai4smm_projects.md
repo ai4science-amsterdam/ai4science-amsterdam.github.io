@@ -37,6 +37,16 @@ energy absorbed by a material increases with its mass. An emerging opportunity i
 
 ### Salt hydrates for thermal energy storage  
 
+<div style="float: right; max-width: 300px; margin: 0px 20px;">
+  <a href="../images//ai4smm_project2.jpg"><img src="../images//ai4smm_project2.jpg"
+     alt="Project2" style="margin: auto; max-width: 300px; height: auto; padding: 10px 0px 10px 0px;}" />
+  </a>
+  <div>
+    <i>Our approach combines experiments and simulations to identify key molecular features, proposes novel promising salt hydrates for thermal energy storage, and validates their properties.</i>
+  </div>
+</div>
+
+
 To accelerate the energy transition towards sustainable sources, there is an urgency to develop novel technologies. Thermal Energy Storage (TES) materials are a technology that can contribute to a secure energy supply. We investigate salt hydrates for which the reversible dehydration/hydration reactions can store/release heat. These have very high energy densities and are therefore promising candidates to reduce energy costs and peak power demand. We aim to increase efficiency, utilization, and lifetimes as well as to reduce capital costs. Delivering tunable and durable salt hydrates for TES could enable their widespread use in industry and society.
 
 ##### Principal investigators:

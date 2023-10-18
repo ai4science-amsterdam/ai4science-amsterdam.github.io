@@ -27,8 +27,8 @@
   url: "/ai4smm_events/"
   side: right
   dropdown:
-  - title: "AI4SMM Kickoff Symposium"
-    url: "/ai4smm_symposium1/"  
+#  - title: "AI4SMM Kickoff Symposium"
+#    url: "/ai4smm_symposium1/"  
   - title: "AI4SMM Fellowships"
     url: "/ai4smm_call1/"  
     
