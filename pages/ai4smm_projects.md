@@ -64,7 +64,7 @@ A data-driven approach can help to simplify the suite of chemical additives used
 
 ##### Principal investigators:
 {:.no_toc}
-* Marco Federici
+* Marco Federici (AI4SMM)
 * Saer Samanipour (HIMS)
 * Antonia Praetorius (SILS)
 * Patrick Forré (IvI)
