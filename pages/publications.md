@@ -17,7 +17,7 @@ permalink: "/publications/"
     li { list-style-type: disc; }
 </style>
 
-Here we list all scientific research from collaborations with members of the AI4Science Lab: [Books][#books] and lecture notes, [Publications](#publications) and [Preprints](#preprints).
+Here we list all scientific research from collaborations with members of the AI4Science Lab: [Books](#books) and lecture notes, [Publications](#publications) and [Preprints](#preprints).
 
 
 ## Books and Lecture Notes
