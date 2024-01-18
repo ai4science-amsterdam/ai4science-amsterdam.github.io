@@ -17,13 +17,23 @@ permalink: "/publications/"
     li { list-style-type: disc; }
 </style>
 
-Here we list all papers from collaborations with members of the AI4Science Lab: [Publications](#publications) and [Preprints](#preprints).
+Here we list all scientific research from collaborations with members of the AI4Science Lab: [Books][#books] and lecture notes, [Publications](#publications) and [Preprints](#preprints).
+
+
+## Books and Lecture Notes
+{: #books }
+
+- Maurice Weiler, Patrick Forré, Erik Verlinde, Max Welling, **Equivariant and Coordinate Independent Convolutional Networks - A Gauge Field Theory of Neural Networks**, [book][Wei23a], 524 pages, 2023.
+- Patrick Forré, Joris M. Mooij, **A Mathematical Introduction to Causality**, [lecture notes][FM23a], 324 pages, 2023.
+
+
 
 ## Publications
 {: #publications }
 
 - David Ruhe, Johannes Brandstetter, Patrick Forré, **Clifford Group Equivariant Neural Networks**, [https://arxiv.org/abs/2305.11141][Ruh23b], accepted for an oral presentation at NeurIPS 2023.
 - Fiona Lippert, Bart Kranstauber, Emiel van Loon, Patrick Forré, **Deep Gaussian Markov Random Fields for Graph-Structured Dynamical Systems**, [https://arxiv.org/abs/2306.08445][Lip23a], accepted at NeurIPS 2023.
+- Miriam Rateike, Isabel Valera, Patrick Forré, **Designing Long-term Group Fair Policies in Dynamical Systems**, [https://arxiv.org/abs/2311.12447][Rat23a], [slidelive][Rat23b], accepted for oral presentation at NeurIPS 2023 Workshop: Algorithmic Fairness through the Lens of Time.
 - Teodora Pandeva, Patrick Forré, **Multi-View Independent Component Analysis with Shared and Individual Sources**, [https://arxiv.org/abs/2210.02083][Pan22a], [openreview][Pan23b], UAI 2023, PMLR 216:1639-1650, 2023.
 - David Ruhe, Jayesh K. Gupta, Steven de Keninck, Max Welling, Johannes Brandstetter, **Geometric Clifford Algebra Networks**, [https://arxiv.org/abs/2302.06594][Ruh23a], ICML 2023.
 - Benjamin Kurt Miller, Marco Federici, Christoph Weniger, Patrick Forré, **Simulation-based Inference with the Generalized Kullback-Leibler Divergence**, [openreview][Mil23a], [https://arxiv.org/abs/2310.01808][Mil23b], ICML 2023 Workshop: Synergy of Scientific and Machine Learning Modeling.
@@ -62,7 +72,8 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 ## Preprints
 {: #preprints }
 
-- Maurice Weiler, Patrick Forré, Erik Verlinde, Max Welling, **Equivariant and Coordinate Independent Convolutional Networks - A Gauge Field Theory of Neural Networks**, [book][Wei23a], 524 pages, 2023.
+- Metod Jazbec, Patrick Forré, Stephan Mandt, Dan Zhang, Eric Nalisnick, **Anytime-Valid Confidence Sequences for Consistent Uncertainty Estimation in Early-Exit Neural Networks**, [https://arxiv.org/abs/2311.05931][Jaz23a], 2023.
+- Teodora Pandeva, Patrick Forré, Aaditya Ramdas, Shubhanshu Shekhar, **Deep anytime-valid hypothesis testing**, [https://arxiv.org/abs/2310.19384][Pan23c], 2023.
 - Mircea Mironenco, Patrick Forré, **Lie Group Decompositions for Equivariant Neural Networks**, [https://arxiv.org/abs/2310.11366][Mir23a], 2023.
 - Marco Federici, Patrick Forré, Ryota Tomioka, Bastiaan S. Veeling, **Latent Representation and Simulation of Markov Processes via Time-Lagged Information Bottleneck**, [https://arxiv.org/abs/2309.07200][Fed23b], 2023.
 - Marco Federici, David Ruhe, Patrick Forré, **On the Effectiveness of Hybrid Mutual Information Estimation**, [https://arxiv.org/abs/2306.00608][Fed23a], 2023.
@@ -77,7 +88,7 @@ Here we list all papers from collaborations with members of the AI4Science Lab: 
 - Stijn Verdenius, Maarten Stol, Patrick Forré, **Pruning via Iterative Ranking of Sensitivity Statistics**, [https://arxiv.org/abs/2006.00896][Ver20a], 2020.
 
 
-Back to [Publications](#publications) or [Preprints](#preprints).
+Back to [Books][#books] or [Publications](#publications) or [Preprints](#preprints).
 
 [Apo20a]: https://arxiv.org/abs/2009.02594
 [Apo21a]: https://content.iospress.com/articles/ai-communications/aic210127
@@ -97,6 +108,7 @@ Back to [Publications](#publications) or [Preprints](#preprints).
 [Fed21a]: https://arxiv.org/abs/2106.03783
 [Fed23a]: https://arxiv.org/abs/2306.00608
 [Fed23b]: https://arxiv.org/abs/2309.07200
+[FM23a]: https://staff.science.uva.nl/j.m.mooij/articles/causality_lecture_notes_2023.pdf
 [For21a]: https://arxiv.org/abs/2104.11547
 [For21b]: https://arxiv.org/abs/2109.11631
 [Gal21a]: https://openreview.net/pdf?id=x9xn6HKgefz
@@ -106,6 +118,7 @@ Back to [Publications](#publications) or [Preprints](#preprints).
 [Hoo21a]: https://pubs.acs.org/doi/abs/10.1021/acs.jctc.0c00981
 [Ils21a]: https://arxiv.org/abs/2103.04786
 [Ils21b]: https://arxiv.org/abs/2005.01856
+[Jaz23a]: https://arxiv.org/abs/2311.05931
 [Kel21a]: https://arxiv.org/abs/2011.07248
 [Lan22]: https://arxiv.org/abs/2202.09393
 [Lip22a]: https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14007
@@ -126,6 +139,9 @@ Back to [Publications](#publications) or [Preprints](#preprints).
 [Pan22b]: https://arxiv.org/abs/2210.13027
 [Pan23a]: https://openreview.net/forum?id=r5KL-AfXt75
 [Pan23b]: https://openreview.net/forum?id=WW6O-e7YJ2O
+[Pan23c]: https://arxiv.org/abs/2310.19384
+[Rat23a]: https://arxiv.org/abs/2311.12447
+[Rat23b]: https://recorder-v3.slideslive.com/#/share?share=90356&s=76a0a5a7-6f97-406a-bca4-38fc64bcc3fc
 [Ruh21a]: https://arxiv.org/abs/2103.15418
 [Ruh21b]: https://ui.adsabs.harvard.edu/abs/2021ascl.soft03015R/abstract
 [Ruh21c]: https://openreview.net/forum?id=VPjw9KPWRSK
