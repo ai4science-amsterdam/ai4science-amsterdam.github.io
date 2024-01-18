@@ -37,6 +37,16 @@ energy absorbed by a material increases with its mass. An emerging opportunity i
 
 ### Salt hydrates for thermal energy storage  
 
+<div style="float: right; max-width: 300px; margin: 0px 20px;">
+  <a href="../images//ai4smm_project2.jpg"><img src="../images//ai4smm_project2.jpg"
+     alt="Project2" style="margin: auto; max-width: 300px; height: auto; padding: 10px 0px 10px 0px;" />
+  </a>
+  <div>
+    <i>Our approach combines experiments and simulations to identify key molecular features, proposes novel promising salt hydrates for thermal energy storage, and validates their properties.</i>
+  </div>
+</div>
+
+
 To accelerate the energy transition towards sustainable sources, there is an urgency to develop novel technologies. Thermal Energy Storage (TES) materials are a technology that can contribute to a secure energy supply. We investigate salt hydrates for which the reversible dehydration/hydration reactions can store/release heat. These have very high energy densities and are therefore promising candidates to reduce energy costs and peak power demand. We aim to increase efficiency, utilization, and lifetimes as well as to reduce capital costs. Delivering tunable and durable salt hydrates for TES could enable their widespread use in industry and society.
 
 ##### Principal investigators:
@@ -54,7 +64,7 @@ A data-driven approach can help to simplify the suite of chemical additives used
 
 ##### Principal investigators:
 {:.no_toc}
-* Marco Federici
+* Marco Federici (AI4SMM)
 * Saer Samanipour (HIMS)
 * Antonia Praetorius (SILS)
 * Patrick Forré (IvI)
@@ -65,6 +75,12 @@ A data-driven approach can help to simplify the suite of chemical additives used
 
 We use machine learning to predict structure, aggregation and rheological behavior of naturally occurring complex protein mixtures in plants to design sustainable and healthy plant-based food products. Focusing on emerging plant proteins, such as RuBisCo, pea, and potato proteins that can serve as sustainable substitutes for animal proteins, we develop a transferable colloidal model to predict aggregation, gelation and structural properties of complex mixtures and employ experimental data to train and validate the model. By leveraging this AI-driven model, we can accelerate a design pipeline for sustainable, plant waste-based, protein mixtures for food production.
 
+<div style="float: none;  width: auto; height: auto; margin: 0px 20px;">
+<img src="../images//ai4smm_project4.png"  alt="Project4"  style="padding: 10px 0px 10px 0px; width: auto; height: auto; " />
+  <div>
+  <i>Outline of the ML model optimization (top), where experimental and atomistic data are combined to produce a transferable coarse-grained potential, to be used in design of target properties in plant protein mixtures for sustainable food (bottom)</i>.
+  </div>
+</div>
 
 ##### Principal investigators:
 {:.no_toc}
