@@ -17,12 +17,8 @@ permalink: "/publications/"
     li { list-style-type: disc; }
 </style>
 
-<<<<<<< HEAD
-Here we list all scientific research from collaborations with members of the AI4Science Lab: [Books][#books] and lecture notes, [Publications](#publications) and [Preprints](#preprints).
-=======
-Here we list all scientific research from collaborations with members of the AI4Science Lab: [Books](#books) and lecture notes, [Publications](#publications) and [Preprints](#preprints).
->>>>>>> a73ec88749f8206734be7b5f5bace84619ca01dd
 
+Here we list all scientific research from collaborations with members of the AI4Science Lab: [Books](#books) and lecture notes, [Publications](#publications) and [Preprints](#preprints).
 
 ## Books and Lecture Notes
 {: #books }
@@ -93,11 +89,7 @@ Here we list all scientific research from collaborations with members of the AI4
 - Stijn Verdenius, Maarten Stol, Patrick Forré, **Pruning via Iterative Ranking of Sensitivity Statistics**, [https://arxiv.org/abs/2006.00896][Ver20a], 2020.
 
 
-<<<<<<< HEAD
-Back to [Books][#books] or [Publications](#publications) or [Preprints](#preprints).
-=======
 Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprints).
->>>>>>> a73ec88749f8206734be7b5f5bace84619ca01dd
 
 [Apo20a]: https://arxiv.org/abs/2009.02594
 [Apo21a]: https://content.iospress.com/articles/ai-communications/aic210127
@@ -165,12 +157,6 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 [Ver20a]: https://arxiv.org/abs/2006.00896
 [Wei21a]: https://arxiv.org/abs/2106.06020
 [Wei23a]: https://maurice-weiler.gitlab.io/#cnn_book
-<<<<<<< HEAD
-=======
-
-
-
->>>>>>> a73ec88749f8206734be7b5f5bace84619ca01dd
 
 
 
