@@ -61,6 +61,7 @@ Here we list all scientific research from collaborations with members of the AI4
 - Benjamin Kurt Miller, Alex Cole, Patrick Forré, Gilles Louppe, Christoph Weniger, **Truncated Marginal Neural Ratio Estimation**, NeurIPS 2021, [openreview][Mil21a].
 - Marco Federici, Ryota Tomioka, Patrick Forré, **An Information-theoretic Approach to Distribution Shifts**, NeurIPS 2021, [https://arxiv.org/abs/2106.03783][Fed21a].
 - Emiel Hoogeboom, Didrik Nielsen, Priyank Jaini, Patrick Forré, Max Welling, **Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions**, NeurIPS 2021, [https://arxiv.org/abs/2102.05379][Hog21a].
+- Christoph J. Hönes, Benjamin Kurt Miller, Ana M. Heras, Bernard H. Foing, **Automatically detecting anomalous exoplanet transits**, [https://arxiv.org/abs/2111.08679][Hon21], NeurIPS 2021 Workshop: Machine Learning and the Physical Sciences.
 - Stephan Bongers, Patrick Forré, Jonas Peters, Joris M. Mooij, **Foundations of Structural Causal Models with Cycles and Latent Variables**, Annals of Statistics, 49(5): 2885-2915, 2021, [doi:10.1214/21-AOS2064][Bon21b], [https://arxiv.org/abs/1611.06221][Bon21a].
 - Andrei Apostol, Maarten Stol, Patrick Forré, **Pruning by leveraging training dynamics**, AI Communications, 2021, [doi:10.3233/AIC-210127][Apo21a]. 
 - Maximilian Ilse, Jakub M Tomczak, Patrick Forré, **Selecting Data Augmentation for Simulating Interventions**, ICML 2021, [https://arxiv.org/abs/2005.01856][Ils21b].
@@ -80,7 +81,6 @@ Here we list all scientific research from collaborations with members of the AI4
 - Marco Federici, David Ruhe, Patrick Forré, **On the Effectiveness of Hybrid Mutual Information Estimation**, [https://arxiv.org/abs/2306.00608][Fed23a], 2023.
 - Teodora Pandeva, Tim Bakker, Christian A. Naesseth, Patrick Forré, **E-Valuating Classifier Two-Sample Tests**, [https://arxiv.org/abs/2210.13027][Pan22b], 2022.
 - Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré, **Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu's Theorem**, [https://arxiv.org/abs/2202.09393][Lan22], 2022.
-- Christoph J. Hönes, Benjamin Kurt Miller, Ana M. Heras, Bernard H. Foing, **Automatically detecting anomalous exoplanet transits**, [https://arxiv.org/abs/2111.08679][Hon21], 2021.
 - Patrick Forré, **Quasi-Measurable Spaces**, [https://arxiv.org/abs/2109.11631][For21b], 2021.
 - Maurice Weiler, Patrick Forré, Erik Verlinde, Max Welling, **Coordinate Independent Convolutional Networks - Isometry and Gauge Equivariant Convolutions on Riemannian Manifolds**, [https://arxiv.org/abs/2106.06020][Wei21a], 2021.
 - Patrick Forré, **Transitional Conditional Independence**, [https://arxiv.org/abs/2104.11547][For21a], 2021.
