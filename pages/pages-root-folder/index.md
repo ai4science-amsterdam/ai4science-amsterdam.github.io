@@ -47,7 +47,14 @@ sustainable innovation with AI and computational methods for molecules
 and materials to aid in realising the materials transition needed for
 a sustainable society. 
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/ai4smm_rpa/">Learn More›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/ai4smm_home/">Learn More›</a>
+
+Read also this news item, with a short overview of the four research
+projects on (1) metamaterials, (2) thermal energy storage with salt hydrates,
+(3) safe-and-sustainable-by-design plastics, and (4) plant protein mixtures
+for sustainable food design, and the role that AI can play in this research. 
+
+<a class="radius button small" href="{{ site.url }}{{https://hims.uva.nl/content/news/2023/10/four-projects-kick-start-the-artificial-intelligence-for-sustainable-molecules-and-materials-research-programme.html?origin=HRUrNZgrQ0uFunXh6izRAg}}">Learn More›</a>
 
 ____________________________________________________________________________________________________
 
