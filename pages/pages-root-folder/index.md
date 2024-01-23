@@ -54,7 +54,7 @@ projects on (1) metamaterials, (2) thermal energy storage with salt hydrates,
 (3) safe-and-sustainable-by-design plastics, and (4) plant protein mixtures
 for sustainable food design, and the role that AI can play in this research. 
 
-<a class="radius button small" href="{{ site.url }}{{https://hims.uva.nl/content/news/2023/10/four-projects-kick-start-the-artificial-intelligence-for-sustainable-molecules-and-materials-research-programme.html?origin=HRUrNZgrQ0uFunXh6izRAg}}">Learn More›</a>
+<a class="radius button small" href="https://hims.uva.nl/content/news/2023/10/four-projects-kick-start-the-artificial-intelligence-for-sustainable-molecules-and-materials-research-programme.html?origin=HRUrNZgrQ0uFunXh6izRAg">Learn More›</a>
 
 ____________________________________________________________________________________________________
 
