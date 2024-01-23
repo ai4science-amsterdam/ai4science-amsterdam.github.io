@@ -35,6 +35,10 @@ below to see the program and to register.
 <a class="radius button small"
 href="https://www.acnetwork.nl/chemai">ChemAI Event</a>
 
+---
+
+## Previous events
+
 #### AI4 Enzyme Instructed Catalysis Workshop
 
 For more than 20 years, research on enzymes and bio-mimetic catalysis has been conducted. What is the current status of understanding and can we use artificial intelligence to design synthetic catalyst systems that function by the same principles as native enzymes?
@@ -44,9 +48,6 @@ For more than 20 years, research on enzymes and bio-mimetic catalysis has been c
 
 <a class="radius button small" href="https://hims.uva.nl/content/events/2023/05/ai4-enzyme-instructed-catalysts-workshop.html">Read More›</a>
 
----
-
-## Previous events
 
 #### AI4Science Symposium
 
