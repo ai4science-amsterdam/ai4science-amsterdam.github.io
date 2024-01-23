@@ -36,34 +36,8 @@ homepage: true
 
 __________________________________________
 
-<center> <h2>Entering the fifth paradigm for chemistry!</h2> </center>
-<center> <h1>ChemAI Day</h1> </center>
 
-Together with the Amsterdam Chemistry Network, we are organizing the
-ChemAI Symposium on November 16th in LAB42 in Amsterdam.
-Please join us! We are looking forward to connect with academic and
-industrial partners to enlarge our consortium.
-
-* When: 16 November 2023
-* Where: LAB42 Room L1.01, Science Park, Amsterdam
-
-<a class="radius button small"
-href="https://www.acnetwork.nl/chemai">ChemAI Event> </a>
-
-__________________________________________
-
-
-<center> <h2>Upcoming Events</h2> </center>
-<center> <h1>The AI4Science Colloquium</h1> </center>
-
-The bi-weekly AI4Science colloquium is back, if you want to learn more about state of the art AI solutions for Science, please tune in. Check out the Colloquium page for the schedule, recordings of previous colloquia and more!  
-
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/colloquium/">Learn More›</a>
-
-____________________________________________________________________________________________________
-
-
-<center> <h2>New FNWI Research Priority Area</h2> </center>
+<center> <h2>Four Postdoctoral projects starting in new FNWI Research Priority Area</h2> </center>
 <center> <h1>AI for Sustainable Molecules and Materials</h1> </center>
 
 To strengthen FNWI’s focus on smart and green, the Research Focus Area
@@ -81,7 +55,7 @@ ________________________________________________________________________________
 
 > How can we detect, classify, and predict relevant patterns in scientific data if they are hidden within large amount of non-relevant data?
 
-The AI4Science Lab is an initiative supported by the [Faculty of Science (FNWI)][2] at the [University of Amsterdam][3] and located in the [Informatics Institute (IvI)][4]. The AI4Science Lab is also connected to [AMLAB][5], the Amsterdam Machine Learning Lab.
+The AI4Science Lab is an initiative supported by the [Faculty of Science (FNWI)][2] at the [University of Amsterdam][3] and located in the [Informatics Institute (IvI)][4] in (LAB42}[8]. The AI4Science Lab is also connected to [AMLAB][5], the Amsterdam Machine Learning Lab.
 
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.
 
@@ -269,3 +243,4 @@ The Ai4Science Colloquiem is a bi-weekly event in which we will invite pronounce
 [5]: http://amlab.science.uva.nl
 [6]: /events/
 [7]: /colloquium/
+[8]: https://lab42.uva.nl
