@@ -32,7 +32,7 @@ Here we list all scientific research from collaborations with members of the AI4
 {: #publications }
 - Teodora Pandeva, Patrick Forré, Aaditya Ramdas, Shubhanshu Shekhar, **Deep anytime-valid hypothesis testing**, [https://arxiv.org/abs/2310.19384][Pan23c], accepted for AISTATS 2024.
 - Marco Federici, Patrick Forré, Ryota Tomioka, Bastiaan S. Veeling, **Latent Representation and Simulation of Markov Processes via Time-Lagged Information Bottleneck**, [https://arxiv.org/abs/2309.07200][Fed23b], [openreview][Fed24b], accepted for ICLR 2024.
-- Cong Liu, David Ruhe, Floor Eijkelboom, Patrick Forré, **Clifford Group Equivariant Simplicial Message Passing Networks**, [openreview][Liu24a], accepted for ICLR 2024.
+- Cong Liu, David Ruhe, Floor Eijkelboom, Patrick Forré, **Clifford Group Equivariant Simplicial Message Passing Networks**, [https://arxiv.org/abs/2402.10011][Liu24b], [openreview][Liu24a], accepted for ICLR 2024.
 - Mircea Mironenco, Patrick Forré, **Lie Group Decompositions for Equivariant Neural Networks**, [https://arxiv.org/abs/2310.11366][Mir23a], [openreview][Mir24a], accepted for ICLR 2024.
 - Stef Molenaar, Tijmen Bos, Jim Boelrijk, Tina Dahlseid, Dwight Stoll, Bob Pirok, **Computer-driven optimization of complex gradients in comprehensive two-dimensional liquid chromatography**, [https://doi.org/10.1016/j.chroma.2023.464306][Boe23c], J. Chromatogr. A 2023.
 - David Ruhe, Johannes Brandstetter, Patrick Forré, **Clifford Group Equivariant Neural Networks**, [https://arxiv.org/abs/2305.11141][Ruh23b], NeurIPS 2023 (with oral presentation).
@@ -77,6 +77,8 @@ Here we list all scientific research from collaborations with members of the AI4
 ## Preprints
 {: #preprints }
 
+- Maksim Zhdanov, David Ruhe, Maurice Weiler, Ana Lucic, Johannes Brandstetter, Patrick Forré, **Clifford-Steerable Convolutional Neural Networks**, [https://arxiv.org/abs/2402.14730][Zhd24a], 2024.
+- Jim Boelrijk, Stef R.A. Molenaar, Tijmen S. Bos, Tina A. Dahlseid, Bernd Ensing, Dwight R. Stoll, Patrick Forré, Bob W.J. Pirok, **Enhancing LC x LC separations through Multi-Task Bayesian Optimization**, [ChemRxiv][Boe24a], 2024.
 - Metod Jazbec, Patrick Forré, Stephan Mandt, Dan Zhang, Eric Nalisnick, **Anytime-Valid Confidence Sequences for Consistent Uncertainty Estimation in Early-Exit Neural Networks**, [https://arxiv.org/abs/2311.05931][Jaz23a], 2023.
 - Marco Federici, David Ruhe, Patrick Forré, **On the Effectiveness of Hybrid Mutual Information Estimation**, [https://arxiv.org/abs/2306.00608][Fed23a], 2023.
 - Teodora Pandeva, Tim Bakker, Christian A. Naesseth, Patrick Forré, **E-Valuating Classifier Two-Sample Tests**, [https://arxiv.org/abs/2210.13027][Pan22b], 2022.
@@ -100,6 +102,7 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 [Boe23a]: https://www.sciencedirect.com/science/article/pii/S0003267023000107
 [Boe23b]: https://openreview.net/forum?id=fSa5IjNMmmi
 [Boe23c]: https://doi.org/10.1016/j.chroma.2023.464306
+[Boe24a]: https://chemrxiv.org/engage/chemrxiv/article-details/65cf665e66c1381729ca26ea
 [Bos22]: https://pubs.acs.org/doi/full/10.1021/acs.analchem.2c03160
 [Col22]: https://iopscience.iop.org/article/10.1088/1475-7516/2022/09/004/meta
 [Del23a]: https://arxiv.org/abs/2304.10978
@@ -128,6 +131,7 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 [Lip22b]: https://openreview.net/forum?id=mbWJIF2z6dZ
 [Lip23a]: https://arxiv.org/abs/2306.08445
 [Liu24a]: https://openreview.net/forum?id=Zz594UBNOH
+[Liu24b]: https://arxiv.org/abs/2402.10011
 [Mai22a]: https://openreview.net/forum?id=KJFpArxWe-g
 [Mai23a]: https://openreview.net/forum?id=a6rCdfABJXg
 [Mil20a]: https://arxiv.org/abs/2011.13951
@@ -157,6 +161,7 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 [Ver20a]: https://arxiv.org/abs/2006.00896
 [Wei21a]: https://arxiv.org/abs/2106.06020
 [Wei23a]: https://maurice-weiler.gitlab.io/#cnn_book
+[Zhd24a]: https://arxiv.org/abs/2402.14730
 
 
 
