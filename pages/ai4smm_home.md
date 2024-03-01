@@ -44,7 +44,7 @@ href="../ai4smm_rpa/">About AI4SMM></a> </center>
 <center> <h1>Kickoff Symposium</h1> </center>
 
 Now that our first round of AI4SMM projects have been staffed and started, we are organizing 
-an official AI4SMM Kickoff Symposium in the last week of May. Further details will be posted
+an official AI4SMM Kickoff Symposium on Thursday, 30th of May. Further details will be posted
 here as soon as they arrive...
 
 ---
