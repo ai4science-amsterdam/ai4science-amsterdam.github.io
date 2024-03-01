@@ -41,20 +41,11 @@ href="../ai4smm_rpa/">About AI4SMM></a> </center>
 ---
 
 
-<center> <h2>Entering the fifth paradigm for chemistry!</h2> </center>
-<center> <h1>ChemAI Day</h1> </center>
+<center> <h1>Kickoff Symposium</h1> </center>
 
-The AI4Science Lab and the Amsterdam Chemistry Network are organizing the
-ChemAI Symposium on November 16th in LAB42 in Amsterdam.
-Please join us! We are looking forward to connect with academic and
-industrial partners and explore how we can exploit artificial intelligence
-to make chemical processes and materials in a sustainable manner.
-
-* When: 16 November 2023
-* Where: LAB42 Room L1.01, Science Park, Amsterdam
-
-<center> <a class="radius button small center"
-href="https://www.acnetwork.nl/chemai">ChemAI Event> </a> </center>
+Now that our first round of AI4SMM projects have been staffed and started, we are organizing 
+an official AI4SMM Kickoff Symposium in the last week of May. Further details will be posted
+here as soon as they arrive...
 
 ---
 
