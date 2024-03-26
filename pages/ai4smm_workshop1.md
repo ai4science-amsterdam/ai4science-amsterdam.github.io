@@ -2,7 +2,7 @@
 layout: page-fullwidth 
 header:
    image_fullwidth: "molsim3_s.jpg"
-   title: <span style="text-transform:none; font-family:inherit; font-size:1.2em;">AI4SMM Kickoff Symposium</span><br><span style="text-transform:none; font-family:FontAwesome,Gill Sans; font-size:0.5em;">Amsterdam, 30 May 2024</span>
+   title: <span style="text-transform:none; font-family:inherit; font-size:1.2em;">Kickoff Meeting</span><br><span style="text-transform:none; font-family:FontAwesome,Gill Sans; font-size:0.5em;">Amsterdam, 30 May 2024</span>
 permalink: "/ai4smm_workshop1/"
 ---
 
