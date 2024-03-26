@@ -8,11 +8,11 @@ permalink: "/ai4smm_workshop1/"
 ---
 
 
-Recently the University of Amsterdam initiated its [Research Priority
+Recently, the University of Amsterdam initiated its [Research Priority
 Area on AI for Sustainable Molecules and Materials][0]. On Thursday
 afternoon, 30 May 2024, a festive kick-off meeting will be organized
 for research staff, students and external guests who are working in
-this field already, as well as researchers interested to learning
+this field already, as well as researchers interested in learning
 about this new vibrant field of science. Especially for the latter,
 the program contains inspiring showcases and matchmaking activities.
 
@@ -21,17 +21,16 @@ Via the registration form, participants can indicate whether they would
 like to present a poster and/or a 5-minute plenary soundbite (10 slots
 available) on a running project or new research idea. All in order to
 inspire each other and display the pluriformity of sustainability
-research in science that benefits from the enhancement of AI.
+research in science that benefits from the enhancement by AI.
 
 ### Program:
 	
  <span> </span>
 
-| Time           |    Speaker    |
+| Time           |    Activity / Speaker    |
 |--------- |---------|
 |  12.00 - 13.00   |  Registration, lunch and posters |
-|  13.00 - 13.15	|  Introduction by Dr. Bernd Ensing – Program director of RPA <br>
-                       	  Kick-off by Prof. Peter van Tienderen - Dean Faculty of Science |
+|  13.00 - 13.15	|  Introduction by Dr. Bernd Ensing – Program director of RPA <br>  Kick-off by Prof. Peter van Tienderen - Dean Faculty of Science |
 |  13.15 - 14.00	|  Keynote by [Prof. Michael Webb (Princeton)][1] |
 |  14.00 - 15.00	|  Soundbites of running projects and new ideas  |
 |  15.00 - 15.30	|  Break and posters  |
