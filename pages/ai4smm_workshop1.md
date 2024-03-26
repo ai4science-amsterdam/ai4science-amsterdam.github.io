@@ -17,7 +17,7 @@ about this new vibrant field of science. Especially for the latter,
 the program contains inspiring showcases and matchmaking activities.
 
 ### Invitation for active participation 
-Via the registration form, participants can indicate whether they would
+Via the [registration form][3], participants can indicate whether they would
 like to present a poster and/or a 5-minute plenary soundbite (10 slots
 available) on a running project or new research idea. All in order to
 inspire each other and display the pluriformity of sustainability
