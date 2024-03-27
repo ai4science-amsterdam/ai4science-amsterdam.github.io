@@ -13,8 +13,13 @@ permalink: "/ai4smm_events/"
 #### Kickoff Symposium
 
 Now that our first round of AI4SMM projects have been staffed and started, we are organizing 
-an official AI4SMM Kickoff Symposium on Thursday, 30th of May. Further details will be posted
-here as soon as they arrive...
+an official AI4SMM Kickoff Symposium.
+
+* When: Thursday, 30 May 2024
+* Where:  Matrix ONE, Science Park 301, Amsterdam
+
+<a class="radius button small"
+href="https://www.acnetwork.nl/chemai">AI4SMM Kickoff Program</a>
 
 ---
 

@@ -49,11 +49,21 @@ building, Science Park 301, Amsterdam.
 Faculty of Science, participation is free of charge. Note that
 registration obliges one to participation.
 
+### Organisers
+
+* [Sara Jabbari Farouji][4]
+* [Alberto Pérez de Alba Ortíz][5]
+* [Corentin Coulais][6]
+* [Marcel Bartels][7]
+
 
 [0]: https://ai4science-amsterdam.github.io/ai4smm_home/
 [1]: https://cbe.princeton.edu/michael-webb
 [2]: https://www.linkedin.com/in/paola-gori-giorgi-23945023b/?originalSubdomain=nl
 [3]: https://docs.google.com/forms/d/e/1FAIpQLScvNgtu1sIGn-_LmRHE7BvJl5sEk8zRtD79A9L95jpiXuQ2tg/viewform
-
+[4]: https://staff.fnwi.uva.nl/s.jabbarifarouji/
+[5]: https://www.compchem.nl/staff_members/alberto/
+[6]: https://coulaislab.com
+[7]: https://www.uva.nl/profiel/b/a/m.j.bartels/m.j.bartels.html
 
 
