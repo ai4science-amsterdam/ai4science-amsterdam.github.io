@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth 
 header:
-   image_fullwidth: "molsim3_s.jpg"
+   image_fullwidth: "workshop_banner2.jpg"
    title: <span style="text-transform:none; font-family:inherit; font-size:1.0em;">Kickoff Meeting</span><br><span style="text-transform:none; font-family:FontAwesome,Gill Sans; font-size:0.5em;">Amsterdam, 30 May 2024</span>
 permalink: "/ai4smm_workshop1/"
 ---
@@ -34,8 +34,8 @@ research in science that benefits from the enhancement by AI.
 |  14.00 - 15.00	|  Soundbites of running projects and new ideas  |
 |  15.00 - 15.30	|  Break and posters  |
 |  15.30 - 16.15	|  Keynote by [Prof. Paola Gori Giorgi (Microsoft)][2]  |
-|  16.15 - 17.15	|  Conclusions   |
-|  17.15 - 18.00	|  Posters + drinks & snacks |
+|  16.15 - 17.15	|  Topical discussions and matchmaking |
+|  17.15 - 18.00	|  Drinks and posters |
 
 
 ### Venue 
