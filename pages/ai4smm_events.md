@@ -19,7 +19,7 @@ an official AI4SMM Kickoff Symposium.
 * Where:  Matrix ONE, Science Park 301, Amsterdam
 
 <a class="radius button small"
-href="https://ai4science-amsterdam.github.io/ai4smm_workshop1/">AI4SMM Kickoff Program</a>
+href="../ai4smm_workshop1/">AI4SMM Kickoff Program</a>
 
 ---
 
