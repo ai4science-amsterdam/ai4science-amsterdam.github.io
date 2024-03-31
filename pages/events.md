@@ -21,6 +21,24 @@ To see the colloquium schedule, subscribe to the email announcements, and watch 
 
 ## Workshops and symposia
 
+
+#### Kickoff Symposium
+
+Now that our first round of AI4SMM projects have been staffed and started, we are organizing 
+an official AI4SMM Kickoff Symposium.
+
+* When: Thursday, 30 May 2024
+* Where: Matrix ONE, Science Park 301, Amsterdam
+
+<a class="radius button small"
+href="../ai4smm_workshop1/">AI4SMM Kickoff Program</a>
+
+---
+
+
+## Previous events
+
+
 #### ChemAI Day
 
 Together with the Amsterdam Chemistry Network, we are organizing the
@@ -35,9 +53,18 @@ below to see the program and to register.
 <a class="radius button small"
 href="https://www.acnetwork.nl/chemai">ChemAI Event</a>
 
+This first ChemAI symposium was a great hit, with over 200
+participants, of which half from companies and other non-academic
+institutions. In November 2024, we will organize the second edition of
+ChemAI. To get and impression of ChemAI 2023, click on the button
+below to see the photo gallery and find the powerpoint presentations
+of the speakers.
+
+<a class="radius button small"
+href="https://www.acnetwork.nl/news/chemai-is-a-wrap">ChemAI Gallery</a>
+
 ---
 
-## Previous events
 
 #### AI4 Enzyme Instructed Catalysis Workshop
 

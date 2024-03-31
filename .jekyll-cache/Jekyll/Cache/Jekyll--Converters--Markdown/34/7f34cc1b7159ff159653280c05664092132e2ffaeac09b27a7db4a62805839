@@ -1,0 +1,90 @@
+I"<ul id="markdown-toc">
+  <li><a href="#metamaterials-designed-by-ai-for-sustainable-steel" id="markdown-toc-metamaterials-designed-by-ai-for-sustainable-steel">Metamaterials designed by AI for Sustainable Steel</a></li>
+  <li><a href="#salt-hydrates-for-thermal-energy-storage" id="markdown-toc-salt-hydrates-for-thermal-energy-storage">Salt hydrates for thermal energy storage</a></li>
+  <li><a href="#deep-representation--simplification-of-chemical-additives-for-safe-and-sustainable-by-design-plastics" id="markdown-toc-deep-representation--simplification-of-chemical-additives-for-safe-and-sustainable-by-design-plastics">Deep representation &amp; simplification of chemical additives for safe-and-sustainable-by-design plastics</a></li>
+  <li><a href="#machine-learning-based-models-of-plant-protein-mixtures-for-sustainable-food-design" id="markdown-toc-machine-learning-based-models-of-plant-protein-mixtures-for-sustainable-food-design">Machine Learning-based models of plant protein mixtures for sustainable food design</a></li>
+</ul>
+
+<ul>
+  <li><a href="../ai4smm_students/">Bachelor and Master student research projects</a></li>
+</ul>
+
+<hr />
+
+<h3 id="metamaterials-designed-by-ai-for-sustainable-steel">Metamaterials designed by AI for Sustainable Steel</h3>
+
+<p><img src="../images//ai4smm_project1.png" alt="Project1" style="float: right; margin: 20px; max-width: 300px; height: auto; " /></p>
+
+<p>Designing sustainable yet high-performance mechanical systems is extremely difficult because
+there are often conflicting requirements. For example, making a lighter energy damper is hard because the
+energy absorbed by a material increases with its mass. An emerging opportunity is to use mechanical metamaterials to design components that meet specific criteria, such as yield strength and energy absorption, whilst minimizing the CO2 budget. We develop deep learning methods to accelerate the computational design of dissipative metamaterials that in turn enable new technology for sustainable steel.</p>
+
+<h5 class="no_toc" id="principal-investigators">Principal investigators:</h5>
+<ul>
+  <li>Daniel Acuña Ramirez (AI4SMM)</li>
+  <li>Corentin Coulais (IoP)</li>
+  <li>Jan-Willem van de Meent (IvI)</li>
+</ul>
+
+<hr />
+
+<h3 id="salt-hydrates-for-thermal-energy-storage">Salt hydrates for thermal energy storage</h3>
+
+<div style="float: right; max-width: 300px; margin: 0px 20px;">
+  <a href="../images//ai4smm_project2.jpg"><img src="../images//ai4smm_project2.jpg" alt="Project2" style="margin: auto; max-width: 300px; height: auto; padding: 10px 0px 10px 0px;" />
+  </a>
+  <div>
+    <i>Our approach combines experiments and simulations to identify key molecular features, proposes novel promising salt hydrates for thermal energy storage, and validates their properties.</i>
+  </div>
+</div>
+
+<p>To accelerate the energy transition towards sustainable sources, there is an urgency to develop novel technologies. Thermal Energy Storage (TES) materials are a technology that can contribute to a secure energy supply. We investigate salt hydrates for which the reversible dehydration/hydration reactions can store/release heat. These have very high energy densities and are therefore promising candidates to reduce energy costs and peak power demand. We aim to increase efficiency, utilization, and lifetimes as well as to reduce capital costs. Delivering tunable and durable salt hydrates for TES could enable their widespread use in industry and society.</p>
+
+<h5 class="no_toc" id="principal-investigators-1">Principal investigators:</h5>
+<ul>
+  <li>Alexander Korotkevich (AI4SMM)</li>
+  <li>Noushine Shahidzadeh (IoP)</li>
+  <li>Alberto Pérez de Alba Ortíz (HIMS &amp; IvI)</li>
+  <li>Sander Woutersen (HIMS)</li>
+</ul>
+
+<hr />
+
+<h3 id="deep-representation--simplification-of-chemical-additives-for-safe-and-sustainable-by-design-plastics">Deep representation &amp; simplification of chemical additives for safe-and-sustainable-by-design plastics</h3>
+
+<p>A data-driven approach can help to simplify the suite of chemical additives used in plastics to support the development of Safe-and-Sustainable-by-Design (SSbD) polymeric materials. Currently, most plastics are neither circular nor sustainable, in large parts due to the wide range of different chemical additives—which impart specific functions on plastic materials—posing safety concerns and limiting effective recycling strategies. We develop Graph Neural Network (GNN) models to categorize chemical additives into SSbD categories, based on their 3D molecular structure. The resulting short-list of safe chemical additives covering key functions is much needed for a transition towards the production of more sustainable plastics.</p>
+
+<h5 class="no_toc" id="principal-investigators-2">Principal investigators:</h5>
+<ul>
+  <li>Marco Federici (AI4SMM)</li>
+  <li>Saer Samanipour (HIMS)</li>
+  <li>Antonia Praetorius (SILS)</li>
+  <li>Patrick Forré (IvI)</li>
+</ul>
+
+<hr />
+
+<h3 id="machine-learning-based-models-of-plant-protein-mixtures-for-sustainable-food-design">Machine Learning-based models of plant protein mixtures for sustainable food design</h3>
+
+<p>We use machine learning to predict structure, aggregation and rheological behavior of naturally occurring complex protein mixtures in plants to design sustainable and healthy plant-based food products. Focusing on emerging plant proteins, such as RuBisCo, pea, and potato proteins that can serve as sustainable substitutes for animal proteins, we develop a transferable colloidal model to predict aggregation, gelation and structural properties of complex mixtures and employ experimental data to train and validate the model. By leveraging this AI-driven model, we can accelerate a design pipeline for sustainable, plant waste-based, protein mixtures for food production.</p>
+
+<div style="float: none;  width: auto; height: auto; margin: 0px 20px;">
+<img src="../images//ai4smm_project4.png" alt="Project4" style="padding: 10px 0px 10px 0px; width: auto; height: auto; " />
+  <div>
+  <i>Outline of the ML model optimization (top), where experimental and atomistic data are combined to produce a transferable coarse-grained potential, to be used in design of target properties in plant protein mixtures for sustainable food (bottom)</i>.
+  </div>
+</div>
+
+<h5 class="no_toc" id="principal-investigators-3">Principal investigators:</h5>
+<ul>
+  <li>Maxim Brodmerkel (AI4SMM)</li>
+  <li>Peter Bolhuis (HIMS)</li>
+  <li>Herke van Hoof (IvI)</li>
+  <li>Sara Jabbari-Farouji (IoP)</li>
+  <li>Francesca Quattrocchio (SILS)</li>
+  <li>Peter Schall (IoP)</li>
+  <li>Alberto Pérez de Alba Ortíz (HIMS &amp; IvI)</li>
+</ul>
+
+<hr />
+:ET

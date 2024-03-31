@@ -30,6 +30,7 @@ energy absorbed by a material increases with its mass. An emerging opportunity i
 
 ##### Principal investigators:
 {:.no_toc}
+ * Daniel Acuña Ramirez (AI4SMM)
  * Corentin Coulais (IoP)
  *  Jan-Willem van de Meent (IvI)
 

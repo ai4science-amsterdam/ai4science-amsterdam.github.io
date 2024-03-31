@@ -41,31 +41,22 @@ href="../ai4smm_rpa/">About AI4SMM></a> </center>
 ---
 
 
-<center> <h2>Entering the fifth paradigm for chemistry!</h2> </center>
-<center> <h1>ChemAI Day</h1> </center>
+<center> <h1>Kickoff Symposium</h1> </center>
 
-The AI4Science Lab and the Amsterdam Chemistry Network are organizing the
-ChemAI Symposium on November 16th in LAB42 in Amsterdam.
-Please join us! We are looking forward to connect with academic and
-industrial partners and explore how we can exploit artificial intelligence
-to make chemical processes and materials in a sustainable manner.
-
-* When: 16 November 2023
-* Where: LAB42 Room L1.01, Science Park, Amsterdam
-
-<center> <a class="radius button small center"
-href="https://www.acnetwork.nl/chemai">ChemAI Event> </a> </center>
+Now that our first round of AI4SMM projects have been staffed and started, we are organizing 
+an official AI4SMM Kickoff Symposium on Thursday, 30th of May. Further details will be posted
+here as soon as they arrive...
 
 ---
 
-<center> <h2>A warm welcome to three AI4SMM postdoctoral fellows</h2> </center>
+<center> <h2>A warm welcome to four AI4SMM postdoctoral fellows</h2> </center>
 <center> <h1>AI4SMM Research</h1> </center>
 
 Early 2023, the AI4SMM call for research proposals for postdoctoral fellowship projects 
 was concluded and four excellent multidisciplinary projects were awarded. 
 We are very happy that we can now welcome our first AI4SMM postdoctoral fellows to the lab:
 
-<div style="margin: auto; width: 575px; height: 300px;">
+<div style="margin: auto; width: 780px; height: 300px;">
 <div style="margin: 5px; border: 1px solid #ccc; float: left; width: 180px;">
   <a target="_blank" href="../images/ai4smm_people/MaximBrodmerkel.jpg">
     <img src="../images/ai4smm_people/MaximBrodmerkel.jpg" alt="Maxim Brodmerkel" style="width: 100%; height: auto;">
@@ -86,14 +77,26 @@ We are very happy that we can now welcome our first AI4SMM postdoctoral fellows 
   </a>
   <div style="padding: 15px; text-align: center;">Alexander<br>Korotkevich</div>
 </div>
+
+<div style="margin: 5px; border: 1px solid #ccc; float: left; width: 180px;">
+  <a target="_blank" href="../images/ai4smm_people/DanielAcunaRamirez.jpg">
+    <img src="../images/ai4smm_people/DanielAcunaRamirez.jpg" alt="Daniel Acuña Ramirez" style="width: 100%; height: auto;">
+  </a>
+  <div style="padding: 15px; text-align: center;">Daniel<br> Acuña Ramirez</div>
+</div>
 </div>
 
 <div style="float: none;">
-Maxim will be working on Machine Learning-based models of plant protein mixtures for sustainable 
-food design. Marco's project is on chemical additives for safe-and-sustainable-by-design plastics.
-And Alexander studies salt hydrates for thermal energy storage.
+<p>
+Maxim will be working on machine learning-based models of plant protein mixtures for sustainable 
+food design. Marco's project is on chemical additives for
+safe-and-sustainable-by-design plastics.
+Alexander studies salt hydrates for thermal energy storage. And Daniel
+developes metamaterials designed by AI for Sustainable Steel.
+</p>
+<p>
 Click below to read further about their research plans.<br>
-
+</p>
 <center> <a class="radius button small center" href="../ai4smm_projects">Research Projects></a> </center>
 </div>
 
