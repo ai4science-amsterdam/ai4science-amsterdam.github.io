@@ -67,7 +67,7 @@ A data-driven approach can help to simplify the suite of chemical additives used
 {:.no_toc}
 * Marco Federici (AI4SMM)
 * Saer Samanipour (HIMS)
-* Antonia Praetorius (SILS)
+* Antonia Praetorius (IBED)
 * Patrick Forré (IvI)
 
 ---
