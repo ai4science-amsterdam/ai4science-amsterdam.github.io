@@ -30,13 +30,14 @@ Here we list all scientific research from collaborations with members of the AI4
 
 ## Publications
 {: #publications }
-- Teodora Pandeva, Patrick Forré, Aaditya Ramdas, Shubhanshu Shekhar, **Deep anytime-valid hypothesis testing**, [https://arxiv.org/abs/2310.19384][Pan23c], accepted for AISTATS 2024.
-- Teodora Pandeva, Tim Bakker, Christian A. Naesseth, Patrick Forré, **E-Valuating Classifier Two-Sample Tests**, [https://arxiv.org/abs/2210.13027][Pan22b], [openreview][Pan24a], accepted for TMLR, 2024.
-- Marco Federici, Patrick Forré, Ryota Tomioka, Bastiaan S. Veeling, **Latent Representation and Simulation of Markov Processes via Time-Lagged Information Bottleneck**, [https://arxiv.org/abs/2309.07200][Fed23b], [openreview][Fed24b], accepted for ICLR 2024.
-- Cong Liu, David Ruhe, Floor Eijkelboom, Patrick Forré, **Clifford Group Equivariant Simplicial Message Passing Networks**, [https://arxiv.org/abs/2402.10011][Liu24b], [openreview][Liu24a], accepted for ICLR 2024.
-- Mircea Mironenco, Patrick Forré, **Lie Group Decompositions for Equivariant Neural Networks**, [https://arxiv.org/abs/2310.11366][Mir23a], [openreview][Mir24a], accepted for ICLR 2024.
-- Maximilian Lipp, Wei Li, Ksenia Abrashitova, Patrick Forré, Lyuba Amitonova, **Lightweight super-resolution multimode fiber imaging with regularized linear regression**, accepted for Optics Express, 2024.
-- Stef Molenaar, Tijmen Bos, Jim Boelrijk, Tina Dahlseid, Dwight Stoll, Bob Pirok, **Computer-driven optimization of complex gradients in comprehensive two-dimensional liquid chromatography**, [https://doi.org/10.1016/j.chroma.2023.464306][Boe23c], J. Chromatogr. A 2023.
+- Jim Boelrijk, Stef R.A. Molenaar, Tijmen S. Bos, Tina A. Dahlseid, Bernd Ensing, Dwight R. Stoll, Patrick Forré, Bob W.J. Pirok, **Enhancing LC x LC separations through Multi-Task Bayesian Optimization**, [ChemRxiv][Boe24a], accepted for J. Chromatogr. A, 2024.
+- Teodora Pandeva, Patrick Forré, Aaditya Ramdas, Shubhanshu Shekhar, **Deep anytime-valid hypothesis testing**, [https://arxiv.org/abs/2310.19384][Pan23c], AISTATS 2024, PMLR 238:622-630, 2024.
+- Teodora Pandeva, Tim Bakker, Christian A. Naesseth, Patrick Forré, **E-Valuating Classifier Two-Sample Tests**, [https://arxiv.org/abs/2210.13027][Pan22b], [openreview][Pan24a], TMLR 2024.
+- Marco Federici, Patrick Forré, Ryota Tomioka, Bastiaan S. Veeling, **Latent Representation and Simulation of Markov Processes via Time-Lagged Information Bottleneck**, [https://arxiv.org/abs/2309.07200][Fed23b], [openreview][Fed24b], ICLR 2024.
+- Cong Liu, David Ruhe, Floor Eijkelboom, Patrick Forré, **Clifford Group Equivariant Simplicial Message Passing Networks**, [https://arxiv.org/abs/2402.10011][Liu24b], [openreview][Liu24a], ICLR 2024.
+- Mircea Mironenco, Patrick Forré, **Lie Group Decompositions for Equivariant Neural Networks**, [https://arxiv.org/abs/2310.11366][Mir23a], [openreview][Mir24a], ICLR 2024.
+- Maximilian Lipp, Wei Li, Ksenia Abrashitova, Patrick Forré, Lyuba Amitonova, **Lightweight super-resolution multimode fiber imaging with regularized linear regression**, Optics Express 32 (9), 15147-15155, 2024.
+- Stef Molenaar, Tijmen Bos, Jim Boelrijk, Tina Dahlseid, Dwight Stoll, Bob Pirok, **Computer-driven optimization of complex gradients in comprehensive two-dimensional liquid chromatography**, [https://doi.org/10.1016/j.chroma.2023.464306][Boe23c], J. Chromatogr. A, 2023.
 - David Ruhe, Johannes Brandstetter, Patrick Forré, **Clifford Group Equivariant Neural Networks**, [https://arxiv.org/abs/2305.11141][Ruh23b], NeurIPS 2023 (with oral presentation).
 - Fiona Lippert, Bart Kranstauber, Emiel van Loon, Patrick Forré, **Deep Gaussian Markov Random Fields for Graph-Structured Dynamical Systems**, [https://arxiv.org/abs/2306.08445][Lip23a], NeurIPS 2023.
 - Miriam Rateike, Isabel Valera, Patrick Forré, **Designing Long-term Group Fair Policies in Dynamical Systems**, [https://arxiv.org/abs/2311.12447][Rat23a], [slidelive][Rat23b], NeurIPS 2023 Workshop: Algorithmic Fairness through the Lens of Time (with oral presentation), accepted for ACM FAccT 2024.
@@ -80,7 +81,6 @@ Here we list all scientific research from collaborations with members of the AI4
 {: #preprints }
 
 - Maksim Zhdanov, David Ruhe, Maurice Weiler, Ana Lucic, Johannes Brandstetter, Patrick Forré, **Clifford-Steerable Convolutional Neural Networks**, [https://arxiv.org/abs/2402.14730][Zhd24a], 2024.
-- Jim Boelrijk, Stef R.A. Molenaar, Tijmen S. Bos, Tina A. Dahlseid, Bernd Ensing, Dwight R. Stoll, Patrick Forré, Bob W.J. Pirok, **Enhancing LC x LC separations through Multi-Task Bayesian Optimization**, [ChemRxiv][Boe24a], 2024.
 - Metod Jazbec, Patrick Forré, Stephan Mandt, Dan Zhang, Eric Nalisnick, **Anytime-Valid Confidence Sequences for Consistent Uncertainty Estimation in Early-Exit Neural Networks**, [https://arxiv.org/abs/2311.05931][Jaz23a], 2023.
 - Marco Federici, David Ruhe, Patrick Forré, **On the Effectiveness of Hybrid Mutual Information Estimation**, [https://arxiv.org/abs/2306.00608][Fed23a], 2023.
 - Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré, **Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu's Theorem**, [https://arxiv.org/abs/2202.09393][Lan22], 2022.
