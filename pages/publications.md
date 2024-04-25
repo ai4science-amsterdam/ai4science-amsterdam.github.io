@@ -31,7 +31,7 @@ Here we list all scientific research from collaborations with members of the AI4
 ## Publications
 {: #publications }
 - Jim Boelrijk, Stef R.A. Molenaar, Tijmen S. Bos, Tina A. Dahlseid, Bernd Ensing, Dwight R. Stoll, Patrick Forré, Bob W.J. Pirok, **Enhancing LC x LC separations through Multi-Task Bayesian Optimization**, [ChemRxiv][Boe24a], accepted for J. Chromatogr. A, 2024.
-- Teodora Pandeva, Patrick Forré, Aaditya Ramdas, Shubhanshu Shekhar, **Deep anytime-valid hypothesis testing**, [https://arxiv.org/abs/2310.19384][Pan23c], AISTATS 2024, PMLR 238:622-630, 2024.
+- Teodora Pandeva, Patrick Forré, Aaditya Ramdas, Shubhanshu Shekhar, **Deep anytime-valid hypothesis testing**, [https://arxiv.org/abs/2310.19384][Pan23c], [paper][Pan24b], AISTATS 2024, PMLR 238:622-630, 2024.
 - Teodora Pandeva, Tim Bakker, Christian A. Naesseth, Patrick Forré, **E-Valuating Classifier Two-Sample Tests**, [https://arxiv.org/abs/2210.13027][Pan22b], [openreview][Pan24a], TMLR 2024.
 - Marco Federici, Patrick Forré, Ryota Tomioka, Bastiaan S. Veeling, **Latent Representation and Simulation of Markov Processes via Time-Lagged Information Bottleneck**, [https://arxiv.org/abs/2309.07200][Fed23b], [openreview][Fed24b], ICLR 2024.
 - Cong Liu, David Ruhe, Floor Eijkelboom, Patrick Forré, **Clifford Group Equivariant Simplicial Message Passing Networks**, [https://arxiv.org/abs/2402.10011][Liu24b], [openreview][Liu24a], ICLR 2024.
@@ -151,6 +151,7 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 [Pan23b]: https://openreview.net/forum?id=WW6O-e7YJ2O
 [Pan23c]: https://arxiv.org/abs/2310.19384
 [Pan24a]: https://openreview.net/forum?id=dwFRov8xhr
+[Pan24b]: https://proceedings.mlr.press/v238/pandeva24a.html
 [Rat23a]: https://arxiv.org/abs/2311.12447
 [Rat23b]: https://recorder-v3.slideslive.com/#/share?share=90356&s=76a0a5a7-6f97-406a-bca4-38fc64bcc3fc
 [Ruh21a]: https://arxiv.org/abs/2103.15418
