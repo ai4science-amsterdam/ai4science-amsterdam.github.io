@@ -30,6 +30,7 @@ Here we list all scientific research from collaborations with members of the AI4
 
 ## Publications
 {: #publications }
+- Metod Jazbec, Patrick Forré, Stephan Mandt, Dan Zhang, Eric Nalisnick, **Anytime-Valid Confidence Sequences for Consistent Uncertainty Estimation in Early-Exit Neural Networks**, [https://arxiv.org/abs/2311.05931][Jaz23a], [openreview][Jaz24a], accepted for UAI 2024
 - Jim Boelrijk, Stef R.A. Molenaar, Tijmen S. Bos, Tina A. Dahlseid, Bernd Ensing, Dwight R. Stoll, Patrick Forré, Bob W.J. Pirok, **Enhancing LC x LC separations through Multi-Task Bayesian Optimization**, [ChemRxiv][Boe24a], accepted for J. Chromatogr. A, 2024.
 - Teodora Pandeva, Patrick Forré, Aaditya Ramdas, Shubhanshu Shekhar, **Deep anytime-valid hypothesis testing**, [https://arxiv.org/abs/2310.19384][Pan23c], [paper][Pan24b], AISTATS 2024, PMLR 238:622-630, 2024.
 - Teodora Pandeva, Tim Bakker, Christian A. Naesseth, Patrick Forré, **E-Valuating Classifier Two-Sample Tests**, [https://arxiv.org/abs/2210.13027][Pan22b], [openreview][Pan24a], TMLR 2024.
@@ -81,7 +82,6 @@ Here we list all scientific research from collaborations with members of the AI4
 {: #preprints }
 
 - Maksim Zhdanov, David Ruhe, Maurice Weiler, Ana Lucic, Johannes Brandstetter, Patrick Forré, **Clifford-Steerable Convolutional Neural Networks**, [https://arxiv.org/abs/2402.14730][Zhd24a], 2024.
-- Metod Jazbec, Patrick Forré, Stephan Mandt, Dan Zhang, Eric Nalisnick, **Anytime-Valid Confidence Sequences for Consistent Uncertainty Estimation in Early-Exit Neural Networks**, [https://arxiv.org/abs/2311.05931][Jaz23a], 2023.
 - Marco Federici, David Ruhe, Patrick Forré, **On the Effectiveness of Hybrid Mutual Information Estimation**, [https://arxiv.org/abs/2306.00608][Fed23a], 2023.
 - Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré, **Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu's Theorem**, [https://arxiv.org/abs/2202.09393][Lan22], 2022.
 - Patrick Forré, **Quasi-Measurable Spaces**, [https://arxiv.org/abs/2109.11631][For21b], 2021.
@@ -126,6 +126,7 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 [Ils21a]: https://arxiv.org/abs/2103.04786
 [Ils21b]: https://arxiv.org/abs/2005.01856
 [Jaz23a]: https://arxiv.org/abs/2311.05931
+[Jaz24a]: https://openreview.net/forum?id=mAjIKFHa2P
 [Kel21a]: https://arxiv.org/abs/2011.07248
 [Lan22]: https://arxiv.org/abs/2202.09393
 [Lip22a]: https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14007
