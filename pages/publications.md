@@ -30,6 +30,8 @@ Here we list all scientific research from collaborations with members of the AI4
 
 ## Publications
 {: #publications }
+
+- Maksim Zhdanov, David Ruhe, Maurice Weiler, Ana Lucic, Johannes Brandstetter, Patrick Forré, **Clifford-Steerable Convolutional Neural Networks**, [https://arxiv.org/abs/2402.14730][Zhd24a], [oenreview][Zhd24b], accepted for ICML 2024.
 - Metod Jazbec, Patrick Forré, Stephan Mandt, Dan Zhang, Eric Nalisnick, **Anytime-Valid Confidence Sequences for Consistent Uncertainty Estimation in Early-Exit Neural Networks**, [https://arxiv.org/abs/2311.05931][Jaz23a], [openreview][Jaz24a], accepted for UAI 2024
 - Jim Boelrijk, Stef R.A. Molenaar, Tijmen S. Bos, Tina A. Dahlseid, Bernd Ensing, Dwight R. Stoll, Patrick Forré, Bob W.J. Pirok, **Enhancing LC x LC separations through Multi-Task Bayesian Optimization**, [ChemRxiv][Boe24a], accepted for J. Chromatogr. A, 2024.
 - Teodora Pandeva, Patrick Forré, Aaditya Ramdas, Shubhanshu Shekhar, **Deep anytime-valid hypothesis testing**, [https://arxiv.org/abs/2310.19384][Pan23c], [paper][Pan24b], AISTATS 2024, PMLR 238:622-630, 2024.
@@ -81,7 +83,6 @@ Here we list all scientific research from collaborations with members of the AI4
 ## Preprints
 {: #preprints }
 
-- Maksim Zhdanov, David Ruhe, Maurice Weiler, Ana Lucic, Johannes Brandstetter, Patrick Forré, **Clifford-Steerable Convolutional Neural Networks**, [https://arxiv.org/abs/2402.14730][Zhd24a], 2024.
 - Marco Federici, David Ruhe, Patrick Forré, **On the Effectiveness of Hybrid Mutual Information Estimation**, [https://arxiv.org/abs/2306.00608][Fed23a], 2023.
 - Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré, **Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu's Theorem**, [https://arxiv.org/abs/2202.09393][Lan22], 2022.
 - Patrick Forré, **Quasi-Measurable Spaces**, [https://arxiv.org/abs/2109.11631][For21b], 2021.
@@ -166,6 +167,7 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 [Wei21a]: https://arxiv.org/abs/2106.06020
 [Wei23a]: https://maurice-weiler.gitlab.io/#cnn_book
 [Zhd24a]: https://arxiv.org/abs/2402.14730
+[Zhd24b]: openreview.net/forum?id=XTglHJjzQI
 
 
 
