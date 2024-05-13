@@ -128,7 +128,7 @@ solution techniques, the approach is interdisciplinary, combining
 aspects of mathematics, computer science and physics.
 
 ##### Further information:
-Please contact Dr. Wiebke Albrecht: w.albrecht@amolf.nl
+ * Dr. Wiebke Albrecht: w.albrecht@amolf.nl
 
 ----------------------------------------------
 
