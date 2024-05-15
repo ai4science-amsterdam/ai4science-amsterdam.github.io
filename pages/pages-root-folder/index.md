@@ -37,19 +37,23 @@ homepage: true
 __________________________________________
 
 
-<center> <h2>Four Postdoctoral projects starting in new FNWI Research Priority Area</h2> </center>
 <center> <h1>AI for Sustainable Molecules and Materials</h1> </center>
+<center> <h2>Kickoff Symposium</h2> </center>
 
-To strengthen FNWI’s focus on smart and green, the Research Focus Area
-(RPA) “Artificial Intelligence for Sustainable Molecules and
-Materials” (AI4SMM) has been launched. AI4SMM targets breakthroughs in
-sustainable innovation with AI and computational methods for molecules
-and materials to aid in realising the materials transition needed for
-a sustainable society. 
+Anyone interested in AI, sustainability, or molecules and materials is
+very welcome to join our AI4SMM Kickoff Symposium. One of the aims of this
+symposium is to expand our community of students, academic researchers, and
+people in industries and non-profit organisations. Click the link to 
+register and to see the
+program with eminent keynote speakers and plenty of networking opportunities.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/ai4smm_home/">Learn More›</a>
+* When: Thursday, 30 May 2024
+* Where:  Matrix ONE, Science Park 301, Amsterdam
 
-Read also this news item, with a short overview of the four research
+<a class="radius button small"
+href="../ai4smm_workshop1/">AI4SMM Kickoff Program</a>
+
+Read also this news item, with a short overview of the four AI4SMM research
 projects on (1) metamaterials, (2) thermal energy storage with salt hydrates,
 (3) safe-and-sustainable-by-design plastics, and (4) plant protein mixtures
 for sustainable food design, and the role that AI can play in this research. 

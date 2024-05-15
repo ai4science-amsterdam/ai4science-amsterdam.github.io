@@ -82,7 +82,7 @@ For more information, please click [here](https://ai4science-amsterdam.github.io
 Get in contact with AI4SMM via:
 
 [Marcel Bartels](https://www.uva.nl/profiel/b/a/m.j.bartels/m.j.bartels.html)<br>
-*Instituuts manager* HIMS<br>
+*Business Development Sustainability Research* Faculty of Science<br>
 
 Van 't Hoff Institute for Molecular Sciences<br>
 University of Amsterdam<br>
