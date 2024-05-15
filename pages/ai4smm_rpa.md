@@ -82,9 +82,9 @@ For more information, please click [here](https://ai4science-amsterdam.github.io
 Get in contact with AI4SMM via:
 
 [Marcel Bartels](https://www.uva.nl/profiel/b/a/m.j.bartels/m.j.bartels.html)<br>
-*Business Development Sustainability Research* Faculty of Science<br>
+*Business Development Sustainability Research* <br>
 
-Van 't Hoff Institute for Molecular Sciences<br>
+Faculty of Science<br>
 University of Amsterdam<br>
 
 
