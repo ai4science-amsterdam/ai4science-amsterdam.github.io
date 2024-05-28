@@ -30,10 +30,10 @@ research in science that benefits from the enhancement by AI.
 |--------- |---------|
 |  12.00 - 13.00   |  Registration, lunch and posters |
 |  13.00 - 13.15	|  Introduction by Dr. Bernd Ensing – Program director of RPA <br>  Kick-off by Prof. Peter van Tienderen - Dean Faculty of Science |
-|  13.15 - 14.00	|  Keynote by [Prof. Michael Webb (Princeton)][1] |
+|  13.15 - 14.00	|  Keynote by [Prof. Paola Gori Giorgi (Microsoft)][2] |
 |  14.00 - 14.40	|  Soundbites of running projects and new ideas  |
 |  14.40 - 15.30	|  Break and posters  |
-|  15.30 - 16.15	|  Keynote by [Prof. Paola Gori Giorgi (Microsoft)][2]  |
+|  15.30 - 16.15	|  Keynote by [Prof. Michael Webb (Princeton)][1] |
 |  16.15 - 17.15	|  Panel and audience discussion |
 |  17.15 - 18.00	|  Drinks and posters |
 
