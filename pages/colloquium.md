@@ -26,8 +26,8 @@ To stay up to date with our activities and be invited to our biweekly AI4Science
 
 #### Density functional theory and machine learning:  The race to find the next best approximation
 
-Date: Tuesday 11 June 2024 at 11:00-1200 CET
-Science Park 904,  Room A1.28
+Date: Tuesday 11 June 2024 at 11:00-1200 CET <br/>
+Place: Science Park 904,  Room A1.28
 
 <img src="../people/KieronBurke.png"
      alt="Kieron Burke"
@@ -47,7 +47,15 @@ potential impact.
 
 **Bio:** <br/>
 
-Professor Kieron Burke from UC Irvine. Prof. Burke is well-known for his fundamental work on Density Functional Theory. The “B” in the popular “PBE”-functional stands for Burke, so several of us have probably used this DFT functional that he co-developed. He has worked extensively on the DFT formalism, extensions to new areas, and applications in chemistry, materials science, matter under extreme conditions, and so forth. Recently, he has also focused on errors in DFT and machine learned density functionals.
+Professor Kieron Burke in a distinguished professor in the Chemistry
+department and the Physics department at UC Irvine. Prof. Burke is
+well-known for his fundamental work on Density Functional Theory. The
+“B” in the popular “PBE”-functional stands for Burke, so several of us
+have probably used this DFT functional that he co-developed. He has
+worked extensively on the DFT formalism, extensions to new areas, and
+applications in chemistry, materials science, matter under extreme
+conditions, and so forth. Recently, he has also focused on errors in
+DFT and machine learned density functionals. 
 
 
 <!--
