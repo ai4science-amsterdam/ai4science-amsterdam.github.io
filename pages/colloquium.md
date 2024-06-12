@@ -34,7 +34,7 @@ Place: Science Park 904,  Room A1.28
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
-Speaker: **KieronBurke**, University of California at Irive, USA.
+Speaker: **Kieron Burke**, University of California at Irive, USA.
 
 **Abstract:** <br/>
 
