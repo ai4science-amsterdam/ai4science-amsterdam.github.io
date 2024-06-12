@@ -58,11 +58,9 @@ conditions, and so forth. Recently, he has also focused on errors in
 DFT and machine learned density functionals. 
 
 
-<!--
 <a class="radius button small" href="https://drive.google.com/file/d/1emgs5118gZSgsX3RfwWhM9BSKUFdE21B/view?usp=share_link">Watch Back</a>
--->
 
-For an overview of more  previous colloquia, please have a look at out [blog][2].
+For a complete overview of the previous colloquia, please have a look at our [blog][2].
 
 [1]: https://bereau.group/
 [2]: /blog/
