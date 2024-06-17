@@ -44,7 +44,7 @@ Here we list all scientific research from collaborations with members of the AI4
 - Stef Molenaar, Tijmen Bos, Jim Boelrijk, Tina Dahlseid, Dwight Stoll, Bob Pirok, **Computer-driven optimization of complex gradients in comprehensive two-dimensional liquid chromatography**, [https://doi.org/10.1016/j.chroma.2023.464306][Boe23c], J. Chromatogr. A, 2023.
 - David Ruhe, Johannes Brandstetter, Patrick Forré, **Clifford Group Equivariant Neural Networks**, [https://arxiv.org/abs/2305.11141][Ruh23b], NeurIPS 2023 (with oral presentation).
 - Fiona Lippert, Bart Kranstauber, Emiel van Loon, Patrick Forré, **Deep Gaussian Markov Random Fields for Graph-Structured Dynamical Systems**, [https://arxiv.org/abs/2306.08445][Lip23a], NeurIPS 2023.
-- Miriam Rateike, Isabel Valera, Patrick Forré, **Designing Long-term Group Fair Policies in Dynamical Systems**, [https://arxiv.org/abs/2311.12447][Rat23a], [slidelive][Rat23b], NeurIPS 2023 Workshop: Algorithmic Fairness through the Lens of Time (with oral presentation), accepted for ACM FAccT 2024.
+- Miriam Rateike, Isabel Valera, Patrick Forré, **Designing Long-term Group Fair Policies in Dynamical Systems**, [https://arxiv.org/abs/2311.12447][Rat23a], [slidelive][Rat23b], NeurIPS 2023 Workshop: Algorithmic Fairness through the Lens of Time (with oral presentation); [https://doi.org/10.1145/3630106.3658538][Rat24a], ACM FAccT 2024.
 - Teodora Pandeva, Patrick Forré, **Multi-View Independent Component Analysis with Shared and Individual Sources**, [https://arxiv.org/abs/2210.02083][Pan22a], [openreview][Pan23b], UAI 2023, PMLR 216:1639-1650, 2023.
 - David Ruhe, Jayesh K. Gupta, Steven de Keninck, Max Welling, Johannes Brandstetter, **Geometric Clifford Algebra Networks**, [https://arxiv.org/abs/2302.06594][Ruh23a], ICML 2023.
 - Benjamin Kurt Miller, Marco Federici, Christoph Weniger, Patrick Forré, **Simulation-based Inference with the Generalized Kullback-Leibler Divergence**, [openreview][Mil23a], [https://arxiv.org/abs/2310.01808][Mil23b], ICML 2023 Workshop: Synergy of Scientific and Machine Learning Modeling.
@@ -158,6 +158,7 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 [Pan24b]: https://proceedings.mlr.press/v238/pandeva24a.html
 [Rat23a]: https://arxiv.org/abs/2311.12447
 [Rat23b]: https://recorder-v3.slideslive.com/#/share?share=90356&s=76a0a5a7-6f97-406a-bca4-38fc64bcc3fc
+[Rat24a]: https://doi.org/10.1145/3630106.3658538
 [Ruh21a]: https://arxiv.org/abs/2103.15418
 [Ruh21b]: https://ui.adsabs.harvard.edu/abs/2021ascl.soft03015R/abstract
 [Ruh21c]: https://openreview.net/forum?id=VPjw9KPWRSK
