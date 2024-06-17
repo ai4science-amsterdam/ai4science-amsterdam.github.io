@@ -31,7 +31,7 @@ Here we list all scientific research from collaborations with members of the AI4
 ## Publications
 {: #publications }
 
-- - Fiona Lippert, Bart Kranstauber, Patrick Forré, Emiel van Loon, **Towards detailed and interpretable hybrid modeling of continental-scale bird migration**, [openreview][Lip24a], accepted for ICML 2024 Workshop: AI4Science.
+- Fiona Lippert, Bart Kranstauber, Patrick Forré, Emiel van Loon, **Towards detailed and interpretable hybrid modeling of continental-scale bird migration**, [openreview][Lip24a], accepted for ICML 2024 Workshop: AI4Science.
 - Maksim Zhdanov, David Ruhe, Maurice Weiler, Ana Lucic, Johannes Brandstetter, Patrick Forré, **Clifford-Steerable Convolutional Neural Networks**, [https://arxiv.org/abs/2402.14730][Zhd24a], [openreview][Zhd24b], accepted for ICML 2024.
 - Metod Jazbec, Patrick Forré, Stephan Mandt, Dan Zhang, Eric Nalisnick, **Early-Exit Neural Networks with Nested Prediction Sets**, [https://arxiv.org/abs/2311.05931][Jaz23a], [openreview][Jaz24a], accepted for UAI 2024
 - Jim Boelrijk, Stef R.A. Molenaar, Tijmen S. Bos, Tina A. Dahlseid, Bernd Ensing, Dwight R. Stoll, Patrick Forré, Bob W.J. Pirok, **Enhancing LC x LC separations through Multi-Task Bayesian Optimization**, [ChemRxiv][Boe24a], accepted for J. Chromatogr. A, 2024.
