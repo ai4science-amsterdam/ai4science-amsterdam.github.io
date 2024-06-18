@@ -31,6 +31,9 @@ Here we list all scientific research from collaborations with members of the AI4
 ## Publications
 {: #publications }
 
+- David Ruhe, Patrick Forré, **SINR: Equivariant Neural Vector Fields**, [openreview][Ruh24a], accepted for ICML 2024 Workshop: Geometry-grounded Representation Learning and Generative Modeling. 
+- Cong Liu, David Ruhe, Patrick Forré, **Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**, [https://arxiv.org/abs/2406.04052
+][Liu24c], [openreview][Liu24d], accepted for ICML 2024 Workshop: Geometry-grounded Representation Learning and Generative Modeling.
 - Fiona Lippert, Bart Kranstauber, Patrick Forré, Emiel van Loon, **Towards detailed and interpretable hybrid modeling of continental-scale bird migration**, [openreview][Lip24a], accepted for ICML 2024 Workshop: AI4Science.
 - Maksim Zhdanov, David Ruhe, Maurice Weiler, Ana Lucic, Johannes Brandstetter, Patrick Forré, **Clifford-Steerable Convolutional Neural Networks**, [https://arxiv.org/abs/2402.14730][Zhd24a], [openreview][Zhd24b], accepted for ICML 2024.
 - Metod Jazbec, Patrick Forré, Stephan Mandt, Dan Zhang, Eric Nalisnick, **Early-Exit Neural Networks with Nested Prediction Sets**, [https://arxiv.org/abs/2311.05931][Jaz23a], [openreview][Jaz24a], accepted for UAI 2024
@@ -137,6 +140,8 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 [Lip24a]: https://openreview.net/forum?id=oAmxqO1nRy
 [Liu24a]: https://openreview.net/forum?id=Zz594UBNOH
 [Liu24b]: https://arxiv.org/abs/2402.10011
+[Liu24c]: https://arxiv.org/abs/2406.04052
+[Liu24d]: https://openreview.net/forum?id=F03nrnuGuj
 [Mai22a]: https://openreview.net/forum?id=KJFpArxWe-g
 [Mai23a]: https://openreview.net/forum?id=a6rCdfABJXg
 [Mil20a]: https://arxiv.org/abs/2011.13951
@@ -166,6 +171,7 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 [Ruh22a]: https://doi.org/10.1016/j.ascom.2021.100512
 [Ruh23a]: https://arxiv.org/abs/2302.06594
 [Ruh23b]: https://arxiv.org/abs/2305.11141
+[Ruh24a]: https://openreview.net/forum?id=LgWZvbcjM1
 [Ver20a]: https://arxiv.org/abs/2006.00896
 [Wei21a]: https://arxiv.org/abs/2106.06020
 [Wei23a]: https://maurice-weiler.gitlab.io/#cnn_book
