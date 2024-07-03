@@ -89,7 +89,7 @@ Here we list all scientific research from collaborations with members of the AI4
 
 - Leon Lang, Clélia de Mulatier, Rick Quax, Patrick Forré, **Abstract Markov Random Fields**, [https://arxiv.org/abs/2407.02134][Lan24c], 2024. 
 - Lukas Fluri, Leon Lang, Alessandro Abate, Patrick Forré, David Krueger, Joar Skalse, **The Perils of Optimizing Learned Reward Functions: Low Training Error Does Not Guarantee Low Regret**, [https://arxiv.org/abs/2406.15753][Lan24b], 2024.
-- Leon Lang, Davis Foote, Stuart Russell, Anca Dragan, Erik Jenner, Scott Emmons, **When Your AIs Deceive You: Challenges of Partial Observability in Reinforcement Learning from Human Feedback**, [https://arxiv.org/abs/2402.17747][Lan24b], 2024.
+- Leon Lang, Davis Foote, Stuart Russell, Anca Dragan, Erik Jenner, Scott Emmons, **When Your AIs Deceive You: Challenges of Partial Observability in Reinforcement Learning from Human Feedback**, [https://arxiv.org/abs/2402.17747][Lan24a], 2024.
 - Teun van der Weij, Simon Lermen, Leon Lang, **Evaluating Shutdown Avoidance of Language Models in Textual Scenarios**, [https://arxiv.org/abs/2307.00787][Lan23a], 2023.
 - Marco Federici, David Ruhe, Patrick Forré, **On the Effectiveness of Hybrid Mutual Information Estimation**, [https://arxiv.org/abs/2306.00608][Fed23a], 2023.
 - Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré, **Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu's Theorem**, [https://arxiv.org/abs/2202.09393][Lan22a], 2022.
@@ -139,7 +139,7 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 [Jaz24a]: https://openreview.net/forum?id=mAjIKFHa2P
 [Kel21a]: https://arxiv.org/abs/2011.07248
 [Lan22a]: https://arxiv.org/abs/2202.09393
-[Lan23a]: https://arxiv.org/abs/2402.17747
+[Lan23a]: https://arxiv.org/abs/2307.00787
 [Lan24a]: https://arxiv.org/abs/2402.17747
 [Lan24b]: https://arxiv.org/abs/2406.15753
 [Lan24c]: https://arxiv.org/abs/2407.02134
