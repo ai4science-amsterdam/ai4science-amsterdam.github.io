@@ -37,7 +37,7 @@ Here we list all scientific research from collaborations with members of the AI4
 - Fiona Lippert, Bart Kranstauber, Patrick Forré, Emiel van Loon, **Towards detailed and interpretable hybrid modeling of continental-scale bird migration**, [openreview][Lip24a], accepted for ICML 2024 Workshop: AI4Science.
 - Maksim Zhdanov, David Ruhe, Maurice Weiler, Ana Lucic, Johannes Brandstetter, Patrick Forré, **Clifford-Steerable Convolutional Neural Networks**, [https://arxiv.org/abs/2402.14730][Zhd24a], [openreview][Zhd24b], accepted for ICML 2024.
 - Metod Jazbec, Patrick Forré, Stephan Mandt, Dan Zhang, Eric Nalisnick, **Early-Exit Neural Networks with Nested Prediction Sets**, [https://arxiv.org/abs/2311.05931][Jaz23a], [openreview][Jaz24a], accepted for UAI 2024
-- Jim Boelrijk, Stef R.A. Molenaar, Tijmen S. Bos, Tina A. Dahlseid, Bernd Ensing, Dwight R. Stoll, Patrick Forré, Bob W.J. Pirok, **Enhancing LC x LC separations through Multi-Task Bayesian Optimization**, [ChemRxiv][Boe24a], accepted for J. Chromatogr. A, 2024.
+- Jim Boelrijk, Stef R.A. Molenaar, Tijmen S. Bos, Tina A. Dahlseid, Bernd Ensing, Dwight R. Stoll, Patrick Forré, Bob W.J. Pirok, **Enhancing LC x LC separations through Multi-Task Bayesian Optimization**, [ChemRxiv][Boe24a], [https://doi.org/10.1016/j.chroma.2024.464941][Boe24b], J. Chromatogr. A, 1726 (464941), 2024.
 - Teodora Pandeva, Patrick Forré, Aaditya Ramdas, Shubhanshu Shekhar, **Deep anytime-valid hypothesis testing**, [https://arxiv.org/abs/2310.19384][Pan23c], [paper][Pan24b], AISTATS 2024, PMLR 238:622-630, 2024.
 - Teodora Pandeva, Tim Bakker, Christian A. Naesseth, Patrick Forré, **E-Valuating Classifier Two-Sample Tests**, [https://arxiv.org/abs/2210.13027][Pan22b], [openreview][Pan24a], TMLR 2024.
 - Marco Federici, Patrick Forré, Ryota Tomioka, Bastiaan S. Veeling, **Latent Representation and Simulation of Markov Processes via Time-Lagged Information Bottleneck**, [https://arxiv.org/abs/2309.07200][Fed23b], [openreview][Fed24b], ICLR 2024.
@@ -67,7 +67,7 @@ Here we list all scientific research from collaborations with members of the AI4
 - Benjamin Kurt Miller, Alex Cole, Christoph Weniger, Francesco Nattino, Ou Ku, Meiert W. Grootes, **swyft: Truncated Marginal Neural Ratio Estimation in Python**, Journal of Open Source Software, 2022, 7 (75), 4205, [https://doi.org/10.21105/joss.04205][Mil22c], [code][Mil22d].
 - David Ruhe, Patrick Forré, **Self-Supervised Inference in State-Space Models**, ICLR 2022, [openreview][Ruh21c],
 - David Ruhe, Mark Kuiack, Antonia Rowlinson, Ralph Wijers, Patrick Forré, **Detecting dispersed radio transients in real time using convolutional neural networks**, Astronomy and Computing, vol. 38, 2022, [https://doi.org/10.1016/j.ascom.2021.100512][Ruh22a], [https://arxiv.org/abs/2103.15418][Ruh21a], [code][Ruh21b].
-- Jim Boelrijk, Bob Pirok, Bernd Ensing, Patrick Forré, **Bayesian optimization of comprehensive two-dimensional liquid chromatography separations**, J. Chromatogr. A 2021, [https://doi.org/10.1016/j.chroma.2021.462628][Boe21a]
+- Jim Boelrijk, Bob Pirok, Bernd Ensing, Patrick Forré, **Bayesian optimization of comprehensive two-dimensional liquid chromatography separations**, J. Chromatogr. A, 2021, [https://doi.org/10.1016/j.chroma.2021.462628][Boe21a]
 - Benjamin Kurt Miller, Alex Cole, Patrick Forré, Gilles Louppe, Christoph Weniger, **Truncated Marginal Neural Ratio Estimation**, NeurIPS 2021, [openreview][Mil21a].
 - Marco Federici, Ryota Tomioka, Patrick Forré, **An Information-theoretic Approach to Distribution Shifts**, NeurIPS 2021, [https://arxiv.org/abs/2106.03783][Fed21a].
 - Emiel Hoogeboom, Didrik Nielsen, Priyank Jaini, Patrick Forré, Max Welling, **Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions**, NeurIPS 2021, [https://arxiv.org/abs/2102.05379][Hog21a].
@@ -87,8 +87,12 @@ Here we list all scientific research from collaborations with members of the AI4
 ## Preprints
 {: #preprints }
 
+- Leon Lang, Clélia de Mulatier, Rick Quax, Patrick Forré, **Abstract Markov Random Fields**, [https://arxiv.org/abs/2407.02134][Lan24c], 2024. 
+- Lukas Fluri, Leon Lang, Alessandro Abate, Patrick Forré, David Krueger, Joar Skalse, **The Perils of Optimizing Learned Reward Functions: Low Training Error Does Not Guarantee Low Regret**, [https://arxiv.org/abs/2406.15753][Lan24b], 2024.
+- Leon Lang, Davis Foote, Stuart Russell, Anca Dragan, Erik Jenner, Scott Emmons, **When Your AIs Deceive You: Challenges of Partial Observability in Reinforcement Learning from Human Feedback**, [https://arxiv.org/abs/2402.17747][Lan24b], 2024.
+- Teun van der Weij, Simon Lermen, Leon Lang, **Evaluating Shutdown Avoidance of Language Models in Textual Scenarios**, [https://arxiv.org/abs/2307.00787][Lan23a], 2023.
 - Marco Federici, David Ruhe, Patrick Forré, **On the Effectiveness of Hybrid Mutual Information Estimation**, [https://arxiv.org/abs/2306.00608][Fed23a], 2023.
-- Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré, **Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu's Theorem**, [https://arxiv.org/abs/2202.09393][Lan22], 2022.
+- Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré, **Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu's Theorem**, [https://arxiv.org/abs/2202.09393][Lan22a], 2022.
 - Patrick Forré, **Quasi-Measurable Spaces**, [https://arxiv.org/abs/2109.11631][For21b], 2021.
 - Maurice Weiler, Patrick Forré, Erik Verlinde, Max Welling, **Coordinate Independent Convolutional Networks - Isometry and Gauge Equivariant Convolutions on Riemannian Manifolds**, [https://arxiv.org/abs/2106.06020][Wei21a], 2021.
 - Patrick Forré, **Transitional Conditional Independence**, [https://arxiv.org/abs/2104.11547][For21a], 2021.
@@ -109,6 +113,7 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 [Boe23b]: https://openreview.net/forum?id=fSa5IjNMmmi
 [Boe23c]: https://doi.org/10.1016/j.chroma.2023.464306
 [Boe24a]: https://chemrxiv.org/engage/chemrxiv/article-details/65cf665e66c1381729ca26ea
+[Boe24b]: https://doi.org/10.1016/j.chroma.2024.464941
 [Bos22]: https://pubs.acs.org/doi/full/10.1021/acs.analchem.2c03160
 [Col22]: https://iopscience.iop.org/article/10.1088/1475-7516/2022/09/004/meta
 [Del23a]: https://arxiv.org/abs/2304.10978
@@ -133,7 +138,11 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 [Jaz23a]: https://arxiv.org/abs/2311.05931
 [Jaz24a]: https://openreview.net/forum?id=mAjIKFHa2P
 [Kel21a]: https://arxiv.org/abs/2011.07248
-[Lan22]: https://arxiv.org/abs/2202.09393
+[Lan22a]: https://arxiv.org/abs/2202.09393
+[Lan23a]: https://arxiv.org/abs/2402.17747
+[Lan24a]: https://arxiv.org/abs/2402.17747
+[Lan24b]: https://arxiv.org/abs/2406.15753
+[Lan24c]: https://arxiv.org/abs/2407.02134
 [Lip22a]: https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14007
 [Lip22b]: https://openreview.net/forum?id=mbWJIF2z6dZ
 [Lip23a]: https://arxiv.org/abs/2306.08445
