@@ -23,36 +23,71 @@ To see the colloquium schedule, subscribe to the email announcements, and watch 
 ## Workshops and symposia
 
 
-#### Data Science Day
+#### Data Science Day, AI for Science: opportunities and challenges
 
+Join us for presentations by Prof. dr. Paul Groth (Scientific director
+Data Science Centre) and dr. Bernd Ensing (Director FNWI AI4Science
+Laboratory).
+
+* When: 18 October 2024, 10.30-12.00 hr
+* Where: Lab42 Room tba, Science Park, Amsterdam
+
+This event delves into the evolving role of Artificial
+Intelligence (AI) in scientific research, exploring the intersection
+of AI with various disciplines, including physics, humanities, social
+sciences, mathematics, and biology. Participants will gain insights
+into how AI is transforming the scientific process, from uncovering
+new research areas to enhancing dissemination of results. The session
+will also highlight key challenges such as reproducibility,
+transparency, and interpretation, as well as broader ethical and
+societal concerns surrounding AI in science. Discussions will cover
+the impact of AI on science and the science systems. This event offers
+a comprehensive platform for exploring AI’s potential while addressing
+the hurdles that come with its integration into scientific practices. 
+
+Organised in collaboration with the AI4Science Lab, this event is part
+of the [UvA Data Science Day][4]. Throughout the day, you can attend
+presentations and workshops on data science and AI at various UvA
+campus locations. You can register for this session only, or choose
+more sessions that interest you and create your ideal programme!
+
+<a class="radius button small"
+href="https://uvaforms.formstack.com/forms/data_science_day_18_october_2024">Please register here</a>
+
+
+
+---
+
+<!--
 
 #### Crash course Machine Learning for Chemists
+---
+-->
+
 
 
 #### ChemAI Day
 
 Together with the Amsterdam Chemistry Network, we are organizing the
-ChemAI Symposium this November 16th in LAB42 in Amsterdam.
+second ChemAI Symposium on November 29th in the Lab42 building at
+Science Park Amsterdam.
 Please join us! We are looking forward to connect with academic and
 industrial partners to enlarge our consortium. Click on the button
 below to see the program and to register.
 
-* When: 16 November 2023
-* Where: LAB42 Room L1.01, Science Park, Amsterdam
+* When: 29 November 2024
+* Where: Lab42 Room L1.01, Science Park, Amsterdam
 
 <a class="radius button small"
 href="https://www.acnetwork.nl/chemai">ChemAI Event</a>
 
-This first ChemAI symposium was a great hit, with over 200
-participants, of which half from companies and other non-academic
-institutions. In November 2024, we will organize the second edition of
-ChemAI. To get and impression of ChemAI 2023, click on the button
-below to see the photo gallery and find the powerpoint presentations
-of the speakers.
+Get an impression of the event from the video and photo gallery of last years'
+ChemAI 2023:
 
 <a class="radius button small"
-href="https://www.acnetwork.nl/news/chemai-is-a-wrap">ChemAI Gallery</a>
+href="https://www.acnetwork.nl/news/chemai-is-a-wrap">ChemAI 2023 Gallery</a>
 
+---
 ---
 
 
@@ -70,6 +105,7 @@ an official AI4SMM Kickoff Symposium.
 <a class="radius button small"
 href="../ai4smm_workshop1/">AI4SMM Kickoff Program</a>
 
+---
 
 #### ChemAI Day
 
@@ -88,7 +124,7 @@ href="https://www.acnetwork.nl/chemai">ChemAI Event</a>
 This first ChemAI symposium was a great hit, with over 200
 participants, of which half from companies and other non-academic
 institutions. In November 2024, we will organize the second edition of
-ChemAI. To get and impression of ChemAI 2023, click on the button
+ChemAI. To get an impression of ChemAI 2023, click on the button
 below to see the photo gallery and find the powerpoint presentations
 of the speakers.
 
@@ -167,4 +203,4 @@ Virtual workshop hosted by [ELLIS][3].
 [1]: /colloquium/
 [2]: https://www.acnetwork.nl
 [3]: https://ellis.eu
-
+[4]: https://dsc.uva.nl/content/events/2024/10/data-science-day-2024.html

@@ -1,0 +1,72 @@
+I".<hr />
+
+<h3 id="introduction-to-the-new-rpa">Introduction to the new RPA</h3>
+
+<p><a href="https://www.amsterdamsciencepark.nl">Amsterdam Science Park</a> is a European hub for digital innovation and sustainability. The Faculty of Science (FNWI) in particular is in a unique position to link these two key disciplines because we have one of the best computer science institutes in the world, with unique knowledge of AI, Machine Learning, etc. Many major changes for the next decade will come from this. At the same time, the big challenges of the next decade are in the sustainability domain, such as the sustainability of all materials we produce, use and waste, see Kate Raworth’s figure of the Doughnut Economy below. The faculty also has a lot of knowledge and expertise in this area in its institutes, and so is uniquely positioned to combine the two. And that’s what we’re going to do.</p>
+
+<p>More specifically: AI can be used as a tool in the prediction, design, analysis and testing (both by experiment and by modelling) for improved and novel molecules and materials that are safe and sustainable-by-design (SSbD) to reach a non-toxic environment. Examples are use of molecules and materials in food &amp; agriculture, building materials, green industrial processes, energy transition, consumer materials, health, etc, etc. Disciplines involved are Physics, Chemistry, Biology, Ecology, Earth and Environmental Science, and of course Informatics. Emphasis is on the development of state- of-the-art AI/ML methods that can enable scientific discovery in the context of sustainable and safe molecules and materials, with a strong input from the mentioned disciplines, in the form or expertise on modeling, theory forming and experimentation.</p>
+
+<center>
+<figure>
+    <img src="../images/fig_AI4SMM_DoughnutEconomy.png" alt="Kate Raworth’s figure of the Doughnut Economy" width="600" style="float: center; margin-right: 10px; text-align: center;" />
+     <figcaption>Kate Raworth’s figure of the Doughnut Economy.</figcaption>
+ </figure>
+ </center>
+
+<h3 id="how-will-the-focus-area-forge-new-scientific-connections-and-between-which-fields">How will the focus area forge new scientific connections and between which fields?</h3>
+
+<p>To strengthen FNWI’s focus on smart and green and create synergy between the <a href="https://www.uva.nl/en/about-the-uva/about-the-university/sustainability/sustainable-operations/sustainable-waste-separation/sustainable-waste-separation.html">Zero Waste theme</a>, <a href="https://www.topsectorenergie.nl/nieuws/duurzame-materialennl-maakt-nederland-koploper-van-de-materialentransitie">Duurzame MaterialenNL</a>, the <a href="https://sustainabilityplatform.uva.nl">UvA Sustainability Platform (USP)</a>, the <a href="https://ai4science-amsterdam.github.io">AI4Science lab</a>, <a href="https://www.amcel.nl">AMCEL</a>, the <a href="https://iop.fnwi.uva.nl/computational_soft_matter/">Computational Soft Matter lab</a>, and <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-amsterdam/">Microsoft Research</a>, we initiate the Research Focus Area (RPA) “<strong>Artificial Intelligence for Sustainable Molecules and Materials</strong>” (<strong>AI4SMM</strong>) that targets breakthroughs in sustainable innovation with AI and computational methods for molecules and materials to aid in realising the materials transition needed for a sustainable society.</p>
+
+<p>This RPA will bring together existing disciplinary strengths of <a href="https://ivi.uva.nl">IvI</a>, <a href="https://iop.uva.nl">IoP</a>, <a href="https://hims.uva.nl">HIMS</a>, <a href="https://ibed.uva.nl">IBED</a> and <a href="https://sils.uva.nl">SILS</a> in an interdisciplinary program interfacing AI, computational molecular and materials science, with the development of sustainable technologies. Bridging sustainability with molecular and materials science will allow to predict quantitative structure-property relationships in the broadest sense: from functionality to degradability and interactions with the molecular or biological environment.</p>
+
+<h3 id="the-different-components-of-the-ai4smm-focus-area">The different components of the AI4SMM focus area</h3>
+
+<p>Capitalising on these opportunities will require the development of “hybrid” models that combine deep learning with conventional simulation. The resulting models have the potential to dramatically accelerate discovery of sustainable technologies by identifying promising molecular and material compositions in a high-dimensional design space that cannot possibly be explored by way of physical experimentation alone or using existing simulation methods. This requires fundamental research on deep learning methods that leverage symmetries to facilitate generalisation, “invert” simulations, learn fast surrogates for expensive numerical computations, and navigate the trade-off between exploration and exploitation in a high-dimensional design space. Depending on the desired resolution, the models describing the molecules and materials of interest can involve electronic structure calculations, atomistic force fields, or coarse-grained (or even lattice) descriptions, alerts for toxicity. For complex systems as ultimately the real environment in which the safe and sustainable molecules and materials are to be produced, used and reused, a multi-scale approach can be employed, requiring smart algorithms to bridge relevant temporal and spatial scales. As these approaches are often still computationally intensive, the combination with deep learning methodology will allow for a much more efficient exploration of the multidimensional parameter space.</p>
+
+<h3 id="the-central-research-question-and-how-it-is-addressed">The central research question and how it is addressed</h3>
+
+<p>The goal of this RPA is to combine the deep learning methodological research with fundamental scientific experimental research on molecules and materials, where computational science is the “glue” that connects these two components. As such, we can contribute to alleviating sustainability challenges resulting from the current linear use of resources by (re-)designing processes, materials, molecules and products to keep resources and products in closed cycles where possible and focus on circular design, re-use, recovery and recycling, resource and energy efficiency, as well as nature- inspired solutions. This RPA presents an opportunity to develop proof-of-concept work for AI-driven computational approaches that can guide experimental efforts both on functionality as well as on environmental fate and impact of the materials and molecules. Our goal is to leverage the outcomes of this RPA as seed research to establish close connections between the UvA and industry partners, ideally in the form of one or more labs.</p>
+
+<h3 id="how-will-the-focus-area-have-an-effect-on-education">How will the focus area have an effect on education?</h3>
+
+<p>AI is becoming increasingly important in all disciplines of science. It is therefore important to incorporate the growing role of AI, Machine Learning and other relevant informatics tools into all the disciplinary curricula. As a research-based university, this faculty must foster research into the role AI can play along the different disciplinary educational paths. However, the heart of the RPA is interdisciplinary research and education. Here we can anticipate strong interactions with the interdisciplinary education, notably <a href="https://www.uva.nl/programmas/bachelors/future-planet-studies/future-planet-studies.html">Future Planet Studies</a> and the new <a href="https://www.folia.nl/actueel/151772/met-nieuwe-betastudie-science-design-begeeft-de-uva-zich-richting-de-techniek">Science and Design BSc. Programs</a>. Note that the Science and Design curriculum is focused on four interdisciplinary themes: 1) high-tech designer materials, 2) renewable energy and resources, 3) engineering life and health, and 4) information science, modelling and simulation, where this new RPA <em>AI for Sustainable Molecules and Materials</em> will greatly stimulate the interdisciplinary teaching for all four themes. The expectation is that dedicated interdisciplinary AI education will also be interesting for, e.g., the <a href="https://www.auc.nl">Amsterdam University College</a>, so that synergies with AUC education will also be possible.</p>
+
+<h3 id="which-types-of-societal-impact-does-the-focus-area-aim-for">Which types of societal impact does the focus area aim for?</h3>
+
+<p>RPA AI4SMM’s research at FNWI will be interdisciplinary, system-aware, applicative, creative, and will have strong connections with leading industries and sectors, where we connect fundamental research embedded in a broad traditional university with innovations at higher TRLs. The sustainability issues we are tackling are pressing, we do not have much time to transition. Therefore, we focus on making research applicable and strive for co-creation with implementation partners and parallel trajectories of R&amp;D and implementation to break with the traditional research-pilot-implementation sequence to accelerate the innovation process. We aim for close collaborations with industry, businesses, and the municipality of Amsterdam to i) inform our research priorities, ii) collect useful and interesting data-sets, iii) co-create and develop, iv) bring our solutions into application. We envision an open atmosphere of continuous learning, with strong ties with FNWI’s educational programs, and exchange of ideas to nurture the RPA theme and to develop fundamental knowledge that has the potential to lead to real world applications in the future that will contribute to a more sustainable world.</p>
+
+<h2 id="governance-and-organisation">Governance and organisation:</h2>
+
+<h3 id="which-institute-acts-as-secretary-of-the-focus-area">Which institute acts as secretary of the focus area?</h3>
+<p>The Van ‘t Hoff Institute for Molecular Sciences (HIMS) acts as secretary of the focus area.</p>
+
+<h3 id="how-does-decision-making-take-place">How does decision-making take place?</h3>
+<p>The core group of this RPA <em>AI for Sustainable Molecules and Materials</em> will function as the board, which is the decision-making body that oversees the RPA-wide activities, and consists of:</p>
+
+<ul>
+  <li><a href="https://www.uva.nl/en/profile/b/o/d.bonn/d.bonn.html">Prof. dr. D. (Daniel) Bonn</a>, IoP</li>
+  <li><a href="https://www.uva.nl/en/profile/e/n/b.ensing/b.ensing.html">Dr. B. (Bernd) Ensing</a> (coordinator), HIMS, AI4Science Lab</li>
+  <li><a href="https://www.uva.nl/en/profile/h/a/m.a.haring/m.a.haring.html">Prof. dr. M.A. (Michel) Haring</a>, SILS</li>
+  <li><a href="https://www.uva.nl/en/profile/m/e/j.w.vandemeent/j.w.van-de-meent.html">Dr. J.W. (Jan-Willem) van de Meent</a>, IvI</li>
+  <li><a href="https://www.uva.nl/en/profile/s/l/j.c.slootweg/j.c.slootweg.html">Dr. J.C. (Chris) Slootweg</a>, HIMS</li>
+  <li><a href="https://www.uva.nl/en/profile/w/e/a.p.vanwezel/a.p.van-wezel.html">Prof. dr. A.P. (Annemarie) van Wezel</a>, IBED</li>
+</ul>
+
+<hr />
+<h3 id="call-for-postdoc-positions">Call for postdoc positions</h3>
+
+<p><strong>This call is closed now</strong>. AI4SMM has opened a call for pre-proposals to fund four interdisciplinary 2-year postdoctoral fellow projects. 
+For more information, please click <a href="https://ai4science-amsterdam.github.io/ai4smm_call1">here</a>.</p>
+
+<hr />
+<h3 id="contact">Contact</h3>
+
+<p>Get in contact with AI4SMM via:</p>
+
+<p><a href="https://www.uva.nl/profiel/b/a/m.j.bartels/m.j.bartels.html">Marcel Bartels</a><br />
+<em>Business Development Sustainability Research</em> <br /></p>
+
+<p>Faculty of Science<br />
+University of Amsterdam<br /></p>
+
+:ET
