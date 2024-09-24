@@ -23,6 +23,42 @@ To see the colloquium schedule, subscribe to the email announcements, and watch 
 ## Workshops and symposia
 
 
+#### Data Science Day
+
+
+#### Crash course Machine Learning for Chemists
+
+
+#### ChemAI Day
+
+Together with the Amsterdam Chemistry Network, we are organizing the
+ChemAI Symposium this November 16th in LAB42 in Amsterdam.
+Please join us! We are looking forward to connect with academic and
+industrial partners to enlarge our consortium. Click on the button
+below to see the program and to register.
+
+* When: 16 November 2023
+* Where: LAB42 Room L1.01, Science Park, Amsterdam
+
+<a class="radius button small"
+href="https://www.acnetwork.nl/chemai">ChemAI Event</a>
+
+This first ChemAI symposium was a great hit, with over 200
+participants, of which half from companies and other non-academic
+institutions. In November 2024, we will organize the second edition of
+ChemAI. To get and impression of ChemAI 2023, click on the button
+below to see the photo gallery and find the powerpoint presentations
+of the speakers.
+
+<a class="radius button small"
+href="https://www.acnetwork.nl/news/chemai-is-a-wrap">ChemAI Gallery</a>
+
+---
+
+
+## Previous events
+
+
 #### Kickoff Symposium
 
 Now that our first round of AI4SMM projects have been staffed and started, we are organizing 
@@ -33,11 +69,6 @@ an official AI4SMM Kickoff Symposium.
 
 <a class="radius button small"
 href="../ai4smm_workshop1/">AI4SMM Kickoff Program</a>
-
----
-
-
-## Previous events
 
 
 #### ChemAI Day
