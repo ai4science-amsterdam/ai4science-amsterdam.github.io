@@ -25,12 +25,13 @@ To see the colloquium schedule, subscribe to the email announcements, and watch 
 
 #### Data Science Day, AI for Science: opportunities and challenges
 
-Join us for presentations by Prof. dr. Paul Groth (Scientific director
-Data Science Centre) and dr. Bernd Ensing (Director FNWI AI4Science
-Laboratory).
+Join us for presentations by
+- [Prof. dr. Paul Groth][5], scientific director Data Science Centre
+- [Dr. Bernd Ensing][6], director FNWI AI4Science Laboratory
 
-* When: 18 October 2024, 10.30-12.00 hr
-* Where: Lab42 Room tba, Science Park, Amsterdam
+followed by a panel discussion with our speakers and
+- [Dr. Daniela Huppenkothen][7], staff researcher at SRON Netherlands and Data Science fellow at the University of Washington
+- [Prof. Alfons Hoekstra ][8], scientific director of the new FNWI Molecular and Material Design hub
 
 This event delves into the evolving role of Artificial
 Intelligence (AI) in scientific research, exploring the intersection
@@ -45,6 +46,9 @@ the impact of AI on science and the science systems. This event offers
 a comprehensive platform for exploring AI’s potential while addressing
 the hurdles that come with its integration into scientific practices. 
 
+* When: 18 October 2024, 10.30-12.00 hr
+* Where: The Atrium in Lab42, Science Park, Amsterdam
+
 Organised in collaboration with the AI4Science Lab, this event is part
 of the [UvA Data Science Day][4]. Throughout the day, you can attend
 presentations and workshops on data science and AI at various UvA
@@ -52,8 +56,8 @@ campus locations. You can register for this session only, or choose
 more sessions that interest you and create your ideal programme!
 
 <a class="radius button small"
-href="https://uvaforms.formstack.com/forms/data_science_day_18_october_2024">Please register here</a>
-
+href="https://uvaforms.formstack.com/forms/data_science_day_18_october_2024">Please
+register here</a> 
 
 
 ---
@@ -204,3 +208,7 @@ Virtual workshop hosted by [ELLIS][3].
 [2]: https://www.acnetwork.nl
 [3]: https://ellis.eu
 [4]: https://dsc.uva.nl/content/events/2024/10/data-science-day-2024.html
+[5]: https://www.uva.nl/en/profile/g/r/p.t.groth/p.t.groth.html
+[6]: https://www.uva.nl/en/profile/e/n/b.ensing/b.ensing.html
+[7]: https://huppenkothen.org
+[8]: https://www.uva.nl/profiel/h/o/a.g.hoekstra/a.g.hoekstra.html
