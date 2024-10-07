@@ -77,7 +77,7 @@ ChemAI Symposium on the Friday afternoon.
 |ChemAI Weekday | What's happening |
 |---|---|
 | Monday, 25 November |  &#8226; 15.00 - 17.00, Crash course on ML for Chemists |
-| Tuesday, 26 November | &#8226; 15.00 hr AI4Science/CSM seminar by [Francesca Grisoni][11] |
+| Tuesday, 26 November | &#8226; 15.00 hr *Harnessing Deep Learning for Drug Discovery: Challenges and Opportunities* <br>&#8192;  AI4Science/CSM seminar by [Francesca Grisoni][11] |
 | Wednesday,  27 November | &#8226; Webinar workshop by Cambridge Crystallographic Data Centre |
 | Thursday,  28 November | |
 | Friday, 29 November | &#8226; Lab tours at Science Park <br>&#8226;  [ChemAI Symposium][9]  |
@@ -98,7 +98,7 @@ below to see the program and to register.
 * Where: Lab42 Room L1.01, Science Park, Amsterdam
 
 <a class="radius button small"
-href="https://www.acnetwork.nl/chemai">ChemAI Event</a>
+href="https://www.acnetwork.nl/chemai">ChemAI Symposium</a>
 
 Get an impression of the event from the video and photo gallery of last years'
 ChemAI 2023:

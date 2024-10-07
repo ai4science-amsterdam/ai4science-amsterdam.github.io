@@ -50,6 +50,15 @@ ChemAI Symposium on the Friday afternoon.
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl}}/events/#ChemAI-week">ChemAI Week</a>
 
+In formation on the program and registration of the ChemAI Symposium
+on November 29th is found on the website:
+
+<a class="radius button small"
+href="https://www.acnetwork.nl/chemai">ChemAI Symposium</a>
+
+
+__________________________________________
+
 
 <center> <h2>Data Science Day, AI for Science: opportunities and
 challenges</h2> </center>
