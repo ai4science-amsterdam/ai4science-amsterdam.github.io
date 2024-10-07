@@ -38,27 +38,18 @@ __________________________________________
 
 
 <center> <h1>AI for Sustainable Molecules and Materials</h1> </center>
-<center> <h2>Kickoff Symposium</h2> </center>
+<center> <h2>ChemAI Week</h2> </center>
 
-Anyone interested in AI, sustainability, or molecules and materials is
-very welcome to join our AI4SMM Kickoff Symposium. One of the aims of this
-symposium is to expand our community of students, academic researchers, and
-people in industries and non-profit organisations. Click the link to 
-register and to see the
-program with eminent keynote speakers and plenty of networking opportunities.
+After the success of last years' ChemAI Symposium, the organisers
+decided to assemble this year a whole ChemAI week! From Monday,
+November 25th until Friday, November 29th, the Amsterdam Chemistry
+Network (ACN), AI4Science, and TK-COAST, will host several interesting
+ChemAI satellite events, such as courses and webinars, on the topic of
+artificial intelligence and chemistry, culminating in the second
+ChemAI Symposium on the Friday afternoon.
 
-* When: Thursday, 30 May 2024
-* Where:  Matrix ONE, Science Park 301, Amsterdam
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl}}/events/#ChemAI-week">ChemAI Week</a>
 
-<a class="radius button small"
-href="../ai4smm_workshop1/">AI4SMM Kickoff Program</a>
-
-Read also this news item, with a short overview of the four AI4SMM research
-projects on (1) metamaterials, (2) thermal energy storage with salt hydrates,
-(3) safe-and-sustainable-by-design plastics, and (4) plant protein mixtures
-for sustainable food design, and the role that AI can play in this research. 
-
-<a class="radius button small" href="https://hims.uva.nl/content/news/2023/10/four-projects-kick-start-the-artificial-intelligence-for-sustainable-molecules-and-materials-research-programme.html?origin=HRUrNZgrQ0uFunXh6izRAg">Learn More›</a>
 
 ____________________________________________________________________________________________________
 
@@ -70,7 +61,7 @@ The AI4Science Lab is an initiative supported by the [Faculty of Science (FNWI)]
 
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/lab/">Learn More›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/lab/">Learn More</a>
 
 
 __________________________________________

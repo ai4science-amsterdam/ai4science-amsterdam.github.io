@@ -69,23 +69,27 @@ register here</a>
 -->
 
 
-#### ChemAI Week
+#### ChemAI Week {#ChemAI-week}
 
 After the success of last years' ChemAI Symposium, the organisers
-decided to assemble this year a whole ChemAI week! From Monday
-November 25th until Friday November 29th, the Amsterdam Chemistry
+decided to assemble this year a whole ChemAI week! From Monday,
+November 25th until Friday, November 29th, the Amsterdam Chemistry
 Network (ACN), AI4Science, and TK-COAST, will host several interesting
 ChemAI satellite events, such as courses and webinars, on the topic of
 artificial intelligence and chemistry, culminating in the second
-ChemAI Symposium on Friday afternoon.
+ChemAI Symposium on the Friday afternoon.
 
-| Monday, 25 November | |
-| Tuesday, 26 November |  |
-| Wednesday,  27 November | |
+|---|---|
+|ChemAI Weekday | What's happening |
+|---|---|
+| Monday, 25 November |  &#8226; 15.00 - 17.00, Crash course on ML for Chemists |
+| Tuesday, 26 November | &#8226; 15.00 hr AI4Science/CSM seminar by [Francesca Grisoni][11] |
+| Wednesday,  27 November | &#8226; Webinar workshop by Cambridge Crystallographic Data Centre |
 | Thursday,  28 November | |
-| Friday, 29 November | - Lab tours at The Van 't Hoff Institute for
-| Molecular Sciences and at AMOLF on Science Park |
+| Friday, 29 November | &#8226; Lab tours at Science Park <br>&#8226;  [ChemAI Symposium][9]  |
+|---|---|
 
+---
 
 #### ChemAI Symposium
 
@@ -108,7 +112,6 @@ ChemAI 2023:
 <a class="radius button small"
 href="https://www.acnetwork.nl/news/chemai-is-a-wrap">ChemAI 2023 Gallery</a>
 
----
 ---
 
 
@@ -229,3 +232,5 @@ Virtual workshop hosted by [ELLIS][3].
 [6]: https://www.uva.nl/en/profile/e/n/b.ensing/b.ensing.html
 [7]: https://huppenkothen.org
 [8]: https://www.uva.nl/profiel/h/o/a.g.hoekstra/a.g.hoekstra.html
+[9]: https://www.acnetwork.nl/chemai
+[11]: https://www.tue.nl/en/research/researchers/francesca-grisoni
