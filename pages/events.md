@@ -23,7 +23,7 @@ To see the colloquium schedule, subscribe to the email announcements, and watch 
 ## Workshops and symposia
 
 
-#### Data Science Day, AI for Science: opportunities and challenges
+#### Data Science Day, AI for Science: opportunities and challenges {#DataScienceDay}
 
 Join us for presentations by
 - [Prof. dr. Paul Groth][5], scientific director Data Science Centre
@@ -61,12 +61,6 @@ register here</a>
 
 
 ---
-
-<!--
-
-#### Crash course Machine Learning for Chemists
----
--->
 
 
 #### ChemAI Week {#ChemAI-week}

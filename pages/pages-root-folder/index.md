@@ -51,6 +51,20 @@ ChemAI Symposium on the Friday afternoon.
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl}}/events/#ChemAI-week">ChemAI Week</a>
 
 
+<center> <h2>Data Science Day, AI for Science: opportunities and
+challenges</h2> </center>
+
+Throughout the day, 18 October 2024, you can attend
+presentations and workshops on data science and AI at various UvA
+campus locations. At the Science Park in Lab42, you can listen to
+lectures by Paul Groth and Bernd Ensing about the role of Artificial
+Intelligence (AI) in scientific research, exploring the intersection
+of AI with various disciplines, including physics, humanities, social
+sciences, mathematics, and biology.
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl}}/events/#DataScienceDay">Data Science Day</a>
+
+
 ____________________________________________________________________________________________________
 
 <center> <h1>AI4Science Lab</h1> </center>
