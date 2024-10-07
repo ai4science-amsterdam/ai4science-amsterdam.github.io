@@ -69,8 +69,25 @@ register here</a>
 -->
 
 
+#### ChemAI Week
 
-#### ChemAI Day
+After the success of last years' ChemAI Symposium, the organisers
+decided to assemble this year a whole ChemAI week! From Monday
+November 25th until Friday November 29th, the Amsterdam Chemistry
+Network (ACN), AI4Science, and TK-COAST, will host several interesting
+ChemAI satellite events, such as courses and webinars, on the topic of
+artificial intelligence and chemistry, culminating in the second
+ChemAI Symposium on Friday afternoon.
+
+| Monday, 25 November | |
+| Tuesday, 26 November |  |
+| Wednesday,  27 November | |
+| Thursday,  28 November | |
+| Friday, 29 November | - Lab tours at The Van 't Hoff Institute for
+| Molecular Sciences and at AMOLF on Science Park |
+
+
+#### ChemAI Symposium
 
 Together with the Amsterdam Chemistry Network, we are organizing the
 second ChemAI Symposium on November 29th in the Lab42 building at

@@ -31,13 +31,13 @@ Currently there are two initiatives known by the board that may qualify for fund
 
 ### Time line and procedure
 
-Interested in submitting a Flagship project proposal? Attending and signing up during the hybrid introduction session on October 21th by at least one of your team members is prerequisite. If none of your team can make it, please let us know before October 21th (see contact details below). The introduction session is at 16.00 hr in Science Park 904, room D1.111 and via Teams video conference using the button below:
+Interested in submitting a Flagship project proposal? Attending and signing up during the hybrid introduction session on October 21th by at least one of your team members is prerequisite. If none of your team can make it, please let us know before October 21th (see contact details below). The introduction session is at 16.00 hr in Science Park 904, room D1.114 and via Teams video conference using the button below:
 
 <a class="radius button small"
 href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGFjYzBkYTMtOGVkMS00ODQ2LWExZGMtODYxYjI4NGZhZDJk%40thread.v2/0?context=%7b%22Tid%22%3a%22a0f1cacd-618c-4403-b945-76fb3d6874e5%22%2c%22Oid%22%3a%223d1581a4-dc1a-4503-890a-045c627fe245%22%7d">Enter Teams session</a> 
 
 
- | 21 October 2024       | Introduction and Q&A session. Time 16.00 hr, room D1.111 / [TEAMS][10]. |
+ | 21 October 2024       | Introduction and Q&A session. Time 16.00 hr, room D1.114 / [TEAMS][10]. |
  | 19 November 2024   | Deadline call proposals                      |
  | 6 December 2024     | Deadline by AI4SMM board on granting  |
 
