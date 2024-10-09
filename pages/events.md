@@ -68,7 +68,7 @@ register here</a>
 After the success of last years' ChemAI Symposium, the organisers
 decided to assemble this year a whole ChemAI week! From Monday,
 November 25th until Friday, November 29th, the Amsterdam Chemistry
-Network (ACN), AI4Science, and TK-COAST, will host several interesting
+Network (ACN), AI4Science, and TI-COAST, will host several interesting
 ChemAI satellite events, such as courses and webinars, on the topic of
 artificial intelligence and chemistry, culminating in the second
 ChemAI Symposium on the Friday afternoon.
@@ -76,8 +76,8 @@ ChemAI Symposium on the Friday afternoon.
 |---|---|
 |ChemAI Weekday | What's happening |
 |---|---|
-| Monday, 25 November |  &#8226; 15.00 - 17.00, Crash course on ML for Chemists |
-| Tuesday, 26 November | &#8226; 15.00 hr *Harnessing Deep Learning for Drug Discovery: Challenges and Opportunities* <br>&#8192;  AI4Science/CSM seminar by [Francesca Grisoni][11] |
+| Monday, 25 November |  &#8226; 15.00 - 17.00 hr, *Crash Course Machine Learning for Chemists* <br> &#8192;  by [Bernd Ensing][6] and [Robert Pollice][10]  |
+| Tuesday, 26 November | &#8226; 15.00 hr, *Harnessing Deep Learning for Drug Discovery: Challenges and Opportunities* <br>&#8192;  AI4Science/CSM seminar by [Francesca Grisoni][11] |
 | Wednesday,  27 November | &#8226; Webinar workshop by Cambridge Crystallographic Data Centre |
 | Thursday,  28 November | |
 | Friday, 29 November | &#8226; Lab tours at Science Park <br>&#8226;  [ChemAI Symposium][9]  |
@@ -87,7 +87,7 @@ ChemAI Symposium on the Friday afternoon.
 
 #### ChemAI Symposium
 
-Together with the Amsterdam Chemistry Network, we are organizing the
+Together with the Amsterdam Chemistry Network and TI-COAST, we are organizing the
 second ChemAI Symposium on November 29th in the Lab42 building at
 Science Park Amsterdam.
 Please join us! We are looking forward to connect with academic and
@@ -227,4 +227,5 @@ Virtual workshop hosted by [ELLIS][3].
 [7]: https://huppenkothen.org
 [8]: https://www.uva.nl/profiel/h/o/a.g.hoekstra/a.g.hoekstra.html
 [9]: https://www.acnetwork.nl/chemai
+[10]: https://pollicegroup.web.rug.nl/rob.html
 [11]: https://www.tue.nl/en/research/researchers/francesca-grisoni
