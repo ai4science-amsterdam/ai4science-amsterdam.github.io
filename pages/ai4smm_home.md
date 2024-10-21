@@ -41,11 +41,13 @@ href="../ai4smm_rpa/">About AI4SMM></a> </center>
 ---
 
 
-<center> <h1>Kickoff Symposium</h1> </center>
+<center> <h1>Invitation for flagship project proposals</h1> </center>
 
-Now that our first round of AI4SMM projects have been staffed and started, we are organizing 
-an official AI4SMM Kickoff Symposium on Thursday, 30th of May. Further details will be posted
-here as soon as they arrive...
+Previously, the FNWI Research Focus Area “Artificial Intelligence for Sustainable Molecules and Materials” (AI4SMM) has granted four kick-off projects that started in the past year as collaborations within different institutes within FNWI. The AI4SMM board has allocated the remaining budget of k€ 1,190 for a single flagship project, to start early 2025.
+
+<center> <a class="radius button small" style="margin: auto;"
+href="../ai4smm_call2/">Learn more></a> </center>
+
 
 ---
 
