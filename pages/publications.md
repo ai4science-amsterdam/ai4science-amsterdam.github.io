@@ -31,12 +31,15 @@ Here we list all scientific research from collaborations with members of the AI4
 ## Publications
 {: #publications }
 
-- David Ruhe, Patrick Forré, **SINR: Equivariant Neural Vector Fields**, [openreview][Ruh24a], accepted for ICML 2024 Workshop: Geometry-grounded Representation Learning and Generative Modeling. 
-- Cong Liu, David Ruhe, Patrick Forré, **Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**, [https://arxiv.org/abs/2406.04052
-][Liu24c], [openreview][Liu24d], accepted for ICML 2024 Workshop: Geometry-grounded Representation Learning and Generative Modeling.
-- Fiona Lippert, Bart Kranstauber, Patrick Forré, Emiel van Loon, **Towards detailed and interpretable hybrid modeling of continental-scale bird migration**, [openreview][Lip24a], accepted for ICML 2024 Workshop: AI4Science.
-- Maksim Zhdanov, David Ruhe, Maurice Weiler, Ana Lucic, Johannes Brandstetter, Patrick Forré, **Clifford-Steerable Convolutional Neural Networks**, [https://arxiv.org/abs/2402.14730][Zhd24a], [openreview][Zhd24b], accepted for ICML 2024.
-- Metod Jazbec, Patrick Forré, Stephan Mandt, Dan Zhang, Eric Nalisnick, **Early-Exit Neural Networks with Nested Prediction Sets**, [https://arxiv.org/abs/2311.05931][Jaz23a], [openreview][Jaz24a], accepted for UAI 2024
+- Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré, **Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu's Theorem**, [https://arxiv.org/abs/2202.09393][Lan22a], accepted for Compositionality 6 (23), 2024.
+- Leon Lang, Davis Foote, Stuart Russell, Anca Dragan, Erik Jenner, Scott Emmons, **When Your AIs Deceive You: Challenges of Partial Observability in Reinforcement Learning from Human Feedback**, [https://arxiv.org/abs/2402.17747][Lan24a], accepted for NeurIPS 2024.
+- Teodora Pandeva, Martijs Jonker, Leendert Hamoen, Joris Mooij, Patrick Forré, **Robust Multi-view Co-expression Network Inference**, [https://arxiv.org/abs/2409.19991][Pan24c], accepted for NeurIPS 2024 Workshop: Causal Representation Learning.
+- Benjamin Kurt Miller, Ricky T.Q. Chen, Anuroop Sriram, Brandon Wood, **FlowMM: Generating Materials with Riemannian Flow Matching**, [https://arxiv.org/abs/2406.04713][Mil24], ICML 2024.
+- David Ruhe, Patrick Forré, **SINR: Equivariant Neural Vector Fields**, [openreview][Ruh24a], ICML 2024 Workshop: Geometry-grounded Representation Learning and Generative Modeling. 
+- Cong Liu, David Ruhe, Patrick Forré, **Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**, [https://arxiv.org/abs/2406.04052][Liu24c], [openreview][Liu24d], ICML 2024 Workshop: Geometry-grounded Representation Learning and Generative Modeling.
+- Fiona Lippert, Bart Kranstauber, Patrick Forré, Emiel van Loon, **Towards detailed and interpretable hybrid modeling of continental-scale bird migration**, [openreview][Lip24a], ICML 2024 Workshop: AI4Science.
+- Maksim Zhdanov, David Ruhe, Maurice Weiler, Ana Lucic, Johannes Brandstetter, Patrick Forré, **Clifford-Steerable Convolutional Neural Networks**, [https://arxiv.org/abs/2402.14730][Zhd24a], [openreview][Zhd24b], ICML 2024.
+- Metod Jazbec, Patrick Forré, Stephan Mandt, Dan Zhang, Eric Nalisnick, **Early-Exit Neural Networks with Nested Prediction Sets**, [https://arxiv.org/abs/2311.05931][Jaz23a], [openreview][Jaz24a], UAI 2024
 - Jim Boelrijk, Stef R.A. Molenaar, Tijmen S. Bos, Tina A. Dahlseid, Bernd Ensing, Dwight R. Stoll, Patrick Forré, Bob W.J. Pirok, **Enhancing LC x LC separations through Multi-Task Bayesian Optimization**, [ChemRxiv][Boe24a], [https://doi.org/10.1016/j.chroma.2024.464941][Boe24b], J. Chromatogr. A, 1726 (464941), 2024.
 - Teodora Pandeva, Patrick Forré, Aaditya Ramdas, Shubhanshu Shekhar, **Deep anytime-valid hypothesis testing**, [https://arxiv.org/abs/2310.19384][Pan23c], [paper][Pan24b], AISTATS 2024, PMLR 238:622-630, 2024.
 - Teodora Pandeva, Tim Bakker, Christian A. Naesseth, Patrick Forré, **E-Valuating Classifier Two-Sample Tests**, [https://arxiv.org/abs/2210.13027][Pan22b], [openreview][Pan24a], TMLR 2024.
@@ -48,6 +51,7 @@ Here we list all scientific research from collaborations with members of the AI4
 - David Ruhe, Johannes Brandstetter, Patrick Forré, **Clifford Group Equivariant Neural Networks**, [https://arxiv.org/abs/2305.11141][Ruh23b], NeurIPS 2023 (with oral presentation).
 - Fiona Lippert, Bart Kranstauber, Emiel van Loon, Patrick Forré, **Deep Gaussian Markov Random Fields for Graph-Structured Dynamical Systems**, [https://arxiv.org/abs/2306.08445][Lip23a], NeurIPS 2023.
 - Miriam Rateike, Isabel Valera, Patrick Forré, **Designing Long-term Group Fair Policies in Dynamical Systems**, [https://arxiv.org/abs/2311.12447][Rat23a], [slidelive][Rat23b], NeurIPS 2023 Workshop: Algorithmic Fairness through the Lens of Time (with oral presentation); [https://doi.org/10.1145/3630106.3658538][Rat24a], ACM FAccT 2024.
+- Uddipta Bhardwaj, James Alvey, Benjamin Kurt Miller, Samaya Nissanke, Christoph Weniger, **Peregrine: Sequential simulation-based inference for gravitational wave signals**, [https://arxiv.org/abs/2304.02035][Bha23a], American Physical Society Phys. Rev. D, 2023.
 - Teodora Pandeva, Patrick Forré, **Multi-View Independent Component Analysis with Shared and Individual Sources**, [https://arxiv.org/abs/2210.02083][Pan22a], [openreview][Pan23b], UAI 2023, PMLR 216:1639-1650, 2023.
 - David Ruhe, Jayesh K. Gupta, Steven de Keninck, Max Welling, Johannes Brandstetter, **Geometric Clifford Algebra Networks**, [https://arxiv.org/abs/2302.06594][Ruh23a], ICML 2023.
 - Benjamin Kurt Miller, Marco Federici, Christoph Weniger, Patrick Forré, **Simulation-based Inference with the Generalized Kullback-Leibler Divergence**, [openreview][Mil23a], [https://arxiv.org/abs/2310.01808][Mil23b], ICML 2023 Workshop: Synergy of Scientific and Machine Learning Modeling.
@@ -62,8 +66,9 @@ Here we list all scientific research from collaborations with members of the AI4
 - Fiona Lippert, Bart Kranstauber, Emiel van Loon, Patrick Forré, **Physics-informed inference of aerial animal movements from weather radar data**, NeurIPS 2022 Workshop: AI4Science, [openreview][Lip22b].
 - Benjamin Kurt Miller, Christoph Weniger, Patrick Forré, **Contrastive Neural Ratio Estimation**, NeurIPS 2022, [openreview][Mil22a], [SlideLive][Mil22b].
 - Tijmen Bos, Jim Boelrijk, Stef Molenaar, Brian van't Veer, Leon Niezen, Denice van Herwerden, Saer Samanipour, Dwight Stoll, Patrick Forré, Bernd Ensing, Govert Somsen, Bob Pirok, **Chemometric Strategies for Fully Automated Interpretive Method Development in Liquid Chromatography**, Anal. Chem., 2022, 94, 46, 16060-16068, [https://doi.org/10.1021/acs.analchem.2c03160][Bos22].
+- Alex Cole, Benjamin Kurt Miller, Samuel J. Witte, Maxwell X. Cai, Meiert W. Grootes, Francesco Nattino, Christoph Weniger, **Fast and Credible Likelihood-Free Cosmology with Truncated Marginal Neural Ratio Estimation**, [https://arxiv.org/abs/2111.08030][Col22b], Journal of Cosmology and Astroparticle Physics, 2022.
 - Fiona Lippert, Bart Kranstauber, Patrick Forré, Emiel van Loon, **Learning to predict spatiotemporal movement dynamics from weather radar networks**, Methods in Ecology and Evolution, 2022, 13 (12), 2811-2826, [https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14007][Lip22a].
-- Alex Cole, Benjamin Kurt Miller, Samuel J. Witte, Maxwell X. Cai, Meiert W. Grootes, Francesco Nattino, Christoph Weniger, **Fast and Credible Likelihood-Free Cosmology with Truncated Marginal Neural Ratio Estimation**, Journal of Cosmology and Astroparticle Physics, 2022, 004, [https://doi.org/10.1088/1475-7516/2022/09/004][Col22].
+- Alex Cole, Benjamin Kurt Miller, Samuel J. Witte, Maxwell X. Cai, Meiert W. Grootes, Francesco Nattino, Christoph Weniger, **Fast and Credible Likelihood-Free Cosmology with Truncated Marginal Neural Ratio Estimation**, Journal of Cosmology and Astroparticle Physics, 2022, 004, [https://doi.org/10.1088/1475-7516/2022/09/004][Col22a].
 - Benjamin Kurt Miller, Alex Cole, Christoph Weniger, Francesco Nattino, Ou Ku, Meiert W. Grootes, **swyft: Truncated Marginal Neural Ratio Estimation in Python**, Journal of Open Source Software, 2022, 7 (75), 4205, [https://doi.org/10.21105/joss.04205][Mil22c], [code][Mil22d].
 - David Ruhe, Patrick Forré, **Self-Supervised Inference in State-Space Models**, ICLR 2022, [openreview][Ruh21c],
 - David Ruhe, Mark Kuiack, Antonia Rowlinson, Ralph Wijers, Patrick Forré, **Detecting dispersed radio transients in real time using convolutional neural networks**, Astronomy and Computing, vol. 38, 2022, [https://doi.org/10.1016/j.ascom.2021.100512][Ruh22a], [https://arxiv.org/abs/2103.15418][Ruh21a], [code][Ruh21b].
@@ -87,12 +92,12 @@ Here we list all scientific research from collaborations with members of the AI4
 ## Preprints
 {: #preprints }
 
+- Philip Boeken, Patrick Forré, Joris M. Mooij, **Nonparametric Bayesian networks are typically faithful in the total variation metric**, [https://arxiv.org/abs/2410.16004][Boek24a], 2024.
+- Maximilian Lipp, Benjamin Kurt Miller, Lyubov V. Amitonova, Patrick Forré. **Generalizing Coverage Plots for Simulation-based Inference**, preprint, 2024.
+- Anuroop Sriram, Benjamin Kurt Miller. **FlowLLM: Flow Matching for Material Generation with Learned Base Distributions**, preprint, 2024.
 - Leon Lang, Clélia de Mulatier, Rick Quax, Patrick Forré, **Abstract Markov Random Fields**, [https://arxiv.org/abs/2407.02134][Lan24c], 2024. 
 - Lukas Fluri, Leon Lang, Alessandro Abate, Patrick Forré, David Krueger, Joar Skalse, **The Perils of Optimizing Learned Reward Functions: Low Training Error Does Not Guarantee Low Regret**, [https://arxiv.org/abs/2406.15753][Lan24b], 2024.
-- Leon Lang, Davis Foote, Stuart Russell, Anca Dragan, Erik Jenner, Scott Emmons, **When Your AIs Deceive You: Challenges of Partial Observability in Reinforcement Learning from Human Feedback**, [https://arxiv.org/abs/2402.17747][Lan24a], 2024.
-- Teun van der Weij, Simon Lermen, Leon Lang, **Evaluating Shutdown Avoidance of Language Models in Textual Scenarios**, [https://arxiv.org/abs/2307.00787][Lan23a], 2023.
 - Marco Federici, David Ruhe, Patrick Forré, **On the Effectiveness of Hybrid Mutual Information Estimation**, [https://arxiv.org/abs/2306.00608][Fed23a], 2023.
-- Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré, **Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu's Theorem**, [https://arxiv.org/abs/2202.09393][Lan22a], 2022.
 - Patrick Forré, **Quasi-Measurable Spaces**, [https://arxiv.org/abs/2109.11631][For21b], 2021.
 - Maurice Weiler, Patrick Forré, Erik Verlinde, Max Welling, **Coordinate Independent Convolutional Networks - Isometry and Gauge Equivariant Convolutions on Riemannian Manifolds**, [https://arxiv.org/abs/2106.06020][Wei21a], 2021.
 - Patrick Forré, **Transitional Conditional Independence**, [https://arxiv.org/abs/2104.11547][For21a], 2021.
@@ -105,6 +110,7 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 
 [Apo20a]: https://arxiv.org/abs/2009.02594
 [Apo21a]: https://content.iospress.com/articles/ai-communications/aic210127
+[Bha23a]: https://arxiv.org/abs/2304.02035
 [Bon21a]: https://arxiv.org/abs/1611.06221
 [Bon21b]: https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Foundations-of-structural-causal-models-with-cycles-and-latent-variables/10.1214/21-AOS2064.short 
 [Boe21a]: https://doi.org/10.1016/j.chroma.2021.462628
@@ -114,8 +120,10 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 [Boe23c]: https://doi.org/10.1016/j.chroma.2023.464306
 [Boe24a]: https://chemrxiv.org/engage/chemrxiv/article-details/65cf665e66c1381729ca26ea
 [Boe24b]: https://doi.org/10.1016/j.chroma.2024.464941
+[Boek24a]: https://arxiv.org/abs/2410.16004
 [Bos22]: https://pubs.acs.org/doi/full/10.1021/acs.analchem.2c03160
-[Col22]: https://iopscience.iop.org/article/10.1088/1475-7516/2022/09/004/meta
+[Col22a]: https://iopscience.iop.org/article/10.1088/1475-7516/2022/09/004/meta
+[Col22b]: https://arxiv.org/abs/2111.08030
 [Del23a]: https://arxiv.org/abs/2304.10978
 [Del23b]: https://arxiv.org/abs/2304.10978
 [Fal20a]: https://arxiv.org/abs/2006.06663
@@ -161,6 +169,7 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 [Mil22d]: https://github.com/undark-lab/swyft
 [Mil23a]: https://openreview.net/forum?id=tPb1Fe58ro
 [Mil23b]: https://arxiv.org/abs/2310.01808
+[Mil24a]: https://arxiv.org/abs/2406.04713
 [Mir23a]: https://arxiv.org/abs/2310.11366
 [Mir24a]: https://openreview.net/forum?id=p34fRKp8qA
 [Pan22a]: https://arxiv.org/abs/2210.02083
@@ -170,6 +179,7 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 [Pan23c]: https://arxiv.org/abs/2310.19384
 [Pan24a]: https://openreview.net/forum?id=dwFRov8xhr
 [Pan24b]: https://proceedings.mlr.press/v238/pandeva24a.html
+[Pan24c]: https://arxiv.org/abs/2409.19991
 [Rat23a]: https://arxiv.org/abs/2311.12447
 [Rat23b]: https://recorder-v3.slideslive.com/#/share?share=90356&s=76a0a5a7-6f97-406a-bca4-38fc64bcc3fc
 [Rat24a]: https://doi.org/10.1145/3630106.3658538
