@@ -76,10 +76,10 @@ ChemAI Symposium on the Friday afternoon.
 |---|---|
 |ChemAI Weekday | What's happening |
 |---|---|
-| Monday, 25 November |  &#8226; 15.00 - 17.00 hr, *Crash Course Machine Learning for Chemists* <br> &#8192;  by [Bernd Ensing][6] and [Robert Pollice][10]  |
-| Tuesday, 26 November | &#8226; 15.00 hr, *Harnessing Deep Learning for Drug Discovery: Challenges and Opportunities* <br>&#8192;  AI4Science/CSM seminar by [Francesca Grisoni][11] |
-| Wednesday,  27 November | &#8226; Webinar workshop by Cambridge Crystallographic Data Centre |
-| Thursday,  28 November | |
+| Monday, 25 November |  &#8226; 15.00 - 17.00 hr: *Elements of Artificial Intelligence: Crash Course Machine Learning for Chemists* <br>&#8192; hybrid meeting at Science Park and online by [Bernd Ensing][6] and [Robert Pollice][10]  |
+| Tuesday, 26 November | &#8226; 15.00 - 16.00 hr: *Harnessing Deep Learning for Drug Discovery: Challenges and Opportunities* <br>&#8192;  AI4Science/CSM seminar by [Francesca Grisoni][11]  |
+| Wednesday,  27 November | &#8226; 15.00 - 16.30 hr: *Unlocking Data in the Cambridge Structural Database for Functional Materials Innovation* <br>&#8192; Online workshop by [Dr. Andrew Peel][14] of the Cambridge Crystallographic Data Centre |
+| Thursday,  28 November | &#8226; 10.00 - 12.00 hr: *Get Hands-On with Open Multi-Modal Foundational Models for Materials and Chemistry* <br>&#8192; Online workshop by [Dr. Seiji Takeda][12] and [Dr. Indra Priyadarsini][13] of IBM Research |
 | Friday, 29 November | &#8226; Lab tours at Science Park <br>&#8226;  [ChemAI Symposium][9]  |
 |---|---|
 
@@ -229,3 +229,6 @@ Virtual workshop hosted by [ELLIS][3].
 [9]: https://www.acnetwork.nl/chemai
 [10]: https://pollicegroup.web.rug.nl/rob.html
 [11]: https://www.tue.nl/en/research/researchers/francesca-grisoni
+[12]: https://www.linkedin.com/in/seiji-takeda-346a2716/?originalSubdomain=jp
+[13]: https://research.ibm.com/people/indra-priyadarsini-s
+[14]: https://www.linkedin.com/in/andrew-peel-a1796a1b5/
