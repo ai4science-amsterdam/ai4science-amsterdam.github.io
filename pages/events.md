@@ -76,7 +76,7 @@ ChemAI Symposium on the Friday afternoon.
 |---|---|
 |ChemAI Weekday | What's happening |
 |---|---|
-| Monday, 25 November |  &#8226; 15.00 - 17.00 hr: *Elements of Artificial Intelligence: Crash Course Machine Learning for Chemists* <br>&#8192; hybrid meeting at Science Park and online by [Bernd Ensing][6] and [Robert Pollice][10]  |
+| Monday, 25 November |   &#8226; 11.00 - 12.00 hr: *research lecture*  by [Robert Pollice][10]<br>&#8226; 15.00 - 17.00 hr: *Elements of Artificial Intelligence: Crash Course Machine Learning for Chemists* <br>&#8192; hybrid meeting at Science Park and online by [Bernd Ensing][6] and [Robert Pollice][10]  |
 | Tuesday, 26 November | &#8226; 15.00 - 16.00 hr: *Harnessing Deep Learning for Drug Discovery: Challenges and Opportunities* <br>&#8192;  AI4Science/CSM seminar by [Francesca Grisoni][11]  |
 | Wednesday,  27 November | &#8226; 15.00 - 16.30 hr: *Unlocking Data in the Cambridge Structural Database for Functional Materials Innovation* <br>&#8192; Online workshop by [Dr. Andrew Peel][14] of the Cambridge Crystallographic Data Centre |
 | Thursday,  28 November | &#8226; 10.00 - 12.00 hr: *Get Hands-On with Open Multi-Modal Foundational Models for Materials and Chemistry* <br>&#8192; Online workshop by [Dr. Seiji Takeda][12] and [Dr. Indra Priyadarsini][13] of IBM Research |
