@@ -16,6 +16,7 @@ The AI4Science Colloquium is a bi-weekly colloquium series, held on alternating 
 To see the colloquium schedule, subscribe to the email announcements, and watch video recordings of previous speakers please [click here][1].
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/colloquium/">Read More›</a>
+
 -->
 
 ---
