@@ -38,7 +38,7 @@ href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGFjYzBkYTMtOGVkMS0
 
 
  | 21 October 2024       | Introduction and Q&A session. Time 16.00 hr, room D1.114 / [TEAMS][10]. |
- | 19 November 2024   | Deadline call proposals                      |
+ | 2 December 2024   | **Extended Deadline** submission of proposals                      |
  | 6 December 2024     | Deadline by AI4SMM board on granting  |
 
 ### Template for Flagship project proposals for the AI4SMM RPA. 
@@ -48,7 +48,7 @@ href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGFjYzBkYTMtOGVkMS0
  - Maximum length: 3 pages excluding bibliography 
  - Do not change the margin settings 
  - Font: Times New Roman 11pt 
- - Deadline: please submit your proposal as a single pdf-file to ai4smm@uva.nl not later than 19 November 2024, 5.00 PM. 
+ - **Extended Deadline**: please submit your proposal as a single pdf-file to ai4smm@uva.nl not later than Monday,2 December 2024, 5.00 PM. 
  - Structuring your proposal using the headers given in black font is highly recommended 
  - All blue template text may be deleted 
  - The proposed project will be assessed on how it aims to contribute to the AI4SMM mission relating to: 
