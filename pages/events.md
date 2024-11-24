@@ -77,7 +77,7 @@ ChemAI Symposium on the Friday afternoon.
 |---|---|
 |ChemAI Weekday | What's happening |
 |---|---|
-| Monday, 25 November |   &#8226; 11:00 - 12:00 hr: *research lecture (title to be announced)*  by [Robert Pollice][10] in room SP C0.110.<br>&#8226; 15:00 - 17:00 hr: *Elements of Artificial Intelligence – a Crash Course on Machine Learning for Chemists* <br>&#8192; hybrid meeting at Science Park Room H0.08 and online by [Bernd Ensing][6] and [Robert Pollice][10]  |
+| Monday, 25 November |   &#8226; 11:00 - 12:00 hr: *From Contemporary Computational Chemistry to Future Methods of Application* <br>&#8192;Research lecture  by [Robert Pollice][10] in room SP C0.110.<br>&#8226; 15:00 - 17:00 hr: *Elements of Artificial Intelligence – a Crash Course on Machine Learning for Chemists* <br>&#8192; hybrid meeting at Science Park Room H0.08 and online by [Bernd Ensing][6] and [Robert Pollice][10]  |
 | Tuesday, 26 November | &#8226; 15:00 - 16:00 hr: *Harnessing Deep Learning for Drug Discovery: Challenges and Opportunities* <br>&#8192;  AI4Science/CSM seminar by [Francesca Grisoni][11]  |
 | Wednesday,  27 November | &#8226; 14:00 - 15:00 hr: *Machine Learning Acceleration of Electronic Structure Calculations* <br>&#8192; Lecture by [Hannes Jonsson][15] in Science Park 906 room C0.110 <br> &#8226; 15:00 - 16:30 hr: *Unlocking Data in the Cambridge Structural Database for Functional Materials Innovation* <br>&#8192; Online workshop by [Dr. Andrew Peel][14] of the Cambridge Crystallographic Data Centre |
 | Thursday,  28 November | &#8226; 10:00 - 12:00 hr: *Get Hands-On with Open Multi-Modal Foundational Models for Materials and Chemistry* <br>&#8192; Online workshop by [Dr. Seiji Takeda][12] and [Dr. Indra Priyadarsini][13] of IBM Research |
