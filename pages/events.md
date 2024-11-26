@@ -80,9 +80,9 @@ ChemAI Symposium on the Friday afternoon.
 | Monday, 25 November |   &#8226; 11:00 - 12:00 hr: *From Contemporary Computational Chemistry to Future Methods of Application* <br>&#8192;Research lecture  by [Robert Pollice][10] in room SP C0.110.<br>&#8226; 15:00 - 17:00 hr: *Elements of Artificial Intelligence – a Crash Course on Machine Learning for Chemists* <br>&#8192; hybrid meeting ([zoom link][42]) at Science Park Room H0.08 and online by [Bernd Ensing][6] and [Robert Pollice][10]  |
 | Tuesday, 26 November | &#8226; 15:00 - 16:00 hr: *Harnessing Deep Learning for Drug Discovery: Challenges and Opportunities* <br>&#8192;  AI4Science/CSM seminar by [Francesca Grisoni][11] in Science Park 904, Room C4.174 or online ([meeting link][43]) |
 | Wednesday,  27 November | &#8226; 14:00 - 15:00 hr: *Machine Learning Acceleration of Electronic Structure Calculations* <br>&#8192; Lecture by [Hannes Jonsson][15] in Science Park 906 room C0.110 <br> &#8226; 15:00 - 16:30 hr: *Unlocking Data in the Cambridge Structural Database for Functional Materials Innovation* <br>&#8192; Online workshop by [Dr. Andrew Peel][14] of the Cambridge Crystallographic Data Centre ([meeting link][44]) |
-| Thursday,  28 November | &#8226; 10:00 - 12:00 hr: *Get Hands-On with Open Multi-Modal Foundational Models for Materials and Chemistry* <br>&#8192; Online workshop by [Dr. Seiji Takeda][12] and [Dr. Indra Priyadarsini][13] of IBM Research |
+| Thursday,  28 November | &#8226; 10:00 - 12:00 hr: *Get Hands-On with Open Multi-Modal Foundational Models for Materials and Chemistry* <br>&#8192; Online workshop by [Dr. Seiji Takeda][12] and [Dr. Indra Priyadarsini][13] of IBM Research ([meeting link][45])|
 | Friday, 29 November | &#8226; Lab tours at Science Park <br>&#8226;  [ChemAI Symposium][9]  |
-| Monday, 2 December  | &#8226; 15:00 – 18:30 *The Future of Pharma is Active Learning* <br>&#8192; [Online symposium][16] hosted by Jakob Zeitler (Matterhorn Studio/UCL) with speakers from Novo Nordisk, Bayer, Merck, Exscientia, and more.
+| Monday, 2 December  | &#8226; 15:00 – 18:30 *The Future of Pharma is Active Learning* <br>&#8192; [Online symposium][16] hosted by Jakob Zeitler (Matterhorn Studio/UCL) with speakers from Novo Nordisk, Bayer, Merck, Exscientia, and more ([further information][46]).
 |---|---|
 
 ---
@@ -239,3 +239,5 @@ Virtual workshop hosted by [ELLIS][3].
 [42]: https://uva-live.zoom.us/j/83171698695?pwd=o6md59A7PGTeiEENDaTKXxwbvPDwjM.1
 [43]: https://uva-live.zoom.us/j/84061474557?pwd=7aWyao3iql5pdvNLtia7YpUTIj80wG.1
 [44]: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTUwMDhkZDYtMzY3YS00OTQ5LWI2ZTYtNGNkZTY5YTE0NzQw%40thread.v2/0?context=%7b%22Tid%22%3a%2289fb78ed-acde-4511-b499-33666ca216b4%22%2c%22Oid%22%3a%224699b81f-8040-4055-99e1-ee341e64dbb1%22%7d
+[45]:  https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTAwZjJiMWUtZTY0NS00MmMyLWEwNGEtZjIzOWUwYjI3Mzc2%40thread.v2/0?context=%7b%22Tid%22%3a%22fcf67057-50c9-4ad4-98f3-ffca64add9e9%22%2c%22Oid%22%3a%220627e681-cf4d-4c1c-aeb6-b127f648ec80%22%7d
+[46]: https://www.active-learning.uk/
