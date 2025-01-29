@@ -23,17 +23,21 @@ Here we list all scientific research from collaborations with members of the AI4
 ## Books and Lecture Notes
 {: #books }
 
-- Maurice Weiler, Patrick Forré, Erik Verlinde, Max Welling, **Equivariant and Coordinate Independent Convolutional Networks - A Gauge Field Theory of Neural Networks**, [book][Wei23a], 524 pages, 2023.
-- Patrick Forré, Joris M. Mooij, **A Mathematical Introduction to Causality**, [lecture notes][FM23a], 324 pages, 2023.
+- Maurice Weiler, Patrick Forré, Erik Verlinde, Max Welling, **Equivariant and Coordinate Independent Convolutional Networks - A Gauge Field Theory of Neural Networks**, World Scientific, Progress in Data Science, volume 1, [book page][Wei25a], [pdf link][Wei23a], 600 pages, 2025.
+- Patrick Forré, Joris M. Mooij, **A Mathematical Introduction to Causality**, [lecture notes][FM24a], 346 pages, 2024.
 
 
 
 ## Publications
 {: #publications }
 
+
+- Teodora Pandeva, Martijs Jonker, Leendert Hamoen, Joris Mooij, Patrick Forré, **Robust Multi-view Co-expression Network Inference**, [https://arxiv.org/abs/2409.19991][Pan24c], accepted for CLeaR 2025 and NeurIPS 2024 Workshop: Causal Representation Learning.
+- Teodora Pandeva, Tim Bakker, Christian A. Naesseth, Patrick Forré, **E-Valuating Classifier Two-Sample Tests**, [https://arxiv.org/abs/2210.13027][Pan22b], [openreview][Pan24a], accepted for ICLR 2025 and TMLR 2024.
+- Gerben B van Henten, Jim Boelrijk, Céline Kattenberg, Tijmen S Bos, Bernd Ensing, Patrick Forré, Bob WJ Pirok. **Comparison of optimization algorithms for automated method development of gradient profiles**, J. Chromatogr. A, 1742 (465626), [https://doi.org/10.1016/j.chroma.2024.465626][Hen25a], 2025.
 - Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré, **Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu's Theorem**, [https://arxiv.org/abs/2202.09393][Lan22a], accepted for Compositionality 6 (23), 2024.
-- Leon Lang, Davis Foote, Stuart Russell, Anca Dragan, Erik Jenner, Scott Emmons, **When Your AIs Deceive You: Challenges of Partial Observability in Reinforcement Learning from Human Feedback**, [https://arxiv.org/abs/2402.17747][Lan24a], accepted for NeurIPS 2024.
-- Teodora Pandeva, Martijs Jonker, Leendert Hamoen, Joris Mooij, Patrick Forré, **Robust Multi-view Co-expression Network Inference**, [https://arxiv.org/abs/2409.19991][Pan24c], accepted for NeurIPS 2024 Workshop: Causal Representation Learning.
+- Anuroop Sriram, Benjamin Kurt Miller, Ricky T. Q. Chen, Brandon M. Wood. **FlowLLM: Flow Matching for Material Generation with Large Language Models as Base Distributions**, NeurIPS 2024, [https://arxiv.org/abs/2410.23405][Sri24a]
+- Leon Lang, Davis Foote, Stuart Russell, Anca Dragan, Erik Jenner, Scott Emmons, **When Your AIs Deceive You: Challenges of Partial Observability in Reinforcement Learning from Human Feedback**, [https://arxiv.org/abs/2402.17747][Lan24a], NeurIPS 2024.
 - Benjamin Kurt Miller, Ricky T.Q. Chen, Anuroop Sriram, Brandon Wood, **FlowMM: Generating Materials with Riemannian Flow Matching**, [https://arxiv.org/abs/2406.04713][Mil24a], ICML 2024.
 - David Ruhe, Patrick Forré, **SINR: Equivariant Neural Vector Fields**, [openreview][Ruh24a], ICML 2024 Workshop: Geometry-grounded Representation Learning and Generative Modeling. 
 - Cong Liu, David Ruhe, Patrick Forré, **Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**, [https://arxiv.org/abs/2406.04052][Liu24c], [openreview][Liu24d], ICML 2024 Workshop: Geometry-grounded Representation Learning and Generative Modeling.
@@ -42,7 +46,6 @@ Here we list all scientific research from collaborations with members of the AI4
 - Metod Jazbec, Patrick Forré, Stephan Mandt, Dan Zhang, Eric Nalisnick, **Early-Exit Neural Networks with Nested Prediction Sets**, [https://arxiv.org/abs/2311.05931][Jaz23a], [openreview][Jaz24a], UAI 2024
 - Jim Boelrijk, Stef R.A. Molenaar, Tijmen S. Bos, Tina A. Dahlseid, Bernd Ensing, Dwight R. Stoll, Patrick Forré, Bob W.J. Pirok, **Enhancing LC x LC separations through Multi-Task Bayesian Optimization**, [ChemRxiv][Boe24a], [https://doi.org/10.1016/j.chroma.2024.464941][Boe24b], J. Chromatogr. A, 1726 (464941), 2024.
 - Teodora Pandeva, Patrick Forré, Aaditya Ramdas, Shubhanshu Shekhar, **Deep anytime-valid hypothesis testing**, [https://arxiv.org/abs/2310.19384][Pan23c], [paper][Pan24b], AISTATS 2024, PMLR 238:622-630, 2024.
-- Teodora Pandeva, Tim Bakker, Christian A. Naesseth, Patrick Forré, **E-Valuating Classifier Two-Sample Tests**, [https://arxiv.org/abs/2210.13027][Pan22b], [openreview][Pan24a], TMLR 2024.
 - Marco Federici, Patrick Forré, Ryota Tomioka, Bastiaan S. Veeling, **Latent Representation and Simulation of Markov Processes via Time-Lagged Information Bottleneck**, [https://arxiv.org/abs/2309.07200][Fed23b], [openreview][Fed24b], ICLR 2024.
 - Cong Liu, David Ruhe, Floor Eijkelboom, Patrick Forré, **Clifford Group Equivariant Simplicial Message Passing Networks**, [https://arxiv.org/abs/2402.10011][Liu24b], [openreview][Liu24a], ICLR 2024.
 - Mircea Mironenco, Patrick Forré, **Lie Group Decompositions for Equivariant Neural Networks**, [https://arxiv.org/abs/2310.11366][Mir23a], [openreview][Mir24a], ICLR 2024.
@@ -92,9 +95,8 @@ Here we list all scientific research from collaborations with members of the AI4
 ## Preprints
 {: #preprints }
 
-- Philip Boeken, Patrick Forré, Joris M. Mooij, **Nonparametric Bayesian networks are typically faithful in the total variation metric**, [https://arxiv.org/abs/2410.16004][Boek24a], 2024.
+- Philip Boeken, Patrick Forré, Joris M. Mooij, **Are Bayesian networks typically faithful?**, [https://arxiv.org/abs/2410.16004][Boek24a], 2024.
 - Maximilian Lipp, Benjamin Kurt Miller, Lyubov V. Amitonova, Patrick Forré. **Generalizing Coverage Plots for Simulation-based Inference**, preprint, 2024.
-- Anuroop Sriram, Benjamin Kurt Miller. **FlowLLM: Flow Matching for Material Generation with Learned Base Distributions**, preprint, 2024.
 - Leon Lang, Clélia de Mulatier, Rick Quax, Patrick Forré, **Abstract Markov Random Fields**, [https://arxiv.org/abs/2407.02134][Lan24c], 2024. 
 - Lukas Fluri, Leon Lang, Alessandro Abate, Patrick Forré, David Krueger, Joar Skalse, **The Perils of Optimizing Learned Reward Functions: Low Training Error Does Not Guarantee Low Regret**, [https://arxiv.org/abs/2406.15753][Lan24b], 2024.
 - Marco Federici, David Ruhe, Patrick Forré, **On the Effectiveness of Hybrid Mutual Information Estimation**, [https://arxiv.org/abs/2306.00608][Fed23a], 2023.
@@ -134,10 +136,12 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 [Fed23b]: https://arxiv.org/abs/2309.07200
 [Fed24b]: https://openreview.net/forum?id=bH6T0Jjw5y
 [FM23a]: https://staff.science.uva.nl/j.m.mooij/articles/causality_lecture_notes_2023.pdf
+[FM24a]: https://staff.fnwi.uva.nl/j.m.mooij/articles/causality_lecture_notes_2024.pdf
 [For21a]: https://arxiv.org/abs/2104.11547
 [For21b]: https://arxiv.org/abs/2109.11631
 [Gal21a]: https://openreview.net/pdf?id=x9xn6HKgefz
 [Hel20a]: https://arxiv.org/abs/2008.10880
+[Hen25a]: https://doi.org/10.1016/j.chroma.2024.465626
 [Hog21a]: https://arxiv.org/abs/2102.05379
 [Hon21]: https://arxiv.org/abs/2111.08679
 [Hoo21a]: https://pubs.acs.org/doi/abs/10.1021/acs.jctc.0c00981
@@ -191,9 +195,11 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 [Ruh23a]: https://arxiv.org/abs/2302.06594
 [Ruh23b]: https://arxiv.org/abs/2305.11141
 [Ruh24a]: https://openreview.net/forum?id=LgWZvbcjM1
+[Sri24a]: https://arxiv.org/abs/2410.23405
 [Ver20a]: https://arxiv.org/abs/2006.00896
 [Wei21a]: https://arxiv.org/abs/2106.06020
 [Wei23a]: https://maurice-weiler.gitlab.io/#cnn_book
+[Wei25a]: https://doi.org/10.1142/14143
 [Zhd24a]: https://arxiv.org/abs/2402.14730
 [Zhd24b]: openreview.net/forum?id=XTglHJjzQI
 
