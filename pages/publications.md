@@ -35,7 +35,7 @@ Here we list all scientific research from collaborations with members of the AI4
 - Teodora Pandeva, Martijs Jonker, Leendert Hamoen, Joris Mooij, Patrick Forré, **Robust Multi-view Co-expression Network Inference**, [https://arxiv.org/abs/2409.19991][Pan24c], accepted for CLeaR 2025 and NeurIPS 2024 Workshop: Causal Representation Learning.
 - Teodora Pandeva, Tim Bakker, Christian A. Naesseth, Patrick Forré, **E-Valuating Classifier Two-Sample Tests**, [https://arxiv.org/abs/2210.13027][Pan22b], [openreview][Pan24a], accepted for ICLR 2025 and TMLR 2024.
 - Gerben B van Henten, Jim Boelrijk, Céline Kattenberg, Tijmen S Bos, Bernd Ensing, Patrick Forré, Bob WJ Pirok. **Comparison of optimization algorithms for automated method development of gradient profiles**, J. Chromatogr. A, 1742 (465626), [https://doi.org/10.1016/j.chroma.2024.465626][Hen25a], 2025.
-- Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré, **Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu's Theorem**, [https://arxiv.org/abs/2202.09393][Lan22a], accepted for Compositionality 6 (23), 2024.
+- Leon Lang, Pierre Baudot, Rick Quax, Patrick Forré, **Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu's Theorem**, [Compositionality][Lan25a], 7 (1), 2025.
 - Anuroop Sriram, Benjamin Kurt Miller, Ricky T. Q. Chen, Brandon M. Wood. **FlowLLM: Flow Matching for Material Generation with Large Language Models as Base Distributions**, NeurIPS 2024, [https://arxiv.org/abs/2410.23405][Sri24a]
 - Leon Lang, Davis Foote, Stuart Russell, Anca Dragan, Erik Jenner, Scott Emmons, **When Your AIs Deceive You: Challenges of Partial Observability in Reinforcement Learning from Human Feedback**, [https://arxiv.org/abs/2402.17747][Lan24a], NeurIPS 2024.
 - Benjamin Kurt Miller, Ricky T.Q. Chen, Anuroop Sriram, Brandon Wood, **FlowMM: Generating Materials with Riemannian Flow Matching**, [https://arxiv.org/abs/2406.04713][Mil24a], ICML 2024.
@@ -155,6 +155,7 @@ Back to [Books](#books) or [Publications](#publications) or [Preprints](#preprin
 [Lan24a]: https://arxiv.org/abs/2402.17747
 [Lan24b]: https://arxiv.org/abs/2406.15753
 [Lan24c]: https://arxiv.org/abs/2407.02134
+[Lan25a]: https://compositionality.episciences.org/15165
 [Lip22a]: https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14007
 [Lip22b]: https://openreview.net/forum?id=mbWJIF2z6dZ
 [Lip23a]: https://arxiv.org/abs/2306.08445
