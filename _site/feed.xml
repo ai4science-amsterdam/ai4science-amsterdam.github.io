@@ -10,34 +10,6 @@ We develop and use machine learning techniques to discover patterns in data stre
 		<atom:link href="https://ai4science-amsterdam.github.io//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Fredrik Lindsten</title>
-				<link>https://ai4science-amsterdam.github.io//colloquium/jacobus-dijkman1/</link>
-				<pubDate>Mon, 21 Apr 2025 00:00:00 +0200</pubDate>
-				<description>&lt;h4 id=&quot;deep-gaussian-markov-random-fields&quot;&gt;Deep Gaussian Markov Random Fields&lt;/h4&gt;
-
-&lt;p&gt;Date: 25-10-2022 14:00-1500 Central European Summer time&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../people/FredrikLindsten.png&quot; alt=&quot;FredrikLindsten&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Fredrik Lindsten&lt;/strong&gt;, Linköping University&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Machine learning methods on graphs are relevant for many application domains due to their ability to model complex dependencies and structures. Gaussian Markov Random Fields (GMRFs) provide a principled way to define Gaussian models on graphs by utilizing their sparsity structure. In this talk I will show how we can use graph neural networks (GNNs) and convolutional neural networks (CNNs) do design scalable and flexible GMRFs. Starting with lattice graphs, we establish a formal connection between CNNs and GMRFs, by showing that common GMRFs are special cases of a generative model where the inverse mapping from data to latent variables is given by a 1-layer linear CNN. This connection allows us to generalize GMRFs to multi-layer CNN architectures, effectively increasing the order of the corresponding GMRF in a way which has favorable computational scaling. I will also discuss how this Deep GMRF can be generalized to arbitrary graphs using a specialized GNN layer. Well-established tools, such as autodiff and variational inference, can be used for simple and efficient inference and learning of the Deep GMRF, and for a Gaussian likelihood, close to exact Bayesian inference is available for the latent field. I demonstrate the flexibility of the proposed model and show that it compares favorably to other methods, both Bayesian and deep-learning-based, on spatial and non-spatial data.&lt;/p&gt;
-
-&lt;p&gt;Joint work with Joel Oskarsson (LiU) and Per Sidén (LiU/Qualcomm Arriver)&lt;/p&gt;
-
-&lt;p&gt;Papers:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2002.07467&quot;&gt;Deep Gaussian Markov Random Fields&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2206.05032&quot;&gt;Scalable Deep Gaussian Markov Random Fields for General Graphs&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/jacobus-dijkman1/</guid>
-			</item>
-		
-			<item>
 				<title>Jacobus Dijkman</title>
 				<link>https://ai4science-amsterdam.github.io//projects/jacobus-dijkman2/</link>
 				<pubDate>Sun, 20 Apr 2025 00:00:00 +0200</pubDate>
@@ -260,6 +232,33 @@ In simple cases, the E-value coincides with the Bayes factor, the notion of evid
 
 </description>
 				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/maximillian-dax/</guid>
+			</item>
+		
+			<item>
+				<title>Gabriel Vivo-Truyols</title>
+				<link>https://ai4science-amsterdam.github.io//colloquium/gabriel-vivo-truyols/</link>
+				<pubDate>Tue, 12 Apr 2022 00:00:00 +0200</pubDate>
+				<description>&lt;h4 id=&quot;title-on-the-use-of-bayesian-statistics-for-chromatography-and-mass-spectrometry-dealing-with-big-data&quot;&gt;Title: On the use of Bayesian statistics for chromatography and mass spectrometry: dealing with big data&lt;/h4&gt;
+
+&lt;p&gt;Date: 12-04-2022 11:00-1200 Central European Summer time&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../people/GabrielVivoTruyols.jpeg&quot; alt=&quot;GabrielVivoTruyols&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Gabriel Vivó-Truyols&lt;/strong&gt;, Principal Scientist, Tecnometrix&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Data analysis methods applied to chromatographic data, including base-line correction, peak detection, alignment and peak tracking, calibration and/or classification are a routine part of most modern analytical workflows. With the emergence of hyphenation (especially high-resolution mass spectrometry) and two-dimensional methods (e.g. LCxLC) new challenges for the data analysis are emerging.  We are witnessing a boom of the amount of data to be processed, so we can start to talk about Big Data in Analytical chemistry. Analysing these enormous and complex quantities of data becomes a tremendous challenge, especially because of the need to do it automatically. Traditionally, chromatographic data has been processed using the so-called frequentist approach. With this approach, we get just a final answer about the hypotheses we are testing, but we have no information about its probability of being true.
+Contrary to the frequentist approach, Bayesian statistics offers a very interesting alternative, estimating the probabilities of the processes mentioned above. This way of thinking opens a new world of possibilities, especially in the area of automated massive data treatment. In this way, the chromatographer has no longer to “trust” the results of the data analysis, but (s)he has to decide on the different configurations that explain the data, based on the probabilities of each one.&lt;/p&gt;
+
+&lt;p&gt;We have applied this way of thinking to a broad range of situations. One example concerns toxicological screening, in which the probabilities of a list of compounds being present in the sample, analysed with LC-MS. Using a Bayesian approach, it is easy to build up evidence about the presence/absence of a compound by taking into account adduct formation, isotope ratios, retention times and mass values, resulting in more accurate values of probability. Another example is a Bayesian view of the well-known peak tracking methods. In (traditional) peak tracking methods, peaks of the same compound are recognized in different chromatographic conditions. A Bayesian thinking approaches the problem in a probabilistic way, i.e. assigning different possibilities of peaks to the different compounds available.&lt;/p&gt;
+
+&lt;p&gt;The use of Bayesian statistics to deal with massive data treatment in chromatography constitutes a shift in the way we think about data analysis. Basically, we are proposing to work with probabilities of hypotheses (and update them as long as more information/data is taken into account), opposed to deliver the final answer to the user.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1vbIfaJKXQ4mx1cfch8zX_CuRfuVGhATB/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/gabriel-vivo-truyols/</guid>
 			</item>
 		
 	</channel>
