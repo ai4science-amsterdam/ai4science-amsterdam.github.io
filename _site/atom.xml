@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://ai4science-amsterdam.github.io//</id>
 	<title>AI4Science Lab</title>
-	<updated>2024-11-26T14:02:31+01:00</updated>
+	<updated>2025-04-22T09:39:04+02:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -25,6 +25,104 @@ We develop and use machine learning techniques to discover patterns in data stre
 
 	<generator uri="http://jekyllrb.com" version="4.2.0">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://ai4science-amsterdam.github.io//colloquium/jacobus-dijkman1/</id>
+			<title>Fredrik Lindsten</title>
+			<link href="https://ai4science-amsterdam.github.io//colloquium/jacobus-dijkman1/" rel="alternate" type="text/html" title="Fredrik Lindsten" />
+			<updated>2025-04-21T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>Deep Gaussian Markov Random Fields</summary>
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/jacobus-dijkman1/">&lt;h4 id=&quot;deep-gaussian-markov-random-fields&quot;&gt;Deep Gaussian Markov Random Fields&lt;/h4&gt;
+
+&lt;p&gt;Date: 25-10-2022 14:00-1500 Central European Summer time&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../people/FredrikLindsten.png&quot; alt=&quot;FredrikLindsten&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Fredrik Lindsten&lt;/strong&gt;, Linköping University&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Machine learning methods on graphs are relevant for many application domains due to their ability to model complex dependencies and structures. Gaussian Markov Random Fields (GMRFs) provide a principled way to define Gaussian models on graphs by utilizing their sparsity structure. In this talk I will show how we can use graph neural networks (GNNs) and convolutional neural networks (CNNs) do design scalable and flexible GMRFs. Starting with lattice graphs, we establish a formal connection between CNNs and GMRFs, by showing that common GMRFs are special cases of a generative model where the inverse mapping from data to latent variables is given by a 1-layer linear CNN. This connection allows us to generalize GMRFs to multi-layer CNN architectures, effectively increasing the order of the corresponding GMRF in a way which has favorable computational scaling. I will also discuss how this Deep GMRF can be generalized to arbitrary graphs using a specialized GNN layer. Well-established tools, such as autodiff and variational inference, can be used for simple and efficient inference and learning of the Deep GMRF, and for a Gaussian likelihood, close to exact Bayesian inference is available for the latent field. I demonstrate the flexibility of the proposed model and show that it compares favorably to other methods, both Bayesian and deep-learning-based, on spatial and non-spatial data.&lt;/p&gt;
+
+&lt;p&gt;Joint work with Joel Oskarsson (LiU) and Per Sidén (LiU/Qualcomm Arriver)&lt;/p&gt;
+
+&lt;p&gt;Papers:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2002.07467&quot;&gt;Deep Gaussian Markov Random Fields&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2206.05032&quot;&gt;Scalable Deep Gaussian Markov Random Fields for General Graphs&lt;/a&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="colloquium" />
+			
+			
+				<category term="colloquium" />
+			
+
+			<published>2025-04-21T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://ai4science-amsterdam.github.io//projects/jacobus-dijkman2/</id>
+			<title>Jacobus Dijkman</title>
+			<link href="https://ai4science-amsterdam.github.io//projects/jacobus-dijkman2/" rel="alternate" type="text/html" title="Jacobus Dijkman" />
+			<updated>2025-04-20T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>Neural Functionals</summary>
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io//projects/jacobus-dijkman2/">&lt;h4 id=&quot;deep-gaussian-markov-random-fields&quot;&gt;Deep Gaussian Markov Random Fields&lt;/h4&gt;
+
+&lt;p&gt;Date: 25-10-2022 14:00-1500 Central European Summer time&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../people/FredrikLindsten.png&quot; alt=&quot;FredrikLindsten&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Fredrik Lindsten&lt;/strong&gt;, Linköping University&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Machine learning methods on graphs are relevant for many application domains due to their ability to model complex dependencies and structures. Gaussian Markov Random Fields (GMRFs) provide a principled way to define Gaussian models on graphs by utilizing their sparsity structure. In this talk I will show how we can use graph neural networks (GNNs) and convolutional neural networks (CNNs) do design scalable and flexible GMRFs. Starting with lattice graphs, we establish a formal connection between CNNs and GMRFs, by showing that common GMRFs are special cases of a generative model where the inverse mapping from data to latent variables is given by a 1-layer linear CNN. This connection allows us to generalize GMRFs to multi-layer CNN architectures, effectively increasing the order of the corresponding GMRF in a way which has favorable computational scaling. I will also discuss how this Deep GMRF can be generalized to arbitrary graphs using a specialized GNN layer. Well-established tools, such as autodiff and variational inference, can be used for simple and efficient inference and learning of the Deep GMRF, and for a Gaussian likelihood, close to exact Bayesian inference is available for the latent field. I demonstrate the flexibility of the proposed model and show that it compares favorably to other methods, both Bayesian and deep-learning-based, on spatial and non-spatial data.&lt;/p&gt;
+
+&lt;p&gt;Joint work with Joel Oskarsson (LiU) and Per Sidén (LiU/Qualcomm Arriver)&lt;/p&gt;
+
+&lt;p&gt;Papers:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2002.07467&quot;&gt;Deep Gaussian Markov Random Fields&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2206.05032&quot;&gt;Scalable Deep Gaussian Markov Random Fields for General Graphs&lt;/a&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="projects" />
+			
+			
+				<category term="jdijkman" />
+			
+
+			<published>2025-04-20T00:00:00+02:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://ai4science-amsterdam.github.io//colloquium/aaditya-ramdas/</id>
@@ -389,100 +487,6 @@ In simple cases, the E-value coincides with the Bayes factor, the notion of evid
 			
 
 			<published>2022-04-26T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/gabriel-vivo-truyols/</id>
-			<title>Gabriel Vivo-Truyols</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/gabriel-vivo-truyols/" rel="alternate" type="text/html" title="Gabriel Vivo-Truyols" />
-			<updated>2022-04-12T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Jim Boelrijk</name>
-					
-					
-					
-				</author>
-			
-			<summary>On the use of Bayesian statistics for chromatography and mass spectrometry: dealing with big data</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/gabriel-vivo-truyols/">&lt;h4 id=&quot;title-on-the-use-of-bayesian-statistics-for-chromatography-and-mass-spectrometry-dealing-with-big-data&quot;&gt;Title: On the use of Bayesian statistics for chromatography and mass spectrometry: dealing with big data&lt;/h4&gt;
-
-&lt;p&gt;Date: 12-04-2022 11:00-1200 Central European Summer time&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../people/GabrielVivoTruyols.jpeg&quot; alt=&quot;GabrielVivoTruyols&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Gabriel Vivó-Truyols&lt;/strong&gt;, Principal Scientist, Tecnometrix&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Data analysis methods applied to chromatographic data, including base-line correction, peak detection, alignment and peak tracking, calibration and/or classification are a routine part of most modern analytical workflows. With the emergence of hyphenation (especially high-resolution mass spectrometry) and two-dimensional methods (e.g. LCxLC) new challenges for the data analysis are emerging.  We are witnessing a boom of the amount of data to be processed, so we can start to talk about Big Data in Analytical chemistry. Analysing these enormous and complex quantities of data becomes a tremendous challenge, especially because of the need to do it automatically. Traditionally, chromatographic data has been processed using the so-called frequentist approach. With this approach, we get just a final answer about the hypotheses we are testing, but we have no information about its probability of being true.
-Contrary to the frequentist approach, Bayesian statistics offers a very interesting alternative, estimating the probabilities of the processes mentioned above. This way of thinking opens a new world of possibilities, especially in the area of automated massive data treatment. In this way, the chromatographer has no longer to “trust” the results of the data analysis, but (s)he has to decide on the different configurations that explain the data, based on the probabilities of each one.&lt;/p&gt;
-
-&lt;p&gt;We have applied this way of thinking to a broad range of situations. One example concerns toxicological screening, in which the probabilities of a list of compounds being present in the sample, analysed with LC-MS. Using a Bayesian approach, it is easy to build up evidence about the presence/absence of a compound by taking into account adduct formation, isotope ratios, retention times and mass values, resulting in more accurate values of probability. Another example is a Bayesian view of the well-known peak tracking methods. In (traditional) peak tracking methods, peaks of the same compound are recognized in different chromatographic conditions. A Bayesian thinking approaches the problem in a probabilistic way, i.e. assigning different possibilities of peaks to the different compounds available.&lt;/p&gt;
-
-&lt;p&gt;The use of Bayesian statistics to deal with massive data treatment in chromatography constitutes a shift in the way we think about data analysis. Basically, we are proposing to work with probabilities of hypotheses (and update them as long as more information/data is taken into account), opposed to deliver the final answer to the user.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1vbIfaJKXQ4mx1cfch8zX_CuRfuVGhATB/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-
-</content>
-
-			
-				<category term="colloquium" />
-			
-			
-				<category term="colloquium" />
-			
-
-			<published>2022-04-12T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://ai4science-amsterdam.github.io//colloquium/anna-scaife/</id>
-			<title>Anna Scaife</title>
-			<link href="https://ai4science-amsterdam.github.io//colloquium/anna-scaife/" rel="alternate" type="text/html" title="Anna Scaife" />
-			<updated>2022-03-29T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Jim Boelrijk</name>
-					
-					
-					
-				</author>
-			
-			<summary>Catalogue curation, likelihood misspecification and dataset shift: challenges for Bayesian deep-learning in radio astronomy</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//colloquium/anna-scaife/">&lt;h4 id=&quot;catalogue-curation-likelihood-misspecification-and-dataset-shift-challenges-for-bayesian-deep-learning-in-radio-astronomy&quot;&gt;Catalogue curation, likelihood misspecification and dataset shift: challenges for Bayesian deep-learning in radio astronomy&lt;/h4&gt;
-
-&lt;p&gt;Date: 29-03-2022 14:00-1500 Central European Summer time&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../people/AnnaScaife.jpeg&quot; alt=&quot;AnnaScaife&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Anna Scaife&lt;/strong&gt;, Professor of Radio Astronomy at the University of Manchester and Head of the Jodrell Bank Centre for Astrophysics Interferometry Centre of Excellence&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Understanding the selection biases introduced by AI models in scientific analysis and extracting well-calibrated uncertainties on machine learning outputs are two key challenges facing the systematic use of such algorithms in radio astronomy. I this talk I will discuss our recent work on uncertainty calibration for radio galaxy classification including how the use of group-equivariant convolutions can correct effects of bias in model outputs, as well as how data curation in astronomy catalogues can cause likelihood misspecification in Bayesian deep-learning. I will go on to talk about how the effect of data curation can also affect the use of semi-supervised learning that leverages large unlabelled datasets - highly relevant for radio astronomy applications where the volume of labelled catalogue data is small, but the quantity of archival survey data is large.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt;&lt;br /&gt;
-Anna is currently Professor of Radio Astronomy at Jodrell Bank Centre for Astrophysics and academic Co-Director of Policy@Manchester at the University of Manchester. Previously she has worked at the University of Southampton (UK), the Dublin Institute for Advanced Studies (Ireland) and the University of Cambridge (UK). She has a PhD from the University of Cambridge and an undergraduate degree from the University of Bristol.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/11usK-95DvkjC7WG7IyzdQnh2hTd2KmuG/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
-
-</content>
-
-			
-				<category term="colloquium" />
-			
-			
-				<category term="colloquium" />
-			
-
-			<published>2022-03-29T00:00:00+02:00</published>
 		</entry>
 	
 </feed>

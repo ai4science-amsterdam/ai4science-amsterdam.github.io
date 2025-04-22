@@ -2,9 +2,6 @@
 layout: page-fullwidth 
 ---
 
-<html>
-
-<body>
 
 <!--
     <header class="major special">
@@ -19,11 +16,213 @@ layout: page-fullwidth
 <hr style="width:100%;text-align:left;margin-left:0">
 
     <section id="people_id" class="people">
-    <div class="inner">
-      <header>
-        <h2>Management</h2>
-        <br/>
-      </header>
+      <div class="inner">
+  
+<header id="staff">
+<!--	<br>
+	<a href="#staff">Faculty members</a> |
+	<a href="#associate">Associate members</a> |
+	<a href="#postdoc">Postdocs</a> |
+	<a href="#phd">PhD students</a> |
+	<a href="#alumni">Alumni</a>
+	
+	<h2 >Faculty members</h2> -->	
+	<h2 >Management</h2>	
+</header>
+
+
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a name
+*
+{% endcomment %}
+<div class="flex flex-4">
+	{% if page.staff1.image or page.staff1.name %}
+		{% include _people-widget.html widget=page.staff1 %}
+		{% include _people-widget.html widget=page.staff2 %}
+		{% include _people-widget.html widget=page.staff3 %}
+		{% include _people-widget.html widget=page.staff4 %}
+	{% endif %}
+</div><!-- /.row -->
+
+<!--
+<header id="associate">
+	<br>
+	<a href="#staff">Faculty members</a> |
+	<a href="#associate">Associate members</a> |
+	<a href="#postdoc">Postdocs</a> |
+	<a href="#phd">PhD students</a> |
+	<a href="#alumni">Alumni</a>
+	
+	<h2>Associate members</h2>
+</header>
+-->
+
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a name
+*
+{% endcomment %}
+<div class="flex flex-4">
+	{% if page.associate1.image or page.associate1.name %}
+		{% include _people-widget.html widget=page.associate1 %}
+		{% include _people-widget.html widget=page.associate2 %}
+		{% include _people-widget.html widget=page.associate3 %}
+		{% include _people-widget.html widget=page.associate4 %}
+	{% endif %}
+
+	{% if page.associate5.image or page.associate5.name %}
+		{% include _people-widget.html widget=page.associate5 %}
+		{% include _people-widget.html widget=page.associate6 %}
+		{% include _people-widget.html widget=page.associate7 %}
+		{% include _people-widget.html widget=page.associate8 %}
+	{% endif %}
+
+	{% if page.associate9.image or page.associate9.name %}
+		{% include _people-widget.html widget=page.associate9 %}
+		{% include _people-widget.html widget=page.associate10 %}
+		{% include _people-widget.html widget=page.associate11 %}
+		{% include _people-widget.html widget=page.associate12 %}
+	{% endif %}
+
+	{% if page.associate13.image or page.associate13.name %}
+		{% include _people-widget.html widget=page.associate13 %}
+		{% include _people-widget.html widget=page.associate14 %}
+		{% include _people-widget.html widget=page.associate15 %}
+		{% include _people-widget.html widget=page.associate16 %}
+	{% endif %}
+
+	{% if page.associate17.image or page.associate17.name %}
+		{% include _people-widget.html widget=page.associate17 %}
+		{% include _people-widget.html widget=page.associate18 %}
+		{% include _people-widget.html widget=page.associate19 %}
+		{% include _people-widget.html widget=page.associate20 %}
+	{% endif %}
+
+	{% if page.associate17.image or page.associate21.name %}
+		{% include _people-widget.html widget=page.associate21 %}
+		{% include _people-widget.html widget=page.associate22 %}
+		{% include _people-widget.html widget=page.associate23 %}
+		{% include _people-widget.html widget=page.associate24 %}
+	{% endif %}
+</div><!-- /.row -->
+
+<!--
+<header id="postdoc">
+	<br>
+	<a href="#staff">Faculty members</a> |
+	<a href="#associate">Associate members</a> |
+	<a href="#postdoc">Postdocs</a> |
+	<a href="#phd">PhD students</a> |
+	<a href="#alumni">Alumni</a>
+	
+	<h2>Postdoctoral Fellows</h2>
+</header>
+-->
+
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a name
+*
+{% endcomment %}
+<div class="flex flex-4">
+	{% if page.postdoc1.image or page.postdoc1.name %}
+		{% include _people-widget.html widget=page.postdoc1 %}
+		{% include _people-widget.html widget=page.postdoc2 %}
+		{% include _people-widget.html widget=page.postdoc3 %}
+		{% include _people-widget.html widget=page.postdoc4 %}
+	{% endif %}
+
+	{% if page.postdoc5.image or page.postdoc5.name %}
+		{% include _people-widget.html widget=page.postdoc5 %}
+		{% include _people-widget.html widget=page.postdoc6 %}
+		{% include _people-widget.html widget=page.postdoc7 %}
+                {% include _people-widget.html widget=page.postdoc8 %}
+        {% endif %}
+</div><!-- /.row -->
+
+<!--
+<header id="phd">
+	<br>
+	<a href="#staff">Faculty members</a> |
+	<a href="#associate">Associate members</a> |
+	<a href="#postdoc">Postdocs</a> |
+	<a href="#phd">PhD students</a> |
+	<a href="#alumni">Alumni</a>
+	
+	<h2>PhD students</h2>
+</header>
+-->
+
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a name
+*
+{% endcomment %}
+<div class="flex flex-4">
+	{% if page.phd1.image or page.phd1.name %}
+		{% include _people-widget.html widget=page.phd1 %}
+		{% include _people-widget.html widget=page.phd2 %}
+		{% include _people-widget.html widget=page.phd3 %}
+		{% include _people-widget.html widget=page.phd4 %}
+	{% endif %}
+
+	{% if page.phd5.image or page.phd5.name %}
+		{% include _people-widget.html widget=page.phd5 %}
+		{% include _people-widget.html widget=page.phd6 %}
+		{% include _people-widget.html widget=page.phd7 %}
+		{% include _people-widget.html widget=page.phd8 %}
+	{% endif %}
+
+	{% if page.phd9.image or page.phd9.name %}
+		{% include _people-widget.html widget=page.phd9 %}
+		{% include _people-widget.html widget=page.phd10 %}
+		{% include _people-widget.html widget=page.phd11 %}
+		{% include _people-widget.html widget=page.phd12 %}
+	{% endif %}
+</div><!-- /.row -->
+
+
+<!--
+<header id="alumni">
+	<br>
+	<a href="#staff">Faculty members</a> |
+	<a href="#associate">Associate members</a> |
+	<a href="#postdoc">Postdocs</a> |
+	<a href="#phd">PhD students</a> |
+	<a href="#alumni">Alumni</a>
+	
+	<h2>Alumni</h2>
+</header>
+-->
+
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a name
+*
+{% endcomment %}
+<div class="flex flex-4">
+	{% if page.alumni1.image or page.alumni1.name %}
+		{% include _people-widget.html widget=page.alumni1 %}
+		{% include _people-widget.html widget=page.alumni2 %}
+		{% include _people-widget.html widget=page.alumni3 %}
+		{% include _people-widget.html widget=page.alumni4 %}
+	{% endif %}
+
+	{% if page.alumni5.image or page.alumni5.name %}
+		{% include _people-widget.html widget=page.alumni5 %}
+		{% include _people-widget.html widget=page.alumni6 %}
+		{% include _people-widget.html widget=page.alumni7 %}
+		{% include _people-widget.html widget=page.alumni8 %}
+	{% endif %}
+
+	{% if page.alumni9.image or page.alumni9.name %}
+		{% include _people-widget.html widget=page.alumni9 %}
+		{% include _people-widget.html widget=page.alumni10 %}
+		{% include _people-widget.html widget=page.alumni11 %}
+		{% include _people-widget.html widget=page.alumni12 %}
+	{% endif %}
+</div><!-- /.row -->	
 
      <div class="flex flex-4">
         <div class="box person">
@@ -281,3 +480,22 @@ layout: page-fullwidth
 
 </body>
 </html>
+
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a title
+*
+{% endcomment %}
+<div class="row t60">
+	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
+		{% include _frontpage-widget.html widget=page.widget1 %}
+	{% endif %}
+
+	{% if page.widget2.image or page.widget2.video or page.widget2.title %}
+		{% include _frontpage-widget.html widget=page.widget2 %}
+	{% endif %}
+
+	{% if page.widget3.image or page.widget3.video or page.widget3.title %}
+                {% include _frontpage-widget.html widget=page.widget3 %}
+        {% endif %}
+</div><!-- /.row -->

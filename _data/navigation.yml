@@ -1,26 +1,16 @@
 - title: "AI4Science"
   url: "/"
   side: left
-
-- title: "Lab"
-  url: "/lab/"
-  side: right
   dropdown:
-  - title: "People"
-    url: "/people/"
-  - title: "Research"
-    url: "/research/"
-
-- title: "Consortium"
-  url: "/consortium/"
-  side: right
   dropdown:
   - title: "Consortium"
     url: "/consortium/"
-
+  - title: "Lab"
+    url: "/lab/"
+    
 - title: "AI4SMM"
   url: "/ai4smm_home/"
-  side: right
+  side: left
   dropdown:
   - title: "AI4SMM"
     url: "/ai4smm_home/"
@@ -32,13 +22,14 @@
     url: "/ai4smm_students/"
   - title: "AI4SMM Events"
     url: "/ai4smm_events/"
-    
-# - title: "Colloquium"
-#  url: "/colloquium/"
-#  side: right
-#  dropdown:
-#  - title: "Colloquium"
-#    url: "/colloquium/"
+
+- title: "Research"
+  url: "/research/"
+  side: right
+
+- title: "People"
+  url: "/people/"
+  side: right
 
 - title: "Events"
   url: "/events/"
@@ -49,19 +40,19 @@
   - title: "Workshops"
     url: "/events/"
 
-- title: "Papers"
+- title: "Publications"
   url: "/publications/"
   side: right
   dropdown:
   - title: "Papers"
     url: "/publications/"
 
-- title: "Blog"
-  url: "/blog/"
-  side: right 
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+# - title: "Blog"
+#  url: "/blog/"
+#  side: right 
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"

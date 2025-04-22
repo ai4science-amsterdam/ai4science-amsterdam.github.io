@@ -1,0 +1,33 @@
+{% comment %}
+*
+*   First the include captures the url and image in a
+*   separate variable to make the code better readable.
+*
+*   These variables are widget_url and widget_image
+*
+{% endcomment %}
+
+{% capture widget_url %}{% if include.widget.url == NULL %}{% elsif include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
+
+{% capture widget_image %}{% if include.widget.image contains 'http' %}{{ include.widget.image }}{% else %}{{ site.urlimg }}{{ include.widget.image }}{% endif %}{% endcapture %}
+
+
+<div class="box person">
+   <div class="image round">
+	{% if widget_url == empty %}
+     {% if include.widget.image != NULL %}<img src="{{ widget_image }}" alt="{{ include.widget.name }}" />{% endif %}
+	{% else %}
+		<a href="{{ widget_url }}">
+			{% if include.widget.image != NULL %}<img src="{{ widget_image }}" alt="{{ include.widget.name }}" />{% endif %}
+		</a>
+        {% endif %}
+     
+     	{% if widget_url == empty %}
+                <h4>{{ include.widget.name }}</h4>
+	{% else %}
+                <h4><a href="{{ widget_url }}">{{ include.widget.name}}</a></h4>
+        {% endif %}
+
+	{% if include.widget.text != empty %}<p>{{ include.widget.text }}</p>{% endif %}
+  </div>
+</div>

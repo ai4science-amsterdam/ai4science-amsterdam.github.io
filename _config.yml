@@ -32,8 +32,7 @@ author: Jim Boelrijk
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-#url: 'https://phlow.github.io'
-#url: 'https://jimbo994.github.io'
+# url: 'http://127.0.0.1:4000'
 url: 'https://ai4science-amsterdam.github.io'
 baseurl: '/'
 
@@ -48,6 +47,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 urlimg: 'https://ai4science-amsterdam.github.io/images/'
+# urlimg: 'http://127.0.0.1:4000/images/'
 
 
 # Logo size is 600x80 pixels
