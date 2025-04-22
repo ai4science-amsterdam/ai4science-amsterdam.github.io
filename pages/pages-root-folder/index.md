@@ -7,7 +7,7 @@
 layout: page-fullwidth
 header: 
     image_fullwidth: banner_dim.jpg
-    title: <span style="text-transform:none; font-family:inherit; font-size:1.2em;">AI4Science1</span> <br>  <span style="text-transform:none; font-family:FontAwesome,Gill Sans; font-size:0.5em;">Artificial Intelligence for Scientific Discovery</span>
+    title: <span style="text-transform:none; font-family:inherit; font-size:1.2em;">AI4Science</span> <br>  <span style="text-transform:none; font-family:FontAwesome,Gill Sans; font-size:0.5em;">Artificial Intelligence for Scientific Discovery</span>
 
 permalink: /index.html
 
