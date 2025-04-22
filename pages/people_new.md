@@ -1,5 +1,5 @@
 ---
-layout: who-we-are 
+layout: who-we-are_new
 header:
     image_fullwidth: "banner.jpg"
     caption: "Credits: Mike Mackenzie"
@@ -19,158 +19,238 @@ staff2:
 
   
 associate1:
-  name: "Christian Andersson Naesseth"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: 'IvI<br>AMLab'
+  name: "Lyuba Amitonova"
+  url: 'https://arcnl.nl/people/lyuba-amitonova'
+  image: ../people/LyubaAmitonova.jpg
+  text: ARCNL<br>Asst. Prof. Nanoscale Imaging and Metrology '
 associate2:
-  name: "Milo de Baat"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: 'IBED<br>FAME'
+  name: "Christian Andersson Naesseth"
+  url: 'https://naesseth.github.io/'
+  image: ../people/ChristianAnderssonNaesseth.jpg 
+  text: 'IvI<br>Asst. Prof. Machine Learning'
 associate3:
-  name: "Gianfranco Bertone"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: 'ITF<br>GRAPPA'
+  name: "Milo de Baat"
+  url: 'https://www.uva.nl/en/profile/b/a/m.l.de-baat/m.l.de-baat.html'
+  image: ../people/MiloDeBaat.jpg
+  text: 'IBED<br>Asst. Prof.  Water Quality & Ecotoxicology'
 associate4:
-  name: "Miranda Cheng"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: 'ITF<br>'
+  name: "Gianfranco Bertone"
+  url: 'https://gianfrancobertone.net/'
+  image: ../people/GianfrancoBertone.jpg
+  text: 'ITF GRAPPA<br>Prof. Theoretical Astroparticle Physics'
 associate5:
-  name: "Aalt-Jan	van Dijk"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: 'SILS<br>Biosystems Data Analysis'
+  name: "Miranda Cheng"
+  url: 'https://sites.google.com/site/mcheng0606/'
+  image: ../people/MirandaCheng.jpg
+  text: 'ITF<br>Asst. Prof Theoretical Physics'
 associate6:
-  name: "Huub	Hoefsloot"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: 'SILS<br>BDA'
+  name: "Aalt-Jan	van Dijk"
+  url: 'https://bdagroup.nl/?employee=aalt-jan-van-dijk'
+  image: ../people/AaltJanVanDijk.jpg
+  text: 'SILS<br>Prof. Biosystems Data Analysis'
 associate7:
-  name: "Abeer	Hossain"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: 'IXA<br>'
+  name: "Huub	Hoefsloot"
+  url: 'https://bdagroup.nl/?employee=huub-hoefsloot'
+  image: ../people/HuubHoefsloot.jpg
+  text: 'SILS<br>Assoc. Prof. Biosystems Data Analysis'
 associate8:
-  name: "Daniela Huppenkothen"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: 'ITF<br>GRAPPA'
+  name: "Abeer Hossain"
+  url: 'https://www.uva.nl/profiel/h/o/a.h.hossain/a.h.hossain.html'
+  image: ../people/AbeerHossain.jpg
+  text: 'IXA<br>Business Developer'
 associate9:
-  name: "Lies Jacobs"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: 'IBED<br>'
+  name: "Daniela Huppenkothen"
+  url: 'https://huppenkothen.org'
+  image: ../people/DanielaHuppenkothen.jpg
+  text: 'ITF GRAPPA<br>Asst. Prof. Astronomy and Data Science'
 associate10:
+  name: "Lies Jacobs"
+  url: 'https://www.uva.nl/en/profile/j/a/l.h.jacobs/l.h.jacobs.html'
+  image: ../people/LiesJacobs.jpg
+  text: 'IBED<br>Asst. Prof. Citizen Science'
+associate11:
   name: "Martijs Jonker"
   url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
   image: ../people/MartijsJonker.jpg
-  text: 'SILS<br>RNA Biology'
-associate11:
-  name: "Valeria Krzhizha-<br>novskaya"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: 'IvI<br>CSL'
+  text: 'SILS<br>Asst. Prof. RNA Biology & Applied Bioinformatics'
 associate12:
-  name: "Ana Lucic"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: ILLC<br>'
+  name: "Valeria Krzhizha-<br>novskaya"
+  url: 'https://www.uva.nl/en/profile/k/r/v.krzhizhanovskaya/v.krzhizhanovskaya.html'
+  image: ../people/ValeriaKrzhizhanovskaya.jpg
+  text: 'IvI<br>Asst. Prof. Computational Science' 
 associate13:
-  name: "Samaya	Nissanke"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: 'IHEF<br>GRAPPA'
+  name: "Ana Lucic"
+  url: 'https://a-lucic.github.io/'
+  image: ../people/AnaLucic_s.jpg
+  text: ILLC<br>Asst. Prof. in AI
 associate14:
-  name: "Alberto Pérez de Alba Ortíz"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: HIMS/IvI<br>Computational Soft Matter'
+  name: "Samaya	Nissanke"
+  url: 'https://www.uva.nl/en/profile/n/i/s.m.nissanke/s.m.nissanke.html'
+  image: ../people/SamayaNissanke.jpg
+  text: 'IHEF GRAPPA<br>Assoc. Prof. Physics'
 associate15:
-  name: "Bob Pirok"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: 'HIMS<br>Analytical Chemistry'
+  name: "Alberto Pérez de Alba Ortíz"
+  url: 'https://www.compchem.nl/staff_members/alberto/'
+  image: ../people/AlbertoPerezDeAlbaOrtiz.jpg
+  text: HIMS & IvI<br>Asst. Prof. Computational Soft Matter
 associate16:
-  name: "Antonia Praetorius"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: 'IBED<br>'
+  name: "Bob Pirok"
+  url: ' https://www.uva.nl/profiel/p/i/b.w.j.pirok/b.w.j.pirok.html'
+  image: ../people/BobPirok.jpg
+  text: 'HIMS<br>Asst. Prof. Analytical Chemistry'
 associate17:
-  name: "Annemieke de Raad"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: 'IXA<br>'
+  name: "Antonia Praetorius"
+  url: 'https://www.uva.nl/en/profile/p/r/a.praetorius/a.praetorius.html'
+  image: ../people/AntoniaPraetorius.jpg
+  text: 'IBED<br>Asst. Prof. Environmental Chemistry '
 associate18:
-  name: "Antonia	Rowlinson"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: 'API<br>'
+  name: "Annemieke de Raad"
+  url: 'https://www.ixa.nl/about/team-overview/'
+  image: ../people/AnnemiekeDeRaad.png
+  text: 'IXA<br>Business & Impact Developer'
 associate19:
-  name: "Saer Samanipour"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: 'HIMS<br>Analytical Chemistry'
+  name: "Antonia	Rowlinson"
+  url: 'https://www.uva.nl/en/profile/r/o/b.a.rowlinson/b.a.rowlinson.html'
+  image: ../people/AntoniaRowlinson.jpg
+  text: 'API<br>Asst. Prof. Astrophysics '
 associate20:
+  name: "Saer Samanipour"
+  url: 'https://www.uva.nl/en/profile/s/a/s.samanipour/s.samanipour.html'
+  image: ../people/SaerSamanipour.jpg
+  text: 'HIMS<br>Asst. Prof. Analytical Chemistry'
+associate21:
+  name: "Max Welling"
+  url: 'https://amlab.science.uva.nl/people/MaxWelling/'
+  image: ../people/MaxWelling.jpg
+  text: 'IvI<br>Prof. Machine Learning'
+associate22:
   name: "Christoph Weniger"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: 'ITF<br>GRAPPA'
+  url: 'https://www.uva.nl/en/profile/w/e/c.weniger/c.weniger.html'
+  image: ../people/ChristophWeniger.jpg
+  text: 'ITF GRAPPA<br>Assoc. Prof. Theoretical Physics'
 
 
 postdoc1:
   name: "Daniel Acuña Ramirez"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
-  text: WZI<br>Machine Materials Lab'
+  url: 'https://www.uva.nl/en/profile/a/c/d.acuna-ramirez/d.acuna-ramirez.html'
+  image: ../images/ai4smm_people/DanielAcunaRamirez.jpg
+  text: IoP<br>Machine Materials Lab
 postdoc2:
   name: "Maxim N. Brodmerkel"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
+  url: 'https://scholar.google.com/citations?hl=de&user=T6PZ3qIAAAAJ&view_op=list_works&sortby=pubdate'
+  image: ../images/ai4smm_people/MaximBrodmerkel.jpg
   text: 'HIMS<br>Computational Chemistry'
 postdoc3:
   name: "Alexander Korotkevich"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
+  url: 'https://www.linkedin.com/in/alexander-korotkevich-51321a102/?originalSubdomain=nl'
+  image: ../images/ai4smm_people/AlexanderKorotkevich.jpg
   text: 'WZI<br>Soft Matter Group'
 postdoc4:
   name: "Rachel London"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
+  url: 'https://www.linkedin.com/in/rachel-london-91399180/'
+  image: ../people/RachelLondon.jpg
   text: 'IBED<br>FAME'
   
 phd1:
+  name: "Uddipta Bhardwaj"
+  url: https://www.grappa.amsterdam/members/uddipta-bhardwaj
+  image: ../people/UddiptaBhardwaj.png
+  text: IHEF Grappa<br>'
+phd2:
+  name: "Rik Breebaart"
+  url: 'https://www.compchem.nl/group_members/rik-breebaart/'
+  image: ../people/RikBreebaart.jpg
+  text: 'HIMS<br>Computational Chemistry'
+phd3:
   name: "Jacobus Dijkman"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
-  image: ../people/MartijsJonker.jpg
+  url: 'https://amlab.science.uva.nl/people/JacobusDijkman/'
+  image: ../people/JacobusDijkman.jpg
   text: 'HIMS/IvI<br>Computational Chemistry & AMLab'
+phd4:
+  name: "Jordan Earle"
+  url: 'https://bdagroup.nl/?employee=jordan-earle'
+  image: ../people/JordanEarle.jpg
+  text: 'SILS<br>Biosystems Data Analysis'
+phd5:
+  name: "Ege Erdogan"
+  url: https://erdogan.dev/
+  image: ../people/EgeErdogan.jpg
+  text: ILLC<br>SIAS'
+phd6:
+  name: "Jordi Alonso Esteve"
+  url: 'https://bdagroup.nl/?employee=jordi-alonso-esteve'
+  image: ../people/JordiAlonsoEsteve.png
+  text: 'SILS<br>Biosystems Data Analysis'
+phd7:
+  name: "Mathis Gerdes"
+  url: https://www.mathisgerdes.com
+  image: ../people/MathisGerdes.png
+  text: ITF Grappa<br>
+phd8:
+  name: "Jari Hoffmann"
+  url: https://www.compchem.nl/group_members/jari-hoffmann/
+  image: ../people/JariHoffmann.jpg
+  text: HIMS<br>Computational Chemistry'
+phd9:
+  name: "Ferry Hooft"
+  url: 'https://www.compchem.nl/group_members/ferry-hooft/'
+  image: ../people/FerryHooft.jpg
+  text: 'HIMS<br>Computational Chemistry'
+phd10:
+  name: "Eline Kempkes"
+  url: https://www.compchem.nl/group_members/Eline-Kempkes/
+  image: ../people/ElineKempkes.jpg
+  text: HIMS<br>Computational Chemistry'
+phd11:
+  name: "Maximilian Lipp"
+  url: 'https://arcnl.nl/people/maximilian-lipp'
+  image: ../people/MaximilianLipp.jpg
+  text: 'ARCNL<br>'
+phd12:
+  name: "Youri Ran"
+  url: 'https://www.compchem.nl/group_members/youri-ran/'
+  image: ../people/YouriRan.jpg
+  text: 'HIMS<br>Computational Chemistry'
+phd13:
+  name: "Alex Sánchez Cano"
+  url: 'https://bdagroup.nl/?employee=alex-sanchez-cano'
+  image: ../people/AlexSanchezCano_s.jpg
+  text: 'SILS<br>Biosystems Data Analysis'
+phd14:
+  name: "Joy Sanghavi"
+  url: https://www.grappa.amsterdam/members/joy-sanghavi
+  image: ../people/JoySanghavi.jpg
+  text: ITF Grappa<br>'
+phd15:
+  name: "Oleg Savchenko"
+  url: https://www.grappa.amsterdam/members/oleg-savchenko
+  image: ../people/OlegSavchenko.jpg
+  text: ITF Grappa<br>'
 
 
 alumni1:
   name: "Jim Boelrijk"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
+  url:
   image: ../people/JimBoelrijk2.jpg
   text: 'IvI/HIMS<br>AMLab'
 alumni2:
   name: "Fiona Lippert"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
+  url: 
   image: ../people/FionaLippert.jpg
   text: 'IvI/IBED<br>AMLab'
 alumni3:
   name: "Benjamin Miller"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
+  url: 
   image: ../people/BenjaminMiller.jpg
   text: 'IvI/IoP<br>AMLab'
 alumni4:
   name: "Teodora Pandeva"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
+  url:
   image: ../people/TeodoraPandeva.jpg
   text: 'IvI/SILS<br>AMLab'
 alumni5:
   name: "David Ruhe"
-  url: 'https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html'
+  url:
   image: ../people/DavidRuhe.jpg
   text: 'IvI/API<br>AMLab'
 

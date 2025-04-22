@@ -12,8 +12,6 @@
   url: "/ai4smm_home/"
   side: left
   dropdown:
-  - title: "AI4SMM"
-    url: "/ai4smm_home/"
   - title: "About"
     url: "/ai4smm_rpa/"
   - title: "People"

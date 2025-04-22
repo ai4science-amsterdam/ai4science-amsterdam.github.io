@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://ai4science-amsterdam.github.io//assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="https://ai4science-amsterdam.github.io//assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="http://127.0.0.1:4000//assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://127.0.0.1:4000//assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>AI4Science Lab</title>
 		<description>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</description>
-		<link>https://ai4science-amsterdam.github.io//</link>
-		<atom:link href="https://ai4science-amsterdam.github.io//feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://127.0.0.1:4000//</link>
+		<atom:link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Jacobus Dijkman</title>
-				<link>https://ai4science-amsterdam.github.io//projects/jacobus-dijkman2/</link>
+				<link>http://127.0.0.1:4000//projects/jacobus-dijkman2/</link>
 				<pubDate>Sun, 20 Apr 2025 00:00:00 +0200</pubDate>
 				<description>&lt;h4 id=&quot;deep-gaussian-markov-random-fields&quot;&gt;Deep Gaussian Markov Random Fields&lt;/h4&gt;
 
@@ -34,12 +34,12 @@ We develop and use machine learning techniques to discover patterns in data stre
 &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2206.05032&quot;&gt;Scalable Deep Gaussian Markov Random Fields for General Graphs&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//projects/jacobus-dijkman2/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//projects/jacobus-dijkman2/</guid>
 			</item>
 		
 			<item>
 				<title>Aaditya Ramdas</title>
-				<link>https://ai4science-amsterdam.github.io//colloquium/aaditya-ramdas/</link>
+				<link>http://127.0.0.1:4000//colloquium/aaditya-ramdas/</link>
 				<pubDate>Tue, 14 Mar 2023 00:00:00 +0100</pubDate>
 				<description>&lt;h4 id=&quot;conformal-prediction-under-distribution-shift&quot;&gt;Conformal prediction under distribution shift&lt;/h4&gt;
 
@@ -58,12 +58,12 @@ We develop and use machine learning techniques to discover patterns in data stre
 &lt;p&gt;Aaditya Ramdas (PhD, 2015) is an assistant professor at Carnegie Mellon University, in the Departments of Statistics and Machine Learning. He was a postdoc at UC Berkeley (2015–2018) and obtained his PhD at CMU (2010–2015), receiving the Umesh K. Gavaskar Memorial Thesis Award. Aaditya was an inaugural winner of the COPSS Leadership Award, and a recipient of the 2021 Bernoulli New Researcher Award. His work is supported by an NSF CAREER Award, an Adobe Faculty Research Award (2020), a Google Research Scholar award (2022), amongst others. He was a CUSO lecturer in 2022, and will be a Lunteren lecturer in 2023. Aaditya’s main theoretical and methodological research interests include post-selection inference (interactive, structured, online, post-hoc control of false decision rates, etc), game-theoretic statistics (sequential uncertainty quantification, confidence sequences, always-valid p-values, safe anytime-valid inference, e-processes, supermartingales, e-values, etc), and distribution-free black-box predictive inference (conformal prediction, calibration, etc). His areas of applied interest include privacy, neuroscience, genetics and auditing, and his group’s work has received multiple best paper awards.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/aaditya-ramdas/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//colloquium/aaditya-ramdas/</guid>
 			</item>
 		
 			<item>
 				<title>Fredrik Lindsten</title>
-				<link>https://ai4science-amsterdam.github.io//colloquium/fredrik-lindsten/</link>
+				<link>http://127.0.0.1:4000//colloquium/fredrik-lindsten/</link>
 				<pubDate>Tue, 25 Oct 2022 00:00:00 +0200</pubDate>
 				<description>&lt;h4 id=&quot;deep-gaussian-markov-random-fields&quot;&gt;Deep Gaussian Markov Random Fields&lt;/h4&gt;
 
@@ -86,12 +86,12 @@ We develop and use machine learning techniques to discover patterns in data stre
 &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2206.05032&quot;&gt;Scalable Deep Gaussian Markov Random Fields for General Graphs&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/fredrik-lindsten/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//colloquium/fredrik-lindsten/</guid>
 			</item>
 		
 			<item>
 				<title>Guy Wolf</title>
-				<link>https://ai4science-amsterdam.github.io//colloquium/guy-wolf/</link>
+				<link>http://127.0.0.1:4000//colloquium/guy-wolf/</link>
 				<pubDate>Tue, 11 Oct 2022 00:00:00 +0200</pubDate>
 				<description>&lt;h4 id=&quot;geometry-based-data-exploration&quot;&gt;Geometry-based Data Exploration&lt;/h4&gt;
 &lt;p&gt;Date: 11-10-2022 14:00-1500 Central European Summer time&lt;/p&gt;
@@ -108,12 +108,12 @@ We develop and use machine learning techniques to discover patterns in data stre
 Guy Wolf is an associate professor in the Department of Mathematics and Statistics (DMS) at the Université de Montréal (UdeM), a core academic member of Mila (the Quebec AI institute), and an associate researcher with CRCHUM (the Montreal university hospital research center). He is also affiliated with the IVADO institute of data valorization. He holds an M.Sc. and a Ph.D. in computer science from Tel Aviv University. Prior to joining UdeM, he was a postdoctoral researcher (2013-2015) in the Department of Computer Science at École Normale Supérieure in Paris (France), and a Gibbs Assistant Professor (2015-2018) in the Applied Mathematics Program at Yale University. Between 2004 and 2009 he served in the Israeli Defense Forces in IT software design and development roles related to data analysis and visualization. His research focuses on manifold learning and geometric deep learning for exploratory data analysis, including methods for dimensionality reduction, visualization, denoising, data augmentation, and coarse graining. Further, he is particularly interested in biomedical data exploration applications of such methods, e.g., in single cell genomics/proteomics and neuroscience.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/guy-wolf/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//colloquium/guy-wolf/</guid>
 			</item>
 		
 			<item>
 				<title>Michele Ceriotti</title>
-				<link>https://ai4science-amsterdam.github.io//colloquium/michele-ceriotti/</link>
+				<link>http://127.0.0.1:4000//colloquium/michele-ceriotti/</link>
 				<pubDate>Tue, 05 Jul 2022 00:00:00 +0200</pubDate>
 				<description>&lt;h4 id=&quot;a-unified-theory-of-atom-cloud-representations-for-machine-learning&quot;&gt;A unified theory of atom cloud representations for machine learning&lt;/h4&gt;
 
@@ -133,12 +133,12 @@ Michele Ceriotti received his Ph.D. in Physics from ETH Zürich. He spent three 
 &lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1piVbnetRwbMxMFyVIgoq1cOvAw3BlqBP/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/michele-ceriotti/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//colloquium/michele-ceriotti/</guid>
 			</item>
 		
 			<item>
 				<title>Peter Grünwald</title>
-				<link>https://ai4science-amsterdam.github.io//colloquium/peter-grunwald/</link>
+				<link>http://127.0.0.1:4000//colloquium/peter-grunwald/</link>
 				<pubDate>Tue, 21 Jun 2022 00:00:00 +0200</pubDate>
 				<description>&lt;h4 id=&quot;e-is-the-new-p-evidence-and-optional-continuation&quot;&gt;E is the New P: Evidence and Optional Continuation&lt;/h4&gt;
 
@@ -156,12 +156,12 @@ In simple cases, the E-value coincides with the Bayes factor, the notion of evid
 &lt;p&gt;Note: this meeting was performed in person and was not recorded.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/peter-grunwald/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//colloquium/peter-grunwald/</guid>
 			</item>
 		
 			<item>
 				<title>Wujie Wang</title>
-				<link>https://ai4science-amsterdam.github.io//colloquium/wujie-wang/</link>
+				<link>http://127.0.0.1:4000//colloquium/wujie-wang/</link>
 				<pubDate>Tue, 07 Jun 2022 00:00:00 +0200</pubDate>
 				<description>&lt;h4 id=&quot;generative-coarse-graining-of-molecular-conformations&quot;&gt;Generative Coarse-Graining of Molecular Conformations&lt;/h4&gt;
 
@@ -178,12 +178,12 @@ In simple cases, the E-value coincides with the Bayes factor, the notion of evid
 &lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1nvc1Gr9vJ-NGJkWcPmuRKEwG1o5Wwvbe/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/wujie-wang/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//colloquium/wujie-wang/</guid>
 			</item>
 		
 			<item>
 				<title>Francesca Grisoni</title>
-				<link>https://ai4science-amsterdam.github.io//colloquium/francesca-grisoni/</link>
+				<link>http://127.0.0.1:4000//colloquium/francesca-grisoni/</link>
 				<pubDate>Tue, 24 May 2022 00:00:00 +0200</pubDate>
 				<description>&lt;h4 id=&quot;harnessing-artificial-intelligence-for-de-novo-drug-design&quot;&gt;Harnessing artificial intelligence for de novo drug design&lt;/h4&gt;
 
@@ -200,12 +200,12 @@ In simple cases, the E-value coincides with the Bayes factor, the notion of evid
 &lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1cfMSNVY1tSrMphtbrbV91YLvXj91cure/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/francesca-grisoni/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//colloquium/francesca-grisoni/</guid>
 			</item>
 		
 			<item>
 				<title>Maximilian Dax</title>
-				<link>https://ai4science-amsterdam.github.io//colloquium/maximillian-dax/</link>
+				<link>http://127.0.0.1:4000//colloquium/maximillian-dax/</link>
 				<pubDate>Tue, 26 Apr 2022 00:00:00 +0200</pubDate>
 				<description>&lt;h4 id=&quot;titlereal-time-gravitational-wave-science-with-neural-posterior-estimation&quot;&gt;Title:Real-Time Gravitational Wave Science with Neural Posterior Estimation&lt;/h4&gt;
 
@@ -231,12 +231,12 @@ In simple cases, the E-value coincides with the Bayes factor, the notion of evid
 &lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1Lf11UG088JvazNsdnrFSE34UlBtQk72N/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/maximillian-dax/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//colloquium/maximillian-dax/</guid>
 			</item>
 		
 			<item>
 				<title>Gabriel Vivo-Truyols</title>
-				<link>https://ai4science-amsterdam.github.io//colloquium/gabriel-vivo-truyols/</link>
+				<link>http://127.0.0.1:4000//colloquium/gabriel-vivo-truyols/</link>
 				<pubDate>Tue, 12 Apr 2022 00:00:00 +0200</pubDate>
 				<description>&lt;h4 id=&quot;title-on-the-use-of-bayesian-statistics-for-chromatography-and-mass-spectrometry-dealing-with-big-data&quot;&gt;Title: On the use of Bayesian statistics for chromatography and mass spectrometry: dealing with big data&lt;/h4&gt;
 
@@ -258,7 +258,7 @@ Contrary to the frequentist approach, Bayesian statistics offers a very interest
 &lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://drive.google.com/file/d/1vbIfaJKXQ4mx1cfch8zX_CuRfuVGhATB/view?usp=sharing&quot;&gt;Watch Back ›&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//colloquium/gabriel-vivo-truyols/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//colloquium/gabriel-vivo-truyols/</guid>
 			</item>
 		
 	</channel>

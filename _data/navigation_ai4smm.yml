@@ -1,10 +1,10 @@
+- title: "AI4SMM"
+  url: "/ai4smm_home/"
+  side: left
+
 - title: "AI4Science"
   url: "/"
   side: left
-
-- title: "AI4SMM"
-  url: "/ai4smm_home/"
-  side: right
 
 - title: "About"
   url: "/ai4smm_rpa/"
