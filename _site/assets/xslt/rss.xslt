@@ -163,7 +163,7 @@ We develop and use machine learning techniques to discover patterns in data stre
             
             
               <li class="divider"></li>
-              <li><a  href="http://127.0.0.1:4000//people/">People</a></li>
+              <li><a  href="http://127.0.0.1:4000//members/">Members</a></li>
 
             
             

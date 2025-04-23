@@ -25,8 +25,8 @@
   url: "/research/"
   side: right
 
-- title: "People"
-  url: "/people/"
+- title: "Members"
+  url: "/members/"
   side: right
 
 - title: "Events"
