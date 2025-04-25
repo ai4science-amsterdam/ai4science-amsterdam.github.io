@@ -1,0 +1,49 @@
+I"3
+<p><img src="../../members/JacobusDijkman.jpg" alt="Jacobus Dijkman" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>PhD research of <strong>Jacobus Dijkman</strong></p>
+
+<p>Although less famous than the quantum version used for electronic
+structure calculations, classical density functional theory (cDFT)
+remains a very appealing approach to describe fluids. However, similar
+as in quantum DFT, the accuracy of the theory is hampered by the lack
+of an exact description of the (free) energy functional. Over the
+years, various approximations have been developed, albeit with mixed
+success.
+<!--more--></p>
+
+<p>Now, with a team of researchers at the Computational Chemistry Group (Van
+‘t Hoff Institute for Molecular Sciences) and the AMLab (Informatics
+Institute), together with the Debye
+Institute for Nanomaterials Science and the Institute for Theoretical
+Physics of Utrecht University, we have developed a machine-learned approximation
+that can significantly improve cDFT calculations of fluids and
+vapours.</p>
+
+<p>Our ‘neural density functional’ can be trained in two manners. The
+first approach applies the first functional derivative of the free
+energy, which requires for training a large dataset of inhomogeneous
+particle densities on a 3D grid computed with Monte Carlo simulations
+under various external potentials. This is computationally rather
+demanding. The second approach, based on the second functional
+derivatives, requires a dataset of only 1D radial distribution
+functions of only homogeneous densities. This requires significantly
+fewer simulations.</p>
+
+<p>Remarkably, we were able to show that the second approach
+works as well as the first for a simple Lennard-Jones liquid in a 1D
+planar symmetry. Work is underway to apply the new method to more
+practical applications.</p>
+
+<p>Joint work with <a href="https://amlab.science.uva.nl/people/MaxWelling/">Max Welling</a>, <a href="https://jwvdm.github.io/">Jan-Willem van de Meent</a>,
+<a href="https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing/">Bernd Ensing</a>, <a href="https://colloid.nl/people/marjolein-dijkstra/">Marjolein Dijkstra</a>, and <a href="https://colloid.nl/people/212/">René van Roij</a>,</p>
+
+<h4 id="papers">Papers</h4>
+<ol>
+  <li><a href="https://doi.org/10.1103/PhysRevLett.134.056103">Learning Neural Free-Energy Functionals with Pair-Correlation Matching</a> <br />
+Jacobus Dijkman, Marjolein Dijkstra, René van Roij, Max Welling,
+Jan-Willem van de Meent, and Bernd Ensing, <br />
+<em>Phys. Rev. Lett.</em> <strong>134</strong>, 056103 (2025)</li>
+</ol>
+
+:ET

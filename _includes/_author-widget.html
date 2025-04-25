@@ -1,0 +1,38 @@
+{% comment %}
+*
+*   First the include captures the url and image in a
+*   separate variable to make the code better readable.
+*
+*   These variables are widget_url and widget_image
+*
+{% endcomment %}
+
+{% capture widget_url %}{% if include.widget.url == NULL %}{% elsif include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
+
+{% capture widget_image %}{% if include.widget.image contains 'http' %}{{ include.widget.image }}{% else %}{{ site.urlimg }}{{ include.widget.image }}{% endif %}{% endcapture %}
+
+
+<aside>
+    <div class="panel radius">
+        {% if include.widget.image != NULL %}<img src="{{ widget_image }}" alt="{{ include.widget.name }}" />{% endif %}
+     	{% if include.widget.name != empty %}<h3>{{include.widget.name}}</h3>{% endif %}
+        {% if include.widget.function != empty %}
+            <p class="subheadline">{{ include.widget.function }}</p>
+        {% endif %}
+        {% if include.widget.text != empty %}<div itemprop="articleSection"><em>{{ include.widget.text }}</em></div>{% endif %}
+    </div>
+    <div class="panel radius">
+        <h4>Contact</h4>
+        <ul>
+        {% if include.widget.contact != NULL %}<li><a href="mailto:{{ include.widget.contact }}">Send email</a>{% endif %}
+        {% if include.widget.institute != NULL %}<li>Institute: {{ include.widget.institute }}{% endif %}
+        {% if include.widget.group != NULL %}<li>Group: {{ include.widget.group }}{% endif %}
+        {% if include.widget.room != NULL %}<li>Room: {{ include.widget.room }}{% endif %}
+        {% if include.widget.site1 != NULL %}<li><a href="{{ include.widget.url1 }}">{{ include.widget.site1 }}</a>{% endif %}
+        {% if include.widget.site2 != NULL %}<li><a href="{{ include.widget.url2 }}">{{ include.widget.site2 }}</a>{% endif %}
+        {% if include.widget.site3 != NULL %}<li><a href="{{ include.widget.url3 }}">{{ include.widget.site3 }}</a>{% endif %}
+        {% if include.widget.site4 != NULL %}<li><a href="{{ include.widget.url4 }}">{{ include.widget.site4 }}</a>{% endif %}
+        {% if include.widget.site5 != NULL %}<li><a href="{{ include.widget.url5 }}">{{ include.widget.site5 }}</a>{% endif %}
+	</ul>
+    </div>
+</aside>

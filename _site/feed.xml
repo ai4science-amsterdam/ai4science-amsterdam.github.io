@@ -10,28 +10,55 @@ We develop and use machine learning techniques to discover patterns in data stre
 		<atom:link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Jacobus Dijkman</title>
+				<title>Classical DFT</title>
 				<link>http://127.0.0.1:4000//projects/jacobus-dijkman2/</link>
 				<pubDate>Sun, 20 Apr 2025 00:00:00 +0200</pubDate>
-				<description>&lt;h4 id=&quot;deep-gaussian-markov-random-fields&quot;&gt;Deep Gaussian Markov Random Fields&lt;/h4&gt;
+				<description>&lt;p&gt;&lt;img src=&quot;../../members/JacobusDijkman.jpg&quot; alt=&quot;Jacobus Dijkman&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Date: 25-10-2022 14:00-1500 Central European Summer time&lt;/p&gt;
+&lt;p&gt;PhD research of &lt;strong&gt;Jacobus Dijkman&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../../people/FredrikLindsten.png&quot; alt=&quot;FredrikLindsten&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Although less famous than the quantum version used for electronic
+structure calculations, classical density functional theory (cDFT)
+remains a very appealing approach to describe fluids. However, similar
+as in quantum DFT, the accuracy of the theory is hampered by the lack
+of an exact description of the (free) energy functional. Over the
+years, various approximations have been developed, albeit with mixed
+success.
+&lt;!--more--&gt;&lt;/p&gt;
 
-&lt;p&gt;Speaker: &lt;strong&gt;Fredrik Lindsten&lt;/strong&gt;, Linköping University&lt;/p&gt;
+&lt;p&gt;Now, with a team of researchers at the Computational Chemistry Group (Van
+‘t Hoff Institute for Molecular Sciences) and the AMLab (Informatics
+Institute), together with the Debye
+Institute for Nanomaterials Science and the Institute for Theoretical
+Physics of Utrecht University, we have developed a machine-learned approximation
+that can significantly improve cDFT calculations of fluids and
+vapours.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Our ‘neural density functional’ can be trained in two manners. The
+first approach applies the first functional derivative of the free
+energy, which requires for training a large dataset of inhomogeneous
+particle densities on a 3D grid computed with Monte Carlo simulations
+under various external potentials. This is computationally rather
+demanding. The second approach, based on the second functional
+derivatives, requires a dataset of only 1D radial distribution
+functions of only homogeneous densities. This requires significantly
+fewer simulations.&lt;/p&gt;
 
-&lt;p&gt;Machine learning methods on graphs are relevant for many application domains due to their ability to model complex dependencies and structures. Gaussian Markov Random Fields (GMRFs) provide a principled way to define Gaussian models on graphs by utilizing their sparsity structure. In this talk I will show how we can use graph neural networks (GNNs) and convolutional neural networks (CNNs) do design scalable and flexible GMRFs. Starting with lattice graphs, we establish a formal connection between CNNs and GMRFs, by showing that common GMRFs are special cases of a generative model where the inverse mapping from data to latent variables is given by a 1-layer linear CNN. This connection allows us to generalize GMRFs to multi-layer CNN architectures, effectively increasing the order of the corresponding GMRF in a way which has favorable computational scaling. I will also discuss how this Deep GMRF can be generalized to arbitrary graphs using a specialized GNN layer. Well-established tools, such as autodiff and variational inference, can be used for simple and efficient inference and learning of the Deep GMRF, and for a Gaussian likelihood, close to exact Bayesian inference is available for the latent field. I demonstrate the flexibility of the proposed model and show that it compares favorably to other methods, both Bayesian and deep-learning-based, on spatial and non-spatial data.&lt;/p&gt;
+&lt;p&gt;Remarkably, we were able to show that the second approach
+works as well as the first for a simple Lennard-Jones liquid in a 1D
+planar symmetry. Work is underway to apply the new method to more
+practical applications.&lt;/p&gt;
 
-&lt;p&gt;Joint work with Joel Oskarsson (LiU) and Per Sidén (LiU/Qualcomm Arriver)&lt;/p&gt;
+&lt;p&gt;Joint work with &lt;a href=&quot;https://amlab.science.uva.nl/people/MaxWelling/&quot;&gt;Max Welling&lt;/a&gt;, &lt;a href=&quot;https://jwvdm.github.io/&quot;&gt;Jan-Willem van de Meent&lt;/a&gt;,
+&lt;a href=&quot;https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing/&quot;&gt;Bernd Ensing&lt;/a&gt;, &lt;a href=&quot;https://colloid.nl/people/marjolein-dijkstra/&quot;&gt;Marjolein Dijkstra&lt;/a&gt;, and &lt;a href=&quot;https://colloid.nl/people/212/&quot;&gt;René van Roij&lt;/a&gt;,&lt;/p&gt;
 
-&lt;p&gt;Papers:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2002.07467&quot;&gt;Deep Gaussian Markov Random Fields&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2206.05032&quot;&gt;Scalable Deep Gaussian Markov Random Fields for General Graphs&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&quot;papers&quot;&gt;Papers&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1103/PhysRevLett.134.056103&quot;&gt;Learning Neural Free-Energy Functionals with Pair-Correlation Matching&lt;/a&gt; &lt;br /&gt;
+Jacobus Dijkman, Marjolein Dijkstra, René van Roij, Max Welling,
+Jan-Willem van de Meent, and Bernd Ensing, &lt;br /&gt;
+&lt;em&gt;Phys. Rev. Lett.&lt;/em&gt; &lt;strong&gt;134&lt;/strong&gt;, 056103 (2025)&lt;/li&gt;
+&lt;/ol&gt;
 
 </description>
 				<guid isPermaLink="true">http://127.0.0.1:4000//projects/jacobus-dijkman2/</guid>

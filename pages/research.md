@@ -7,31 +7,26 @@ show_meta: false
 header: no
    #image_fullwidth: "molsim2_s.jpg"
    #title: ''
+widget1:
+  title: "Blog & Portfolio"
+  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  image: widget-1-302x182.jpg
+  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+widget2:
+  title: "Why use this theme?"
+  url: 'http://phlow.github.io/feeling-responsive/info/'
+  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+widget3:
+  title: "Download Theme"
+  url: 'https://github.com/Phlow/feeling-responsive'
+  image: widget-github-303x182.jpg
+  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
 permalink: "/research/"
 ---
 
 <center> <h1>Research</h1> </center>
-<div id="blog-index" class="row">
-	<div class="small-12 columns t30">
-		<h1>{{ page.title }}</h1>
-		{% if page.teaser %}<p class="teaser">{{ page.teaser }}</p>{% endif %}
-		<dl class="accordion" data-accordion>
-			{% assign counter = 1 %}
-		        {% for post in site.posts limit:1000 %}
-		        {% if post.categories contains 'projects' %}
-			<dd class="accordion-navigation">
-			<a href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a>
-				<div id="panel{{ counter }}" class="content">
-					{% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
-					<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
-				</div>
-			</dd>
-			{% assign counter=counter | plus:1 %}
-			{% endif %}
-			{% endfor %}
-		</dl>
-	</div><!-- /.small-12.columns -->
-	</div>   <!-- /.row -->
+
 
 	
 ## Gravitational Waves
@@ -47,7 +42,7 @@ The breakthrough discovery of the first gravitational wave signal in September 2
 
  By Benjamin Miller 
 
- <img src="../people/BenjaminMiller.jpg"
+ <img src="../members/BenjaminMiller.jpg"
      alt="Benjamin Miller"
      width="100"
      style="float: center; margin-right: 10px; border-radius:50%;" /> 
@@ -73,7 +68,7 @@ Analyzing and extracting all relevant information from such data is a challengin
 
  By Jim Boelrijk
 
-  <img src="../people/JimBoelrijk2.jpg"
+  <img src="../members/JimBoelrijk2.jpg"
      alt="Jim Boelrijk"
      width="100"
      style="float: center; margin-right: 10px; border-radius:50%;" />
@@ -103,7 +98,7 @@ There are multiple areas where ML can assist with solving the task at hand and t
 
  By David Ruhe  
 
-<img src="../people/DavidRuhe.jpg"
+<img src="../members/DavidRuhe.jpg"
      alt="David Ruhe"
      width="100"
      style="float: center; margin-right: 10px; border-radius:50%;"/>
@@ -126,7 +121,7 @@ In this project, we focus on Bacillus subtilis, a well-studied Gram-positive bac
 By Teodora Pandeva
 
 
-<img src="../people/TeodoraPandeva.jpg"
+<img src="../members/TeodoraPandeva.jpg"
      alt="TeodoraPandeva"
      width="100"
      style="float: center; margin-right: 10px; border-radius:50%;"/>
@@ -157,7 +152,7 @@ This project will explore the use of machine learning to overcome this hurdle. B
 
 By Fiona Lippert
 
-<img src="../people/FionaLippert.jpg"
+<img src="../members/FionaLippert.jpg"
      alt="FionaLippert"
      width="100"
      style="float: center; margin-right: 10px; border-radius:50%;"/>
@@ -184,7 +179,7 @@ Among the methods for finding a viable antigen, the structural based approach ha
 
  By Cong Liu
 
-<img src="../people/CongLiu.jpg"
+<img src="../members/CongLiu.jpg"
      alt="Cong Liu"
      width="100"
      style="float: center; margin-right: 10px; border-radius:50%;"/>
@@ -206,7 +201,7 @@ In this project, we will explore deep learning and Bayesian optimization techniq
 
  By Maximilian Lipp
 
-<img src="../people/MaximilianLipp.jpg"
+<img src="../members/MaximilianLipp.jpg"
      alt="MaximilianLipp"
      width="100"
      style="float: center; margin-right: 10px; border-radius:50%;"/>

@@ -1,94 +1,4 @@
-I"!:<center> <h1>Research</h1> </center>
-<div id="blog-index" class="row">
-	<div class="small-12 columns t30">
-		<h1></h1>
-		
-		<dl class="accordion" data-accordion="">
-			
-		        
-		        
-			<dd class="accordion-navigation">
-			<a href="#panel1"><span class="iconfont"></span> 25 October 2022 › <strong>Jacobus Dijkman</strong></a>
-				<div id="panel1" class="content">
-					Neural Functionals
-					<a href="http://127.0.0.1:4000//projects/jacobus-dijkman2/" title="Read Jacobus Dijkman"><strong>Read More&nbsp;›</strong></a><br /><br />
-				</div>
-			</dd>
-			
-			
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		        
-			
-		</dl>
-	</div><!-- /.small-12.columns -->
-	</div>
-<p><!-- /.row --></p>
+I"�5<center> <h1>Research</h1> </center>
 
 <h2 id="gravitational-waves">Gravitational Waves</h2>
 <p><br /></p>
@@ -99,7 +9,7 @@
 
 <p>By Benjamin Miller</p>
 
-<p><img src="../people/BenjaminMiller.jpg" alt="Benjamin Miller" width="100" style="float: center; margin-right: 10px; border-radius:50%;" /></p>
+<p><img src="../members/BenjaminMiller.jpg" alt="Benjamin Miller" width="100" style="float: center; margin-right: 10px; border-radius:50%;" /></p>
 
 <hr />
 
@@ -116,7 +26,7 @@
 
 <p>By Jim Boelrijk</p>
 
-<p><img src="../people/JimBoelrijk2.jpg" alt="Jim Boelrijk" width="100" style="float: center; margin-right: 10px; border-radius:50%;" /></p>
+<p><img src="../members/JimBoelrijk2.jpg" alt="Jim Boelrijk" width="100" style="float: center; margin-right: 10px; border-radius:50%;" /></p>
 
 <hr />
 
@@ -137,7 +47,7 @@
 
 <p>By David Ruhe</p>
 
-<p><img src="../people/DavidRuhe.jpg" alt="David Ruhe" width="100" style="float: center; margin-right: 10px; border-radius:50%;" /></p>
+<p><img src="../members/DavidRuhe.jpg" alt="David Ruhe" width="100" style="float: center; margin-right: 10px; border-radius:50%;" /></p>
 
 <hr />
 
@@ -153,7 +63,7 @@ In this project, we focus on Bacillus subtilis, a well-studied Gram-positive bac
 
 <p>By Teodora Pandeva</p>
 
-<p><img src="../people/TeodoraPandeva.jpg" alt="TeodoraPandeva" width="100" style="float: center; margin-right: 10px; border-radius:50%;" /></p>
+<p><img src="../members/TeodoraPandeva.jpg" alt="TeodoraPandeva" width="100" style="float: center; margin-right: 10px; border-radius:50%;" /></p>
 
 <hr />
 
@@ -172,7 +82,7 @@ This project will explore the use of machine learning to overcome this hurdle. B
 
 <p>By Fiona Lippert</p>
 
-<p><img src="../people/FionaLippert.jpg" alt="FionaLippert" width="100" style="float: center; margin-right: 10px; border-radius:50%;" /></p>
+<p><img src="../members/FionaLippert.jpg" alt="FionaLippert" width="100" style="float: center; margin-right: 10px; border-radius:50%;" /></p>
 
 <p>Images from:</p>
 
@@ -193,7 +103,7 @@ Among the methods for finding a viable antigen, the structural based approach ha
 
 <p>By Cong Liu</p>
 
-<p><img src="../people/CongLiu.jpg" alt="Cong Liu" width="100" style="float: center; margin-right: 10px; border-radius:50%;" /></p>
+<p><img src="../members/CongLiu.jpg" alt="Cong Liu" width="100" style="float: center; margin-right: 10px; border-radius:50%;" /></p>
 
 <hr />
 
@@ -209,7 +119,7 @@ Among the methods for finding a viable antigen, the structural based approach ha
 
 <p>By Maximilian Lipp</p>
 
-<p><img src="../people/MaximilianLipp.jpg" alt="MaximilianLipp" width="100" style="float: center; margin-right: 10px; border-radius:50%;" /></p>
+<p><img src="../members/MaximilianLipp.jpg" alt="MaximilianLipp" width="100" style="float: center; margin-right: 10px; border-radius:50%;" /></p>
 
 <hr />
 

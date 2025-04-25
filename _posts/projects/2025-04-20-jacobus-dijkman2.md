@@ -1,57 +1,104 @@
 ---
-layout: page
-sidebar: left
-title: "Jacobus Dijkman"
-subheadline: "25 October 2022"
-teaser: "Neural Functionals"
+layout: project
+sidebar: right
+subheadline: "Research project"
+title: "Classical DFT"
+teaser: "AI-improved prediction of thermodynamic properties of liquids"
 breadcrumb: true
 categories:
     - projects
 tags:
     - jdijkman
-header:
-    title: ""
-    #background-color: "#EFC94C;"
-#    pattern: pattern_concrete.jpg
-    image_fullwidth: banner.jpg
-   # caption: This is a caption for the header image with link
-   # caption_url: https://unsplash.com/
+image:
+    thumb: gallery-example-3-thumb.jpg
+    title: project_jacobusdijkman1.jpg
+    caption: "Molecules can interact with rugged potentials, for instance inside a porous material, leading to large density fluctuations. Nevertheless, the efficient cDFT predictions match very well the time-consuming atomistic Monte Carlo simulation result. Image: HIMS / PhysRevLett."
+    caption_url: https://doi.org/10.1103/PhysRevLett.134.056103
+author:
+    image: author_jacobusdijkman.jpg
+    name: Jacobus Dijkman
+    function: PhD candidate
+    room: SP C2.228
+    contact: j.j.l.dijkman@uva.nl 
+    institute: HIMS and IvI
+    group: Computational Chemistry & AMLab
+    text: With supervision by Max Welling, Jan-Willem van de Meent and Bernd Ensing at the Computational Chemistry Group and the Amsterdam Machine Learning Lab at the University of Amsterdam,  I’m infusing the robust analytical framework of statistical physics with machine learning to describes the intricate thermodynamic equilibrium properties and structural aspects of classical many-body systems. 
+    site1: Computational Chemistry
+    url1: https://www.compchem.nl/group_members/jacobus-dijkman/
+    site2: AMLab
+    url2: http://amlab.science.uva.nl/people/JacobusDijkman/
+    site3: Google Scholar
+    url3: https://scholar.google.com/citations?user=JMPMHOoAAAAJ&hl=nl
+    site4: LinkIn
+    url4: https://www.linkedin.com/in/jacobus-dijkman-b997b8109/
+    site5: ORCID
+    url5: https://orcid.org/0009-0006-9048-4134
+# header:
+    title: "Research"
+    background-color: "#fabb00"
+#    background-color: "#EFC94C;"
+    pattern: pattern_concrete.jpg
+#    image_fullwidth: banner.jpg
+#   # caption: This is a caption for the header image with link
+#   # caption_url: https://unsplash.com/
+show_meta: false
+excerpt_separator: <!--more-->
 ---
 
-
-#### Deep Gaussian Markov Random Fields
-
-Date: 25-10-2022 14:00-1500 Central European Summer time
-
- <img src="../../people/FredrikLindsten.png"
-     alt="FredrikLindsten"
+ <img src="../../members/JacobusDijkman.jpg"
+     alt="Jacobus Dijkman"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
-Speaker: **Fredrik Lindsten**, Linköping University
+PhD research of **Jacobus Dijkman**
 
-**Abstract:** <br/>
+Although less famous than the quantum version used for electronic
+structure calculations, classical density functional theory (cDFT)
+remains a very appealing approach to describe fluids. However, similar
+as in quantum DFT, the accuracy of the theory is hampered by the lack
+of an exact description of the (free) energy functional. Over the
+years, various approximations have been developed, albeit with mixed
+success.
+<!--more-->
 
-Machine learning methods on graphs are relevant for many application domains due to their ability to model complex dependencies and structures. Gaussian Markov Random Fields (GMRFs) provide a principled way to define Gaussian models on graphs by utilizing their sparsity structure. In this talk I will show how we can use graph neural networks (GNNs) and convolutional neural networks (CNNs) do design scalable and flexible GMRFs. Starting with lattice graphs, we establish a formal connection between CNNs and GMRFs, by showing that common GMRFs are special cases of a generative model where the inverse mapping from data to latent variables is given by a 1-layer linear CNN. This connection allows us to generalize GMRFs to multi-layer CNN architectures, effectively increasing the order of the corresponding GMRF in a way which has favorable computational scaling. I will also discuss how this Deep GMRF can be generalized to arbitrary graphs using a specialized GNN layer. Well-established tools, such as autodiff and variational inference, can be used for simple and efficient inference and learning of the Deep GMRF, and for a Gaussian likelihood, close to exact Bayesian inference is available for the latent field. I demonstrate the flexibility of the proposed model and show that it compares favorably to other methods, both Bayesian and deep-learning-based, on spatial and non-spatial data.
+Now, with a team of researchers at the Computational Chemistry Group (Van
+‘t Hoff Institute for Molecular Sciences) and the AMLab (Informatics
+Institute), together with the Debye
+Institute for Nanomaterials Science and the Institute for Theoretical
+Physics of Utrecht University, we have developed a machine-learned approximation
+that can significantly improve cDFT calculations of fluids and
+vapours.
 
-Joint work with Joel Oskarsson (LiU) and Per Sidén (LiU/Qualcomm Arriver)
+Our ‘neural density functional’ can be trained in two manners. The
+first approach applies the first functional derivative of the free
+energy, which requires for training a large dataset of inhomogeneous
+particle densities on a 3D grid computed with Monte Carlo simulations
+under various external potentials. This is computationally rather
+demanding. The second approach, based on the second functional
+derivatives, requires a dataset of only 1D radial distribution
+functions of only homogeneous densities. This requires significantly
+fewer simulations.
 
-Papers:
+Remarkably, we were able to show that the second approach
+works as well as the first for a simple Lennard-Jones liquid in a 1D
+planar symmetry. Work is underway to apply the new method to more
+practical applications. 
 
-[Deep Gaussian Markov Random Fields][10]
+Joint work with [Max Welling][2], [Jan-Willem van de Meent][3],
+[Bernd Ensing][4], [Marjolein Dijkstra][5], and [René van Roij][6],
 
-[Scalable Deep Gaussian Markov Random Fields for General Graphs][11]
+#### Papers
+1. [Learning Neural Free-Energy Functionals with Pair-Correlation Matching][1]   
+Jacobus Dijkman, Marjolein Dijkstra, René van Roij, Max Welling,
+Jan-Willem van de Meent, and Bernd Ensing,   
+*Phys. Rev. Lett.* **134**, 056103 (2025)
 
 
 
-[1]: https://bereau.group/
-[2]: /blog/
-[9]: /contact/
-[3]:https://github.com/undark-lab/swyft
-[4]:https://arxiv.org/abs/2011.13951
-[5]:http://www.mathben.com/
-[6]:https://pubs.acs.org/doi/10.1021/acs.jctc.0c00981
-[7]:https://github.com/Ensing-Laboratory/FABULOUS
-[8]:www.evozyne.com
-[10]:https://arxiv.org/abs/2002.07467
-[11]:https://arxiv.org/abs/2206.05032
+
+[1]: https://doi.org/10.1103/PhysRevLett.134.056103
+[2]: https://amlab.science.uva.nl/people/MaxWelling/
+[3]: https://jwvdm.github.io/
+[4]: https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing/
+[5]: https://colloid.nl/people/marjolein-dijkstra/
+[6]: https://colloid.nl/people/212/
