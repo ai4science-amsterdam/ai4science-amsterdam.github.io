@@ -1,5 +1,10 @@
 ---
 layout: project
+header: 
+#    title: "Research"
+#    background-color: "#fabb00"
+#    pattern: pattern_concrete.jpg
+#    image_fullwidth: banner.jpg
 sidebar: right
 subheadline: "Research project"
 title: "Classical DFT"
@@ -10,7 +15,6 @@ categories:
 tags:
     - jdijkman
 image:
-    thumb: gallery-example-3-thumb.jpg
     title: project_jacobusdijkman1.jpg
     caption: "Molecules can interact with rugged potentials, for instance inside a porous material, leading to large density fluctuations. Nevertheless, the efficient cDFT predictions match very well the time-consuming atomistic Monte Carlo simulation result. Image: HIMS / PhysRevLett."
     caption_url: https://doi.org/10.1103/PhysRevLett.134.056103
@@ -33,21 +37,10 @@ author:
     url4: https://www.linkedin.com/in/jacobus-dijkman-b997b8109/
     site5: ORCID
     url5: https://orcid.org/0009-0006-9048-4134
-# header:
-    title: "Research"
-    background-color: "#fabb00"
-#    background-color: "#EFC94C;"
-    pattern: pattern_concrete.jpg
-#    image_fullwidth: banner.jpg
-#   # caption: This is a caption for the header image with link
-#   # caption_url: https://unsplash.com/
 show_meta: false
-excerpt_separator: <!--more-->
 ---
 
- <img src="../../members/JacobusDijkman.jpg"
-     alt="Jacobus Dijkman"
-     width="100"
+<img src="../../members/JacobusDijkman.jpg" alt="Jacobus Dijkman" width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
 
 PhD research of **Jacobus Dijkman**
@@ -59,7 +52,6 @@ as in quantum DFT, the accuracy of the theory is hampered by the lack
 of an exact description of the (free) energy functional. Over the
 years, various approximations have been developed, albeit with mixed
 success.
-<!--more-->
 
 Now, with a team of researchers at the Computational Chemistry Group (Van
 ‘t Hoff Institute for Molecular Sciences) and the AMLab (Informatics

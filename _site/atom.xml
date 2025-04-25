@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://127.0.0.1:4000//</id>
 	<title>AI4Science Lab</title>
-	<updated>2025-04-25T10:02:05+02:00</updated>
+	<updated>2025-04-25T10:34:11+02:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -27,23 +27,23 @@ We develop and use machine learning techniques to discover patterns in data stre
 
 	
 		<entry>
-			<id>http://127.0.0.1:4000//projects/jacobus-dijkman2/</id>
+			<id>http://127.0.0.1:4000//projects/jacobus-dijkman1/</id>
 			<title>Classical DFT</title>
-			<link href="http://127.0.0.1:4000//projects/jacobus-dijkman2/" rel="alternate" type="text/html" title="Classical DFT" />
+			<link href="http://127.0.0.1:4000//projects/jacobus-dijkman1/" rel="alternate" type="text/html" title="Classical DFT" />
 			<updated>2025-04-20T00:00:00+02:00</updated>
 
 			
 				
 				<author>
 					
-						<name>{&quot;image&quot;=&gt;&quot;author_jacobusdijkman.jpg&quot;, &quot;name&quot;=&gt;&quot;Jacobus Dijkman&quot;, &quot;function&quot;=&gt;&quot;PhD candidate&quot;, &quot;room&quot;=&gt;&quot;SP C2.228&quot;, &quot;contact&quot;=&gt;&quot;j.j.l.dijkman@uva.nl&quot;, &quot;institute&quot;=&gt;&quot;HIMS and IvI&quot;, &quot;group&quot;=&gt;&quot;Computational Chemistry &amp; AMLab&quot;, &quot;text&quot;=&gt;&quot;With supervision by Max Welling, Jan-Willem van de Meent and Bernd Ensing at the Computational Chemistry Group and the Amsterdam Machine Learning Lab at the University of Amsterdam,  I’m infusing the robust analytical framework of statistical physics with machine learning to describes the intricate thermodynamic equilibrium properties and structural aspects of classical many-body systems.&quot;, &quot;site1&quot;=&gt;&quot;Computational Chemistry&quot;, &quot;url1&quot;=&gt;&quot;https://www.compchem.nl/group_members/jacobus-dijkman/&quot;, &quot;site2&quot;=&gt;&quot;AMLab&quot;, &quot;url2&quot;=&gt;&quot;http://amlab.science.uva.nl/people/JacobusDijkman/&quot;, &quot;site3&quot;=&gt;&quot;Google Scholar&quot;, &quot;url3&quot;=&gt;&quot;https://scholar.google.com/citations?user=JMPMHOoAAAAJ&amp;hl=nl&quot;, &quot;site4&quot;=&gt;&quot;LinkIn&quot;, &quot;url4&quot;=&gt;&quot;https://www.linkedin.com/in/jacobus-dijkman-b997b8109/&quot;, &quot;site5&quot;=&gt;&quot;ORCID&quot;, &quot;url5&quot;=&gt;&quot;https://orcid.org/0009-0006-9048-4134&quot;, &quot;title&quot;=&gt;&quot;Research&quot;, &quot;background-color&quot;=&gt;&quot;#fabb00&quot;, &quot;pattern&quot;=&gt;&quot;pattern_concrete.jpg&quot;}</name>
+						<name>{&quot;image&quot;=&gt;&quot;author_jacobusdijkman.jpg&quot;, &quot;name&quot;=&gt;&quot;Jacobus Dijkman&quot;, &quot;function&quot;=&gt;&quot;PhD candidate&quot;, &quot;room&quot;=&gt;&quot;SP C2.228&quot;, &quot;contact&quot;=&gt;&quot;j.j.l.dijkman@uva.nl&quot;, &quot;institute&quot;=&gt;&quot;HIMS and IvI&quot;, &quot;group&quot;=&gt;&quot;Computational Chemistry &amp; AMLab&quot;, &quot;text&quot;=&gt;&quot;With supervision by Max Welling, Jan-Willem van de Meent and Bernd Ensing at the Computational Chemistry Group and the Amsterdam Machine Learning Lab at the University of Amsterdam,  I’m infusing the robust analytical framework of statistical physics with machine learning to describes the intricate thermodynamic equilibrium properties and structural aspects of classical many-body systems.&quot;, &quot;site1&quot;=&gt;&quot;Computational Chemistry&quot;, &quot;url1&quot;=&gt;&quot;https://www.compchem.nl/group_members/jacobus-dijkman/&quot;, &quot;site2&quot;=&gt;&quot;AMLab&quot;, &quot;url2&quot;=&gt;&quot;http://amlab.science.uva.nl/people/JacobusDijkman/&quot;, &quot;site3&quot;=&gt;&quot;Google Scholar&quot;, &quot;url3&quot;=&gt;&quot;https://scholar.google.com/citations?user=JMPMHOoAAAAJ&amp;hl=nl&quot;, &quot;site4&quot;=&gt;&quot;LinkIn&quot;, &quot;url4&quot;=&gt;&quot;https://www.linkedin.com/in/jacobus-dijkman-b997b8109/&quot;, &quot;site5&quot;=&gt;&quot;ORCID&quot;, &quot;url5&quot;=&gt;&quot;https://orcid.org/0009-0006-9048-4134&quot;}</name>
 					
 					
 					
 				</author>
 			
 			<summary>AI-improved prediction of thermodynamic properties of liquids</summary>
-			<content type="html" xml:base="http://127.0.0.1:4000//projects/jacobus-dijkman2/">&lt;p&gt;&lt;img src=&quot;../../members/JacobusDijkman.jpg&quot; alt=&quot;Jacobus Dijkman&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+			<content type="html" xml:base="http://127.0.0.1:4000//projects/jacobus-dijkman1/">&lt;p&gt;&lt;img src=&quot;../../members/JacobusDijkman.jpg&quot; alt=&quot;Jacobus Dijkman&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;PhD research of &lt;strong&gt;Jacobus Dijkman&lt;/strong&gt;&lt;/p&gt;
 
@@ -53,8 +53,7 @@ remains a very appealing approach to describe fluids. However, similar
 as in quantum DFT, the accuracy of the theory is hampered by the lack
 of an exact description of the (free) energy functional. Over the
 years, various approximations have been developed, albeit with mixed
-success.
-&lt;!--more--&gt;&lt;/p&gt;
+success.&lt;/p&gt;
 
 &lt;p&gt;Now, with a team of researchers at the Computational Chemistry Group (Van
 ‘t Hoff Institute for Molecular Sciences) and the AMLab (Informatics
