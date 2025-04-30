@@ -16,7 +16,7 @@ header:
    # caption_url: https://unsplash.com/
 ---
 
- <img src="../../people/SaerSamanipour2.jpeg"
+ <img src="../../members/SaerSamanipour2.jpeg"
      alt="SaerSamanipour"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

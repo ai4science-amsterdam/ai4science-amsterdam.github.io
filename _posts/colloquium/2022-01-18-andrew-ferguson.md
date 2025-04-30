@@ -19,7 +19,7 @@ header:
 
 #### Ultra-fast molecular simulators and data-driven protein design
 
- <img src="../../people/AndrewFerguson.jpeg"
+ <img src="../../members/AndrewFerguson.jpeg"
      alt="AndrewFerguson"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

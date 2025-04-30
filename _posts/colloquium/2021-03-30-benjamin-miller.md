@@ -16,7 +16,7 @@ header:
    # caption_url: https://unsplash.com/
 ---
 
- <img src="../../people/BenjaminMiller.jpg"
+ <img src="../../members/BenjaminMiller.jpg"
      alt="benjaminmiller"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

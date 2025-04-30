@@ -16,7 +16,7 @@ header:
    # caption_url: https://unsplash.com/
 ---
 
- <img src="../../people/AlexandreTkatchenko.jpeg"
+ <img src="../../members/AlexandreTkatchenko.jpeg"
      alt="AlexandreTkatchenko"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

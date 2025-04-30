@@ -1,0 +1,11 @@
+I"<p><img src="../../members/FerryHooft.jpg" alt="ferryhooft" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>Speaker: <strong>Ferry Hooft</strong>, PhD Student at Van ’t Hoff Institute for Molecular Sciences, AI4Science Laboratory, and Amsterdam Center for Multiscale Modeling, University of Amsterdam</p>
+
+<p><strong>Abstract:</strong> <br />
+With the continual improvement of computing hardware and algorithms, simulations have become a powerful tool for understanding all sorts of (bio)molecular processes. To handle the large simulation data sets and to accelerate slow, activated transitions, a condensed set of descriptors, or collective variables (CVs), is needed to discern the relevant dynamics that describes the molecular process of interest. However, proposing an adequate set of CVs that can capture the intrinsic reaction coordinate of the molecular transition is often extremely difficult. Here, we present a framework to find an optimal set of CVs from a pool of candidates using a combination of artificial neural networks and genetic algorithms. The approach effectively replaces the encoder of an autoencoder network with genes to represent the latent space, i.e., the CVs.
+For more information, see this <a href="https://pubs.acs.org/doi/10.1021/acs.jctc.0c00981">article</a> or <a href="https://github.com/Ensing-Laboratory/FABULOUS">github</a></p>
+
+<p><a class="radius button small" href="https://drive.google.com/file/d/1FhdN_bykXTxtkxdf17MRdF_Xz-cMmhe1/view?usp=sharing">Watch Back ›</a></p>
+
+:ET

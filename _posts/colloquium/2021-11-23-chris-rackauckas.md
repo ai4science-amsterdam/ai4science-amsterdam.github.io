@@ -19,7 +19,7 @@ header:
 
 #### The Interplay of Science-Guided AI and Differentiable Simulation
 
- <img src="../../people/ChrisRackauckas.jpeg"
+ <img src="../../members/ChrisRackauckas.jpeg"
      alt="ChrisRackauckas"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

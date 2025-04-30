@@ -16,7 +16,7 @@ header:
    # caption_url: https://unsplash.com/
 ---
 
- <img src="../../people/MarioGeiger.jpg"
+ <img src="../../members/MarioGeiger.jpg"
      alt="mariogeiger"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

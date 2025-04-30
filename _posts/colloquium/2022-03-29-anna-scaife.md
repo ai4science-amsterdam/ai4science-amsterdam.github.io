@@ -21,7 +21,7 @@ header:
 Date: 29-03-2022 14:00-1500 Central European Summer time
 
 
- <img src="../../people/AnnaScaife.jpeg"
+ <img src="../../members/AnnaScaife.jpeg"
      alt="AnnaScaife"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

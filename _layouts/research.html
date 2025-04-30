@@ -1,0 +1,76 @@
+---
+layout: default
+# format: blog-index
+# Don't index these pages dear Google.
+noindex: true
+---
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .publication-list {
+            list-style: none;
+            padding: 0;
+        }
+        .publication-item {
+            display: flex;
+            align-items: flex-start;
+            margin-top: 50px;
+        }
+        .publication-item img {
+            width: 150px;
+            height: 150px;
+            margin-right: 30px;
+        }
+        .publication-item .details {
+            flex: 1;
+        }
+        .publication-item .details h2 {
+            margin: 0 0 0px;
+            font-size: 1.2em;
+        }
+        .publication-item .details h3 {
+            margin: 0 0 0px;
+            font-size: 1.0em;
+        }
+        .publication-item .details p {
+            margin: 0;
+            color: #555;
+        }
+    </style>
+</head>
+
+	
+<div class="row">
+    <div class="small-12 columns t60">
+        <h1>{{ page.title }}</h1>
+        {% if page.teaser %}<p class="teaser">{{ page.teaser }}</p>{%endif %}
+      
+          <ul class="publication-list">
+            {% for post in site.posts limit:1000 %}
+              {% if post.categories contains 'research' %}
+      
+                  <li class="publication-item">
+		    {% if post.image.thumb %}
+		      <a href="{{ site.url }}{{ site.baseurl }}{{post.url }}" title="Read {{ post.title | escape_once }}">
+	              <img src="{{ site.urlimg }}{{ post.image.thumb }}" width="100" alt="{{ post.title | escape_once }} itemprop="image"></a>
+	            {% endif %}
+	            <div class="details">
+                      <h2>{{ post.title }}</h2>
+                      {% if post.teaser %}<h3>{{ post.teaser | strip_html | escape }}</h3>{% endif %}
+		      {% if post.author.name %}<p><em>{{ post.subheadline }} by {{ post.author.name }}</em></p>{% endif %}
+		      <p>
+		      {% if post.description %}{{ post.description }}{% endif %}
+		      <a href="{{ site.url }}{{ site.baseurl }}{{post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a></p>
+                    </div>
+		  </li>
+		
+              {% endif %}
+            {% endfor %}
+
+    </div><!-- /.small-12.columns -->
+</div><!-- /.row -->

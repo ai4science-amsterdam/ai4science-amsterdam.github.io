@@ -7,21 +7,6 @@ show_meta: false
 header: no
    #image_fullwidth: "molsim2_s.jpg"
    #title: ''
-widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
-widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
-widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
 permalink: "/research/"
 ---
 
@@ -32,7 +17,7 @@ permalink: "/research/"
 ## Gravitational Waves
 <br/>
 
-<img src="../images/fig_project1.png"
+<img src="../images/project_benjaminmiller1.png"
      alt="Project1"
      width="400"
      style="float: left; margin-right: 10px;" />
@@ -52,14 +37,14 @@ The breakthrough discovery of the first gravitational wave signal in September 2
 ## Liquid Chromatography
 <br/>
 
-<img src="../images/fig_project2b.png"
+<img src="../images/project_jimboelrijk1.png"
      alt="Project1"
      width="400"
      style="float: right; margin-right: 10px;" />
 
 Two-dimensional liquid chromatography (2DLC) is a powerful technique to separate and detect trace molecular compounds in complex samples (think of proteins, antibodies, oils, paints, etc.). The separation is based on the difference in "retention" time that it takes for each compound to be carried by a solvent (mobile phase) through a column filled with a material (stationary phase) that interacts with the injected compounds based on a chosen property, such as molecular size, charge or hydrophilicity, as schematically drawn on the right. 2DLC is combined with a detection method such as UV-VIS, IR, or mass spectroscopy (MS), that identifies the separated molecules. As the compounds can have extremely low concentrations (e.g. protein biomarkers, plant hormones, food contaminants), the signals of interest are often buried in the noise of the data and information is being lost. Typical datasets contain several gigabytes of data per measurement.
 
-<img src="../images/fig_project2c.jpg"
+<img src="../images/project_jimboelrijk1_thumb.jpg"
      alt="LC"
      width="400"
      style="float: right; margin-right: 10px;" />
@@ -87,7 +72,7 @@ One of the cutting edge areas of astronomy is recognising rare features in data 
 
 These transients are typically multi-messenger events, meaning that their emission is seen throughout the electromagnetic spectrum and using other ‘messengers’ including neutrinos and gravitational waves. By combining the multi-messenger observations, we can probe the most extreme physical environments in the universe. However, we are not monitoring the whole sky all the time with sensitive observatories, so we need to alert them to interesting objects in order to trigger follow-up observations. As these events are often fleeting at different wavelengths, we need to trigger the follow-up in as close to real-time as possible.
 
-<img src="../images/fig_project3a.png"
+<img src="../images/project_davidruhe1_thumb.png"
      alt="LC"
      width="400"
      style="float: right; margin-right: 10px;" />
@@ -109,7 +94,7 @@ There are multiple areas where ML can assist with solving the task at hand and t
 
 <br/>
 
-<img src="../images/fig_project4b.png"
+<img src="../images/project_teodorapandeva1.png"
      alt="Project1"
      width="400"
      style="float: right; margin-right: 10px;" />
@@ -132,7 +117,7 @@ By Teodora Pandeva
 
 <br/>
 
-<img src="../images/fig_project5a.png"
+<img src="../images/project_fionalippert1_thumb.png"
      alt="Source: doi:10.3390/rs11192233"
      width="400"
      style="float: right; margin-right: 10px;"
@@ -142,7 +127,7 @@ Every year millions of birds travel hundreds if not thousands of kilometers betw
 
 However, studying the aerial movement of migrating birds on a large scale is challenging. Many birds migrate during the night or at high altitudes which makes it impossible for humans to observe them from the ground. Modern tracking devices overcome this issue but they are limited to very few individuals and species with sufficient body mass. Radar technology is considered a promising alternative. In particular international networks of weather radars, which are known to capture mass movements of migrating birds, offer unparalleled opportunities to quantify and analyze bird migration at large spatial and temporal scales. But the field of radar aeroecology is still in its infancy. Challenges relating to the mere volume of raw radar observations as well as data quality issues such as inconsistent calibration and preprocessing, observation artifacts and partial observability prevent ecologists from utilizing the full potential of available radar databases.
 
-<img src="../images/fig_project5b.png"
+<img src="../images/project_fionalippert1.png"
      alt="Source: doi:10.3390/rs11192233"
      width="500"
      style="float: right; margin-right: 10px;"

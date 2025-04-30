@@ -1,0 +1,24 @@
+I"8<h4 id="titlereal-time-gravitational-wave-science-with-neural-posterior-estimation">Title:Real-Time Gravitational Wave Science with Neural Posterior Estimation</h4>
+
+<p>Date: 26-04-2022 11:00-1200 Central European Summer time</p>
+
+<p><img src="../../members/MaximilianDax.jpeg" alt="MaximilianDax" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>Speaker: <strong>Maximilian Dax</strong>, PhD Student at the Max Planck Institute for Intelligent Systems</p>
+
+<p><strong>Abstract:</strong> <br /></p>
+
+<p>Inferring astrophyscial parameters from gravitational wave (GW) measurements is a central task in GW analysis. Standard inference methods, based e.g. on Markov chain Monte Carlo (MCMC), require days of computation for the analysis of a single GW event. In this talk I present our new approach DINGO that reduces this inference time to 20 seconds per event by using conditional normalizing flows. I then explain how physical symmetries can be used to enhance the accuracy of the inference networks. Finally, I demonstrate on real GW event data that our likelihood-free approach produces indistinguishable results from MCMC while being 1000 times faster.</p>
+
+<ol>
+  <li>
+    <p>Dax et al. Real-Time Gravitational Wave Science with Neural Posterior Estimation. Phys.Rev.Lett. 127, 241103 (2021)</p>
+  </li>
+  <li>
+    <p>Dax et al. Group equivariant neural posterior estimation. ICLR 2022</p>
+  </li>
+</ol>
+
+<p><a class="radius button small" href="https://drive.google.com/file/d/1Lf11UG088JvazNsdnrFSE34UlBtQk72N/view?usp=sharing">Watch Back ›</a></p>
+
+:ET

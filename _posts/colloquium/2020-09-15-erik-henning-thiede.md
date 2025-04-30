@@ -16,7 +16,7 @@ header:
    # caption_url: https://unsplash.com/
 ---
 
-<img src="../../people/ehthiede.jpg"
+<img src="../../members/ehthiede.jpg"
      alt="Erik Henning Thiede"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

@@ -19,7 +19,7 @@ header:
 
 #### Machine Learning of Combinatorial Rules in Mechanical Metamaterials
 
- <img src="../../people/MartinVanHecke.jpeg"
+ <img src="../../members/MartinVanHecke.jpeg"
      alt="MartinVanHecke"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

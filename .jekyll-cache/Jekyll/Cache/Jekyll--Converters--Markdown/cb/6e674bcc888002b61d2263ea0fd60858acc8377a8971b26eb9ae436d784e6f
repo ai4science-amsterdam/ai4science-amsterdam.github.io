@@ -1,0 +1,49 @@
+I"�
+<p><img src="../../members/TeodoraPandeva.jpg" alt="Teodora Pandeva" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>PhD research of <strong>Teodora Pandeva</strong></p>
+
+<p>Causal discovery to reveal complex gene regulation networks from vast
+transcriptome datasets Gene regulatory networks (GRNs) model the
+biological interactions between genes and provide a better
+understanding of the cellular processes and regulation
+pathways. Correctly constructed GRNs can play a fundamental role in
+solving various biological and biomedical problems, such as tracking
+disease development. Technological advances of high-throughput
+molecular biology have opened a new research frontier for inferring
+GRNs in a completely data-driven way. The great amount of gene
+expression data available on the GEO database suggests using AI-based
+techniques for processing and modeling such networks. In this project,
+we focus on Bacillus subtilis, a well-studied Gram-positive bacterium
+with more than 3,000 publicly available transcriptome
+datasets. Combining these datasets alongside with reconstructing the
+known GRNs can be a very challenging task due to the (un)observable
+batch effects in the data that result from the varying data generating
+process across experiments. By tackling these issues and applying
+novel causal discovery techniques we aim for a better interpretation
+of the genes functions and their organization in hierarchical
+structures or even revealing unknown regulatory networks.</p>
+
+<p>Joint work with <a href="https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html">Martijs Jonker</a>, <a href="https://www.uva.nl/en/profile/h/a/l.w.hamoen/l.w.hamoen.html">Leendert Hamoen</a>, <a href="https://staff.fnwi.uva.nl/j.m.mooij/">Joris Mooij</a>, <a href="https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html">Patrick Forré</a>.</p>
+
+<h4 id="papers">Papers</h4>
+
+<ol>
+  <li>
+    <p><a href="https://openreview.net/forum?id=r5KL-AfXt75">Multi-View Independent Component Analysis for Omics Data Integration</a> <br />
+Teodora Pandeva and Patrick Forré <br />
+<em>ICLR</em> (2023)</p>
+  </li>
+  <li>
+    <p><a href="https://arxiv.org/abs/2210.02083">Multi-View Independent Component Analysis with Shared and Individual Sources</a> <br />
+Teodora Pandeva and Patrick Forré
+<em>PMLR</em> <strong>216</strong>, 1639-1650 (2023)</p>
+  </li>
+  <li>
+    <p><a href="https://arxiv.org/abs/2409.19991">Robust Multi-view Co-expression Network Inference</a> <br />
+Teodora Pandeva, Martijs Jonker, Leendert Hamoen, Joris Mooij and Patrick Forré <br />
+<em>accepted for CLeaR 2025 and NeurIPS 2024 Workshop: Causal Representation Learning</em> (2024)</p>
+  </li>
+</ol>
+
+:ET

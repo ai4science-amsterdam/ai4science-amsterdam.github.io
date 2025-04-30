@@ -22,7 +22,7 @@ header:
 Date: 07-06-2022 14:00-1500 Central European Summer time
 
 
- <img src="../../people/WujieWang.jpeg"
+ <img src="../../members/WujieWang.jpeg"
      alt="WujieWang"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

@@ -21,7 +21,7 @@ header:
 
 Date: 05-07-2022 14:00-1500 Central European Summer time
 
- <img src="../../people/MicheleCeriotti.jpeg"
+ <img src="../../members/MicheleCeriotti.jpeg"
      alt="MicheleCeriotti.jpeg"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

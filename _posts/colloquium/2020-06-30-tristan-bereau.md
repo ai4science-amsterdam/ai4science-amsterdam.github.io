@@ -16,7 +16,7 @@ header:
    # caption_url: https://unsplash.com/
 ---
 
-<img src="../../people/tristan_bereau.jpg"
+<img src="../../members/tristan_bereau.jpg"
      alt="Tristan Bereau"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

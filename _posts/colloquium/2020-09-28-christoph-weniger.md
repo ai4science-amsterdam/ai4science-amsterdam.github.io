@@ -16,7 +16,7 @@ header:
    # caption_url: https://unsplash.com/
 ---
 
- <img src="../../people/ChristophWeniger.jpg"
+ <img src="../../members/ChristophWeniger.jpg"
      alt="christophweniger"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

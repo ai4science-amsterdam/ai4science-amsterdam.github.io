@@ -1,0 +1,62 @@
+I"�<p><img src="../../members/DavidRuhe.jpg" alt="David Ruhe" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>PhD research of <strong>David Ruhe</strong></p>
+
+<p>One of the cutting edge areas of astronomy is recognising rare
+features in data streams in near-real time. This problem has arisen
+from massive imaging surveys of the sky at many wavelengths (optical,
+radio, X-ray). The purpose is no longer just to find objects that are
+there all or most of the time, but to find so-called ‘transient’
+objects that appear fleetingly in hindsight.</p>
+
+<p>These transients are typically multi-messenger events, meaning that
+their emission is seen throughout the electromagnetic spectrum and
+using other ‘messengers’ including neutrinos and gravitational
+waves. By combining the multi-messenger observations, we can probe the
+most extreme physical environments in the universe. However, we are
+not monitoring the whole sky all the time with sensitive
+observatories, so we need to alert them to interesting objects in
+order to trigger follow-up observations. As these events are often
+fleeting at different wavelengths, we need to trigger the follow-up in
+as close to real-time as possible.</p>
+
+<p>Due to the nature of our searches, we cannot always predict the
+transient behaviour we are searching for, nor all more rare specific
+instrumental faults in the data stream. The real-time data streams are
+subject to different types of behaviour, which we do not want to
+confuse with astrophysical transient events, including radio frequency
+interference, calibration artefacts, varying noise features, space
+weather, meteors, airplanes and satellites.</p>
+
+<p>There are multiple areas where ML can assist with solving the task at
+hand and the challenges it comes with. Examples are: finding latent
+(disentangled) representations of observed phenomena, undoing data
+corruption (e.g. denoising), unsupervised outlier detection, geometric
+deep learning. The project will explore the application and innovation
+of these techniques and will push the boundaries of machine learning
+and astronomy.</p>
+
+<p>Joint work with <a href="https://barowlinson.com">Antonia Rowlinson</a>, <a href="https://www.uva.nl/en/profile/w/i/r.a.m.j.wijers/r.a.m.j.wijers.html">Ralph Wijers</a>, and
+<a href="https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html">Patrick Forré</a>.</p>
+
+<h4 id="papers">Papers</h4>
+
+<ol>
+  <li>
+    <p><a href="https://doi.org/10.1016/j.ascom.2021.100512">Detecting dispersed radio transients in real time using convolutional neural networks</a> <br />
+David Ruhe, Mark Kuiack, Antonia Rowlinson, Ralph Wijers, and Patrick Forré, <br />
+<em>Astronomy and Computing</em>  <strong>38</strong> (2022)</p>
+  </li>
+  <li>
+    <p><a href="https://openreview.net/forum?id=VPjw9KPWRSK">Self-Supervised Inference in State-Space Models</a> <br />
+David Ruhe and Patrick Forré, <br />
+<em>ICLR</em> (2022)</p>
+  </li>
+  <li>
+    <p><a href="https://arxiv.org/abs/2211.09008">Normalizing Flows for Hierarchical Bayesian Analysis: A Gravitational Wave Population Study</a> <br />
+David Ruhe, Kaze Wong, Miles Cranmer and Patrick Forré <br />
+<em>NeurIPS</em> (2022)</p>
+  </li>
+</ol>
+
+:ET

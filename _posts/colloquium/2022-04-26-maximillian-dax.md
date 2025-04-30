@@ -22,7 +22,7 @@ header:
 Date: 26-04-2022 11:00-1200 Central European Summer time
 
 
- <img src="../../people/MaximilianDax.jpeg"
+ <img src="../../members/MaximilianDax.jpeg"
      alt="MaximilianDax"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

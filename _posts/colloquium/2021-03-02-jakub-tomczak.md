@@ -16,7 +16,7 @@ header:
    # caption_url: https://unsplash.com/
 ---
 
- <img src="../../people/JakubTomczak.jpg"
+ <img src="../../members/JakubTomczak.jpg"
      alt="jakubtomczak"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

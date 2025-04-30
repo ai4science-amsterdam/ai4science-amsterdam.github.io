@@ -1,0 +1,60 @@
+I":<p><img src="../../members/FionaLippert.jpg" alt="Fiona Lippert" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>PhD research of <strong>Fiona Lippert</strong></p>
+
+<p>Every year millions of birds travel hundreds if not thousands of
+kilometers between their breeding and wintering grounds, seeking for
+seasonally optimal habitats. These mass movements are an essential
+component of biodiversity as they link otherwise separated
+ecosystems. Climate change and rapid expansions of human structures
+and activities may have severe implications for migrating birds. In
+order to assess the ecological consequences of these developments and
+to devise measures to preserve migration systems, it is essential to
+better understand continental-scale migration patterns and its
+external drivers such as weather, habitat quality and land use.</p>
+
+<p>However, studying the aerial movement of migrating birds on a large
+scale is challenging. Many birds migrate during the night or at high
+altitudes which makes it impossible for humans to observe them from
+the ground. Modern tracking devices overcome this issue but they are
+limited to very few individuals and species with sufficient body
+mass. Radar technology is considered a promising alternative. In
+particular international networks of weather radars, which are known
+to capture mass movements of migrating birds, offer unparalleled
+opportunities to quantify and analyze bird migration at large spatial
+and temporal scales. But the field of radar aeroecology is still in
+its infancy. Challenges relating to the mere volume of raw radar
+observations as well as data quality issues such as inconsistent
+calibration and preprocessing, observation artifacts and partial
+observability prevent ecologists from utilizing the full potential of
+available radar databases.</p>
+
+<p>This project will explore the use of machine learning to overcome this
+hurdle. By applying and advancing techniques for system identification
+and predictive modeling of partially observed spatio-temporal
+dynamical systems we aim at enhancing both the understanding and
+predictability of continental-scale bird migration in Europe.</p>
+
+<p>Joint work with <a href="https://imprs-ob.mpg.de/person/116341/2901">Bart Kranstauber</a>, <a href="https://www.uva.nl/en/profile/l/o/e.e.vanloon/e.e.vanloon.html">Emiel van Loon</a>, and <a href="https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html">Patrick Forré</a>.</p>
+
+<h4 id="papers">Papers</h4>
+
+<ol>
+  <li>
+    <p><a href="https://doi.org/10.1111/2041-210X.14007">Learning to predict spatiotemporal movement dynamics from weather radar networks</a><br />
+Fiona Lippert, Bart Kranstauber, Patrick Forré, and Emiel van Loon <br />
+<em>Methods in Ecology and Evolution</em> <strong>13</strong>, 2811-2826 (2022)</p>
+  </li>
+  <li>
+    <p><a href="https://arxiv.org/abs/2306.08445">Deep Gaussian Markov Random Fields for Graph-Structured Dynamical Systems</a> <br />
+Fiona Lippert, Bart Kranstauber, Emiel van Loon, and Patrick Forré <br />
+<em>NeurIPS</em>  (2023)</p>
+  </li>
+  <li>
+    <p><a href="https://openreview.net/forum?id=oAmxqO1nRy">Towards detailed and interpretable hybrid modeling of continental-scale bird migration</a><br />
+Fiona Lippert, Bart Kranstauber, Patrick Forré, and Emiel van Loon <br />
+<em>ICML 2024 Workshop: AI4Science</em> (2024)</p>
+  </li>
+</ol>
+
+:ET

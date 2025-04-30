@@ -22,7 +22,7 @@ header:
 Date: 24-05-2022 14:00-1500 Central European Summer time
 
 
- <img src="../../people/FrancescaGrisoni.jpeg"
+ <img src="../../members/FrancescaGrisoni.jpeg"
      alt="FrancescaGrisoni"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

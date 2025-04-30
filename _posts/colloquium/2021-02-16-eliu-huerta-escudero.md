@@ -16,7 +16,7 @@ header:
    # caption_url: https://unsplash.com/
 ---
 
- <img src="../../people/EliuHuertaEscudero.jpg"
+ <img src="../../members/EliuHuertaEscudero.jpg"
      alt="eliuhuertaescudero"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

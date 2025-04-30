@@ -22,7 +22,7 @@ header:
 Date: 21-06-2022 14:00-1500 Central European Summer time
 
 
- <img src="../../people/PeterGrunwald.jpeg"
+ <img src="../../members/PeterGrunwald.jpeg"
      alt="PeterGrunwald.jpeg"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

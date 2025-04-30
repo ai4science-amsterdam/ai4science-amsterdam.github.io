@@ -21,7 +21,7 @@ header:
 Date: 12-04-2022 11:00-1200 Central European Summer time
 
 
- <img src="../../people/GabrielVivoTruyols.jpeg"
+ <img src="../../members/GabrielVivoTruyols.jpeg"
      alt="GabrielVivoTruyols"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

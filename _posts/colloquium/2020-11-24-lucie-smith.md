@@ -16,7 +16,7 @@ header:
    # caption_url: https://unsplash.com/
 ---
 
- <img src="../../people/LucieSmith.jpg"
+ <img src="../../members/LucieSmith.jpg"
      alt="luciesmith"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

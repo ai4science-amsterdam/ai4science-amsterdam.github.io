@@ -21,7 +21,7 @@ header:
 
 Date: 25-10-2022 14:00-1500 Central European Summer time
 
- <img src="../../people/FredrikLindsten.png"
+ <img src="../../members/FredrikLindsten.png"
      alt="FredrikLindsten"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />

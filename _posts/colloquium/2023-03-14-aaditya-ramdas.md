@@ -21,7 +21,7 @@ header:
 
 Date: 14-03-2023 14:00-1500 Central European Winter time
 
- <img src="....//people/AadityaRamdas.png"
+ <img src="../../members/AadityaRamdas.png"
      alt="Aaditya Ramdas"
      width="100"
      style="float: right; margin-right: 10px; border-radius:50%;" />
