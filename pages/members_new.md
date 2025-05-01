@@ -166,6 +166,7 @@ phd3:
   url: 'https://amlab.science.uva.nl/people/JacobusDijkman/'
   image: ../members/JacobusDijkman.jpg
   text: 'HIMS/IvI<br>Computational Chemistry & AMLab'
+  research: ../research/jacobus-dijkman1/
 phd4:
   name: "Jordan Earle"
   url: 'https://bdagroup.nl/?employee=jordan-earle'
@@ -233,26 +234,31 @@ alumni1:
   url:
   image: ../members/JimBoelrijk2.jpg
   text: 'IvI/HIMS<br>AMLab'
+  research: ../research/jim-boelrijk1/
 alumni2:
   name: "Fiona Lippert"
   url: 
   image: ../members/FionaLippert.jpg
   text: 'IvI/IBED<br>AMLab'
+  research: ../research/fiona-lippert1/
 alumni3:
   name: "Benjamin Miller"
   url: 
   image: ../members/BenjaminMiller.jpg
   text: 'IvI/IoP<br>AMLab'
+  research: ../research/benjamin-miller1/
 alumni4:
   name: "Teodora Pandeva"
   url:
   image: ../members/TeodoraPandeva.jpg
   text: 'IvI/SILS<br>AMLab'
+  research: ../research/teodora-pandeva1/
 alumni5:
   name: "David Ruhe"
   url:
   image: ../members/DavidRuhe.jpg
   text: 'IvI/API<br>AMLab'
+  research: ../research/david-ruhe1/
 
   
 ---
