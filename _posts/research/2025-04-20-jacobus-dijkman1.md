@@ -35,7 +35,7 @@ author:
 # Content research project main panel
 #
 subheadline: "Research project"
-title: "Classical DFT B"
+title: "Classical DFT"
 teaser: "AI-improved prediction of thermodynamic properties of liquids"
 description: "We introduce a method for learning a neural-network approximation of the Helmholtz free-energy functional by exclusively training on a dataset of radial distribution functions, circumventing the need to sample costly heterogeneous density profiles in a wide variety of external potentials."
 image:
