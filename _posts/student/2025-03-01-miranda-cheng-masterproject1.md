@@ -17,7 +17,7 @@ title: "Modularity of Nahm Sum"
 teaser: "Use supervised learning to gain insights into a long-standing question in analytic number theory"
 description: "Use supervised learning to gain insights into a long-standing question in analytic number theory."
 image:
-    widget: project_math2.jpg
+    widget: project_math3.jpg
     supervisor: ../../members/MirandaCheng.jpg
 alert:
     supervisor: Dr. C. N. (Miranda) Cheng
