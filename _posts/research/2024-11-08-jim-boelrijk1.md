@@ -15,7 +15,7 @@ tags:
 author:
     image: author_jimboelrijk.jpg
     name: Jim Boelrijk
-    function: PhD candidate
+    function: PhD alumnus
     room: 
     contact:  
     institute: Evonik
@@ -31,8 +31,9 @@ title: "Liquid Chromatography"
 teaser: "Bayesian Optimization of Comprehensive Two-dimensional Liquid Chromatography Separations"
 description: "A Bayesian optimization algorithm is developed for automated and unsupervised development of gradient programs. The algorithm was tailored to liquid chromatography using a Gaussian process model with a novel covariance kernel. The algorithm can operate in both the single- and multi-objective setting."
 image:
-    title: project_jimboelrijk1.png
+    full: project_jimboelrijk1.png
     thumb: project_jimboelrijk1_thumb.jpg
+    widget: project_jimboelrijk1_302-182.jpg
 #    caption: 
 #    caption_url: https://doi.org/10.1103/PhysRevLett.134.056103
 ---

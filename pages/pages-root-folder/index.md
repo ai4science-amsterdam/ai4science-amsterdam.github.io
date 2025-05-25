@@ -4,11 +4,12 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: page-fullwidth
-header: 
+# layout: page-fullwidth
+layout: frontpage
+header:
     image_fullwidth: banner_dim.jpg
     title: <span style="text-transform:none; font-family:inherit; font-size:1.2em;">AI4Science</span> <br>  <span style="text-transform:none; font-family:FontAwesome,Gill Sans; font-size:0.5em;">Artificial Intelligence for Scientific Discovery</span>
-
+postnumber: 1
 permalink: /index.html
 
 homepage: true
@@ -16,80 +17,26 @@ homepage: true
 
 
 [comment]:----------------------------------------------------------------------------------------------------------
-[comment]: <center> <h2>Upcoming Events</h2> </center>
-[comment]: <center> <h1>AI4Science Symposium, 24 February 2023</h1> </center>
 
-[comment]: On Friday, 24 February, we organise an AI4Science Symposium in the
-[comment]: Amsterdam Science Park LAB42 building for everyone interested in machine
-[comment]: learning developments and applications for scientific discovery. 
-[comment]: Researchers from the different FNWI institutes show-case recent progress
-[comment]: in their fields and discuss future challenges and opportunities for
-[comment]: AI4Science. 
-
-[comment]:The goal of the symposium is to learn about the latest AI4Science developments,
-[comment]:exchange ideas, and bring scientists and AI experts in contact.
-[comment]:Information on the (free) registration and poster
-[comment]:submission is found <a href="/events/">on this website</a>.
-
-[comment]:<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/events/">Learn More›</a>
-
-
-__________________________________________
-
-
-<center> <h1>AI for Sustainable Molecules and Materials</h1> </center>
-<center> <h2>ChemAI Week</h2> </center>
-
-After the success of last years' ChemAI Symposium, the organisers
-decided to assemble this year a whole ChemAI week! From Monday,
-November 25th until Friday, November 29th, the Amsterdam Chemistry
-Network (ACN), AI4Science, and TK-COAST, will host several interesting
-ChemAI satellite events, such as courses and webinars, on the topic of
-artificial intelligence and chemistry, culminating in the second
-ChemAI Symposium on the Friday afternoon.
-
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl}}/events/#ChemAI-week">ChemAI Week</a>
-
-In formation on the program and registration of the ChemAI Symposium
-on November 29th is found on the website:
-
-<a class="radius button small"
-href="https://www.acnetwork.nl/chemai">ChemAI Symposium</a>
-
-
-__________________________________________
-
-
-<center> <h2>Data Science Day, AI for Science: opportunities and
-challenges</h2> </center>
-
-Throughout the day, 18 October 2024, you can attend
-presentations and workshops on data science and AI at various UvA
-campus locations. At the Science Park in Lab42, you can listen to
-lectures by Paul Groth and Bernd Ensing about the role of Artificial
-Intelligence (AI) in scientific research, exploring the intersection
-of AI with various disciplines, including physics, humanities, social
-sciences, mathematics, and biology.
-
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl}}/events/#DataScienceDay">Data Science Day</a>
-
-
-____________________________________________________________________________________________________
-
-<center> <h1>AI4Science Lab</h1> </center>
-
+---
 > How can we detect, classify, and predict relevant patterns in scientific data if they are hidden within large amount of non-relevant data?
+---
 
-The AI4Science Lab is an initiative supported by the [Faculty of Science (FNWI)][2] at the [University of Amsterdam][3] and located in the [Informatics Institute (IvI)][4] in (LAB42}[8]. The AI4Science Lab is also connected to [AMLAB][5], the Amsterdam Machine Learning Lab.
+
+# About Amsterdam AI4Science
+
+
+The AI4Science Lab is an initiative supported by the [Faculty of Science (FNWI)][2] at the [University of Amsterdam][3] and located in the [Informatics Institute (IvI)][4] in [LAB42][8]. The AI4Science Lab is also connected to [AMLAB][5], the Amsterdam Machine Learning Lab.
 
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/lab/">Learn More</a>
 
 
-__________________________________________
+---
 
-<center> <h1>AI4Science Consortium</h1> </center>
+# AI4Science Consortium
+
 
 The AI4Science Lab is the center of a rapidly growing multidisciplinary 
 consortium of students, researchers, and experts interested in the 
@@ -102,163 +49,7 @@ spin-offs. Interested in joining the AI4Science consortium?
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/consortium/">Learn More›</a>
 
-<!--
-__________________________________________
-
-<center> <h1>AI4Science Colloquium</h1> </center>
-
-The Ai4Science Colloquiem is a bi-weekly event in which we will invite pronounced speakers active in the field of Artificial Intelligence and Science. 
-
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/Colloquium/">Learn More›</a>
--->
------------------------------------------
-
-<center> <h1>Projects</h1> </center>
-
-
-  <!-- ================================================================ -->
-  <!-- Project highlights -->
-
- <section id="tworev">
- <div class="inner">
-
-    <article>
-
-    <div class="content">
-      <header>
-        <h3>Gravitational waves</h3>
-      </header>
-      <div class="image fit">
-        <img src="images/project_benjaminmiller1.png" alt="Gravitational waves" />
-      </div>
-      <p>The breakthrough discovery of the first gravitational wave
-      signal in September 2015 (Nobel Prize 2017) has opened a new
-      window to the Universe. Analyses of the signal waveforms during
-      the initial inspiral, merger and final ringdown phase provide
-      crucial information about the properties of superheavy stellar objects.</p>
-      <p>
-      <ul class="actions">
-        <a href="/research" class="button">Learn More</a>
-      </ul>
-      </p>
-    </div>
-    </article>
-
-    <article>
-    <div class="content">
-      <header>
-        <h3>Radio astronomy</h3>
-      </header>
-      <div class="image fit">
-        <img src="images/project_davidruhe1.png" alt="Radio astronomy" />
-      </div>
-      <p>An active field of research in astronomy deals with recognising
-      rare features in data streams from space obervations in
-      (almost) real time. This challenging task arises from the
-      massive imaging surveys of the sky carried our at a wide range
-      of wavelengths (optical, radio, X-ray). The purpose is no longer
-      just to find objects that are there all or most of the time, but
-      also to spot so-called ‘transient’ objects that appear only fleetingly.</p>
-      <p>
-      <ul class="actions">
-        <a href="/research" class="button">Learn More</a>
-      </ul>
-      </p>
-    </div>
-    </article>
-
- </div>
- </section>
-
-<section id="tworev">
- <div class="inner">
-
-    <article class="alt">
-    <div class="content">
-      <header>
-        <h3>Liquid Chromatography</h3>
-      </header>
-      <div class="image fit">
-        <img src="images/fig_project2.png" alt="Liquid Chromatography" />
-      </div>
-      <p>
-      Two-dimensional liquid chromatography (2DLC) is a powerful
-      technique to separate and detect trace molecular compounds in
-      complex samples such as food contaminants, industrial production
-      streams, urine, or blood, to name but a few examples. However,
-      successful implementation requires time-consuming experiment-specific
-      optimization of many parameters. Machine learning can aid
-      with data-analysis and the acceleration of optimization.
-      </p>
-      <p>
-      <ul class="actions">
-        <a href="/research" class="button">Learn More</a>
-      </ul>
-      </p>
-    </div>
-    </article>
-
-    <article>
-    <div class="content">
-      <header>
-        <h3>Gene Regulatory Networks</h3>
-      </header>
-      <div class="image fit">
-        <img src="images/project_teodorapandeva1.png" alt="Gene Regulatory Networks" />
-      </div>
-      <p>Gene regulatory networks (GRNs) model the biological interactions between genes and provide a better understanding of the cellular processes and regulation pathways. Correctly constructed GRNs can play a fundamental role in solving various biological and biomedical problems, such as tracking disease development. The great amount of gene expression data available on the GEO database suggests using AI-based techniques for processing and modeling such networks.
-      </p>
-      <p>
-      <ul class="actions">
-        <a href="/research" class="button">Learn More</a>
-      </ul>
-      </p>
-    </div>
-    </article>
- </div>
- </section>
-
-<section id="tworev">
- <div class="inner">
-
-    <article>
-
-    <div class="content">
-      <header>
-        <h3>Radar Aeroecology</h3>
-      </header>
-      <div class="image fit">
-        <img src="images/project_fionalippert1.png" alt="Radar aeroecology" />
-      </div>
-      <p>Internationally operating weather radars are known to capture the mass movement of migrating birds. This offers unparalleled opportunities to quantify bird migration at large spatial and temporal scales and thereby gain insight into the effects of environmental conditions and human activities. However, the field of radar aeroecology is still in its infancy and the potential of available radar data is largely under-utilized.</p>
-      <p>
-      <ul class="actions">
-        <a href="/research" class="button">Learn More</a>
-      </ul>
-      </p>
-    </div>
-    </article>
-
-    <article>
-
-    <div class="content">
-      <header>
-        <h3>Protein Stabilization for Vaccine Design</h3>
-      </header>
-      <div class="image fit">
-        <img src="images/fig_project_cong.png" alt="" />
-      </div>
-      <p>The stability of the antigen is crucial for the development of effective vaccines against highly contagious viruses. Mutating amino acids on spike proteins is one method of developing antigens, but it can be a time-consuming process. Deep learning-based methods have recently shown promising results in protein research, and with the abundance of protein structures available in the Protein Data Bank and AlphaFold2, we can train deep-learning models to suggest mutations and predict protein stability, which could accelerate vaccine research and design.</p>
-      <p>
-      <ul class="actions">
-        <a href="/research" class="button">Learn More</a>
-      </ul>
-      </p>
-    </div>
-    </article>
-
- </div>
- </section>
+---
 
 
 [1]: https://ellis.eu
@@ -269,3 +60,4 @@ The Ai4Science Colloquiem is a bi-weekly event in which we will invite pronounce
 [6]: /events/
 [7]: /colloquium/
 [8]: https://lab42.uva.nl
+

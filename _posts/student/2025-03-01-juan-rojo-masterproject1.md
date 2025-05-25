@@ -1,0 +1,62 @@
+---
+layout: studentproject
+header: 
+    background-color: "#bacee6"
+    image: banner_education.png
+show_meta: false	
+categories:
+    -  student
+tags:
+    - master jrojo 2025
+#
+# Content project main panel
+#
+topic: "Physics"
+subheadline: "Master research project"
+title: "High-energy neutrino physics at the LHC"
+teaser: "Machine learning tools within the NNPDF framework and state-of-the-art calculations in perturbative quantum chromodynamics."
+description: "Machine learning tools within the NNPDF framework and state-of-the-art calculations in perturbative Quantum Chromodynamics."
+image:
+    widget: project_physics.jpg
+    supervisor: JuanRojo.jpg
+alert:
+    supervisor: Prof. dr. Juan Rojo
+    institute: Nikhef / VU
+    email: j.rojo@vu.nl
+    website: https://juanrojo.com/about-me/
+---
+
+
+High-energy collisions at the LHC and its High-Luminosity upgrade
+     (HL-LHC) produce a large number of particles along the beam
+     collision axis, outside of the acceptance of existing
+     experiments. The FASER experiment has in 2023, for the first
+     time, detected neutrinos produced in LHC collisions, and is now
+     starting to elucidate their properties. FASER data has the
+     potential to improve our understanding of the strong interactions
+     as well as of proton and nuclear structure, providing access to
+     both the very low-x and the very high-x regions of the colliding
+     protons. The former regime is sensitive to novel QCD production
+     mechanisms, such as BFKL effects and non-linear dynamics, as well
+     as the gluon parton distribution function (PDF) down to very
+     small Bjorken-x values, well beyond the coverage of other
+     experiments and providing key inputs for astroparticle
+     physics. In addition, FASER acts as a neutrino-induced
+     deep-inelastic scattering (DIS) experiment with TeV-scale
+     neutrino beams. The resulting measurements of neutrino DIS
+     structure functions represent a valuable handle on the partonic
+     structure of nucleons and nuclei, particularly their quark
+     flavour separation, that is fully complementary to the
+     charged-lepton DIS measurements expected at the upcoming
+     Electron-Ion Collider (EIC). In this project, the student will
+     carry out updated simulations of neutrino scattering and
+     detection at FASER, assess the precision with which neutrino
+     cross-sections will be measured, develop novel monte carlo event
+     generation tools for high-energy neutrino scattering, and
+     quantify their impact on proton and nuclear structure by means of
+     **machine learning tools within the NNPDF framework** and
+     state-of-the-art calculations in perturbative Quantum
+     Chromodynamics. Specifically, we aim to determine whether FASER
+     data can detect intrinsic charm in the proton and whether FASER
+     can find evidence for BFKL small-x QCD dynamics, complementing
+     studies provided by other experiments such as the LHC detectors. 

@@ -10,6 +10,129 @@ We develop and use machine learning techniques to discover patterns in data stre
 		<atom:link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>AI4Physics lecture series</title>
+				<link>http://127.0.0.1:4000//news/AI4Physics-lectures/</link>
+				<pubDate>Thu, 15 May 2025 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;../../members/ChristophWeniger.jpg&quot; alt=&quot;Cong Liu&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A lecture series on &lt;em&gt;machine learning in physics&lt;/em&gt; is organised by &lt;a href=&quot;https://www.uva.nl/en/profile/w/e/c.weniger/c.weniger.html&quot;&gt;Dr. Christoph Weniger&lt;/a&gt; focused on such topics as equivariant neural networks, simulation-based inference, and transformers. Each event is scheduled for 90 minutes, in which the first 60 minutes will feature local or national speakers introducing a topic, followed by short talks from MSc/PhD students or postdocs on related applications. The final 30 minutes will be an optional crash course on how to use the presented techniques in practice, using Google Colab notebooks.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Time schedule of the lecture series:&lt;/em&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;—&lt;/th&gt;
+      &lt;th&gt;When&lt;/th&gt;
+      &lt;th&gt;Topic&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;Friday 23 May, 13:00 - 14:30&lt;/td&gt;
+      &lt;td&gt;Basics of deep learning (MLPs, SGD)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;Friday 3 June, 13:00 - 14:30&lt;/td&gt;
+      &lt;td&gt;Equivariant neural networks&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;Friday 4th July, 1pm - 2:30pm&lt;/td&gt;
+      &lt;td&gt;Simulation-based inferece&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;TBA&lt;/td&gt;
+      &lt;td&gt;Transformers&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;TBA&lt;/td&gt;
+      &lt;td&gt;Differentiable programming and optimisation&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+				<guid isPermaLink="true">http://127.0.0.1:4000//news/AI4Physics-lectures/</guid>
+			</item>
+		
+			<item>
+				<title>PhD defence of David Ruhe</title>
+				<link>http://127.0.0.1:4000//news/phd-defence-david-ruhe/</link>
+				<pubDate>Tue, 13 May 2025 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;../../members/DavidRuhe.jpg&quot; alt=&quot;David Ruhe&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;David Ruhe will defend his thesis &lt;em&gt;Structured Deep Learning with Applications in Astrophysics&lt;/em&gt;.
+Supervisors: Dr. P.D. Forré and Prof. dr. R.A.M.J. Wijers. Co-supervisors: Dr. B.A. Rowlinson and Prof. dr. M. Welling.&lt;/p&gt;
+
+&lt;div class=&quot;alert-box info &quot;&gt;
+&lt;li&gt;Date: 12 June 2025
+&lt;li&gt;Time: 13:00 hr
+&lt;li&gt;Location: &lt;a href=&quot;https://ivi.uva.nl/shared/locaties/en/binnenstad/agnietenkapel.html&quot;&gt;Agnietenkapel&lt;/a&gt;
+&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;phd-thesis-summary&quot;&gt;PhD thesis summary&lt;/h4&gt;
+
+&lt;p&gt;In recent years, deep learning for scientific applications has gained signifi- cant attention with applications in a wide range of fields, including chemistry, biology, physics, and astronomy. This thesis explores the use of geometric, temporal, or other inductive biases for (scientific) deep learning. It is broadly divided into two parts: the first part focuses on structured deep learning, while the second part discusses certain applications in astrophysics. Each chapter tackles different challenges and research questions, which we outline below.&lt;/p&gt;
+
+&lt;p&gt;We start the structured deep learning part with a novel self-supervised algo- rithm for time-series particle filter models. The models resulting from this method can be applied to a wide range of fields where data is noisy and the underlying dynamics are unknown. Moreover, we can effectively incorpo- rate expert scientific knowledge and are able to perform exact inference while remaining efficient and expressive.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/thesis_david-ruhe.png&quot; alt=&quot;thesis&quot; style=&quot;display: block; margin: auto; width: 80%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The second chapter introduces geometric algebra-based neural networks for modeling dynamical systems. By parameterizing linear transformations as compositions of symmetry group actions, the network is able to faithfully learn the transformation laws of the underlying dynamical system. This parameter- ization shows its strength in the context of rigid body dynamics as well as fluid mechanics simulations.&lt;/p&gt;
+
+&lt;p&gt;In chapter three, we propose Clifford Group-Equivariant Neural Net- works for learning frame-agnostic data representations. Due to the generality of the framework, these models can be applied to problems in various dimen- sions considering a variety of symmetry groups including the Lorentz group often used in relativistic (astro)physics.&lt;/p&gt;
+
+&lt;p&gt;The fourth chapter introduces Rolling Diffusion Models for learning gen- erative models of time-series data such as video or scientific simulations. Es- pecially when the temporal dynamics are complex, the model shows improved performance compared to existing methods.&lt;/p&gt;
+
+&lt;p&gt;In part two of the thesis, we first propose a deep learning-backed algorithm for hunting transient radio sources without any kind of supervised learning or human intervention. It constructs an end-to-end pipeline that con- sumes imaged radio interferometric data from LOFAR’s AARTFAAC system and produces a catalog of transient radio sources. Due to the low frequency regime, high noise levels, the high dimensionality and dispersed signals, it fills a methodological gap for this subfield, especially in light of the upcoming Square Kilometer Array (SKA) telescope.&lt;/p&gt;
+
+&lt;p&gt;Finally, we explore using normalizing flows to infer gravitational wave parameters from the noisy data of the LIGO and Virgo detectors. It is shown that the resulting posterior predictive distributions align well with ex- isting knowledge or simulated ground truth, paving the way for more efficient, accurate, and high-dimensional inference in the future.&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">http://127.0.0.1:4000//news/phd-defence-david-ruhe/</guid>
+			</item>
+		
+			<item>
+				<title>PhD defence of Fiona Lippert</title>
+				<link>http://127.0.0.1:4000//news/phd-defence-fiona-lippert/</link>
+				<pubDate>Thu, 01 May 2025 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;../../members/FionaLippert.jpg&quot; alt=&quot;Fiona Lippert&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Fiona Lippert will defend her thesis &lt;em&gt;From weather radars to bird migration fluxes; Process-guided machine learning for spatio-temporal forecasting and inference&lt;/em&gt;. 
+Supervisor: Dr. P.D. Forré and Dr. ir. E.E. van Loon. Co-supervisors: Prof. dr. ir. A.G. Hoekstra and Dr. Rer. Nat. B. Kranstauber.&lt;/p&gt;
+
+&lt;div class=&quot;alert-box info &quot;&gt;
+&lt;li&gt;Date: 5 June 2025
+&lt;li&gt;Time: 16:00 hr
+&lt;li&gt;Location: &lt;a href=&quot;https://ivi.uva.nl/shared/locaties/en/binnenstad/agnietenkapel.html&quot;&gt;Agnietenkapel&lt;/a&gt;
+&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;phd-thesis-summary&quot;&gt;PhD thesis summary&lt;/h4&gt;
+
+&lt;p&gt;Every year, billions of birds migrate across the globe, traveling vast distances in their quest for favorable breeding and wintering conditions, while contributing to ecosystem functioning and biodiversity along the way. At the same time, human activities are transforming our planet at an unprecedented pace, affecting nearly every aspect of life on Earth - including migrating birds. To effectively mitigate the resulting human-wildlife conflicts and protect migration systems around the world, it is essential to better understand migratory behaviors and develop accurate forecasting systems that inform stakeholders about when and where birds will move in the near future.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/thesis_fiona-lippert.png&quot; alt=&quot;thesis&quot; style=&quot;display: block; margin: auto; width: 80%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Weather radars, organized into continental-scale networks, have emerged as a key data source for monitoring migration patterns across entire flyways. Yet, several methodological challenges persist: radar observations are spatially sparse, provide only partial information about movement direction and speed, and are subject to noise and measurement artifacts. Moreover, despite decades of research, our understanding of migration behaviors remains incomplete. This limits our ability to apply traditional geoscientific modeling techniques, which rely on accurate mechanistic process descriptions to infer and forecast the state of partially observed systems.&lt;/p&gt;
+
+&lt;p&gt;This thesis investigates how partial processes knowledge about the spatio- temporal dynamics of bird migration can be combined with machine learn- ing to address these challenges and harness weather radar data more effec- tively. The work is structured in two complementary parts. Part I focuses on continental-scale forecasting, developing hybrid modeling approaches that combine fluid dynamics principles with deep learning to predict migration patterns. We show how incorporating even basic mechanistic understanding - like the conservation of mass - can improve both prediction accuracy and interpretability. The resulting framework enables new insights into how birds flexibly adjust their take-off decisions across different spatial and temporal contexts.&lt;/p&gt;
+
+&lt;p&gt;Part II tackles the fundamental challenge of reconstructing local movement patterns from low-level radar measurements. Here, we develop probabilistic frameworks that combine the flexibility of deep learning with graphical models to encode known spatial and temporal dependency structures between variables. Although several challenges remain before these methods can be applied in practice, they represent promising steps toward high-resolution movement reconstruction that features both computational efficiency and uncertainty quantification.&lt;/p&gt;
+
+&lt;p&gt;More broadly, this thesis demonstrates the potential of integrating process knowledge with data-driven machine learning methods to advance the model- ing of complex ecological processes for which both mechanistic understanding and data are limited.&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">http://127.0.0.1:4000//news/phd-defence-fiona-lippert/</guid>
+			</item>
+		
+			<item>
 				<title>Classical DFT</title>
 				<link>http://127.0.0.1:4000//research/jacobus-dijkman1/</link>
 				<pubDate>Sun, 20 Apr 2025 00:00:00 +0200</pubDate>
@@ -61,6 +184,82 @@ Jan-Willem van de Meent, and Bernd Ensing, &lt;br /&gt;
 
 </description>
 				<guid isPermaLink="true">http://127.0.0.1:4000//research/jacobus-dijkman1/</guid>
+			</item>
+		
+			<item>
+				<title>Nanoscale Imaging and Metrology</title>
+				<link>http://127.0.0.1:4000//research/maximilian-lipp1/</link>
+				<pubDate>Thu, 10 Apr 2025 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;../../members/MaximilianLipp.jpg&quot; alt=&quot;Maximilian Lipp&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;PhD research of &lt;strong&gt;Maximilian Lipp&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The ever-increasing computational power and ever-shrinking size of
+electronic devices have been enabled by rapid developments in optical
+lithography and the micro-electronics industry. State-of-the-art
+processors require reliable and fast nanoscale engineering methods
+with high production efficiency. The widespread access to
+computational power has already made a big impact on our daily
+lives. New future applications like VR, AR or AI technologies require
+even smaller and more powerful hardware. However, keeping up with the
+aggressive reduction of the semiconductor device feature sizes is a
+challenging task.&lt;/p&gt;
+
+&lt;p&gt;In this project, we will explore deep learning and Bayesian
+optimization techniques to push the boundaries of compact
+semiconductor metrology tools. Label-free optical imaging methods with
+a spatial resolution beyond the Abbe diffraction limit and a temporal
+resolution beyond the Nyquist limit are being developed to
+characterize multi-layer nanostructures. Several modern research areas
+such as computational imaging and compressive sensing are connected
+with cutting-edge Machine Learning tools to develop new methods of
+nanoscale imaging and metrology for the semiconductor industry. The
+project is running in collaboration with &lt;a href=&quot;http://amlab.science.uva.nl/people/PatrickForre/&quot;&gt;Patrick Forré&lt;/a&gt; of AMLab
+and the Advanced Research Center
+for Nanolithography (ARCNL) and ASML, the world leader in the
+production of the lithography machines.&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">http://127.0.0.1:4000//research/maximilian-lipp1/</guid>
+			</item>
+		
+			<item>
+				<title>Protein Stabilization for Vaccine Design</title>
+				<link>http://127.0.0.1:4000//research/cong-liu1/</link>
+				<pubDate>Thu, 10 Apr 2025 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;../../members/CongLiu.jpg&quot; alt=&quot;Cong Liu&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;PhD research of &lt;strong&gt;Cong Liu&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Highly contagious viruses, such as SARS-CoV-2, can have a negative
+impact on the health of people and the stability of social
+resources. Vaccines are an effective means of stopping the widespread
+spread of viruses in the population by giving people immunity to a
+particular virus, thereby stopping them from spreading the virus and
+protecting those at risk of being infected. One of the core aspects of
+vaccine development is the development of antigens. One of the ways in
+which antigens are developed is by mutating one/some of the amino
+acids in the antigen, thus making the antigen stable, which in turn
+triggers an immune response and the production of a large number of
+antibodies. Among the methods for finding a viable antigen, the
+structural based approach has worked well and is widely used. However,
+their success rate for single point variants is only 5% to 10%. As a
+result, it can take a considerable amount of time to design a stable
+antigen that is feasible with multiple variants. Thanks to the large
+amount of available protein structure/sequence data, deep
+learning-based approaches have recently achieved unprecedented success
+in research for proteins, e.g. protein property prediction and protein
+structure prediction. In this project, our goal is to apply the
+cutting-edge deep learning methods (e.g. Graph Neural Networks,
+Transformers, Equivariant Neural Networks, AlphaFold2 etc…) to model
+our problems. Allowing the model to suggest variant sites and variant
+amino acids for antigens with correspondingly predicted stabilities,
+leading to the help for designing of stable antigens.&lt;/p&gt;
+
+&lt;p&gt;Joint work with &lt;a href=&quot;http://amlab.science.uva.nl/people/PatrickForre/&quot;&gt;Patrick Forré&lt;/a&gt;,&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">http://127.0.0.1:4000//research/cong-liu1/</guid>
 			</item>
 		
 			<item>
@@ -255,240 +454,19 @@ David Ruhe, Kaze Wong, Miles Cranmer and Patrick Forré &lt;br /&gt;
 			</item>
 		
 			<item>
-				<title>Gravitational Waves</title>
-				<link>http://127.0.0.1:4000//research/benjamin-miller1/</link>
-				<pubDate>Fri, 15 Nov 2024 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;&lt;img src=&quot;../../members/BenjaminMiller.jpg&quot; alt=&quot;Benjamin Miller&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+				<title>Plasmonic metal nanoparticles</title>
+				<link>http://127.0.0.1:4000//student/wiebke-albrecht-masterproject1/</link>
+				<pubDate>Sat, 01 Mar 2025 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Plasmonic metal nanoparticles are used in a variety of applications ranging from biomedical to single molecule sensing and catalytic processes owing to their unique optical and catalytic properties. These properties are completely defined by their morphology. This intricate link leads to possibly unwanted changes in properties upon changes in morphology of the nanoparticles. However, the nanoparticle shape is often not stable under application environments such as high temperatures needed for catalytic reactions. Ideally, one would like to track the morphology in operando by using light excitation. One of the main barriers hereby is the diffraction limit, the fundamental limit restricting the ability to resolve details smaller than half the wavelength of light you are using for observation. We have built an optical set up that can image single nanoparticles down to this fundamental boundary and have further shown details on the order of a few nanometer can be extracted by making use of the underlying physics of plasmonics and through the application of Machine Learning techniques. The goal of this project is to work alongside CWI to implement more advanced Deep Learning Techniques, such as Graph Neural Networks, to expand the information being extracted and resolve details orders of magnitude smaller than the wavelength of visible light.&lt;/p&gt;
 
-&lt;p&gt;PhD research of &lt;strong&gt;Benjamin Miller&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../images//ai4smm_student_project2.png&quot; alt=&quot;Student Project&quot; title=&quot;Title&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The breakthrough discovery of the first gravitational wave signal in
-September 2015 (Nobel Prize 2017) has opened a new window to the
-Universe. Analyses of the signal waveforms during the initial
-inspiral, merger and final ringdown phase provide crucial information
-about the properties of superheavy stellar objects.&lt;/p&gt;
+&lt;p&gt;This Master project will be hosted by AMOLF and CWI, which are part of the Institutes Organisation of the Dutch Research Council (NWO) and are both located at Science Park Amsterdam. AMOLF performs leading research on the fundamental physics and design foundations of natural and man-made complex mater, with research in 3 interconnected themes: sustainable energy materials, information in mater, and autonomous mater. AMOLF leverages these insights to create novel functional materials, and to find solutions to societal challenges in renewable energy, green ICT, and health care. It has approximately 130 scientists and a total size of ca. 200 employees. At AMOLF, you will work at the Hybrid Nanosystems group. We combine single-particle optical and advanced electron microscopy to answer fundamental questions about the complex interaction between different classes of nanomaterials. We also explore new architectures for creating functional and smart hybrid nanosystems.&lt;/p&gt;
 
-&lt;p&gt;Joint work with &lt;a href=&quot;https://www.uva.nl/en/profile/n/i/s.m.nissanke/s.m.nissanke.html&quot;&gt;Samaya Nissanke&lt;/a&gt;, &lt;a href=&quot;https://www.uva.nl/en/profile/w/e/c.weniger/c.weniger.html&quot;&gt;Christoph Weniger&lt;/a&gt;, and &lt;a href=&quot;https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html&quot;&gt;Patrick Forré&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;papers&quot;&gt;Papers&lt;/h4&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2011.13951&quot;&gt;Simulation-efficient marginal posterior estimation with swyft: stop wasting your precious time&lt;/a&gt; &lt;br /&gt;
-Benjamin Kurt Miller, Alex Cole, Gilles Louppe, and Christoph Weniger &lt;br /&gt;
- &lt;em&gt;NeurIPS 2020 Workshop: Machine Learning and the Physical Sciences&lt;/em&gt; (2020)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2304.02035&quot;&gt;Peregrine: Sequential simulation-based inference for gravitational wave signals&lt;/a&gt;,,
-Uddipta Bhardwaj, James Alvey, Benjamin Kurt Miller, Samaya Nissanke, and Christoph Weniger &lt;br /&gt;
-&lt;em&gt;American Physical Society Phys. Rev. D&lt;/em&gt; (2023)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;Centrum Wiskunde &amp;amp; Informatica (CWI) is the Dutch national research institute for mathematics and computer science. The mission of CWI is to conduct pioneering research in mathematics and computer science, generating new knowledge in these fields and conveying it to trade, industry, and society at large. CWI is an internationally oriented institute, with 160 scientists from approximately 27 countries, an informal atmosphere and short lines of communication. Your host at CWI will be the Computational Imaging group. The group is developing the next generation of 3D imaging – enabling scientists to look further into objects of all kinds. Based on mathematics, algorithms and numerical solution techniques, the approach is interdisciplinary, combining aspects of mathematics, computer science and physics.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://127.0.0.1:4000//research/benjamin-miller1/</guid>
-			</item>
-		
-			<item>
-				<title>Liquid Chromatography</title>
-				<link>http://127.0.0.1:4000//research/jim-boelrijk1/</link>
-				<pubDate>Fri, 08 Nov 2024 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;&lt;img src=&quot;../../members/JimBoelrijk2.jpg&quot; alt=&quot;Jim Boelrijk&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;PhD research of &lt;strong&gt;Jim Boelrijk&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Two-dimensional liquid chromatography (2DLC) is a powerful technique
-to separate and detect trace molecular compounds in complex samples
-(think of proteins, antibodies, oils, paints, etc.). The separation is
-based on the difference in “retention” time that it takes for each
-compound to be carried by a solvent (mobile phase) through a column
-filled with a material (stationary phase) that interacts with the
-injected compounds based on a chosen property, such as molecular size,
-charge or hydrophilicity, as schematically drawn on the right. 2DLC is
-combined with a detection method such as UV-VIS, IR, or mass
-spectroscopy (MS), that identifies the separated molecules. As the
-compounds can have extremely low concentrations (e.g. protein
-biomarkers, plant hormones, food contaminants), the signals of
-interest are often buried in the noise of the data and information is
-being lost. Typical datasets contain several gigabytes of data per
-measurement.&lt;/p&gt;
-
-&lt;p&gt;Analyzing and extracting all relevant information from such data is a
-challenging task. In addition, 2DLC method development is daunting as
-there are numerous parameters one can vary in order to achieve optimal
-separation. Successful implementation of the technique requires months
-of costly and cumbersome development. In response to this, algorithms
-are being developed to model chromatographic interaction of analyte
-molecules with the chemical moieties of the stationary phase, so as to
-allow prediction of optimal chromatographic conditions. In this
-project, we will look at the application of AI techniques, such as
-Bayesian inference, Bayesian optimization and deep learning to tackle
-parameter optimization, peak detection, baseline correction, and
-more.&lt;/p&gt;
-
-&lt;p&gt;Joint work with &lt;a href=&quot;https://www.uva.nl/profiel/p/i/b.w.j.pirok/b.w.j.pirok.html&quot;&gt;Bob Pirok&lt;/a&gt;, &lt;a href=&quot;https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html&quot;&gt;Patrick Forré&lt;/a&gt;, and
-&lt;a href=&quot;https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing/&quot;&gt;Bernd Ensing&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;papers&quot;&gt;Papers&lt;/h4&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://linkinghub.elsevier.com/retrieve/pii/S0003267023000107&quot;&gt;Closed-loop automatic gradient design for liquid chromatography using Bayesian optimization&lt;/a&gt;&lt;br /&gt;
-Jim Boelrijk, Bernd Ensing, Patrick Forré, and Bob Pirok&lt;br /&gt;
-&lt;em&gt;Analytica Chimica Acta&lt;/em&gt; &lt;strong&gt;1242&lt;/strong&gt;, 340789 (2023)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://openreview.net/pdf?id=fSa5IjNMmmi&quot;&gt;Multi-objective optimization via equivariant deep hypervolume approximation&lt;/a&gt; &lt;br /&gt;
-Jim Boelrijk, Bernd Ensing, and Patrick Forré &lt;br /&gt;
-&lt;em&gt;ICLR, The Eleventh International Conference on Learning Representations&lt;/em&gt; (2023)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://doi.org/10.1016/j.chroma.2021.462628&quot;&gt;Bayesian Optimization of Comprehensive Two-dimensional Liquid Chromatography Separations&lt;/a&gt; &lt;br /&gt;
-Jim Boelrijk, Bob Pirok, Bernd Ensing, and Patrick Forré, &lt;br /&gt;
-&lt;em&gt;J. Chromatogr. A&lt;/em&gt; &lt;strong&gt;1659&lt;/strong&gt;, 462628 (2021)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-				<guid isPermaLink="true">http://127.0.0.1:4000//research/jim-boelrijk1/</guid>
-			</item>
-		
-			<item>
-				<title>Aaditya Ramdas</title>
-				<link>http://127.0.0.1:4000//colloquium/aaditya-ramdas.md/</link>
-				<pubDate>Tue, 14 Mar 2023 00:00:00 +0100</pubDate>
-				<description>#### Conformal prediction under distribution shift
-
-Date: 14-03-2023 14:00-1500 Central European Winter time
-
- &lt;img src=&quot;....//people/AadityaRamdas.png&quot;
-     alt=&quot;Aaditya Ramdas&quot;
-     width=&quot;100&quot;
-     style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;
-
-Speaker: **Aaditya Ramdas**, Carnegie Mellon University
-
-**Abstract:** &lt;br/&gt;
-
-Conformal prediction is a modern technique for quantifying predictive uncertainty for arbitrary ML models. Its validity relies on the assumptions of exchangeability of the data, and symmetry of the given model fitting algorithm as a function of the data. However, exchangeability is often violated when predictive models are deployed in practice, and in such settings, we might want to use an algorithm that treats observations asymmetrically (eg: upweighting more recent observations).This paper proposes a new methodology to deal with both aspects: we use weighted quantiles to introduce robustness against distribution drift, and design a new technique to allow for asymmetric algorithms. Our algorithms are provably robust, with substantially less loss of coverage under distribution drift or shift, while also reducing to the same algorithm and coverage guarantees as existing conformal prediction methods if the data points are in fact exchangeable.This is joint work with Rina Barber, Emmanuel Candes and Ryan Tibshirani. A preprint is at [https://arxiv.org/abs/2202.13415][12].
-
-**Bio:** &lt;br/&gt;
-
-Aaditya Ramdas (PhD, 2015) is an assistant professor at Carnegie Mellon University, in the Departments of Statistics and Machine Learning. He was a postdoc at UC Berkeley (2015–2018) and obtained his PhD at CMU (2010–2015), receiving the Umesh K. Gavaskar Memorial Thesis Award. Aaditya was an inaugural winner of the COPSS Leadership Award, and a recipient of the 2021 Bernoulli New Researcher Award. His work is supported by an NSF CAREER Award, an Adobe Faculty Research Award (2020), a Google Research Scholar award (2022), amongst others. He was a CUSO lecturer in 2022, and will be a Lunteren lecturer in 2023. Aaditya&apos;s main theoretical and methodological research interests include post-selection inference (interactive, structured, online, post-hoc control of false decision rates, etc), game-theoretic statistics (sequential uncertainty quantification, confidence sequences, always-valid p-values, safe anytime-valid inference, e-processes, supermartingales, e-values, etc), and distribution-free black-box predictive inference (conformal prediction, calibration, etc). His areas of applied interest include privacy, neuroscience, genetics and auditing, and his group&apos;s work has received multiple best paper awards.
-
-
-
-[1]: https://bereau.group/
-[2]: /blog/
-[9]: /contact/
-[3]:https://github.com/undark-lab/swyft
-[4]:https://arxiv.org/abs/2011.13951
-[5]:http://www.mathben.com/
-[6]:https://pubs.acs.org/doi/10.1021/acs.jctc.0c00981
-[7]:https://github.com/Ensing-Laboratory/FABULOUS
-[8]:www.evozyne.com
-[10]:https://arxiv.org/abs/2002.07467
-[11]:https://arxiv.org/abs/2206.05032
-[12]:https://arxiv.org/abs/2202.13415
-
-</description>
-				<guid isPermaLink="true">http://127.0.0.1:4000//colloquium/aaditya-ramdas.md/</guid>
-			</item>
-		
-			<item>
-				<title>Aaditya Ramdas</title>
-				<link>http://127.0.0.1:4000//colloquium/aaditya-ramdas/</link>
-				<pubDate>Tue, 14 Mar 2023 00:00:00 +0100</pubDate>
-				<description>&lt;h4 id=&quot;conformal-prediction-under-distribution-shift&quot;&gt;Conformal prediction under distribution shift&lt;/h4&gt;
-
-&lt;p&gt;Date: 14-03-2023 14:00-1500 Central European Winter time&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../members/AadityaRamdas.png&quot; alt=&quot;Aaditya Ramdas&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Aaditya Ramdas&lt;/strong&gt;, Carnegie Mellon University&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Conformal prediction is a modern technique for quantifying predictive uncertainty for arbitrary ML models. Its validity relies on the assumptions of exchangeability of the data, and symmetry of the given model fitting algorithm as a function of the data. However, exchangeability is often violated when predictive models are deployed in practice, and in such settings, we might want to use an algorithm that treats observations asymmetrically (eg: upweighting more recent observations).This paper proposes a new methodology to deal with both aspects: we use weighted quantiles to introduce robustness against distribution drift, and design a new technique to allow for asymmetric algorithms. Our algorithms are provably robust, with substantially less loss of coverage under distribution drift or shift, while also reducing to the same algorithm and coverage guarantees as existing conformal prediction methods if the data points are in fact exchangeable.This is joint work with Rina Barber, Emmanuel Candes and Ryan Tibshirani. A preprint is at &lt;a href=&quot;https://arxiv.org/abs/2202.13415&quot;&gt;https://arxiv.org/abs/2202.13415&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Aaditya Ramdas (PhD, 2015) is an assistant professor at Carnegie Mellon University, in the Departments of Statistics and Machine Learning. He was a postdoc at UC Berkeley (2015–2018) and obtained his PhD at CMU (2010–2015), receiving the Umesh K. Gavaskar Memorial Thesis Award. Aaditya was an inaugural winner of the COPSS Leadership Award, and a recipient of the 2021 Bernoulli New Researcher Award. His work is supported by an NSF CAREER Award, an Adobe Faculty Research Award (2020), a Google Research Scholar award (2022), amongst others. He was a CUSO lecturer in 2022, and will be a Lunteren lecturer in 2023. Aaditya’s main theoretical and methodological research interests include post-selection inference (interactive, structured, online, post-hoc control of false decision rates, etc), game-theoretic statistics (sequential uncertainty quantification, confidence sequences, always-valid p-values, safe anytime-valid inference, e-processes, supermartingales, e-values, etc), and distribution-free black-box predictive inference (conformal prediction, calibration, etc). His areas of applied interest include privacy, neuroscience, genetics and auditing, and his group’s work has received multiple best paper awards.&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">http://127.0.0.1:4000//colloquium/aaditya-ramdas/</guid>
-			</item>
-		
-			<item>
-				<title>Fredrik Lindsten</title>
-				<link>http://127.0.0.1:4000//colloquium/fredrik-lindsten.md/</link>
-				<pubDate>Tue, 25 Oct 2022 00:00:00 +0200</pubDate>
-				<description>#### Deep Gaussian Markov Random Fields
-
-Date: 25-10-2022 14:00-1500 Central European Summer time
-
- &lt;img src=&quot;../../people/FredrikLindsten.png&quot;
-     alt=&quot;FredrikLindsten&quot;
-     width=&quot;100&quot;
-     style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;
-
-Speaker: **Fredrik Lindsten**, Linköping University
-
-**Abstract:** &lt;br/&gt;
-
-Machine learning methods on graphs are relevant for many application domains due to their ability to model complex dependencies and structures. Gaussian Markov Random Fields (GMRFs) provide a principled way to define Gaussian models on graphs by utilizing their sparsity structure. In this talk I will show how we can use graph neural networks (GNNs) and convolutional neural networks (CNNs) do design scalable and flexible GMRFs. Starting with lattice graphs, we establish a formal connection between CNNs and GMRFs, by showing that common GMRFs are special cases of a generative model where the inverse mapping from data to latent variables is given by a 1-layer linear CNN. This connection allows us to generalize GMRFs to multi-layer CNN architectures, effectively increasing the order of the corresponding GMRF in a way which has favorable computational scaling. I will also discuss how this Deep GMRF can be generalized to arbitrary graphs using a specialized GNN layer. Well-established tools, such as autodiff and variational inference, can be used for simple and efficient inference and learning of the Deep GMRF, and for a Gaussian likelihood, close to exact Bayesian inference is available for the latent field. I demonstrate the flexibility of the proposed model and show that it compares favorably to other methods, both Bayesian and deep-learning-based, on spatial and non-spatial data.
-
-Joint work with Joel Oskarsson (LiU) and Per Sidén (LiU/Qualcomm Arriver)
-
-Papers:
-
-[Deep Gaussian Markov Random Fields][10]
-
-[Scalable Deep Gaussian Markov Random Fields for General Graphs][11]
-
-
-
-[1]: https://bereau.group/
-[2]: /blog/
-[9]: /contact/
-[3]:https://github.com/undark-lab/swyft
-[4]:https://arxiv.org/abs/2011.13951
-[5]:http://www.mathben.com/
-[6]:https://pubs.acs.org/doi/10.1021/acs.jctc.0c00981
-[7]:https://github.com/Ensing-Laboratory/FABULOUS
-[8]:www.evozyne.com
-[10]:https://arxiv.org/abs/2002.07467
-[11]:https://arxiv.org/abs/2206.05032
-</description>
-				<guid isPermaLink="true">http://127.0.0.1:4000//colloquium/fredrik-lindsten.md/</guid>
-			</item>
-		
-			<item>
-				<title>Fredrik Lindsten</title>
-				<link>http://127.0.0.1:4000//colloquium/fredrik-lindsten/</link>
-				<pubDate>Tue, 25 Oct 2022 00:00:00 +0200</pubDate>
-				<description>&lt;h4 id=&quot;deep-gaussian-markov-random-fields&quot;&gt;Deep Gaussian Markov Random Fields&lt;/h4&gt;
-
-&lt;p&gt;Date: 25-10-2022 14:00-1500 Central European Summer time&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../members/FredrikLindsten.png&quot; alt=&quot;FredrikLindsten&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker: &lt;strong&gt;Fredrik Lindsten&lt;/strong&gt;, Linköping University&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Machine learning methods on graphs are relevant for many application domains due to their ability to model complex dependencies and structures. Gaussian Markov Random Fields (GMRFs) provide a principled way to define Gaussian models on graphs by utilizing their sparsity structure. In this talk I will show how we can use graph neural networks (GNNs) and convolutional neural networks (CNNs) do design scalable and flexible GMRFs. Starting with lattice graphs, we establish a formal connection between CNNs and GMRFs, by showing that common GMRFs are special cases of a generative model where the inverse mapping from data to latent variables is given by a 1-layer linear CNN. This connection allows us to generalize GMRFs to multi-layer CNN architectures, effectively increasing the order of the corresponding GMRF in a way which has favorable computational scaling. I will also discuss how this Deep GMRF can be generalized to arbitrary graphs using a specialized GNN layer. Well-established tools, such as autodiff and variational inference, can be used for simple and efficient inference and learning of the Deep GMRF, and for a Gaussian likelihood, close to exact Bayesian inference is available for the latent field. I demonstrate the flexibility of the proposed model and show that it compares favorably to other methods, both Bayesian and deep-learning-based, on spatial and non-spatial data.&lt;/p&gt;
-
-&lt;p&gt;Joint work with Joel Oskarsson (LiU) and Per Sidén (LiU/Qualcomm Arriver)&lt;/p&gt;
-
-&lt;p&gt;Papers:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2002.07467&quot;&gt;Deep Gaussian Markov Random Fields&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2206.05032&quot;&gt;Scalable Deep Gaussian Markov Random Fields for General Graphs&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">http://127.0.0.1:4000//colloquium/fredrik-lindsten/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//student/wiebke-albrecht-masterproject1/</guid>
 			</item>
 		
 	</channel>

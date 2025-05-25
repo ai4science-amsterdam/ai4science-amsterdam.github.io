@@ -154,7 +154,7 @@ Images from:
 
 <br/>
 
-<img src="../images/fig_project_cong.png"
+<img src="../images/project_congliu1.png"
      alt="VacinneDesign"
      width="400"
      style="float: right; margin-right: 10px;" />

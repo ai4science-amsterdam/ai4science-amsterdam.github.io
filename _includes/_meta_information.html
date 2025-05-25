@@ -17,6 +17,10 @@
 				<span class="pr20">{% for tag in page.tags %}<span class="icon-price-tag pr10"> {{tag}}</span> {% endfor %}</span>
 			</p>
 
+{% comment %}
+*
+* B.E. changed the next/previous posts buttons to filter by catagory (copied from _include/next-previous-post-in category)
+*
 			{% if page.collection == "posts" %}
 			<div id="post-nav" class="row">
 				{% if page.previous.url %}
@@ -31,3 +35,45 @@
 			</div>
 			{% endif %}
 			</div><!--  /.page-meta -->
+{% endcomment %}
+
+
+{% comment %}
+*
+* assign FIRST category from categories variable from front matter to cat
+* and make a string from the array by using › join: ''
+*
+{% endcomment %}
+                        {% assign cat = page.categories | first | join: '' %}
+                        {% for post in site.categories.[cat] %}
+                        {% if post.url == page.url %}
+                        {% assign post_index0 = forloop.index0 %}
+                        {% assign post_index1 = forloop.index %}
+                        {% endif %}
+                        {% endfor %}
+                        {% for post in site.categories.[cat] %}
+                        {% if post_index0 == forloop.index %}
+                        {% assign next_post = post.url %}
+                        {% assign next_title= post.title %}
+                        {% endif %}
+                        {% if post_index1 == forloop.index0 %}
+                        {% assign prev_post = post.url %}
+                        {% assign prev_title= post.title %}
+                        {% endif %}
+                        {% endfor %}
+
+                        {% if page.collection == "posts" %}
+                        <div id="post-nav" class="row">
+                                {% if prev_post %}
+                                <div class="small-5 columns text-center"><a class="button small radius prev" href="{{ site.url }}{{ site.baseurl }}{{prev_post}}">&laquo; Previous</a></div><!-- /.small-4.columns -->
+                                {% else %}
+                                <div class="small-5 columns text-center"></div><!-- /.small-4.columns -->
+                                {% endif %}
+                                <div class="small-2 columns text-center"><a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/blog/archive/" title="Blog {{ site.data.language.archive }}">{{ site.data.language.archive }}</a></div><!-- /.small-4.columns -->
+                                {% if next_post %}
+                                <div class="small-5 columns text-center"><a class="button small radius next" href="{{ site.url }}{{ site.baseurl }}{{next_post}}">Next &raquo;</a></div><!-- /.small-4.columns -->
+                                {% else %}
+                                <div class="small-5 columns text-center"></div><!-- /.small-4.columns -->
+                                {% endif %}
+                        </div>
+                        {% endif %}

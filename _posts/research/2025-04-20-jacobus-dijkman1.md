@@ -39,8 +39,9 @@ title: "Classical DFT"
 teaser: "AI-improved prediction of thermodynamic properties of liquids"
 description: "We introduce a method for learning a neural-network approximation of the Helmholtz free-energy functional by exclusively training on a dataset of radial distribution functions, circumventing the need to sample costly heterogeneous density profiles in a wide variety of external potentials."
 image:
-    title: project_jacobusdijkman1.jpg
+    full: project_jacobusdijkman1.jpg
     thumb: project_jacobusdijkman1_thumb.jpg
+    widget: project_jacobusdijkman1_302-182.png
     caption: "Molecules can interact with rugged potentials, for instance inside a porous material, leading to large density fluctuations. Nevertheless, the efficient cDFT predictions match very well the time-consuming atomistic Monte Carlo simulation result. Image: HIMS / PhysRevLett."
     caption_url: https://doi.org/10.1103/PhysRevLett.134.056103
 ---

@@ -1,0 +1,50 @@
+---
+layout: page-fullwidth 
+---
+
+<!-- ========================== Bachelor and Master Courses ========================== -->
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
+
+
+
+<!-- ========================== Research Projects ========================== -->
+<hr style="width:100%;text-align:left;margin-left:0">
+
+<header id="projects">
+	<br>
+	<a href="#bachelor">Bachelor Courses</a> |
+	<a href="#master">Master Courses</a> |
+	<a href="#projects">Research Projects</a>
+<hr style="width:100%;text-align:left;margin-left:0">	
+	<h1>Student research projects</h1>
+</header>
+
+
+{% comment %}
+*
+*  Place student project widgets in rows of 3
+*
+{% endcomment %}
+<div class="row t60"> 
+  {% assign ipost = 0 %}
+  {% for post in site.posts limit:1000 %}
+      {% if post.categories contains 'student' %}
+          {% if post.image.widget and post.title and post.description %}
+              {% include _student-project-widget.html widget=post %}
+              {% assign ipost = ipost | plus:1 %}
+              {% if ipost == 3 %} 
+                  {% assign ipost = 0 %}
+                  </div><!-- row -->
+                  <hr style="width:100%;text-align:left;margin-left:0">
+                  <div class="row t60"> 
+              {% endif %}
+          {% endif %}
+      {% endif %}
+  {% endfor %}
+</div><!-- row -->
+
+<div class="row t60"> 
+</div><!-- row -->

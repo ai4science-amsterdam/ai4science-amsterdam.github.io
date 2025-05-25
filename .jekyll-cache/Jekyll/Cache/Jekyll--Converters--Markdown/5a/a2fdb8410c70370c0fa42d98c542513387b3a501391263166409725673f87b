@@ -1,0 +1,44 @@
+I"<p><img src="../../members/ChristophWeniger.jpg" alt="Cong Liu" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>A lecture series on <em>machine learning in physics</em> is organised by <a href="https://www.uva.nl/en/profile/w/e/c.weniger/c.weniger.html">Dr. Christoph Weniger</a> focused on such topics as equivariant neural networks, simulation-based inference, and transformers. Each event is scheduled for 90 minutes, in which the first 60 minutes will feature local or national speakers introducing a topic, followed by short talks from MSc/PhD students or postdocs on related applications. The final 30 minutes will be an optional crash course on how to use the presented techniques in practice, using Google Colab notebooks.</p>
+
+<p><em>Time schedule of the lecture series:</em></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>—</th>
+      <th>When</th>
+      <th>Topic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Friday 23 May, 13:00 - 14:30</td>
+      <td>Basics of deep learning (MLPs, SGD)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Friday 3 June, 13:00 - 14:30</td>
+      <td>Equivariant neural networks</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Friday 4th July, 1pm - 2:30pm</td>
+      <td>Simulation-based inferece</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>TBA</td>
+      <td>Transformers</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>TBA</td>
+      <td>Differentiable programming and optimisation</td>
+    </tr>
+  </tbody>
+</table>
+
+:ET

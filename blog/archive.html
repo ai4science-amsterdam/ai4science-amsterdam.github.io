@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Blog Archive"
-teaser: "Check out all blog posts in our blog archive."
+title: "News Archive"
+teaser: "Check out recent news and events on our news archive."
 breadcrumb: true
 header:
    image_fullwidth: header_unsplash_8.jpg
@@ -16,7 +16,7 @@ permalink: "blog/archive/"
 		<dl class="accordion" data-accordion>
 			{% assign counter = 1 %}
 		        {% for post in site.posts limit:1000 %}
-		        {% if post.categories contains 'colloquium' %}
+		        {% if post.categories contains 'news' %}
 			<dd class="accordion-navigation">
 			<a href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a>
 				<div id="panel{{ counter }}" class="content">

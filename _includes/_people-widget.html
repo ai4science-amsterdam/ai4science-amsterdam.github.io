@@ -21,13 +21,13 @@
 			{% if include.widget.image != NULL %}<img src="{{ widget_image }}" alt="{{ include.widget.name }}" />{% endif %}
 		</a>
         {% endif %}
-     
+                <div class="name">
      	{% if widget_url == empty %}
                 <h4>{{ include.widget.name }}</h4>
 	{% else %}
                 <h4><a href="{{ widget_url }}">{{ include.widget.name}}</a></h4>
         {% endif %}
-
+                </div>
 	{% if include.widget.text != empty %}<p>{{ include.widget.text }}</p>{% endif %}
 	{% if include.widget.research != NULL %}<a class="radius button small" href="{{ include.widget.research }}">Research</a>{% endif %}
   </div>

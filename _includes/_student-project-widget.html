@@ -1,0 +1,36 @@
+{% comment %}
+*
+*   First the include captures the url and image in a
+*   separate variable to make the code better readable.
+*
+*   These variables are widget_url and widget_image
+*
+{% endcomment %}
+
+{% capture widget_url %}{% if include.widget.url == NULL %}{% elsif include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
+
+{% capture widget_image %}{% if include.widget.image.widget contains 'http' %}{{ include.widget.image.widget }}{% else %}{{ site.urlimg }}{{ include.widget.image.widget }}{% endif %}{% endcapture %}
+
+<div class="medium-4 columns">
+    <div class="box post">
+        <div class="image">
+	{% if widget_url == empty %}
+            {% if widget_image != empty %}<img "src="{{ widget_image }}" width="302" height="182" alt="" />{% endif %}
+	{% else %}
+		<a href="{{ widget_url }}">
+			{% if widget_image != empty %}<img src="{{ widget_image }}" width="302" height="182" alt="" />{% endif %}
+		</a>
+        {% endif %}
+	</div>
+
+        <div class="details">
+	    {% if include.widget.topic %}<p class="subheadline">{{ include.widget.topic }}</p>{% endif %}
+	    <h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
+{% comment %}	  
+            {% if include.widget.author.name %}<p><em>{{ include.widget.subheadline }} by {{ include.widget.author.name }}</em></p>{% endif %}
+{% endcomment %}
+            {% if include.widget.description != empty %}<p>{{ include.widget.description }}</p>{% endif %}
+	    {% if widget_url != empty %}<a class="radius button small" href="{{ widget_url }}">More</a>{% endif %}
+        </div>
+    </div> <!-- box post -->
+</div>

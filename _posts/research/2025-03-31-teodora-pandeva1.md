@@ -15,7 +15,7 @@ tags:
 author:
     image: author_teodorapandeva.jpg
     name: Teodora Pandeva
-    function: PhD candidate
+    function: PhD alumnus
     room: 
     contact:  
     institute: Microsoft Research
@@ -31,8 +31,9 @@ title: "Gene Regulatory Networks"
 teaser: "Machine Learning for Multi-Source Data Integration"
 description: "Unraveling the co-expression of genes across studies enhances the understanding of cellular processes. Inferring gene co-expression networks from transcriptome data presents many challenges, including spurious gene correlations, sample correlations, and batch effects. To address these complexities, we introduce a robust method for high-dimensional graph inference from multiple independent studies."
 image:
-    title: project_teodorapandeva1.png
+    full: project_teodorapandeva1.png
     thumb: project_teodorapandeva1_thumb.png
+    widget: project_teodorapandeva1_302-182.png
 #    caption: 
 #    caption_url: https://doi.org/10.1103/PhysRevLett.134.056103
 ---

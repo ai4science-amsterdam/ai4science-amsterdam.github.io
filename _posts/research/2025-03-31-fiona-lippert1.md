@@ -15,7 +15,7 @@ tags:
 author:
     image: author_fionalippert.png
     name: Fiona Lippert
-    function: PhD candidate
+    function: PhD alumnus
     room: 
     contact:  
     institute: SRON
@@ -33,8 +33,9 @@ title: "Radar Aeroecology"
 teaser: "Learning to predict spatiotemporal movement dynamics of migrating birds from weather radar networks"
 description: "Weather radar networks provide wide-ranging opportunities for ecologists to quantify and predict movements of airborne organisms over unprecedented geographical expanses. We propose FluxRGNN, a recurrent graph neural network that is based on a generic mechanistic description of population-level movements across the Voronoi tessellation of radar sites."
 image:
-    title: project_fionalippert1.png
+    full: project_fionalippert1.png
     thumb: project_fionalippert1_thumb.png
+    widget: project_fionalippert1_302-182.png
     caption: "Images from Nilsson et al. (2018): Revealing patterns of nocturnal migration using the European weather radar network and Nussbaumer et al. (2019): A Geostatistical Approach to Estimate High Resolution Nocturnal Bird Migration Densities from a Weather Radar Network"
 #    caption_url: https://doi.org/10.1103/PhysRevLett.134.056103
 ---

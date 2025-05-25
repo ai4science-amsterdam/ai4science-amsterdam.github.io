@@ -1,9 +1,11 @@
 ---
 layout: who-we-are_new
 header:
-    image_fullwidth: "banner.jpg"
-    caption: "Credits: Mike Mackenzie"
-    caption_url:	https://www.flickr.com/photos/mikemacmarketing/30212411048
+    background-color: "#394C5A"
+    image: banner_members.png
+#    image_fullwidth: "banner.jpg"
+#    caption: "Credits: Mike Mackenzie"
+#    caption_url:	https://www.flickr.com/photos/mikemacmarketing/30212411048
 permalink: "/members_new/"
 
 staff1:
@@ -207,22 +209,29 @@ phd11:
   url: 'https://arcnl.nl/people/maximilian-lipp'
   image: ../members/MaximilianLipp.jpg
   text: 'ARCNL<br>'
+  research: ../research/maximilian-lipp1/
 phd12:
+  name: "Cong Liu"
+  url: 'http://amlab.science.uva.nl/people/CongLiu/'
+  image: ../members/CongLiu.jpg
+  text: IvI<br>AMLab
+  research: ../research/cong-liu1/
+phd13:
   name: "Youri Ran"
   url: 'https://www.compchem.nl/group_members/youri-ran/'
   image: ../members/YouriRan.jpg
   text: 'HIMS<br>Computational Chemistry'
-phd13:
+phd14:
   name: "Alex Sánchez Cano"
   url: 'https://bdagroup.nl/?employee=alex-sanchez-cano'
   image: ../members/AlexSanchezCano_s.jpg
   text: 'SILS<br>Biosystems Data Analysis'
-phd14:
+phd15:
   name: "Joy Sanghavi"
   url: https://www.grappa.amsterdam/members/joy-sanghavi
   image: ../members/JoySanghavi.jpg
   text: ITF Grappa<br>'
-phd15:
+phd16:
   name: "Oleg Savchenko"
   url: https://www.grappa.amsterdam/members/oleg-savchenko
   image: ../members/OlegSavchenko.jpg

@@ -25,6 +25,10 @@
   url: "/research/"
   side: right
 
+- title: "Education"
+  url: "/education/"
+  side: right
+
 - title: "Members"
   url: "/members/"
   side: right

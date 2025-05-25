@@ -1,0 +1,20 @@
+I"»<p>In this project, we will perform an analysis of certain types of
+equivalence relations on the space of three-dimensional (3d) Quantum
+Field Theories (QFTs) in search of hidden structures and features that
+organize this space and help classify 3d QFTs. Specifically, we will
+study the infinite web of dualities that can be constructed from a
+simple set of path integral operations in certain 3d QFTs, which can
+be mnemonically realized as graph operations. The graph representation
+of the data that defines the kinematical structure of these 3d QFTs,
+and the realization of dualities therein as graph operations,
+naturally opens the door to their study by use of Machine Learning
+(ML) techniques, namely Graph Neural Networks (GNN). In short, this
+project will focus primarily on the use of GNNs, and other concepts in
+ML broadly defined, as the methodological basis for a novel study of
+dualities in 3d QFTs.  See the
+<a href="https://arxiv.org/abs/1905.12656">lecture notes</a> for some
+physics background, and <a href="https://arxiv.org/abs/2411.07467">this</a>
+paper} and <a href="https://arxiv.org/abs/2409.02126">this</a> for recent
+works using machine learning to study somewhat similar problems.</p>
+
+:ET

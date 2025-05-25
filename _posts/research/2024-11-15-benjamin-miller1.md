@@ -15,7 +15,7 @@ tags:
 author:
     image: author_benjaminmiller.jpg
     name: Benjamin Miller
-    function: PhD candidate
+    function: PhD alumnus
     room: 
     contact:  
     institute: Meta
@@ -31,8 +31,9 @@ title: "Gravitational Waves"
 teaser: "Bayesian Optimization of Comprehensive Two-dimensional Liquid Chromatography Separations"
 description: "Peregrine is a new sequential simulation-based inference approach designed to study broad classes of gravitational wave signal. We show that we are able to fully reconstruct the posterior distributions for every parameter of a spinning, precessing compact binary coalescence using one of the most physically detailed and computationally expensive waveform approximants (SEOBNRv4PHM). "
 image:
-    title: project_benjaminmiller1.png
+    full: project_benjaminmiller1.png
     thumb: project_benjaminmiller1_thumb.png
+    widget: project_benjaminmiller1_302-182.png
 #    caption: 
 #    caption_url: https://doi.org/10.1103/PhysRevLett.134.056103
 ---
