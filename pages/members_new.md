@@ -86,46 +86,51 @@ associate13:
   image: ../members/AnaLucic_s.jpg
   text: ILLC<br>Asst. Prof. in AI
 associate14:
+  name: "Jan-Willem van de Meent"
+  url: 'http://amlab.science.uva.nl/people/JanWillemVanDeMeent/'
+  image: ../members/JanWillemVanDeMeent.jpg
+  text: 'IVI<br>Assoc. Prof. Informatics'
+associate15:
   name: "Samaya	Nissanke"
   url: 'https://www.uva.nl/en/profile/n/i/s.m.nissanke/s.m.nissanke.html'
   image: ../members/SamayaNissanke.jpg
   text: 'IHEF GRAPPA<br>Assoc. Prof. Physics'
-associate15:
+associate16:
   name: "Alberto Pérez de Alba Ortíz"
   url: 'https://www.compchem.nl/staff_members/alberto/'
   image: ../members/AlbertoPerezDeAlbaOrtiz.jpg
   text: HIMS & IvI<br>Asst. Prof. Computational Soft Matter
-associate16:
+associate17:
   name: "Bob Pirok"
   url: ' https://www.uva.nl/profiel/p/i/b.w.j.pirok/b.w.j.pirok.html'
   image: ../members/BobPirok.jpg
   text: 'HIMS<br>Asst. Prof. Analytical Chemistry'
-associate17:
+associate18:
   name: "Antonia Praetorius"
   url: 'https://www.uva.nl/en/profile/p/r/a.praetorius/a.praetorius.html'
   image: ../members/AntoniaPraetorius.jpg
   text: 'IBED<br>Asst. Prof. Environmental Chemistry '
-associate18:
+associate19:
   name: "Annemieke de Raad"
   url: 'https://www.ixa.nl/about/team-overview/'
   image: ../members/AnnemiekeDeRaad.png
   text: 'IXA<br>Business & Impact Developer'
-associate19:
-  name: "Antonia	Rowlinson"
+associate20:
+  name: "Antonia Rowlinson"
   url: 'https://www.uva.nl/en/profile/r/o/b.a.rowlinson/b.a.rowlinson.html'
   image: ../members/AntoniaRowlinson.jpg
   text: 'API<br>Asst. Prof. Astrophysics '
-associate20:
+associate21:
   name: "Saer Samanipour"
   url: 'https://www.uva.nl/en/profile/s/a/s.samanipour/s.samanipour.html'
   image: ../members/SaerSamanipour.jpg
   text: 'HIMS<br>Asst. Prof. Analytical Chemistry'
-associate21:
+associate22:
   name: "Max Welling"
   url: 'https://amlab.science.uva.nl/people/MaxWelling/'
   image: ../members/MaxWelling.jpg
   text: 'IvI<br>Prof. Machine Learning'
-associate22:
+associate23:
   name: "Christoph Weniger"
   url: 'https://www.uva.nl/en/profile/w/e/c.weniger/c.weniger.html'
   image: ../members/ChristophWeniger.jpg
