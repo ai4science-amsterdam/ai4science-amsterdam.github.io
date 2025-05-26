@@ -19,7 +19,7 @@ The FNWI [Institute of Informatics (IvI)][4] is at the forefront of the scientif
 
 At the AI4Science Laboratory, we develop and apply artifical intelligence and data-driven solutions for scientific discovery.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/people/">Meet the people ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/members/">Meet the people ›</a>
 
 
 [1]: https://icai.ai/

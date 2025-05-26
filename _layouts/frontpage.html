@@ -15,6 +15,32 @@ format: frontpage
 </div><!-- /.row -->
 
 
+{% comment %}
+*
+*  Three research highlight widgets
+*
+{% endcomment %}
+
+<div class="row t60"> 
+            <hr><center><h1> Research highlights</h1></center>
+            {% assign ipost = 1 %}
+            {% assign nshown = 0 %}
+            {% assign postnumber =  page.postnumber %}
+            {% for post in site.posts limit:1000 %}
+               {% if post.categories contains 'research' %}
+	          {% if ipost == postnumber %}
+
+                    {% if post.image.widget and post.title and post.description %}
+                       {% include _project-widget.html widget=post %}
+                       {% assign nshown = nshown | plus:1 %}
+                       {% if nshown < 3 %}{% assign postnumber = postnumber | plus:1 %}{% endif %}
+                    {% endif %}
+
+		  {% endif %}
+                  {% assign ipost = ipost | plus:1 %}
+              {% endif %}
+            {% endfor %}
+</div><!-- row -->
 
 
 
@@ -73,32 +99,6 @@ format: frontpage
     </div><!-- /.row -->
 {% endunless %}
 
-{% comment %}
-*
-*  Three research highlight widgets
-*
-{% endcomment %}
-
-<div class="row t60"> 
-            <hr><center><h1> Research highlights</h1></center>
-            {% assign ipost = 1 %}
-            {% assign nshown = 0 %}
-            {% assign postnumber =  page.postnumber %}
-            {% for post in site.posts limit:1000 %}
-               {% if post.categories contains 'research' %}
-	          {% if ipost == postnumber %}
-
-                    {% if post.image.widget and post.title and post.description %}
-                       {% include _project-widget.html widget=post %}
-                       {% assign nshown = nshown | plus:1 %}
-                       {% if nshown < 3 %}{% assign postnumber = postnumber | plus:1 %}{% endif %}
-                    {% endif %}
-
-		  {% endif %}
-                  {% assign ipost = ipost | plus:1 %}
-              {% endif %}
-            {% endfor %}
-</div><!-- row -->
 
 
 {% comment %}

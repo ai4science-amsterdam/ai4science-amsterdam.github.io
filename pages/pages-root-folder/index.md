@@ -19,10 +19,12 @@ homepage: true
 [comment]:----------------------------------------------------------------------------------------------------------
 
 ---
+
 > How can we detect, classify, and predict relevant patterns in scientific data if they are hidden within large amount of non-relevant data?
----
 
 
+
+<!--
 # About Amsterdam AI4Science
 
 
@@ -50,7 +52,7 @@ spin-offs. Interested in joining the AI4Science consortium?
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/consortium/">Learn More›</a>
 
 ---
-
+-->
 
 [1]: https://ellis.eu
 [2]: https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/faculty-of-science.html
