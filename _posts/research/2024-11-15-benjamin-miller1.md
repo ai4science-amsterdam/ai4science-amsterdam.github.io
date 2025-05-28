@@ -28,7 +28,7 @@ author:
 #
 subheadline: "Research project"
 title: "Gravitational Waves"
-teaser: "Bayesian Optimization of Comprehensive Two-dimensional Liquid Chromatography Separations"
+teaser: "Machine Learning for Scientific Simulation: Inference and Generative Models"
 description: "Peregrine is a new sequential simulation-based inference approach designed to study broad classes of gravitational wave signal. We show that we are able to fully reconstruct the posterior distributions for every parameter of a spinning, precessing compact binary coalescence using one of the most physically detailed and computationally expensive waveform approximants (SEOBNRv4PHM). "
 image:
     full: project_benjaminmiller1.png

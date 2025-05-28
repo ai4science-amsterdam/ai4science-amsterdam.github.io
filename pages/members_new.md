@@ -273,7 +273,12 @@ alumni5:
   image: ../members/DavidRuhe.jpg
   text: 'IvI/API<br>AMLab'
   research: ../research/david-ruhe1/
-
+alumni5:
+  name: "Marco Federici"
+  url:
+  image: ../members/MarcoFederici.jpg
+  text: 'IvI/MSR<br>AMLab'
+  research: ../research/marco-federici1/
   
 ---
 
