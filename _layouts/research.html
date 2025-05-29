@@ -65,7 +65,7 @@ noindex: true
 		      {% if post.author.name %}<p><em>{{ post.subheadline }} by {{ post.author.name }}</em></p>{% endif %}
 		      <p>
 		      {% if post.description %}{{ post.description }}{% endif %}
-		      <br><br><a href="{{ site.url }}{{ site.baseurl }}{{post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a></p>
+		      <br><a href="{{ site.url }}{{ site.baseurl }}{{post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a></p>
                     </div>
 		  </li>
 		
