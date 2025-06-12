@@ -222,21 +222,36 @@ phd12:
   text: IvI<br>AMLab
   research: ../research/cong-liu1/
 phd13:
+  name: "Matilde Mercuri"
+  url: 'https://www.compchem.nl/group_members/Matilde-Mercuri/'
+  image: ../members/MatildeMercuri.jpg
+  text: 'HIMS<br>Computational Chemistry'
+phd14:
+  name: "Alec Noppe"
+  url: 'https://www.compchem.nl/group_members/Alec-Noppe/'
+  image: ../members/AlecNoppe.jpg
+  text: 'HIMS<br>Computational Chemistry'
+phd15:
+  name: "Abhaj Nagaraj"
+  url: 'https://www.compchem.nl/group_members/Abhaj-Nagaraj/'
+  image: ../members/AbhajNagaraj.jpg
+  text: 'HIMS<br>Computational Chemistry'
+phd16:
   name: "Youri Ran"
   url: 'https://www.compchem.nl/group_members/youri-ran/'
   image: ../members/YouriRan.jpg
   text: 'HIMS<br>Computational Chemistry'
-phd14:
+phd17:
   name: "Alex Sánchez Cano"
   url: 'https://bdagroup.nl/?employee=alex-sanchez-cano'
   image: ../members/AlexSanchezCano_s.jpg
   text: 'SILS<br>Biosystems Data Analysis'
-phd15:
+phd18:
   name: "Joy Sanghavi"
   url: https://www.grappa.amsterdam/members/joy-sanghavi
   image: ../members/JoySanghavi.jpg
   text: ITF Grappa<br>'
-phd16:
+phd19:
   name: "Oleg Savchenko"
   url: https://www.grappa.amsterdam/members/oleg-savchenko
   image: ../members/OlegSavchenko.jpg

@@ -10,9 +10,31 @@ We develop and use machine learning techniques to discover patterns in data stre
 		<atom:link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>AI4Science get together</title>
+				<link>http://127.0.0.1:4000//news/Get-Together/</link>
+				<pubDate>Wed, 04 Jun 2025 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;AI4Science is organising an informaal meeting for all its members and friends to 
+get to know each other and hear about the various AI4Science-related research directions.&lt;/p&gt;
+
+&lt;div class=&quot;alert-box info &quot;&gt;
+&lt;li&gt;Date: Friday 4 July 2025
+&lt;li&gt;Time: 15:00 hr
+&lt;li&gt;Location: Science Park, room tba
+&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The first hour of this networking event will consist of short (5 minute) research presentations by
+our (junior) members. This is followed by drinks and snacks. 
+Details on registration, signing up for a presentation, and information on the location will follow shortly.&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">http://127.0.0.1:4000//news/Get-Together/</guid>
+			</item>
+		
+			<item>
 				<title>AI4Physics lecture series</title>
 				<link>http://127.0.0.1:4000//news/AI4Physics-lectures/</link>
-				<pubDate>Thu, 15 May 2025 00:00:00 +0100</pubDate>
+				<pubDate>Thu, 15 May 2025 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../members/ChristophWeniger.jpg&quot; alt=&quot;Cong Liu&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A lecture series on &lt;em&gt;machine learning in physics&lt;/em&gt; is organised by &lt;a href=&quot;https://www.uva.nl/en/profile/w/e/c.weniger/c.weniger.html&quot;&gt;Dr. Christoph Weniger&lt;/a&gt; focused on such topics as equivariant neural networks, simulation-based inference, and transformers. Each event is scheduled for 90 minutes, in which the first 60 minutes will feature local or national speakers introducing a topic, followed by short talks from MSc/PhD students or postdocs on related applications. The final 30 minutes will be an optional crash course on how to use the presented techniques in practice, using Google Colab notebooks.&lt;/p&gt;
@@ -63,7 +85,7 @@ We develop and use machine learning techniques to discover patterns in data stre
 			<item>
 				<title>PhD defence of David Ruhe</title>
 				<link>http://127.0.0.1:4000//news/phd-defence-david-ruhe/</link>
-				<pubDate>Tue, 13 May 2025 00:00:00 +0100</pubDate>
+				<pubDate>Tue, 13 May 2025 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../members/DavidRuhe.jpg&quot; alt=&quot;David Ruhe&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;David Ruhe will defend his thesis &lt;em&gt;Structured Deep Learning with Applications in Astrophysics&lt;/em&gt;.
@@ -101,7 +123,7 @@ Supervisors: Dr. P.D. Forré and Prof. dr. R.A.M.J. Wijers. Co-supervisors: Dr. 
 			<item>
 				<title>PhD defence of Fiona Lippert</title>
 				<link>http://127.0.0.1:4000//news/phd-defence-fiona-lippert/</link>
-				<pubDate>Thu, 01 May 2025 00:00:00 +0100</pubDate>
+				<pubDate>Thu, 01 May 2025 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../members/FionaLippert.jpg&quot; alt=&quot;Fiona Lippert&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Fiona Lippert will defend her thesis &lt;em&gt;From weather radars to bird migration fluxes; Process-guided machine learning for spatio-temporal forecasting and inference&lt;/em&gt;. 
@@ -135,7 +157,7 @@ Supervisor: Dr. P.D. Forré and Dr. ir. E.E. van Loon. Co-supervisors: Prof. dr.
 			<item>
 				<title>Classical DFT</title>
 				<link>http://127.0.0.1:4000//research/jacobus-dijkman1/</link>
-				<pubDate>Sun, 20 Apr 2025 00:00:00 +0100</pubDate>
+				<pubDate>Sun, 20 Apr 2025 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../members/JacobusDijkman.jpg&quot; alt=&quot;Jacobus Dijkman&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;PhD research of &lt;strong&gt;Jacobus Dijkman&lt;/strong&gt;&lt;/p&gt;
@@ -189,7 +211,7 @@ Jan-Willem van de Meent, and Bernd Ensing, &lt;br /&gt;
 			<item>
 				<title>Nanoscale Imaging and Metrology</title>
 				<link>http://127.0.0.1:4000//research/maximilian-lipp1/</link>
-				<pubDate>Thu, 10 Apr 2025 00:00:00 +0100</pubDate>
+				<pubDate>Thu, 10 Apr 2025 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../members/MaximilianLipp.jpg&quot; alt=&quot;Maximilian Lipp&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;PhD research of &lt;strong&gt;Maximilian Lipp&lt;/strong&gt;&lt;/p&gt;
@@ -226,7 +248,7 @@ production of the lithography machines.&lt;/p&gt;
 			<item>
 				<title>Protein Stabilization for Vaccine Design</title>
 				<link>http://127.0.0.1:4000//research/cong-liu1/</link>
-				<pubDate>Thu, 10 Apr 2025 00:00:00 +0100</pubDate>
+				<pubDate>Thu, 10 Apr 2025 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../members/CongLiu.jpg&quot; alt=&quot;Cong Liu&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;PhD research of &lt;strong&gt;Cong Liu&lt;/strong&gt;&lt;/p&gt;
@@ -265,7 +287,7 @@ leading to the help for designing of stable antigens.&lt;/p&gt;
 			<item>
 				<title>Gene Regulatory Networks</title>
 				<link>http://127.0.0.1:4000//research/teodora-pandeva1/</link>
-				<pubDate>Mon, 31 Mar 2025 00:00:00 +0100</pubDate>
+				<pubDate>Mon, 31 Mar 2025 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../members/TeodoraPandeva.jpg&quot; alt=&quot;Teodora Pandeva&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;PhD research of &lt;strong&gt;Teodora Pandeva&lt;/strong&gt;&lt;/p&gt;
@@ -320,7 +342,7 @@ Teodora Pandeva, Martijs Jonker, Leendert Hamoen, Joris Mooij and Patrick Forré
 			<item>
 				<title>Radar Aeroecology</title>
 				<link>http://127.0.0.1:4000//research/fiona-lippert1/</link>
-				<pubDate>Mon, 31 Mar 2025 00:00:00 +0100</pubDate>
+				<pubDate>Mon, 31 Mar 2025 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../members/FionaLippert.jpg&quot; alt=&quot;Fiona Lippert&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;PhD research of &lt;strong&gt;Fiona Lippert&lt;/strong&gt;&lt;/p&gt;
@@ -387,7 +409,7 @@ Fiona Lippert, Bart Kranstauber, Patrick Forré, and Emiel van Loon &lt;br /&gt;
 			<item>
 				<title>Radio Astronomy</title>
 				<link>http://127.0.0.1:4000//research/david-ruhe1/</link>
-				<pubDate>Mon, 31 Mar 2025 00:00:00 +0100</pubDate>
+				<pubDate>Mon, 31 Mar 2025 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../members/DavidRuhe.jpg&quot; alt=&quot;David Ruhe&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;PhD research of &lt;strong&gt;David Ruhe&lt;/strong&gt;&lt;/p&gt;
@@ -451,22 +473,6 @@ David Ruhe, Kaze Wong, Miles Cranmer and Patrick Forré &lt;br /&gt;
 
 </description>
 				<guid isPermaLink="true">http://127.0.0.1:4000//research/david-ruhe1/</guid>
-			</item>
-		
-			<item>
-				<title>Plasmonic metal nanoparticles</title>
-				<link>http://127.0.0.1:4000//student/wiebke-albrecht-masterproject1/</link>
-				<pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-				<description>&lt;p&gt;Plasmonic metal nanoparticles are used in a variety of applications ranging from biomedical to single molecule sensing and catalytic processes owing to their unique optical and catalytic properties. These properties are completely defined by their morphology. This intricate link leads to possibly unwanted changes in properties upon changes in morphology of the nanoparticles. However, the nanoparticle shape is often not stable under application environments such as high temperatures needed for catalytic reactions. Ideally, one would like to track the morphology in operando by using light excitation. One of the main barriers hereby is the diffraction limit, the fundamental limit restricting the ability to resolve details smaller than half the wavelength of light you are using for observation. We have built an optical set up that can image single nanoparticles down to this fundamental boundary and have further shown details on the order of a few nanometer can be extracted by making use of the underlying physics of plasmonics and through the application of Machine Learning techniques. The goal of this project is to work alongside CWI to implement more advanced Deep Learning Techniques, such as Graph Neural Networks, to expand the information being extracted and resolve details orders of magnitude smaller than the wavelength of visible light.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../images//ai4smm_student_project2.png&quot; alt=&quot;Student Project&quot; title=&quot;Title&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This Master project will be hosted by AMOLF and CWI, which are part of the Institutes Organisation of the Dutch Research Council (NWO) and are both located at Science Park Amsterdam. AMOLF performs leading research on the fundamental physics and design foundations of natural and man-made complex mater, with research in 3 interconnected themes: sustainable energy materials, information in mater, and autonomous mater. AMOLF leverages these insights to create novel functional materials, and to find solutions to societal challenges in renewable energy, green ICT, and health care. It has approximately 130 scientists and a total size of ca. 200 employees. At AMOLF, you will work at the Hybrid Nanosystems group. We combine single-particle optical and advanced electron microscopy to answer fundamental questions about the complex interaction between different classes of nanomaterials. We also explore new architectures for creating functional and smart hybrid nanosystems.&lt;/p&gt;
-
-&lt;p&gt;Centrum Wiskunde &amp;amp; Informatica (CWI) is the Dutch national research institute for mathematics and computer science. The mission of CWI is to conduct pioneering research in mathematics and computer science, generating new knowledge in these fields and conveying it to trade, industry, and society at large. CWI is an internationally oriented institute, with 160 scientists from approximately 27 countries, an informal atmosphere and short lines of communication. Your host at CWI will be the Computational Imaging group. The group is developing the next generation of 3D imaging – enabling scientists to look further into objects of all kinds. Based on mathematics, algorithms and numerical solution techniques, the approach is interdisciplinary, combining aspects of mathematics, computer science and physics.&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">http://127.0.0.1:4000//student/wiebke-albrecht-masterproject1/</guid>
 			</item>
 		
 	</channel>

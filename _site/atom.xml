@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://127.0.0.1:4000//</id>
 	<title>AI4Science Lab</title>
-	<updated>2025-06-03T17:00:07+01:00</updated>
+	<updated>2025-06-12T23:53:04+02:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -27,10 +27,53 @@ We develop and use machine learning techniques to discover patterns in data stre
 
 	
 		<entry>
+			<id>http://127.0.0.1:4000//news/Get-Together/</id>
+			<title>AI4Science get together</title>
+			<link href="http://127.0.0.1:4000//news/Get-Together/" rel="alternate" type="text/html" title="AI4Science get together" />
+			<updated>2025-06-04T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>Internal meeting to get to know our new AI4Science members and friends</summary>
+			<content type="html" xml:base="http://127.0.0.1:4000//news/Get-Together/">&lt;p&gt;AI4Science is organising an informaal meeting for all its members and friends to 
+get to know each other and hear about the various AI4Science-related research directions.&lt;/p&gt;
+
+&lt;div class=&quot;alert-box info &quot;&gt;
+&lt;li&gt;Date: Friday 4 July 2025
+&lt;li&gt;Time: 15:00 hr
+&lt;li&gt;Location: Science Park, room tba
+&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The first hour of this networking event will consist of short (5 minute) research presentations by
+our (junior) members. This is followed by drinks and snacks. 
+Details on registration, signing up for a presentation, and information on the location will follow shortly.&lt;/p&gt;
+
+</content>
+
+			
+				<category term="news" />
+			
+			
+				<category term="news" />
+			
+
+			<published>2025-06-04T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
 			<id>http://127.0.0.1:4000//news/AI4Physics-lectures/</id>
 			<title>AI4Physics lecture series</title>
 			<link href="http://127.0.0.1:4000//news/AI4Physics-lectures/" rel="alternate" type="text/html" title="AI4Physics lecture series" />
-			<updated>2025-05-15T00:00:00+01:00</updated>
+			<updated>2025-05-15T00:00:00+02:00</updated>
 
 			
 				
@@ -95,14 +138,14 @@ We develop and use machine learning techniques to discover patterns in data stre
 				<category term="news" />
 			
 
-			<published>2025-05-15T00:00:00+01:00</published>
+			<published>2025-05-15T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//news/phd-defence-david-ruhe/</id>
 			<title>PhD defence of David Ruhe</title>
 			<link href="http://127.0.0.1:4000//news/phd-defence-david-ruhe/" rel="alternate" type="text/html" title="PhD defence of David Ruhe" />
-			<updated>2025-05-13T00:00:00+01:00</updated>
+			<updated>2025-05-13T00:00:00+02:00</updated>
 
 			
 				
@@ -154,14 +197,14 @@ Supervisors: Dr. P.D. Forré and Prof. dr. R.A.M.J. Wijers. Co-supervisors: Dr. 
 				<category term="news" />
 			
 
-			<published>2025-05-13T00:00:00+01:00</published>
+			<published>2025-05-13T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//news/phd-defence-fiona-lippert/</id>
 			<title>PhD defence of Fiona Lippert</title>
 			<link href="http://127.0.0.1:4000//news/phd-defence-fiona-lippert/" rel="alternate" type="text/html" title="PhD defence of Fiona Lippert" />
-			<updated>2025-05-01T00:00:00+01:00</updated>
+			<updated>2025-05-01T00:00:00+02:00</updated>
 
 			
 				
@@ -209,14 +252,14 @@ Supervisor: Dr. P.D. Forré and Dr. ir. E.E. van Loon. Co-supervisors: Prof. dr.
 				<category term="news" />
 			
 
-			<published>2025-05-01T00:00:00+01:00</published>
+			<published>2025-05-01T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//research/jacobus-dijkman1/</id>
 			<title>Classical DFT</title>
 			<link href="http://127.0.0.1:4000//research/jacobus-dijkman1/" rel="alternate" type="text/html" title="Classical DFT" />
-			<updated>2025-04-20T00:00:00+01:00</updated>
+			<updated>2025-04-20T00:00:00+02:00</updated>
 
 			
 				
@@ -284,14 +327,14 @@ Jan-Willem van de Meent, and Bernd Ensing, &lt;br /&gt;
 				<category term="dijkman ensing welling vandemeent 2025" />
 			
 
-			<published>2025-04-20T00:00:00+01:00</published>
+			<published>2025-04-20T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//research/maximilian-lipp1/</id>
 			<title>Nanoscale Imaging and Metrology</title>
 			<link href="http://127.0.0.1:4000//research/maximilian-lipp1/" rel="alternate" type="text/html" title="Nanoscale Imaging and Metrology" />
-			<updated>2025-04-10T00:00:00+01:00</updated>
+			<updated>2025-04-10T00:00:00+02:00</updated>
 
 			
 				
@@ -342,14 +385,14 @@ production of the lithography machines.&lt;/p&gt;
 				<category term="maximilian  2025" />
 			
 
-			<published>2025-04-10T00:00:00+01:00</published>
+			<published>2025-04-10T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//research/cong-liu1/</id>
 			<title>Protein Stabilization for Vaccine Design</title>
 			<link href="http://127.0.0.1:4000//research/cong-liu1/" rel="alternate" type="text/html" title="Protein Stabilization for Vaccine Design" />
-			<updated>2025-04-10T00:00:00+01:00</updated>
+			<updated>2025-04-10T00:00:00+02:00</updated>
 
 			
 				
@@ -402,14 +445,14 @@ leading to the help for designing of stable antigens.&lt;/p&gt;
 				<category term="liu forre 2025" />
 			
 
-			<published>2025-04-10T00:00:00+01:00</published>
+			<published>2025-04-10T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//research/teodora-pandeva1/</id>
 			<title>Gene Regulatory Networks</title>
 			<link href="http://127.0.0.1:4000//research/teodora-pandeva1/" rel="alternate" type="text/html" title="Gene Regulatory Networks" />
-			<updated>2025-03-31T00:00:00+01:00</updated>
+			<updated>2025-03-31T00:00:00+02:00</updated>
 
 			
 				
@@ -478,14 +521,14 @@ Teodora Pandeva, Martijs Jonker, Leendert Hamoen, Joris Mooij and Patrick Forré
 				<category term="pandeva jonker hamoen mooij forre 2025" />
 			
 
-			<published>2025-03-31T00:00:00+01:00</published>
+			<published>2025-03-31T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//research/fiona-lippert1/</id>
 			<title>Radar Aeroecology</title>
 			<link href="http://127.0.0.1:4000//research/fiona-lippert1/" rel="alternate" type="text/html" title="Radar Aeroecology" />
-			<updated>2025-03-31T00:00:00+01:00</updated>
+			<updated>2025-03-31T00:00:00+02:00</updated>
 
 			
 				
@@ -566,14 +609,14 @@ Fiona Lippert, Bart Kranstauber, Patrick Forré, and Emiel van Loon &lt;br /&gt;
 				<category term="lippert forre 2025" />
 			
 
-			<published>2025-03-31T00:00:00+01:00</published>
+			<published>2025-03-31T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//research/david-ruhe1/</id>
 			<title>Radio Astronomy</title>
 			<link href="http://127.0.0.1:4000//research/david-ruhe1/" rel="alternate" type="text/html" title="Radio Astronomy" />
-			<updated>2025-03-31T00:00:00+01:00</updated>
+			<updated>2025-03-31T00:00:00+02:00</updated>
 
 			
 				
@@ -656,44 +699,7 @@ David Ruhe, Kaze Wong, Miles Cranmer and Patrick Forré &lt;br /&gt;
 				<category term="ruhe rowlinson  wijers forre 2025" />
 			
 
-			<published>2025-03-31T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://127.0.0.1:4000//student/wiebke-albrecht-masterproject1/</id>
-			<title>Plasmonic metal nanoparticles</title>
-			<link href="http://127.0.0.1:4000//student/wiebke-albrecht-masterproject1/" rel="alternate" type="text/html" title="Plasmonic metal nanoparticles" />
-			<updated>2025-03-01T00:00:00+00:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Jim Boelrijk</name>
-					
-					
-					
-				</author>
-			
-			<summary>Develop and optimize machine learning techniques to resolve nanoscale features below the diffraction limit.</summary>
-			<content type="html" xml:base="http://127.0.0.1:4000//student/wiebke-albrecht-masterproject1/">&lt;p&gt;Plasmonic metal nanoparticles are used in a variety of applications ranging from biomedical to single molecule sensing and catalytic processes owing to their unique optical and catalytic properties. These properties are completely defined by their morphology. This intricate link leads to possibly unwanted changes in properties upon changes in morphology of the nanoparticles. However, the nanoparticle shape is often not stable under application environments such as high temperatures needed for catalytic reactions. Ideally, one would like to track the morphology in operando by using light excitation. One of the main barriers hereby is the diffraction limit, the fundamental limit restricting the ability to resolve details smaller than half the wavelength of light you are using for observation. We have built an optical set up that can image single nanoparticles down to this fundamental boundary and have further shown details on the order of a few nanometer can be extracted by making use of the underlying physics of plasmonics and through the application of Machine Learning techniques. The goal of this project is to work alongside CWI to implement more advanced Deep Learning Techniques, such as Graph Neural Networks, to expand the information being extracted and resolve details orders of magnitude smaller than the wavelength of visible light.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../images//ai4smm_student_project2.png&quot; alt=&quot;Student Project&quot; title=&quot;Title&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This Master project will be hosted by AMOLF and CWI, which are part of the Institutes Organisation of the Dutch Research Council (NWO) and are both located at Science Park Amsterdam. AMOLF performs leading research on the fundamental physics and design foundations of natural and man-made complex mater, with research in 3 interconnected themes: sustainable energy materials, information in mater, and autonomous mater. AMOLF leverages these insights to create novel functional materials, and to find solutions to societal challenges in renewable energy, green ICT, and health care. It has approximately 130 scientists and a total size of ca. 200 employees. At AMOLF, you will work at the Hybrid Nanosystems group. We combine single-particle optical and advanced electron microscopy to answer fundamental questions about the complex interaction between different classes of nanomaterials. We also explore new architectures for creating functional and smart hybrid nanosystems.&lt;/p&gt;
-
-&lt;p&gt;Centrum Wiskunde &amp;amp; Informatica (CWI) is the Dutch national research institute for mathematics and computer science. The mission of CWI is to conduct pioneering research in mathematics and computer science, generating new knowledge in these fields and conveying it to trade, industry, and society at large. CWI is an internationally oriented institute, with 160 scientists from approximately 27 countries, an informal atmosphere and short lines of communication. Your host at CWI will be the Computational Imaging group. The group is developing the next generation of 3D imaging – enabling scientists to look further into objects of all kinds. Based on mathematics, algorithms and numerical solution techniques, the approach is interdisciplinary, combining aspects of mathematics, computer science and physics.&lt;/p&gt;
-
-</content>
-
-			
-				<category term="student" />
-			
-			
-				<category term="master albrecht 2025" />
-			
-
-			<published>2025-03-01T00:00:00+00:00</published>
+			<published>2025-03-31T00:00:00+02:00</published>
 		</entry>
 	
 </feed>
