@@ -232,9 +232,9 @@ phd14:
   image: ../members/AlecNoppe.jpg
   text: 'HIMS<br>Computational Chemistry'
 phd15:
-  name: "Abhaj Nagaraj"
-  url: 'https://www.compchem.nl/group_members/Abhaj-Nagaraj/'
-  image: ../members/AbhajNagaraj.jpg
+  name: "Abhay Nagaraj"
+  url: 'https://www.compchem.nl/group_members/Abhay-Nagaraj/'
+  image: ../members/AbhayNagaraj.jpg
   text: 'HIMS<br>Computational Chemistry'
 phd16:
   name: "Youri Ran"
