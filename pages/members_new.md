@@ -44,7 +44,7 @@ associate5:
   name: "Miranda Cheng"
   url: 'https://sites.google.com/site/mcheng0606/'
   image: ../members/MirandaCheng.jpg
-  text: 'ITF<br>Asst. Prof Theoretical Physics'
+  text: 'ITF<br>Assoc. Prof Theoretical Physics'
 associate6:
   name: "Aalt-Jan	van Dijk"
   url: 'https://bdagroup.nl/?employee=aalt-jan-van-dijk'
