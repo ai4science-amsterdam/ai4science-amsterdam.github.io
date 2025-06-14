@@ -21,14 +21,18 @@ A lecture series on *machine learning in physics* is organised by [Dr. Christoph
 
 *Time schedule of the lecture series:*
 
-|---|---|---|
-|---| When| Topic |
-|---|---|---|
-| 1 | Friday 23 May, 13:00 - 14:30  | Basics of deep learning (MLPs, SGD)  |
-| 2 | Friday 3 June, 13:00 - 14:30  | Equivariant neural networks  |
-| 3 | Friday 4th July, 1pm - 2:30pm  | Simulation-based inferece  |
-| 4 |   TBA   | Transformers  |
-| 5 |   TBA   |  Differentiable programming and optimisation |
-|---|---|---|
+|---|---|---|---|
+|---| When| Topic | Lecturer |
+|---|---|---|---|
+| 1 | Friday 23 May, 13:00 - 14:30  | [The basic building block of deep learning: Multi-layer perceptrons + tutorial][2] | Dr. Christopher Weniger |
+| 2 | Friday 4 July, 13:00 - 14:30  | [Symmetry-aware deep learning, Mathematics of geometric deep learning + tutorial][3] | Dr. Miranda Cheng and Dr. Patrick Forré | 
+| 3 | Friday 12 Sept.,  13:00 - 14:30 | [TBA][4] |  |
+|---|---|---|---|
+
+<a class="radius button small" href="https://indico.nikhef.nl/category/120/">AI4Physics website</a>
+
 
 [1]: https://www.uva.nl/en/profile/w/e/c.weniger/c.weniger.html
+[2]: https://indico.nikhef.nl/event/6704/
+[3]: https://indico.nikhef.nl/event/6705/
+[4]: https://indico.nikhef.nl/event/6779/

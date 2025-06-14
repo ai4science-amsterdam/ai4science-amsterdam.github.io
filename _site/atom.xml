@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://127.0.0.1:4000//</id>
 	<title>AI4Science Lab</title>
-	<updated>2025-06-13T13:07:54+02:00</updated>
+	<updated>2025-06-14T23:30:36+02:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -98,36 +98,32 @@ Details on registration, signing up for a presentation, and information on the l
       &lt;th&gt;—&lt;/th&gt;
       &lt;th&gt;When&lt;/th&gt;
       &lt;th&gt;Topic&lt;/th&gt;
+      &lt;th&gt;Lecturer&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;1&lt;/td&gt;
       &lt;td&gt;Friday 23 May, 13:00 - 14:30&lt;/td&gt;
-      &lt;td&gt;Basics of deep learning (MLPs, SGD)&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://indico.nikhef.nl/event/6704/&quot;&gt;The basic building block of deep learning: Multi-layer perceptrons + tutorial&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Dr. Christopher Weniger&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;2&lt;/td&gt;
-      &lt;td&gt;Friday 3 June, 13:00 - 14:30&lt;/td&gt;
-      &lt;td&gt;Equivariant neural networks&lt;/td&gt;
+      &lt;td&gt;Friday 4 July, 13:00 - 14:30&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://indico.nikhef.nl/event/6705/&quot;&gt;Symmetry-aware deep learning, Mathematics of geometric deep learning + tutorial&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Dr. Miranda Cheng and Dr. Patrick Forré&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;3&lt;/td&gt;
-      &lt;td&gt;Friday 4th July, 1pm - 2:30pm&lt;/td&gt;
-      &lt;td&gt;Simulation-based inferece&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;4&lt;/td&gt;
-      &lt;td&gt;TBA&lt;/td&gt;
-      &lt;td&gt;Transformers&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;5&lt;/td&gt;
-      &lt;td&gt;TBA&lt;/td&gt;
-      &lt;td&gt;Differentiable programming and optimisation&lt;/td&gt;
+      &lt;td&gt;Friday 12 Sept.,  13:00 - 14:30&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://indico.nikhef.nl/event/6779/&quot;&gt;TBA&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://indico.nikhef.nl/category/120/&quot;&gt;AI4Physics website&lt;/a&gt;&lt;/p&gt;
 
 </content>
 
