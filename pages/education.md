@@ -6,6 +6,14 @@ header:
     image: banner_education.png
 # title: Master Research Projects
 permalink: "/education"
+
+bachelor1:
+  title: ""
+  coordinator: ""
+  description: ""
+  period: ""
+  link: ""
+
 ---
 
 <hr style="width:100%;text-align:left;margin-left:0">
@@ -13,9 +21,19 @@ permalink: "/education"
 	<br>
 	<a href="#bachelor">Bachelor Courses</a> |
 	<a href="#master">Master Courses</a> |
-	<a href="#projects">Research Projects</a>
+	<a href="#projects">Research Projects</a> |
+	<a href="#teachers">For teachers</a>
 <hr style="width:100%;text-align:left;margin-left:0">	
 </header>
+
+
+# Bachelor courses
+
+
+
+# Master courses
+
+ 
 
 # Student research projects
 

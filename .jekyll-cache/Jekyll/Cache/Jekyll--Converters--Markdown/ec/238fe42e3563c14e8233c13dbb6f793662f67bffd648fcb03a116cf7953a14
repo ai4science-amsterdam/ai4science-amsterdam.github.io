@@ -1,12 +1,17 @@
-I"²<hr style="width:100%;text-align:left;margin-left:0" />
+I"8<hr style="width:100%;text-align:left;margin-left:0" />
 
 <header id="projects">
 	<br />
 	<a href="#bachelor">Bachelor Courses</a> |
 	<a href="#master">Master Courses</a> |
-	<a href="#projects">Research Projects</a>
+	<a href="#projects">Research Projects</a> |
+	<a href="#teachers">For teachers</a>
 <hr style="width:100%;text-align:left;margin-left:0" />	
 </header>
+
+<h1 id="bachelor-courses">Bachelor courses</h1>
+
+<h1 id="master-courses">Master courses</h1>
 
 <h1 id="student-research-projects">Student research projects</h1>
 
