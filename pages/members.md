@@ -64,7 +64,7 @@ associate9:
   name: "Daniela Huppenkothen"
   url: 'https://huppenkothen.org'
   image: ../members/DanielaHuppenkothen.jpg
-  text: 'ITF GRAPPA<br>Asst. Prof. Astronomy and Data Science'
+  text: 'API<br>Asst. Prof. Astronomy and Data Science'
 associate10:
   name: "Lies Jacobs"
   url: 'https://www.uva.nl/en/profile/j/a/l.h.jacobs/l.h.jacobs.html'
