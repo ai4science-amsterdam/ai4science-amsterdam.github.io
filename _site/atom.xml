@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://127.0.0.1:4000//</id>
 	<title>AI4Science Lab</title>
-	<updated>2025-06-20T23:10:02+02:00</updated>
+	<updated>2025-06-23T15:50:21-04:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -27,10 +27,53 @@ We develop and use machine learning techniques to discover patterns in data stre
 
 	
 		<entry>
+			<id>http://127.0.0.1:4000//research/matilde-mercuri1/</id>
+			<title>Nitrogen Fixation</title>
+			<link href="http://127.0.0.1:4000//research/matilde-mercuri1/" rel="alternate" type="text/html" title="Nitrogen Fixation" />
+			<updated>2025-06-23T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>{&quot;image&quot;=&gt;&quot;author_matildemercuri.jpg&quot;, &quot;name&quot;=&gt;&quot;Matilde Mercuri&quot;, &quot;function&quot;=&gt;&quot;PhD candidate&quot;, &quot;room&quot;=&gt;&quot;SP C3.234&quot;, &quot;contact&quot;=&gt;&quot;m.mercuri2@uva.nl&quot;, &quot;institute&quot;=&gt;&quot;HIMS&quot;, &quot;group&quot;=&gt;&quot;Computational Chemistry&quot;, &quot;text&quot;=&gt;&quot;Under Bernd Ensing&apos;s supervision, I am combining DFT calculations and machine learning to investigate the catalytic properties of homogeneous catalysts for nitrogen fixation. By generating high-quality DFT data and by exploring the potential energy surface through enhanced sampling techniques and machine learning potentials, this work aims to capture the energetic and structural features that govern reactivity and can contribute to the development of machine learning models for data-driven catalyst discovery for nitrogen fixation.&quot;, &quot;site1&quot;=&gt;&quot;Computational Chemistry&quot;, &quot;url1&quot;=&gt;&quot;https://www.compchem.nl&quot;, &quot;site2&quot;=&gt;&quot;UvA&quot;, &quot;url2&quot;=&gt;&quot;https://www.uva.nl/profiel/m/e/m.mercuri2/m.mercuri.html&quot;, &quot;site3&quot;=&gt;&quot;LinkedIn&quot;, &quot;url3&quot;=&gt;&quot;https://www.linkedin.com/in/matilde-mercuri-67143b25a/&quot;}</name>
+					
+					
+					
+				</author>
+			
+			<summary>Structure–property relationship exploration for nitrogen reduction catalysis</summary>
+			<content type="html" xml:base="http://127.0.0.1:4000//research/matilde-mercuri1/">&lt;p&gt;&lt;img src=&quot;../../members/MatildeMercuri.jpg&quot; alt=&quot;Matilde Mercuri&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;PhD research of &lt;strong&gt;Matilde Mercuri&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Nitrogen fixation is a crucial process in the biological cycle, as it provides organisms with ammonia (NH₃), a fundamental precursor for nucleic acids and amino acids. In nature, this transformation is carried out by specialized microorganisms using the enzyme nitrogenase, while in industry it is achieved via the Haber–Bosch process, an energy-intensive method operating under high temperature and pressure.&lt;/p&gt;
+
+&lt;p&gt;In the search for more sustainable and selective catalytic alternatives, homogeneous catalysts, such as coordination complexes, have emerged as promising molecular platforms for N₂ reduction under milder conditions. Unlike heterogeneous systems, homogeneous catalysts offer well-defined active sites that can be fine-tuned at the molecular level through ligand modification. This tunability enables chemists to systematically modulate the electronic and steric properties of the metal center to promote N₂ activation and facilitate multi-electron transfer during reduction reactions.&lt;/p&gt;
+
+&lt;p&gt;Traditionally, the design of homogeneous catalysts has relied on empirical trial-and-error approaches. Although several successful systems have emerged, the vast combinatorial space of metal–ligand architectures renders conventional experimental methods inefficient. Moreover, the high computational cost of simulating electronic properties and reaction pathways using quantum chemistry has further slowed the pace of discovery.&lt;/p&gt;
+
+&lt;p&gt;To address these challenges, we aim to develop a computational workflow that combines density functional theory (DFT) and machine learning to accelerate the discovery of homogeneous nitrogen fixation catalysts. This approach will leverage enhanced sampling techniques and neural-network-based interatomic potentials to efficiently explore the potential energy surface, enabling the systematic evaluation of catalytic performance across chemical space. By generating a dataset of coordination complexes annotated with key descriptors, we aim to establish a foundation for predictive machine learning models capable of proposing novel metal–ligand architectures optimized for nitrogen reduction activity. In doing so, we seek to move toward a data-driven framework for the rational design of homogeneous catalysts.&lt;/p&gt;
+
+&lt;p&gt;Joint work with &lt;a href=&quot;https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing/&quot;&gt;Bernd Ensing&lt;/a&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="research" />
+			
+			
+				<category term="mercuri ensing 2025" />
+			
+
+			<published>2025-06-23T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
 			<id>http://127.0.0.1:4000//news/Get-Together/</id>
 			<title>AI4Science get together</title>
 			<link href="http://127.0.0.1:4000//news/Get-Together/" rel="alternate" type="text/html" title="AI4Science get together" />
-			<updated>2025-06-04T00:00:00+02:00</updated>
+			<updated>2025-06-04T00:00:00-04:00</updated>
 
 			
 				
@@ -66,14 +109,14 @@ Details on registration, signing up for a presentation, and information on the l
 				<category term="news" />
 			
 
-			<published>2025-06-04T00:00:00+02:00</published>
+			<published>2025-06-04T00:00:00-04:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//news/AI4Physics-lectures/</id>
 			<title>AI4Physics lecture series</title>
 			<link href="http://127.0.0.1:4000//news/AI4Physics-lectures/" rel="alternate" type="text/html" title="AI4Physics lecture series" />
-			<updated>2025-05-15T00:00:00+02:00</updated>
+			<updated>2025-05-15T00:00:00-04:00</updated>
 
 			
 				
@@ -134,14 +177,14 @@ Details on registration, signing up for a presentation, and information on the l
 				<category term="news" />
 			
 
-			<published>2025-05-15T00:00:00+02:00</published>
+			<published>2025-05-15T00:00:00-04:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//news/phd-defence-david-ruhe/</id>
 			<title>PhD defence of David Ruhe</title>
 			<link href="http://127.0.0.1:4000//news/phd-defence-david-ruhe/" rel="alternate" type="text/html" title="PhD defence of David Ruhe" />
-			<updated>2025-05-13T00:00:00+02:00</updated>
+			<updated>2025-05-13T00:00:00-04:00</updated>
 
 			
 				
@@ -193,14 +236,14 @@ Supervisors: Dr. P.D. Forré and Prof. dr. R.A.M.J. Wijers. Co-supervisors: Dr. 
 				<category term="news" />
 			
 
-			<published>2025-05-13T00:00:00+02:00</published>
+			<published>2025-05-13T00:00:00-04:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//news/phd-defence-fiona-lippert/</id>
 			<title>PhD defence of Fiona Lippert</title>
 			<link href="http://127.0.0.1:4000//news/phd-defence-fiona-lippert/" rel="alternate" type="text/html" title="PhD defence of Fiona Lippert" />
-			<updated>2025-05-01T00:00:00+02:00</updated>
+			<updated>2025-05-01T00:00:00-04:00</updated>
 
 			
 				
@@ -248,14 +291,14 @@ Supervisor: Dr. P.D. Forré and Dr. ir. E.E. van Loon. Co-supervisors: Prof. dr.
 				<category term="news" />
 			
 
-			<published>2025-05-01T00:00:00+02:00</published>
+			<published>2025-05-01T00:00:00-04:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//research/jacobus-dijkman1/</id>
 			<title>Classical DFT</title>
 			<link href="http://127.0.0.1:4000//research/jacobus-dijkman1/" rel="alternate" type="text/html" title="Classical DFT" />
-			<updated>2025-04-20T00:00:00+02:00</updated>
+			<updated>2025-04-20T00:00:00-04:00</updated>
 
 			
 				
@@ -323,14 +366,14 @@ Jan-Willem van de Meent, and Bernd Ensing, &lt;br /&gt;
 				<category term="dijkman ensing welling vandemeent 2025" />
 			
 
-			<published>2025-04-20T00:00:00+02:00</published>
+			<published>2025-04-20T00:00:00-04:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//research/maximilian-lipp1/</id>
 			<title>Nanoscale Imaging and Metrology</title>
 			<link href="http://127.0.0.1:4000//research/maximilian-lipp1/" rel="alternate" type="text/html" title="Nanoscale Imaging and Metrology" />
-			<updated>2025-04-10T00:00:00+02:00</updated>
+			<updated>2025-04-10T00:00:00-04:00</updated>
 
 			
 				
@@ -381,14 +424,14 @@ production of the lithography machines.&lt;/p&gt;
 				<category term="maximilian  2025" />
 			
 
-			<published>2025-04-10T00:00:00+02:00</published>
+			<published>2025-04-10T00:00:00-04:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//research/cong-liu1/</id>
 			<title>Protein Stabilization for Vaccine Design</title>
 			<link href="http://127.0.0.1:4000//research/cong-liu1/" rel="alternate" type="text/html" title="Protein Stabilization for Vaccine Design" />
-			<updated>2025-04-10T00:00:00+02:00</updated>
+			<updated>2025-04-10T00:00:00-04:00</updated>
 
 			
 				
@@ -441,14 +484,14 @@ leading to the help for designing of stable antigens.&lt;/p&gt;
 				<category term="liu forre 2025" />
 			
 
-			<published>2025-04-10T00:00:00+02:00</published>
+			<published>2025-04-10T00:00:00-04:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//research/teodora-pandeva1/</id>
 			<title>Gene Regulatory Networks</title>
 			<link href="http://127.0.0.1:4000//research/teodora-pandeva1/" rel="alternate" type="text/html" title="Gene Regulatory Networks" />
-			<updated>2025-03-31T00:00:00+02:00</updated>
+			<updated>2025-03-31T00:00:00-04:00</updated>
 
 			
 				
@@ -517,14 +560,14 @@ Teodora Pandeva, Martijs Jonker, Leendert Hamoen, Joris Mooij and Patrick Forré
 				<category term="pandeva jonker hamoen mooij forre 2025" />
 			
 
-			<published>2025-03-31T00:00:00+02:00</published>
+			<published>2025-03-31T00:00:00-04:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//research/fiona-lippert1/</id>
 			<title>Radar Aeroecology</title>
 			<link href="http://127.0.0.1:4000//research/fiona-lippert1/" rel="alternate" type="text/html" title="Radar Aeroecology" />
-			<updated>2025-03-31T00:00:00+02:00</updated>
+			<updated>2025-03-31T00:00:00-04:00</updated>
 
 			
 				
@@ -605,97 +648,7 @@ Fiona Lippert, Bart Kranstauber, Patrick Forré, and Emiel van Loon &lt;br /&gt;
 				<category term="lippert forre 2025" />
 			
 
-			<published>2025-03-31T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://127.0.0.1:4000//research/david-ruhe1/</id>
-			<title>Radio Astronomy</title>
-			<link href="http://127.0.0.1:4000//research/david-ruhe1/" rel="alternate" type="text/html" title="Radio Astronomy" />
-			<updated>2025-03-31T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>{&quot;image&quot;=&gt;&quot;author_davidruhe.jpg&quot;, &quot;name&quot;=&gt;&quot;David Ruhe&quot;, &quot;function&quot;=&gt;&quot;PhD alumnus&quot;, &quot;room&quot;=&gt;nil, &quot;contact&quot;=&gt;nil, &quot;institute&quot;=&gt;&quot;Google DeepMind&quot;, &quot;group&quot;=&gt;&quot;worked at API &amp; AMLab&quot;, &quot;text&quot;=&gt;&quot;David Ruhe graduated in 2025 and is currently working in the generative models team at Google DeepMind.&quot;, &quot;site1&quot;=&gt;&quot;personal website&quot;, &quot;url1&quot;=&gt;&quot;https://davidruhe.github.io&quot;, &quot;site2&quot;=&gt;&quot;LinkedIn&quot;, &quot;url2&quot;=&gt;&quot;https://www.linkedin.com/in/david-ruhe-2a0a0b155/?originalSubdomain=nl&quot;}</name>
-					
-					
-					
-				</author>
-			
-			<summary>Detecting dispersed radio transients in real time using convolutional neural networks</summary>
-			<content type="html" xml:base="http://127.0.0.1:4000//research/david-ruhe1/">&lt;p&gt;&lt;img src=&quot;../../members/DavidRuhe.jpg&quot; alt=&quot;David Ruhe&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;PhD research of &lt;strong&gt;David Ruhe&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;One of the cutting edge areas of astronomy is recognising rare
-features in data streams in near-real time. This problem has arisen
-from massive imaging surveys of the sky at many wavelengths (optical,
-radio, X-ray). The purpose is no longer just to find objects that are
-there all or most of the time, but to find so-called ‘transient’
-objects that appear fleetingly in hindsight.&lt;/p&gt;
-
-&lt;p&gt;These transients are typically multi-messenger events, meaning that
-their emission is seen throughout the electromagnetic spectrum and
-using other ‘messengers’ including neutrinos and gravitational
-waves. By combining the multi-messenger observations, we can probe the
-most extreme physical environments in the universe. However, we are
-not monitoring the whole sky all the time with sensitive
-observatories, so we need to alert them to interesting objects in
-order to trigger follow-up observations. As these events are often
-fleeting at different wavelengths, we need to trigger the follow-up in
-as close to real-time as possible.&lt;/p&gt;
-
-&lt;p&gt;Due to the nature of our searches, we cannot always predict the
-transient behaviour we are searching for, nor all more rare specific
-instrumental faults in the data stream. The real-time data streams are
-subject to different types of behaviour, which we do not want to
-confuse with astrophysical transient events, including radio frequency
-interference, calibration artefacts, varying noise features, space
-weather, meteors, airplanes and satellites.&lt;/p&gt;
-
-&lt;p&gt;There are multiple areas where ML can assist with solving the task at
-hand and the challenges it comes with. Examples are: finding latent
-(disentangled) representations of observed phenomena, undoing data
-corruption (e.g. denoising), unsupervised outlier detection, geometric
-deep learning. The project will explore the application and innovation
-of these techniques and will push the boundaries of machine learning
-and astronomy.&lt;/p&gt;
-
-&lt;p&gt;Joint work with &lt;a href=&quot;https://barowlinson.com&quot;&gt;Antonia Rowlinson&lt;/a&gt;, &lt;a href=&quot;https://www.uva.nl/en/profile/w/i/r.a.m.j.wijers/r.a.m.j.wijers.html&quot;&gt;Ralph Wijers&lt;/a&gt;, and
-&lt;a href=&quot;https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html&quot;&gt;Patrick Forré&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;papers&quot;&gt;Papers&lt;/h4&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://doi.org/10.1016/j.ascom.2021.100512&quot;&gt;Detecting dispersed radio transients in real time using convolutional neural networks&lt;/a&gt; &lt;br /&gt;
-David Ruhe, Mark Kuiack, Antonia Rowlinson, Ralph Wijers, and Patrick Forré, &lt;br /&gt;
-&lt;em&gt;Astronomy and Computing&lt;/em&gt;  &lt;strong&gt;38&lt;/strong&gt; (2022)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://openreview.net/forum?id=VPjw9KPWRSK&quot;&gt;Self-Supervised Inference in State-Space Models&lt;/a&gt; &lt;br /&gt;
-David Ruhe and Patrick Forré, &lt;br /&gt;
-&lt;em&gt;ICLR&lt;/em&gt; (2022)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2211.09008&quot;&gt;Normalizing Flows for Hierarchical Bayesian Analysis: A Gravitational Wave Population Study&lt;/a&gt; &lt;br /&gt;
-David Ruhe, Kaze Wong, Miles Cranmer and Patrick Forré &lt;br /&gt;
-&lt;em&gt;NeurIPS&lt;/em&gt; (2022)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-</content>
-
-			
-				<category term="research" />
-			
-			
-				<category term="ruhe rowlinson  wijers forre 2025" />
-			
-
-			<published>2025-03-31T00:00:00+02:00</published>
+			<published>2025-03-31T00:00:00-04:00</published>
 		</entry>
 	
 </feed>

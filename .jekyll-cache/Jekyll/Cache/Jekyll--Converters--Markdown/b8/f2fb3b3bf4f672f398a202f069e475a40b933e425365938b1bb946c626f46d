@@ -1,0 +1,16 @@
+I"&
+<p><img src="../../members/MatildeMercuri.jpg" alt="Matilde Mercuri" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>PhD research of <strong>Matilde Mercuri</strong></p>
+
+<p>Nitrogen fixation is a crucial process in the biological cycle, as it provides organisms with ammonia (NH₃), a fundamental precursor for nucleic acids and amino acids. In nature, this transformation is carried out by specialized microorganisms using the enzyme nitrogenase, while in industry it is achieved via the Haber–Bosch process, an energy-intensive method operating under high temperature and pressure.</p>
+
+<p>In the search for more sustainable and selective catalytic alternatives, homogeneous catalysts, such as coordination complexes, have emerged as promising molecular platforms for N₂ reduction under milder conditions. Unlike heterogeneous systems, homogeneous catalysts offer well-defined active sites that can be fine-tuned at the molecular level through ligand modification. This tunability enables chemists to systematically modulate the electronic and steric properties of the metal center to promote N₂ activation and facilitate multi-electron transfer during reduction reactions.</p>
+
+<p>Traditionally, the design of homogeneous catalysts has relied on empirical trial-and-error approaches. Although several successful systems have emerged, the vast combinatorial space of metal–ligand architectures renders conventional experimental methods inefficient. Moreover, the high computational cost of simulating electronic properties and reaction pathways using quantum chemistry has further slowed the pace of discovery.</p>
+
+<p>To address these challenges, we aim to develop a computational workflow that combines density functional theory (DFT) and machine learning to accelerate the discovery of homogeneous nitrogen fixation catalysts. This approach will leverage enhanced sampling techniques and neural-network-based interatomic potentials to efficiently explore the potential energy surface, enabling the systematic evaluation of catalytic performance across chemical space. By generating a dataset of coordination complexes annotated with key descriptors, we aim to establish a foundation for predictive machine learning models capable of proposing novel metal–ligand architectures optimized for nitrogen reduction activity. In doing so, we seek to move toward a data-driven framework for the rational design of homogeneous catalysts.</p>
+
+<p>Joint work with <a href="https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing/">Bernd Ensing</a></p>
+
+:ET

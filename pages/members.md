@@ -226,6 +226,7 @@ phd13:
   url: 'https://www.compchem.nl/group_members/Matilde-Mercuri/'
   image: ../members/MatildeMercuri.jpg
   text: 'HIMS<br>Computational Chemistry'
+  research: ../research/matilde-mercuri1/
 phd14:
   name: "Alec Noppe"
   url: 'https://www.compchem.nl/group_members/Alec-Noppe/'
