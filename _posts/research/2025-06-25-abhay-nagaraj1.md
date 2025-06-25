@@ -58,7 +58,7 @@ A major challenge in understanding CO₂ reduction lies in modeling the electron
 
 By combining ML-based simulations with experimental insights from our ANION collaborators, this research aims to uncover a more detailed picture of the CO₂ reduction pathway and its dependence on surface composition and structure. Ultimately, our goal is to support the design of more efficient catalysts and contribute to the advancement of green, carbon-neutral chemical processes.
 
-Working with [Bernd Ensing][1] and the [Anion Consortium][2]
+Working with [Bernd Ensing][1] and the [ANION Consortium][2]
 
 [1]: https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing/
 [2]: https://anion.nl

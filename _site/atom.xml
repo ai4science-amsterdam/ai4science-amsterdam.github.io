@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://127.0.0.1:4000//</id>
 	<title>AI4Science Lab</title>
-	<updated>2025-06-25T13:01:01-04:00</updated>
+	<updated>2025-06-25T17:03:40-04:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -53,7 +53,7 @@ We develop and use machine learning techniques to discover patterns in data stre
 
 &lt;p&gt;By combining ML-based simulations with experimental insights from our ANION collaborators, this research aims to uncover a more detailed picture of the CO₂ reduction pathway and its dependence on surface composition and structure. Ultimately, our goal is to support the design of more efficient catalysts and contribute to the advancement of green, carbon-neutral chemical processes.&lt;/p&gt;
 
-&lt;p&gt;Working with &lt;a href=&quot;https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing/&quot;&gt;Bernd Ensing&lt;/a&gt; and the &lt;a href=&quot;https://anion.nl&quot;&gt;Anion Consortium&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Working with &lt;a href=&quot;https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing/&quot;&gt;Bernd Ensing&lt;/a&gt; and the &lt;a href=&quot;https://anion.nl&quot;&gt;ANION Consortium&lt;/a&gt;&lt;/p&gt;
 
 </content>
 
