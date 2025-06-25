@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://127.0.0.1:4000//</id>
 	<title>AI4Science Lab</title>
-	<updated>2025-06-23T15:50:21-04:00</updated>
+	<updated>2025-06-25T12:47:20-04:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -25,6 +25,47 @@ We develop and use machine learning techniques to discover patterns in data stre
 
 	<generator uri="http://jekyllrb.com" version="4.2.0">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://127.0.0.1:4000//research/abhay-nagaraj1/</id>
+			<title>Electro-catalysis</title>
+			<link href="http://127.0.0.1:4000//research/abhay-nagaraj1/" rel="alternate" type="text/html" title="Electro-catalysis" />
+			<updated>2025-06-25T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>{&quot;image&quot;=&gt;&quot;author_abhaynagaraj1.png&quot;, &quot;name&quot;=&gt;&quot;Abhay Nagaraj&quot;, &quot;function&quot;=&gt;&quot;PhD candidate&quot;, &quot;room&quot;=&gt;&quot;SP C3.234&quot;, &quot;contact&quot;=&gt;&quot;a.nagaraj@uva.nl&quot;, &quot;institute&quot;=&gt;&quot;HIMS&quot;, &quot;group&quot;=&gt;&quot;Computational Chemistry&quot;, &quot;text&quot;=&gt;&quot;Under the supervision of Professor Bernd Ensing, I am currently conducting research with the ANION team, focusing on the investigation of the CO₂ reduction process on various metal surfaces. Our work centers around the development and application of machine-learned interatomic potentials to accurately model the complex interactions and reaction mechanisms involved in CO₂ adsorption and conversion. Our aim is to gain deeper insights into the energetics and dynamics of heterogenous catalysis, ultimately contributing to the design of more efficient and sustainable catalytic systems for CO₂ reduction.&quot;, &quot;site3&quot;=&gt;&quot;Google Scholar&quot;, &quot;url3&quot;=&gt;&quot;https://scholar.google.com/citations?hl=en&amp;authuser=1&amp;user=BsiK0D4AAAAJ&quot;, &quot;site4&quot;=&gt;&quot;LinkedIn&quot;, &quot;url4&quot;=&gt;&quot;https://www.linkedin.com/in/abhay-nagaraj-aa8465236/&quot;, &quot;site5&quot;=&gt;&quot;ORCID&quot;, &quot;url5&quot;=&gt;&quot;https://orcid.org/0009-0007-9210-8586&quot;}</name>
+					
+					
+					
+				</author>
+			
+			<summary>AI-accelerated modeling of the electrode-electrolyte interface</summary>
+			<content type="html" xml:base="http://127.0.0.1:4000//research/abhay-nagaraj1/">&lt;p&gt;&lt;img src=&quot;../../members/AbhayNagaraj.jpg&quot; alt=&quot;Abhay Nagaraj&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;PhD research of &lt;strong&gt;Abhay Nagaraj&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We aim to  investigate the catalytic reduction of carbon dioxide (CO₂) on transition metal surfaces. This reaction is a key step in the development of sustainable technologies for CO₂ capture and conversion. Our approach leverages Machine-Learned Interatomic Potentials (MLIPs)—a powerful and rapidly evolving tool in computational chemistry. MLIPs enable us to model complex chemical processes with near ab initio accuracy, while dramatically extending the time and length scales accessible compared to traditional quantum mechanical methods. This is particularly valuable for studying heterogeneous catalysis, where the interaction between molecules and surfaces involves subtle electronic and structural effects.&lt;/p&gt;
+
+&lt;p&gt;A major challenge in understanding CO₂ reduction lies in modeling the electron transfer processes that drive the reaction. Electrons, being quantum in nature, are notoriously difficult to simulate directly, especially over extended simulations. MLIPs offer an efficient way to study these interactions, allowing us to explore catalytic mechanisms that were previously computationally prohibitive.&lt;/p&gt;
+
+&lt;p&gt;By combining ML-based simulations with experimental insights from our ANION collaborators, this research aims to uncover a more detailed picture of the CO₂ reduction pathway and its dependence on surface composition and structure. Ultimately, our goal is to support the design of more efficient catalysts and contribute to the advancement of green, carbon-neutral chemical processes.&lt;/p&gt;
+
+&lt;p&gt;Working with &lt;a href=&quot;https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing/&quot;&gt;Bernd Ensing&lt;/a&gt; and the &lt;a href=&quot;https://anion.nl&quot;&gt;Anion Consortium&lt;/a&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="research" />
+			
+			
+				<category term="nagaraj ensing anion 2025" />
+			
+
+			<published>2025-06-25T00:00:00-04:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//research/matilde-mercuri1/</id>
@@ -558,94 +599,6 @@ Teodora Pandeva, Martijs Jonker, Leendert Hamoen, Joris Mooij and Patrick Forré
 			
 			
 				<category term="pandeva jonker hamoen mooij forre 2025" />
-			
-
-			<published>2025-03-31T00:00:00-04:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://127.0.0.1:4000//research/fiona-lippert1/</id>
-			<title>Radar Aeroecology</title>
-			<link href="http://127.0.0.1:4000//research/fiona-lippert1/" rel="alternate" type="text/html" title="Radar Aeroecology" />
-			<updated>2025-03-31T00:00:00-04:00</updated>
-
-			
-				
-				<author>
-					
-						<name>{&quot;image&quot;=&gt;&quot;author_fionalippert.png&quot;, &quot;name&quot;=&gt;&quot;Fiona Lippert&quot;, &quot;function&quot;=&gt;&quot;PhD alumnus&quot;, &quot;room&quot;=&gt;nil, &quot;contact&quot;=&gt;nil, &quot;institute&quot;=&gt;&quot;SRON&quot;, &quot;group&quot;=&gt;&quot;worked at IBED &amp; AMLab&quot;, &quot;text&quot;=&gt;&quot;Fiona Lippert graduated in 2025 and is currently working as a scientist at SRON&quot;, &quot;site1&quot;=&gt;&quot;LinkIn&quot;, &quot;url1&quot;=&gt;&quot;https://www.linkedin.com/in/fiona-lippert-1179a3168/&quot;, &quot;site2&quot;=&gt;&quot;SRON&quot;, &quot;url2&quot;=&gt;&quot;https://www.sron.nl/en/pillars/our-people/fiona-lippert/&quot;}</name>
-					
-					
-					
-				</author>
-			
-			<summary>Learning to predict spatiotemporal movement dynamics of migrating birds from weather radar networks</summary>
-			<content type="html" xml:base="http://127.0.0.1:4000//research/fiona-lippert1/">&lt;p&gt;&lt;img src=&quot;../../members/FionaLippert.jpg&quot; alt=&quot;Fiona Lippert&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;PhD research of &lt;strong&gt;Fiona Lippert&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Every year millions of birds travel hundreds if not thousands of
-kilometers between their breeding and wintering grounds, seeking for
-seasonally optimal habitats. These mass movements are an essential
-component of biodiversity as they link otherwise separated
-ecosystems. Climate change and rapid expansions of human structures
-and activities may have severe implications for migrating birds. In
-order to assess the ecological consequences of these developments and
-to devise measures to preserve migration systems, it is essential to
-better understand continental-scale migration patterns and its
-external drivers such as weather, habitat quality and land use.&lt;/p&gt;
-
-&lt;p&gt;However, studying the aerial movement of migrating birds on a large
-scale is challenging. Many birds migrate during the night or at high
-altitudes which makes it impossible for humans to observe them from
-the ground. Modern tracking devices overcome this issue but they are
-limited to very few individuals and species with sufficient body
-mass. Radar technology is considered a promising alternative. In
-particular international networks of weather radars, which are known
-to capture mass movements of migrating birds, offer unparalleled
-opportunities to quantify and analyze bird migration at large spatial
-and temporal scales. But the field of radar aeroecology is still in
-its infancy. Challenges relating to the mere volume of raw radar
-observations as well as data quality issues such as inconsistent
-calibration and preprocessing, observation artifacts and partial
-observability prevent ecologists from utilizing the full potential of
-available radar databases.&lt;/p&gt;
-
-&lt;p&gt;This project will explore the use of machine learning to overcome this
-hurdle. By applying and advancing techniques for system identification
-and predictive modeling of partially observed spatio-temporal
-dynamical systems we aim at enhancing both the understanding and
-predictability of continental-scale bird migration in Europe.&lt;/p&gt;
-
-&lt;p&gt;Joint work with &lt;a href=&quot;https://imprs-ob.mpg.de/person/116341/2901&quot;&gt;Bart Kranstauber&lt;/a&gt;, &lt;a href=&quot;https://www.uva.nl/en/profile/l/o/e.e.vanloon/e.e.vanloon.html&quot;&gt;Emiel van Loon&lt;/a&gt;, and &lt;a href=&quot;https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html&quot;&gt;Patrick Forré&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;papers&quot;&gt;Papers&lt;/h4&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://doi.org/10.1111/2041-210X.14007&quot;&gt;Learning to predict spatiotemporal movement dynamics from weather radar networks&lt;/a&gt;&lt;br /&gt;
-Fiona Lippert, Bart Kranstauber, Patrick Forré, and Emiel van Loon &lt;br /&gt;
-&lt;em&gt;Methods in Ecology and Evolution&lt;/em&gt; &lt;strong&gt;13&lt;/strong&gt;, 2811-2826 (2022)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2306.08445&quot;&gt;Deep Gaussian Markov Random Fields for Graph-Structured Dynamical Systems&lt;/a&gt; &lt;br /&gt;
-Fiona Lippert, Bart Kranstauber, Emiel van Loon, and Patrick Forré &lt;br /&gt;
-&lt;em&gt;NeurIPS&lt;/em&gt;  (2023)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://openreview.net/forum?id=oAmxqO1nRy&quot;&gt;Towards detailed and interpretable hybrid modeling of continental-scale bird migration&lt;/a&gt;&lt;br /&gt;
-Fiona Lippert, Bart Kranstauber, Patrick Forré, and Emiel van Loon &lt;br /&gt;
-&lt;em&gt;ICML 2024 Workshop: AI4Science&lt;/em&gt; (2024)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-</content>
-
-			
-				<category term="research" />
-			
-			
-				<category term="lippert forre 2025" />
 			
 
 			<published>2025-03-31T00:00:00-04:00</published>

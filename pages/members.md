@@ -237,6 +237,7 @@ phd15:
   url: 'https://www.compchem.nl/group_members/Abhay-Nagaraj/'
   image: ../members/AbhayNagaraj.jpg
   text: 'HIMS<br>Computational Chemistry'
+  research: ../research/abhay-nagaraj1/
 phd16:
   name: "Youri Ran"
   url: 'https://www.compchem.nl/group_members/youri-ran/'
