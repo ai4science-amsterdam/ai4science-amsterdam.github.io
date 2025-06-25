@@ -39,7 +39,7 @@ description: "We are developing a workflow for generating high-quality quantum c
 image:
 #    full: project_jacobusdijkman1.jpg
     thumb: project_matildemercuri1_thumb.png
-#    widget: project_jacobusdijkman1_302-182.png
+    widget: project_matildemercuri1_302-182.png
 #    caption: "Molecules can interact with rugged potentials, for instance inside a porous material, leading to large density fluctuations. Nevertheless, the efficient cDFT predictions match very well the time-consuming atomistic Monte Carlo simulation result. Image: HIMS / PhysRevLett."
 #    caption_url: https://doi.org/10.1103/PhysRevLett.134.056103
 ---

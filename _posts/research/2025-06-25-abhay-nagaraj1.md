@@ -42,7 +42,7 @@ these processes feasible."
 image:
 #     full: project_jacobusdijkman1.jpg
     thumb: project_abhaynagaraj1_thumb.jpg
-#     widget: project_jacobusdijkman1_302-182.png
+    widget: project_abhaynagaraj1_302-182.jpg
 #     caption: "Molecules can interact with rugged potentials, for instance inside a porous material, leading to large density fluctuations. Nevertheless, the efficient cDFT predictions match very well the time-consuming atomistic Monte Carlo simulation result. Image: HIMS / PhysRevLett."
 #     caption_url: https://doi.org/10.1103/PhysRevLett.134.056103
 ---
