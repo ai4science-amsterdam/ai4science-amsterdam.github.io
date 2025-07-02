@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://127.0.0.1:4000//</id>
 	<title>AI4Science Lab</title>
-	<updated>2025-06-25T17:03:40-04:00</updated>
+	<updated>2025-07-02T21:45:11+02:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -30,7 +30,7 @@ We develop and use machine learning techniques to discover patterns in data stre
 			<id>http://127.0.0.1:4000//research/abhay-nagaraj1/</id>
 			<title>Electro-catalysis</title>
 			<link href="http://127.0.0.1:4000//research/abhay-nagaraj1/" rel="alternate" type="text/html" title="Electro-catalysis" />
-			<updated>2025-06-25T00:00:00-04:00</updated>
+			<updated>2025-06-25T00:00:00+02:00</updated>
 
 			
 				
@@ -64,14 +64,14 @@ We develop and use machine learning techniques to discover patterns in data stre
 				<category term="nagaraj ensing anion 2025" />
 			
 
-			<published>2025-06-25T00:00:00-04:00</published>
+			<published>2025-06-25T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//research/matilde-mercuri1/</id>
 			<title>Nitrogen Fixation</title>
 			<link href="http://127.0.0.1:4000//research/matilde-mercuri1/" rel="alternate" type="text/html" title="Nitrogen Fixation" />
-			<updated>2025-06-23T00:00:00-04:00</updated>
+			<updated>2025-06-23T00:00:00+02:00</updated>
 
 			
 				
@@ -107,14 +107,14 @@ We develop and use machine learning techniques to discover patterns in data stre
 				<category term="mercuri ensing 2025" />
 			
 
-			<published>2025-06-23T00:00:00-04:00</published>
+			<published>2025-06-23T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//news/Get-Together/</id>
 			<title>AI4Science get together</title>
 			<link href="http://127.0.0.1:4000//news/Get-Together/" rel="alternate" type="text/html" title="AI4Science get together" />
-			<updated>2025-06-04T00:00:00-04:00</updated>
+			<updated>2025-06-04T00:00:00+02:00</updated>
 
 			
 				
@@ -150,14 +150,14 @@ Details on registration, signing up for a presentation, and information on the l
 				<category term="news" />
 			
 
-			<published>2025-06-04T00:00:00-04:00</published>
+			<published>2025-06-04T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//news/AI4Physics-lectures/</id>
 			<title>AI4Physics lecture series</title>
 			<link href="http://127.0.0.1:4000//news/AI4Physics-lectures/" rel="alternate" type="text/html" title="AI4Physics lecture series" />
-			<updated>2025-05-15T00:00:00-04:00</updated>
+			<updated>2025-05-15T00:00:00+02:00</updated>
 
 			
 				
@@ -218,14 +218,14 @@ Details on registration, signing up for a presentation, and information on the l
 				<category term="news" />
 			
 
-			<published>2025-05-15T00:00:00-04:00</published>
+			<published>2025-05-15T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//news/phd-defence-david-ruhe/</id>
 			<title>PhD defence of David Ruhe</title>
 			<link href="http://127.0.0.1:4000//news/phd-defence-david-ruhe/" rel="alternate" type="text/html" title="PhD defence of David Ruhe" />
-			<updated>2025-05-13T00:00:00-04:00</updated>
+			<updated>2025-05-13T00:00:00+02:00</updated>
 
 			
 				
@@ -277,14 +277,14 @@ Supervisors: Dr. P.D. Forré and Prof. dr. R.A.M.J. Wijers. Co-supervisors: Dr. 
 				<category term="news" />
 			
 
-			<published>2025-05-13T00:00:00-04:00</published>
+			<published>2025-05-13T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//news/phd-defence-fiona-lippert/</id>
 			<title>PhD defence of Fiona Lippert</title>
 			<link href="http://127.0.0.1:4000//news/phd-defence-fiona-lippert/" rel="alternate" type="text/html" title="PhD defence of Fiona Lippert" />
-			<updated>2025-05-01T00:00:00-04:00</updated>
+			<updated>2025-05-01T00:00:00+02:00</updated>
 
 			
 				
@@ -332,14 +332,14 @@ Supervisor: Dr. P.D. Forré and Dr. ir. E.E. van Loon. Co-supervisors: Prof. dr.
 				<category term="news" />
 			
 
-			<published>2025-05-01T00:00:00-04:00</published>
+			<published>2025-05-01T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//research/jacobus-dijkman1/</id>
 			<title>Classical DFT</title>
 			<link href="http://127.0.0.1:4000//research/jacobus-dijkman1/" rel="alternate" type="text/html" title="Classical DFT" />
-			<updated>2025-04-20T00:00:00-04:00</updated>
+			<updated>2025-04-20T00:00:00+02:00</updated>
 
 			
 				
@@ -407,14 +407,14 @@ Jan-Willem van de Meent, and Bernd Ensing, &lt;br /&gt;
 				<category term="dijkman ensing welling vandemeent 2025" />
 			
 
-			<published>2025-04-20T00:00:00-04:00</published>
+			<published>2025-04-20T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//research/maximilian-lipp1/</id>
 			<title>Nanoscale Imaging and Metrology</title>
 			<link href="http://127.0.0.1:4000//research/maximilian-lipp1/" rel="alternate" type="text/html" title="Nanoscale Imaging and Metrology" />
-			<updated>2025-04-10T00:00:00-04:00</updated>
+			<updated>2025-04-10T00:00:00+02:00</updated>
 
 			
 				
@@ -465,14 +465,14 @@ production of the lithography machines.&lt;/p&gt;
 				<category term="maximilian  2025" />
 			
 
-			<published>2025-04-10T00:00:00-04:00</published>
+			<published>2025-04-10T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//research/cong-liu1/</id>
 			<title>Protein Stabilization for Vaccine Design</title>
 			<link href="http://127.0.0.1:4000//research/cong-liu1/" rel="alternate" type="text/html" title="Protein Stabilization for Vaccine Design" />
-			<updated>2025-04-10T00:00:00-04:00</updated>
+			<updated>2025-04-10T00:00:00+02:00</updated>
 
 			
 				
@@ -525,14 +525,14 @@ leading to the help for designing of stable antigens.&lt;/p&gt;
 				<category term="liu forre 2025" />
 			
 
-			<published>2025-04-10T00:00:00-04:00</published>
+			<published>2025-04-10T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//research/teodora-pandeva1/</id>
 			<title>Gene Regulatory Networks</title>
 			<link href="http://127.0.0.1:4000//research/teodora-pandeva1/" rel="alternate" type="text/html" title="Gene Regulatory Networks" />
-			<updated>2025-03-31T00:00:00-04:00</updated>
+			<updated>2025-03-31T00:00:00+02:00</updated>
 
 			
 				
@@ -601,7 +601,7 @@ Teodora Pandeva, Martijs Jonker, Leendert Hamoen, Joris Mooij and Patrick Forré
 				<category term="pandeva jonker hamoen mooij forre 2025" />
 			
 
-			<published>2025-03-31T00:00:00-04:00</published>
+			<published>2025-03-31T00:00:00+02:00</published>
 		</entry>
 	
 </feed>

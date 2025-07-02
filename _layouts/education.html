@@ -1,16 +1,133 @@
 ---
 layout: page-fullwidth 
 ---
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0px;
+        }
+        .publication-list {
+            list-style: none;
+            padding: 0;
+        }
+        .publication-item {
+            display: flex;
+            align-items: flex-start;
+            margin-top: 0px;
+        }
+        .publication-item img {
+            width: 150px;
+            height: 150px;
+            margin-left: 30px;
+        }
+        .publication-item .details {
+            flex: 1;
+        }
+        .publication-item .details h2 {
+            margin: 0 0 0px;
+            font-size: 1.2em;
+        }
+        .publication-item .details h3 {
+            margin: 0 0 3px;
+            font-size: 1.0em;
+            color: #555;
+            font-variant: small-caps;
+        }
+        .publication-item .details p {
+            margin: 0 0 0px ;
+            color: #555;
+        }
+    </style>
+</head>
 
 <!-- ========================== Bachelor and Master Courses ========================== -->
 
+<hr>
+<header id="bachelor">
+        <br>
+        <a href="#bachelor">Bachelor Courses</a> |
+        <a href="#master">Master Courses</a> |
+        <a href="#projects">Research Projects</a> |
+        <a href="#teachers">For teachers</a>
+<hr style="width:100%;text-align:left;margin-left:0">   
+</header>
+<h1>Bachelor courses</h1>
+
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a name
+*
+{% endcomment %}
 <div class="row">
-    {{ content }}
+  <ul class="publication-list">
+        {% if page.bachelor1.title %}<li class="publication-item">
+           {% include _course-widget.html widget=page.bachelor1 %} </li> {% endif %}
+        {% if page.bachelor2.title %}<li class="publication-item">
+           {% include _course-widget.html widget=page.bachelor2 %} </li> {% endif %}
+        {% if page.bachelor3.title %}<li class="publication-item">
+           {% include _course-widget.html widget=page.bachelor3 %} </li> {% endif %}
+        {% if page.bachelor4.title %}<li class="publication-item">
+           {% include _course-widget.html widget=page.bachelor4 %} </li> {% endif %}
+        {% if page.bachelor5.title %}<li class="publication-item">
+           {% include _course-widget.html widget=page.bachelor5 %} </li> {% endif %}
+  </ul>
 </div><!-- /.row -->
 
+<hr>
+<header id="master">
+        <br>
+        <a href="#bachelor">Bachelor Courses</a> |
+        <a href="#master">Master Courses</a> |
+        <a href="#projects">Research Projects</a> |
+        <a href="#teachers">For teachers</a>
+<hr style="width:100%;text-align:left;margin-left:0">   
+</header>
+<h1>Master courses</h1>
 
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a name
+*
+{% endcomment %}
+<div class="row">
+  <ul class="publication-list">
+        {% if page.master1.title %}<li class="publication-item">
+           {% include _course-widget.html widget=page.master1 %} </li> {% endif %}
+        {% if page.master2.title %}<li class="publication-item">
+           {% include _course-widget.html widget=page.master2 %} </li> {% endif %}
+        {% if page.master3.title %}<li class="publication-item">
+           {% include _course-widget.html widget=page.master3 %} </li> {% endif %}
+        {% if page.master4.title %}<li class="publication-item">
+           {% include _course-widget.html widget=page.master4 %} </li> {% endif %}
+        {% if page.master5.title %}<li class="publication-item">
+           {% include _course-widget.html widget=page.master5 %} </li> {% endif %}
+  </ul>
+</div><!-- /.row -->
 
 <!-- ========================== Research Projects ========================== -->
+
+<header id="projects">
+        <br>
+        <a href="#bachelor">Bachelor Courses</a> |
+        <a href="#master">Master Courses</a> |
+        <a href="#projects">Research Projects</a> |
+        <a href="#teachers">For teachers</a>
+<hr style="width:100%;text-align:left;margin-left:0">   
+</header>
+<h1>Student research projects</h1>
+
+Are you a student of a (joined) UvA bachelor or master program and
+looking for an exciting research project? The gallery below gives a
+compilation of available projects in the various scientific
+disciplines taught at the Faculty of Science. If you see an
+interesting project, please contact the supervisor of the project.
+In case you do not see an interesting match, but you wonder about
+other projects (perhaps you have an interesting research idea related
+to AI for scientific research yourself), feel free to send an
+<a href="mailto:ai4science.info@gmail.com">email inquiry</a> to us.
 
 {% comment %}
 *
@@ -37,3 +154,21 @@ layout: page-fullwidth
 
 <div class="row t60"> 
 </div><!-- row -->
+
+
+<header id="teachers">
+        <br>
+        <a href="#bachelor">Bachelor Courses</a> |
+        <a href="#master">Master Courses</a> |
+        <a href="#projects">Research Projects</a> |
+        <a href="#teachers">For teachers</a>
+<hr style="width:100%;text-align:left;margin-left:0">   
+</header>
+
+<h1>For teachers</h1>
+
+If you are course coordinator or teacher at FNWI, perhaps advertising your course or student research
+project to AI4Science oriented students via this webpage is interesting for you. Please contact Patrick Forré or 
+Bernd Ensing for further informatation.
+
+

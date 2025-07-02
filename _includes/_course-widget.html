@@ -1,0 +1,23 @@
+{% comment %}
+*
+*   First the include captures the url in a
+*   separate variable to make the code better readable.
+*
+*   This variable is widget_url 
+*
+{% endcomment %}
+
+{% capture widget_url %}{% if include.widget.url == NULL %}{% elsif include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
+
+<div class="small-12 columns t10">
+        <div class="details">
+	    <h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
+            {% if include.widget.partof %}<h3>Part of: {{ include.widget.partof }} </h3>{% endif %}
+            {% if include.widget.description != empty %}<p>{{ include.widget.description }} <a href="{{ widget_url }}"><b>Further information.</b></a></p>{% endif %}
+            <ul>
+            {% if include.widget.coordinator %}<li>Coordinator: {{ include.widget.coordinator }} </li>{% endif %}
+            {% if include.widget.credits %}<li>Credits: {{ include.widget.credits }} </li>{% endif %}
+            {% if include.widget.period %}<li>Time period: {{ include.widget.period }} </li>{% endif %}
+            </ul>
+        </div>
+</div>
