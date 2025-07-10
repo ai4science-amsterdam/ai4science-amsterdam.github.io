@@ -23,6 +23,8 @@ homepage: true
 > How can we detect, classify, and predict relevant patterns in scientific data if they are hidden within large amount of non-relevant data?
 
 
+Amsterdam AI for Science (AA4S) is a research center in the [Faculty of Science (FNWI)][2] of the [University of Amsterdam][3], connecting researchers and students from informatics, maths, ecology, chemistry, physics, biology, and astrophysics. Our mission is to initiate and advance developments in machine learning for scientific research. The AI4Science Laboratory is located in the [Informatics Institute (IvI)][4], next to the [AMLab][5] in the [LAB42 Buidling][8] at Amsterdam Science Park. [Read more here][9].
+
 
 <!--
 # About Amsterdam AI4Science
@@ -62,4 +64,4 @@ spin-offs. Interested in joining the AI4Science consortium?
 [6]: /events/
 [7]: /colloquium/
 [8]: https://lab42.uva.nl
-
+[9]: https://ai4science-amsterdam.github.io//lab/

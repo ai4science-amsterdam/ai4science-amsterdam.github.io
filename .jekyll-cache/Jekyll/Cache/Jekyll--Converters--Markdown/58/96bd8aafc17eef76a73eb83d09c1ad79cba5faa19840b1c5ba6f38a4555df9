@@ -1,9 +1,11 @@
-I"�
+I"	
 <hr />
 
 <blockquote>
   <p>How can we detect, classify, and predict relevant patterns in scientific data if they are hidden within large amount of non-relevant data?</p>
 </blockquote>
+
+<p>Amsterdam AI for Science (AA4S) is a research center in the <a href="https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/faculty-of-science.html">Faculty of Science (FNWI)</a> of the <a href="https://www.uva.nl">University of Amsterdam</a>, connecting researchers and students from informatics, maths, ecology, chemistry, physics, biology, and astrophysics. Our mission is to initiate and advance developments in machine learning for scientific research. The AI4Science Laboratory is located in the <a href="https://ivi.uva.nl">Informatics Institute (IvI)</a>, next to the <a href="http://amlab.science.uva.nl">AMLab</a> in the <a href="https://lab42.uva.nl">LAB42 Buidling</a> at Amsterdam Science Park. <a href="https://ai4science-amsterdam.github.io//lab/">Read more here</a>.</p>
 
 <!--
 # About Amsterdam AI4Science
@@ -13,7 +15,7 @@ The AI4Science Lab is an initiative supported by the [Faculty of Science (FNWI)]
 
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.
 
-<a class="radius button small" href="http://127.0.0.1:4000//lab/">Learn More</a>
+<a class="radius button small" href="https://ai4science-amsterdam.github.io//lab/">Learn More</a>
 
 
 ---
@@ -30,7 +32,7 @@ challenges and new developments. Our activities include organising
 helping each other with acquiring funding for AI4Science 
 spin-offs. Interested in joining the AI4Science consortium? 
 
-<a class="radius button small" href="http://127.0.0.1:4000//consortium/">Learn More›</a>
+<a class="radius button small" href="https://ai4science-amsterdam.github.io//consortium/">Learn More›</a>
 
 ---
 -->

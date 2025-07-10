@@ -1,4 +1,4 @@
-I"�Q<div class="row">
+I"|Q<div class="row">
 <div class="medium-4 medium-push-8 columns">
     <div class="panel radius">
       <p id="toc"><strong>Table of Contents</strong></p>
@@ -58,10 +58,10 @@
     <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
-			<a class="button left r15 tiny radius" href="https://github.com/Phlow/feeling-responsive/edit/gh-pages/pages/documentation.md">Edit</a>
+			<a class="button left r15 tiny radius" href="/pages/documentation.md">Edit</a>
 			<p style="margin-top: 3px;">
 			This content is open source.
-			<a href="https://github.com/Phlow/feeling-responsive/edit/gh-pages/pages/documentation.md">Help improve it</a>.</p>
+			<a href="/pages/documentation.md">Help improve it</a>.</p>
 		</div>
 	</div>
 </div>
@@ -75,7 +75,7 @@
     <p><em>Feeling Responsive</em> supports you with different templates for your content. These are the actual page/post formats:</p>
 
     <h3 id="pagepost">Page/Post</h3>
-    <p>The <a href="http://127.0.0.1:4000//design/page/">page/post format</a> has no sidebar by default, its content is centered and beneath the content the visitor gets some metadata like categories, tags, date and author if provided via data in front matter of the post.</p>
+    <p>The <a href="https://ai4science-amsterdam.github.io//design/page/">page/post format</a> has no sidebar by default, its content is centered and beneath the content the visitor gets some metadata like categories, tags, date and author if provided via data in front matter of the post.</p>
 
     <p>use in front matter via: <code class="language-plaintext highlighter-rouge">layout: page</code></p>
 
@@ -86,17 +86,17 @@
     <p>If you want to show metadata like categories, tags and date at the end of the page, just enter <code class="language-plaintext highlighter-rouge">show_meta: true</code>. It’s on by default. You can change it via <code class="language-plaintext highlighter-rouge">_config.yml</code>. To turn of metadata just enter – <em>yes, you guessed right</em> – <code class="language-plaintext highlighter-rouge">show_meta: false</code>.</p>
 
     <h3 id="page-full-width">Page Full Width</h3>
-    <p>If you want full control of styling a page, then use the <a href="http://127.0.0.1:4000//design/page-fullwidth/">page fullwidth template</a>. To set up a grid, just use the <a href="http://foundation.zurb.com/docs/components/grid.html">foundation grid system</a>.</p>
+    <p>If you want full control of styling a page, then use the <a href="https://ai4science-amsterdam.github.io//design/page-fullwidth/">page fullwidth template</a>. To set up a grid, just use the <a href="http://foundation.zurb.com/docs/components/grid.html">foundation grid system</a>.</p>
 
     <p>use in front matter via: <code class="language-plaintext highlighter-rouge">layout: page-fullwidth</code></p>
 
     <h3 id="frontpage">Frontpage</h3>
-    <p>This template is special. It allows you to define three <em>widgets</em> which are displayed with a headline, image, description and a link to the content. It’s used for the <a href="http://127.0.0.1:4000/">homepage</a> of this website.</p>
+    <p>This template is special. It allows you to define three <em>widgets</em> which are displayed with a headline, image, description and a link to the content. It’s used for the <a href="https://ai4science-amsterdam.github.io/">homepage</a> of this website.</p>
 
     <p>use in front matter via: <code class="language-plaintext highlighter-rouge">layout: frontpage</code></p>
 
     <h3 id="video">Video</h3>
-    <p>If you’re a video producer or cineast, you’ll like the <a href="http://127.0.0.1:4000//design/video/">video template</a>. It darkens the layout to black and lets the video stand out full-width.</p>
+    <p>If you’re a video producer or cineast, you’ll like the <a href="https://ai4science-amsterdam.github.io//design/video/">video template</a>. It darkens the layout to black and lets the video stand out full-width.</p>
 
     <p>use in front matter via: <code class="language-plaintext highlighter-rouge">layout: video</code></p>
 
@@ -150,11 +150,11 @@
   <span class="nt">&lt;iframe</span> <span class="na">with</span> <span class="na">video</span> <span class="nt">/&gt;</span>
 <span class="nt">&lt;/div&gt;</span></code></pre></figure>
 
-    <p><img class="t60" src="http://127.0.0.1:4000/images/header_homepage_13.jpg" alt="" /></p>
+    <p><img class="t60" src="https://ai4science-amsterdam.github.io/images/header_homepage_13.jpg" alt="" /></p>
 
     <h2 id="images">Images: Title, Thumbnails, Homepage</h2>
 
-    <p>There are several types of images you can define via front matter. If you want to change the images used in the header have a look at <a href="http://127.0.0.1:4000/headers/">Style your Header</a>.</p>
+    <p>There are several types of images you can define via front matter. If you want to change the images used in the header have a look at <a href="https://ai4science-amsterdam.github.io/headers/">Style your Header</a>.</p>
 
     <h3 id="title-images">Title Images</h3>
 
@@ -164,7 +164,7 @@
 
     <h3 id="thumbnails">Thumbnails</h3>
 
-    <p>Thumbnails are used on archive pages like the <a href="http://127.0.0.1:4000/blog/">blog index</a>. They have a size of 150x150 pixels. Define them in front matter like this:</p>
+    <p>Thumbnails are used on archive pages like the <a href="https://ai4science-amsterdam.github.io/blog/">blog index</a>. They have a size of 150x150 pixels. Define them in front matter like this:</p>
 
     <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>image:
     thumb: thumbnail_image.jpg
@@ -328,10 +328,10 @@
     <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
-			<a class="button left r15 tiny radius" href="https://github.com/Phlow/feeling-responsive/edit/gh-pages/pages/documentation.md">Edit</a>
+			<a class="button left r15 tiny radius" href="/pages/documentation.md">Edit</a>
 			<p style="margin-top: 3px;">
 			This content is open source.
-			<a href="https://github.com/Phlow/feeling-responsive/edit/gh-pages/pages/documentation.md">Help improve it</a>.</p>
+			<a href="/pages/documentation.md">Help improve it</a>.</p>
 		</div>
 	</div>
 </div>
