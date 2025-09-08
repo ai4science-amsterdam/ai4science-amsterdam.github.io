@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://ai4science-amsterdam.github.io//</id>
 	<title>AI4Science Lab</title>
-	<updated>2025-07-10T09:53:16+02:00</updated>
+	<updated>2025-09-08T13:19:21+02:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -25,6 +25,48 @@ We develop and use machine learning techniques to discover patterns in data stre
 
 	<generator uri="http://jekyllrb.com" version="4.2.0">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://ai4science-amsterdam.github.io//news/ChemAI-registration-open/</id>
+			<title>ChemAI registration now open!</title>
+			<link href="https://ai4science-amsterdam.github.io//news/ChemAI-registration-open/" rel="alternate" type="text/html" title="ChemAI registration now open!" />
+			<updated>2025-07-11T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://ai4science-amsterdam.github.io//news/ChemAI-registration-open/">&lt;p&gt;&lt;img src=&quot;../../members/ChristophWeniger.jpg&quot; alt=&quot;Cong Liu&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A lecture series on &lt;em&gt;machine learning in physics&lt;/em&gt; is organised by &lt;a href=&quot;https://www.uva.nl/en/profile/w/e/c.weniger/c.weniger.html&quot;&gt;Dr. Christoph Weniger&lt;/a&gt; focused on such topics as equivariant neural networks, simulation-based inference, and transformers. Each event is scheduled for 90 minutes, in which the first 60 minutes will feature local or national speakers introducing a topic, followed by short talks from MSc/PhD students or postdocs on related applications. The final 30 minutes will be an optional crash course on how to use the presented techniques in practice, using Google Colab notebooks.&lt;/p&gt;
+
+&lt;div class=&quot;alert-box info &quot;&gt;
+&lt;li&gt;Date: Friday 4 July 2025
+&lt;li&gt;Time: 15:00 hr
+&lt;li&gt;Location: Science Park, room tba
+&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://indico.nikhef.nl/category/120/&quot;&gt;AI4Physics website&lt;/a&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="news" />
+			
+			
+				<category term="news" />
+			
+
+			<published>2025-07-11T00:00:00+02:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://ai4science-amsterdam.github.io//research/abhay-nagaraj1/</id>
@@ -526,82 +568,6 @@ leading to the help for designing of stable antigens.&lt;/p&gt;
 			
 
 			<published>2025-04-10T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://ai4science-amsterdam.github.io//research/teodora-pandeva1/</id>
-			<title>Gene Regulatory Networks</title>
-			<link href="https://ai4science-amsterdam.github.io//research/teodora-pandeva1/" rel="alternate" type="text/html" title="Gene Regulatory Networks" />
-			<updated>2025-03-31T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>{&quot;image&quot;=&gt;&quot;author_teodorapandeva.jpg&quot;, &quot;name&quot;=&gt;&quot;Teodora Pandeva&quot;, &quot;function&quot;=&gt;&quot;PhD alumnus&quot;, &quot;room&quot;=&gt;nil, &quot;contact&quot;=&gt;nil, &quot;institute&quot;=&gt;&quot;Microsoft Research&quot;, &quot;group&quot;=&gt;&quot;worked at Bacterial Cell Biology group &amp; AMLab&quot;, &quot;text&quot;=&gt;&quot;Teodora Pandeva graduated on June 26th 2025 and is currently working as an AI researcher at Microsoft Research in Cambridge, UK.&quot;, &quot;site1&quot;=&gt;&quot;LinkIn&quot;, &quot;url1&quot;=&gt;&quot;https://www.linkedin.com/in/teodora-pandeva-a302055a/&quot;}</name>
-					
-					
-					
-				</author>
-			
-			<summary>Machine Learning for Multi-Source Data Integration</summary>
-			<content type="html" xml:base="https://ai4science-amsterdam.github.io//research/teodora-pandeva1/">&lt;p&gt;&lt;img src=&quot;../../members/TeodoraPandeva.jpg&quot; alt=&quot;Teodora Pandeva&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;PhD research of &lt;strong&gt;Teodora Pandeva&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Causal discovery to reveal complex gene regulation networks from vast
-transcriptome datasets Gene regulatory networks (GRNs) model the
-biological interactions between genes and provide a better
-understanding of the cellular processes and regulation
-pathways. Correctly constructed GRNs can play a fundamental role in
-solving various biological and biomedical problems, such as tracking
-disease development. Technological advances of high-throughput
-molecular biology have opened a new research frontier for inferring
-GRNs in a completely data-driven way. The great amount of gene
-expression data available on the GEO database suggests using AI-based
-techniques for processing and modeling such networks. In this project,
-we focus on Bacillus subtilis, a well-studied Gram-positive bacterium
-with more than 3,000 publicly available transcriptome
-datasets. Combining these datasets alongside with reconstructing the
-known GRNs can be a very challenging task due to the (un)observable
-batch effects in the data that result from the varying data generating
-process across experiments. By tackling these issues and applying
-novel causal discovery techniques we aim for a better interpretation
-of the genes functions and their organization in hierarchical
-structures or even revealing unknown regulatory networks.&lt;/p&gt;
-
-&lt;p&gt;Joint work with &lt;a href=&quot;https://www.uva.nl/profiel/j/o/m.j.jonker/m.j.jonker.html&quot;&gt;Martijs Jonker&lt;/a&gt;, &lt;a href=&quot;https://www.uva.nl/en/profile/h/a/l.w.hamoen/l.w.hamoen.html&quot;&gt;Leendert Hamoen&lt;/a&gt;, &lt;a href=&quot;https://staff.fnwi.uva.nl/j.m.mooij/&quot;&gt;Joris Mooij&lt;/a&gt;, &lt;a href=&quot;https://www.uva.nl/en/profile/f/o/p.d.forre/p.d.forre.html&quot;&gt;Patrick Forré&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;papers&quot;&gt;Papers&lt;/h4&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://openreview.net/forum?id=r5KL-AfXt75&quot;&gt;Multi-View Independent Component Analysis for Omics Data Integration&lt;/a&gt; &lt;br /&gt;
-Teodora Pandeva and Patrick Forré &lt;br /&gt;
-&lt;em&gt;ICLR&lt;/em&gt; (2023)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2210.02083&quot;&gt;Multi-View Independent Component Analysis with Shared and Individual Sources&lt;/a&gt; &lt;br /&gt;
-Teodora Pandeva and Patrick Forré
-&lt;em&gt;PMLR&lt;/em&gt; &lt;strong&gt;216&lt;/strong&gt;, 1639-1650 (2023)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2409.19991&quot;&gt;Robust Multi-view Co-expression Network Inference&lt;/a&gt; &lt;br /&gt;
-Teodora Pandeva, Martijs Jonker, Leendert Hamoen, Joris Mooij and Patrick Forré &lt;br /&gt;
-&lt;em&gt;accepted for CLeaR 2025 and NeurIPS 2024 Workshop: Causal Representation Learning&lt;/em&gt; (2024)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-</content>
-
-			
-				<category term="research" />
-			
-			
-				<category term="pandeva jonker hamoen mooij forre 2025" />
-			
-
-			<published>2025-03-31T00:00:00+02:00</published>
 		</entry>
 	
 </feed>
