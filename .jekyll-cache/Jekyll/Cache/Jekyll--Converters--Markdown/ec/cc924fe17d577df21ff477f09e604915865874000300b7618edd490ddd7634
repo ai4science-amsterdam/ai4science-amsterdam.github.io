@@ -1,46 +1,35 @@
----
-layout: events
-show_meta: false
-title: "AI4Science Events"
-header:
-   image_fullwidth: "banner.jpg"
-   title: ' '
-permalink: "/events/"
----
+I"�<h2 id="biweekly-lab-meetings">Biweekly Lab Meetings</h2>
 
-
-## Biweekly Lab Meetings
-
-The AI4Science Lab Meetings are a bi-weekly series of research and
+<p>The AI4Science Lab Meetings are a bi-weekly series of research and
 literature presentations, held on alternating Thursdays at 11:00 hr,
 starting this academic year on 11 September. All members take a turn
 to present their work or a thought-provoking paper. The meetings take
 place at Science Park and are not online. If you wish to take part in our
-Lab Meetings, send [an email to us][1] with your name, affiliation and
-a one-sentence motivation for joining.
-	
+Lab Meetings, send <a href="/contact/">an email to us</a> with your name, affiliation and
+a one-sentence motivation for joining.</p>
 
----
+<hr />
 
-## AI4Science Colloquium
+<h2 id="ai4science-colloquium">AI4Science Colloquium</h2>
 
-Coming AI4Science colloquia. 
+<p>Coming AI4Science colloquia.</p>
 
+<h4 id="title-foundational-models-for-materials-chemistry">Title: Foundational models for materials chemistry</h4>
+<p>Speaker: <a href="https://www.eng.cam.ac.uk/profiles/gc121">Professor Gábor Csány</a>, Department of Engineering,
+University of Cambridge, United Kingdom.</p>
 
-#### Title: Foundational models for materials chemistry
-Speaker: [Professor Gábor Csány][2], Department of Engineering,
-University of Cambridge, United Kingdom.
-
-{% include alert info='
+<div class="alert-box info ">
 <li>Date: Monday 1 December 2025
 <li>Time: 13:00 hr
-<li>Location: Science Park, room tba' %}
+<li>Location: Science Park, room tba
+</li></li></li>
+</div>
 
-#### Abstract:
-A new computational task has been defined and solved over the past 15
+<h4 id="abstract">Abstract:</h4>
+<p>A new computational task has been defined and solved over the past 15
 years for extended material systems: the analytic fitting of the
 Born-Oppenheimer potential energy surface as a function of nuclear
-coordinates. The resulting potentials  ("force fields") are reactive,
+coordinates. The resulting potentials  (“force fields”) are reactive,
 many-body, with evaluation costs that are currently on the order
 of 0.1-10 ms/atom/cpu core (or about 1-10ms on a powerful GPU), and
 reach accuracies of a few meV/atom when trained specifically for a
@@ -51,7 +40,7 @@ networks.  Perhaps the most surprising recent result is the stability
 of models trained on very diverse training sets across the whole
 periodic table. Our recent discovery is that the MACE-MP-0 model that
 was trained on just ~150,000 real and hypothetical small inorganic
-crystals (90% of training set < 70 atoms), is capable of stable
+crystals (90% of training set &lt; 70 atoms), is capable of stable
 molecular dynamics at ambient conditions on any system tested so far -
 this includes crystals, liquids, surfaces, clusters, molecules, and
 combinations of all of these. The astounding generalisation
@@ -63,25 +52,20 @@ molecular simulations by lowering the barrier to entry into the
 field. Similarly, in the domain of organic chemistry, training just on
 small molecules and small clusters allows accurate simulation of
 condensed phase systems, and first principles prediction of quantities
-such as hydration free energies for the first time.
+such as hydration free energies for the first time.</p>
 
+<h4 id="biography">Biography</h4>
 
-#### Biography
+<p>Gábor Csányi is a Hungarian-born scientist at the University of Cambridge. He read mathematics in Cambridge as an undergraduate at St. John’s College and did his PhD work in physics at MIT. After postdoctoral research in the Cavendish Laboratory, he joined the faculty in the Department of Engineering at Cambridge. He won an F. W. Bessel award from the Alexander von Humboldt foundation.</p>
 
-Gábor Csányi is a Hungarian-born scientist at the University of Cambridge. He read mathematics in Cambridge as an undergraduate at St. John’s College and did his PhD work in physics at MIT. After postdoctoral research in the Cavendish Laboratory, he joined the faculty in the Department of Engineering at Cambridge. He won an F. W. Bessel award from the Alexander von Humboldt foundation. 
-
-His work is in the field of computational chemistry, and is focused on
+<p>His work is in the field of computational chemistry, and is focused on
 developing algorithms to predict the properties of materials and
 molecules from first principles. He pioneered the application of
 machine learning to molecular modeling which lead to enormous gains in
-the efficiency of molecular dynamics simulation.
+the efficiency of molecular dynamics simulation.</p>
 
+<p><a class="radius button small" href="../colloquium">Previous Colloquia</a></p>
 
+<hr />
 
-<a class="radius button small" href="../colloquium">Previous Colloquia</a>
-
----
-
-
-[1]: /contact/
-[2]: https://www.eng.cam.ac.uk/profiles/gc121
+:ET

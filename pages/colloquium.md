@@ -13,14 +13,6 @@ permalink: "/colloquium/"
 ---
 > Knowledge Shared = Knowledge<sup>2</sup>
 
-The AI4Science Colloquium series for this academic year has come to an end.
-
-The AI4Science Colloquium is a bi-weekly colloquium series, held on alternating Tuesdays at 14:00 Central European Time. In this colloquium our very own Teodora Pandeva and Fiona Lippert invite renowned speakers to present and discuss their state-of-the-art AI solutions for scientific discovery. Interested? Subscribe to our Email-list to be notified.
-
-## Email List
-To stay up to date with our activities and be invited to our biweekly AI4Science colloquium series, you may send a request to be included in our emaillist via [an email to us][9] with your name, affiliation and a one-sentence motivation for joining.
-
-
 
 ## Previous Colloquium
 
@@ -58,9 +50,29 @@ conditions, and so forth. Recently, he has also focused on errors in
 DFT and machine learned density functionals. 
 
 
-<a class="radius button small" href="https://drive.google.com/file/d/1emgs5118gZSgsX3RfwWhM9BSKUFdE21B/view?usp=share_link">Watch Back</a>
 
-For a complete overview of the previous colloquia, please have a look at our [blog][2].
+
+<div id="blog-index" class="row">
+	<div class="small-12 columns t30">
+	  <h2>Previous colloquia</h2>
+	  <p>Click on the items below for further details.</p>
+		<dl class="accordion" data-accordion>
+			{% assign counter = 1 %}
+		        {% for post in site.posts limit:1000 %}
+		        {% if post.categories contains 'colloquium' %}
+			<dd class="accordion-navigation">
+			<a href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a>
+				<div id="panel{{ counter }}" class="content">
+					{% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
+					<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
+				</div>
+			</dd>
+			{% assign counter=counter | plus:1 %}
+			{% endif %}
+			{% endfor %}
+		</dl>
+	</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
 
 [1]: https://bereau.group/
 [2]: /blog/
