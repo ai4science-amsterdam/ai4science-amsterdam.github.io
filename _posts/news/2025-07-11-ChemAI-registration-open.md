@@ -13,20 +13,29 @@ header:
 
 ---
 
-<img src="../../members/ChristophWeniger.jpg" alt="Cong Liu" width="100" style="float: right; margin-right: 10px; border-radius:50%;" />
+![ChemAI logo](../../images/chem_ai_2025.jpg)
 
+For the third time, we are organising together with [ACN][1], [COAST][2], and [AmsterdamAI][3] 
+the annual [ChemAI Event][0]! The program is again packed with captivating presentations 
+from world-leading experts, discussion and poster sessions, pitches at our fashionshow, 
+and ample room for networking with our ca. 300 participants from academia and industry.
 
-A lecture series on *machine learning in physics* is organised by [Dr. Christoph Weniger][1] focused on such topics as equivariant neural networks, simulation-based inference, and transformers. Each event is scheduled for 90 minutes, in which the first 60 minutes will feature local or national speakers introducing a topic, followed by short talks from MSc/PhD students or postdocs on related applications. The final 30 minutes will be an optional crash course on how to use the presented techniques in practice, using Google Colab notebooks.
- 
+Keynotes from global leaders in AI and materials science include:
+- Prof. Christopher Bishop (Microsoft Research) on the “fifth paradigm for science”
+- Prof. Juan de Pablo (NYU) on materials and molecular modelling
+- Prof. Cecilia Clementi (FU Berlin) on biomolecular dynamics and AI
+- Dr. Ewa Gajewska (Merck) on retrosynthesis software
+- Dr. Sam Cooper (Imperial College London) on AI for energy storage and materials
+
 {% include alert info='
-<li>Date: Friday 4 July 2025
-<li>Time: 15:00 hr
-<li>Location: Science Park, room tba' %}
+* Date: Friday 21 November 2025
+* Location: Hotel CASA in Amsterdam' %}
 
-<a class="radius button small" href="https://indico.nikhef.nl/category/120/">AI4Physics website</a>
+For further details on ChemAI and registration go to the ChemAI webpage:
 
+<a class="radius button small" href="https://www.acnetwork.nl/chemai">ChemAI website</a>
 
-[1]: https://www.uva.nl/en/profile/w/e/c.weniger/c.weniger.html
-[2]: https://indico.nikhef.nl/event/6704/
-[3]: https://indico.nikhef.nl/event/6705/
-[4]: https://indico.nikhef.nl/event/6779/
+[0]: https://www.acnetwork.nl/chemai
+[1]: https://www.acnetwork.nl
+[2]: https://www.ti-coast.com
+[3]: https://www.amsterdamai.com/en/

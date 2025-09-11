@@ -9,9 +9,9 @@ permalink: "/events/"
 ---
 
 
-## Biweekly Lab Meetings
+<h2 id="meetings">Biweekly Lab Meetings</h2>
 
-The AI4Science Lab Meetings are a bi-weekly series of research and
+The AI4Science Lab Meetings are a series of bi-weekly research and
 literature presentations, held on alternating Thursdays at 11:00 hr,
 starting this academic year on 11 September. All members take a turn
 to present their work or a thought-provoking paper. The meetings take
@@ -22,7 +22,7 @@ a one-sentence motivation for joining.
 
 ---
 
-## AI4Science Colloquium
+<h2 id="colloquium">AI4Science Colloquium</h2>
 
 Coming AI4Science colloquia. 
 
@@ -32,9 +32,9 @@ Speaker: [Professor Gábor Csány][2], Department of Engineering,
 University of Cambridge, United Kingdom.
 
 {% include alert info='
-<li>Date: Monday 1 December 2025
-<li>Time: 13:00 hr
-<li>Location: Science Park, room tba' %}
+* Date: Monday 1 December 2025
+* Time: 13:00 hr
+* Location: Science Park, room tba' %}
 
 #### Abstract:
 A new computational task has been defined and solved over the past 15

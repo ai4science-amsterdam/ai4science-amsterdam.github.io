@@ -40,6 +40,15 @@
 
 {% comment %}
 *
+* assign archive_page to the relevant page depending on the page.categories (= news or colloquium).
+*
+{% endcomment %}
+{% capture archive_page %}
+{% if page.categories contains 'news' %}/events/#archive{% elsif page.categories contains 'colloquium' %}/colloquium/#archive{% endif %}
+{% endcapture %}
+
+{% comment %}
+*
 * assign FIRST category from categories variable from front matter to cat
 * and make a string from the array by using › join: ''
 *
@@ -69,7 +78,7 @@
                                 {% else %}
                                 <div class="small-5 columns text-center"></div><!-- /.small-4.columns -->
                                 {% endif %}
-                                <div class="small-2 columns text-center"><a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/blog/archive/" title="Blog {{ site.data.language.archive }}">{{ site.data.language.archive }}</a></div><!-- /.small-4.columns -->
+                                <div class="small-2 columns text-center"><a class="radius button small" href="{{ site.url }}{{ site.baseurl }}{{ archive_page }}" title="Blog {{ site.data.language.archive }}">{{ site.data.language.archive }}</a></div><!-- /.small-4.columns -->
                                 {% if next_post %}
                                 <div class="small-5 columns text-center"><a class="button small radius next" href="{{ site.url }}{{ site.baseurl }}{{next_post}}">Next &raquo;</a></div><!-- /.small-4.columns -->
                                 {% else %}

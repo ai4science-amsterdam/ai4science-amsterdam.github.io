@@ -17,8 +17,6 @@ header:
 ---
 
 
-#### Interpretability and Out of Distribution Generalization in Deep Predictive Models
-
  <img src="../../members/RajeshRanganath.jpeg"
      alt="MartinVanHecke"
      width="100"

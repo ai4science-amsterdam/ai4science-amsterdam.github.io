@@ -17,8 +17,6 @@ header:
 ---
 
 
-#### Simulation-Based Inference for Neuroscience and Beyond
-
  <img src="../../members/JanMatthisLuckmann.jpeg"
      alt="JanMatthisLuckmann"
      width="100"

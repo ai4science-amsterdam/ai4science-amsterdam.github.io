@@ -17,8 +17,6 @@ header:
 ---
 
 
-#### Probabilistic Programming in Scientific Simulators
-
  <img src="../../members/AtilimBayden.jpeg"
      alt="AtilimBayden"
      width="100"

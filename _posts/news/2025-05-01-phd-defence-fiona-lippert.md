@@ -25,9 +25,10 @@ Fiona Lippert will defend her thesis *From weather radars to bird migration flux
 Supervisor: Dr. P.D. Forré and Dr. ir. E.E. van Loon. Co-supervisors: Prof. dr. ir. A.G. Hoekstra and Dr. Rer. Nat. B. Kranstauber.
 
 {% include alert info='
-<li>Date: 5 June 2025
-<li>Time: 16:00 hr
-<li>Location: <a href="https://ivi.uva.nl/shared/locaties/en/binnenstad/agnietenkapel.html">Agnietenkapel</a>' %}
+* Date: 5 June 2025
+* Time: 16:00 hr
+* Location: <a href="https://ivi.uva.nl/shared/locaties/en/binnenstad/agnietenkapel.html">Agnietenkapel</a>'
+%}
 
 
 

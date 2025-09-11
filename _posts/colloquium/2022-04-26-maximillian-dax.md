@@ -17,9 +17,7 @@ header:
 ---
 
 
-#### Title:Real-Time Gravitational Wave Science with Neural Posterior Estimation
-
-Date: 26-04-2022 11:00-1200 Central European Summer time
+Time: 11:00-1200 Central European Summer time
 
 
  <img src="../../members/MaximilianDax.jpeg"

@@ -17,7 +17,6 @@ header:
 ---
 
 
-#### A unified theory of atom cloud representations for machine learning
 
 Date: 05-07-2022 14:00-1500 Central European Summer time
 

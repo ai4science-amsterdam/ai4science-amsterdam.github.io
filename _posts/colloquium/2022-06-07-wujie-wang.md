@@ -17,9 +17,7 @@ header:
 ---
 
 
-#### Generative Coarse-Graining of Molecular Conformations
-
-Date: 07-06-2022 14:00-1500 Central European Summer time
+Time: 14:00-1500 Central European Summer time
 
 
  <img src="../../members/WujieWang.jpeg"

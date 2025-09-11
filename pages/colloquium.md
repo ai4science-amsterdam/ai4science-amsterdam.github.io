@@ -54,7 +54,7 @@ DFT and machine learned density functionals.
 
 <div id="blog-index" class="row">
 	<div class="small-12 columns t30">
-	  <h2>Previous colloquia</h2>
+	  <h2 id="archive">Previous colloquia</h2>
 	  <p>Click on the items below for further details.</p>
 		<dl class="accordion" data-accordion>
 			{% assign counter = 1 %}
@@ -64,7 +64,7 @@ DFT and machine learned density functionals.
 			<a href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a>
 				<div id="panel{{ counter }}" class="content">
 					{% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
-					<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
+					<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><br><strong>{{ site.data.language.read_more }}</strong></a><br><br>
 				</div>
 			</dd>
 			{% assign counter=counter | plus:1 %}

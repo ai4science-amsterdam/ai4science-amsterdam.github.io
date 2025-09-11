@@ -1,0 +1,17 @@
+I"+<p><img src="../../members/MartinVanHecke.jpeg" alt="MartinVanHecke" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>Speaker: <strong>Martin van Hecke</strong>, Leiden University</p>
+
+<p><strong>Abstract:</strong> <br /></p>
+
+<p>Combinatorial problems arising in puzzles, origami, and (meta)material design have rare sets of
+solutions, which define complex and sharply delineated boundaries in configuration space. These
+boundaries are difficult to capture with conventional statistical and numerical methods. Here we
+show that convolutional neural networks can learn to recognize these boundaries, down to finest de-
+tail, despite using heavily undersampled training sets, and can successfully generalize. This suggests
+that the network infers the underlying combinatorial rules from the sparse training set, opening up
+new possibilities for complex design of (meta)materials.</p>
+
+<p><a class="radius button small" href="https://drive.google.com/file/d/1PryMUuxAw09Flpfa9J0Z7m4cQexa3Q5G/view?usp=sharing">Watch Back ›</a></p>
+
+:ET

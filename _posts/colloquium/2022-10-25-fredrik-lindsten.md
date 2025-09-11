@@ -17,8 +17,6 @@ header:
 ---
 
 
-#### Deep Gaussian Markov Random Fields
-
 Date: 25-10-2022 14:00-1500 Central European Summer time
 
  <img src="../../members/FredrikLindsten.png"

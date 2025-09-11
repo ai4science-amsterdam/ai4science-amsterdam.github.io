@@ -17,9 +17,7 @@ header:
 ---
 
 
-#### Harnessing artificial intelligence for de novo drug design
-
-Date: 24-05-2022 14:00-1500 Central European Summer time
+Time: 14:00-1500 Central European Summer time
 
 
  <img src="../../members/FrancescaGrisoni.jpeg"

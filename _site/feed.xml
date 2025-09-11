@@ -1,38 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://ai4science-amsterdam.github.io//assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="https://ai4science-amsterdam.github.io//assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="http://127.0.0.1:4000//assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://127.0.0.1:4000//assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>AI4Science Lab</title>
 		<description>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</description>
-		<link>https://ai4science-amsterdam.github.io//</link>
-		<atom:link href="https://ai4science-amsterdam.github.io//feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://127.0.0.1:4000//</link>
+		<atom:link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>ChemAI registration now open!</title>
-				<link>https://ai4science-amsterdam.github.io//news/ChemAI-registration-open/</link>
+				<link>http://127.0.0.1:4000//news/ChemAI-registration-open/</link>
 				<pubDate>Fri, 11 Jul 2025 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;img src=&quot;../../members/ChristophWeniger.jpg&quot; alt=&quot;Cong Liu&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
+				<description>&lt;p&gt;&lt;img src=&quot;../../images/chem_ai_2025.jpg&quot; alt=&quot;ChemAI logo&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;A lecture series on &lt;em&gt;machine learning in physics&lt;/em&gt; is organised by &lt;a href=&quot;https://www.uva.nl/en/profile/w/e/c.weniger/c.weniger.html&quot;&gt;Dr. Christoph Weniger&lt;/a&gt; focused on such topics as equivariant neural networks, simulation-based inference, and transformers. Each event is scheduled for 90 minutes, in which the first 60 minutes will feature local or national speakers introducing a topic, followed by short talks from MSc/PhD students or postdocs on related applications. The final 30 minutes will be an optional crash course on how to use the presented techniques in practice, using Google Colab notebooks.&lt;/p&gt;
+&lt;p&gt;For the third time, we are organising together with &lt;a href=&quot;https://www.acnetwork.nl&quot;&gt;ACN&lt;/a&gt;, &lt;a href=&quot;https://www.ti-coast.com&quot;&gt;COAST&lt;/a&gt;, and &lt;a href=&quot;https://www.amsterdamai.com/en/&quot;&gt;AmsterdamAI&lt;/a&gt; 
+the annual &lt;a href=&quot;https://www.acnetwork.nl/chemai&quot;&gt;ChemAI Event&lt;/a&gt;! The program is again packed with captivating presentations 
+from world-leading experts, discussion and poster sessions, pitches at our fashionshow, 
+and ample room for networking with our ca. 300 participants from academia and industry.&lt;/p&gt;
+
+&lt;p&gt;Keynotes from global leaders in AI and materials science include:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Prof. Christopher Bishop (Microsoft Research) on the “fifth paradigm for science”&lt;/li&gt;
+  &lt;li&gt;Prof. Juan de Pablo (NYU) on materials and molecular modelling&lt;/li&gt;
+  &lt;li&gt;Prof. Cecilia Clementi (FU Berlin) on biomolecular dynamics and AI&lt;/li&gt;
+  &lt;li&gt;Dr. Ewa Gajewska (Merck) on retrosynthesis software&lt;/li&gt;
+  &lt;li&gt;Dr. Sam Cooper (Imperial College London) on AI for energy storage and materials&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;div class=&quot;alert-box info &quot;&gt;
-&lt;li&gt;Date: Friday 4 July 2025
-&lt;li&gt;Time: 15:00 hr
-&lt;li&gt;Location: Science Park, room tba
-&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;Date: Friday 21 November 2025&lt;/li&gt;
+  &lt;li&gt;Location: Hotel CASA in Amsterdam&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://indico.nikhef.nl/category/120/&quot;&gt;AI4Physics website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For further details on ChemAI and registration go to the ChemAI webpage:&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://www.acnetwork.nl/chemai&quot;&gt;ChemAI website&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//news/ChemAI-registration-open/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//news/ChemAI-registration-open/</guid>
 			</item>
 		
 			<item>
 				<title>Electro-catalysis</title>
-				<link>https://ai4science-amsterdam.github.io//research/abhay-nagaraj1/</link>
+				<link>http://127.0.0.1:4000//research/abhay-nagaraj1/</link>
 				<pubDate>Wed, 25 Jun 2025 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../members/AbhayNagaraj.jpg&quot; alt=&quot;Abhay Nagaraj&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
@@ -47,12 +61,12 @@ We develop and use machine learning techniques to discover patterns in data stre
 &lt;p&gt;Working with &lt;a href=&quot;https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing/&quot;&gt;Bernd Ensing&lt;/a&gt; and the &lt;a href=&quot;https://anion.nl&quot;&gt;ANION Consortium&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//research/abhay-nagaraj1/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//research/abhay-nagaraj1/</guid>
 			</item>
 		
 			<item>
 				<title>Nitrogen Fixation</title>
-				<link>https://ai4science-amsterdam.github.io//research/matilde-mercuri1/</link>
+				<link>http://127.0.0.1:4000//research/matilde-mercuri1/</link>
 				<pubDate>Mon, 23 Jun 2025 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../members/MatildeMercuri.jpg&quot; alt=&quot;Matilde Mercuri&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
@@ -69,21 +83,22 @@ We develop and use machine learning techniques to discover patterns in data stre
 &lt;p&gt;Joint work with &lt;a href=&quot;https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing/&quot;&gt;Bernd Ensing&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//research/matilde-mercuri1/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//research/matilde-mercuri1/</guid>
 			</item>
 		
 			<item>
 				<title>AI4Science get together</title>
-				<link>https://ai4science-amsterdam.github.io//news/Get-Together/</link>
+				<link>http://127.0.0.1:4000//news/Get-Together/</link>
 				<pubDate>Wed, 04 Jun 2025 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;AI4Science is organising an informaal meeting for all its members and friends to 
 get to know each other and hear about the various AI4Science-related research directions.&lt;/p&gt;
 
 &lt;div class=&quot;alert-box info &quot;&gt;
-&lt;li&gt;Date: Friday 4 July 2025
-&lt;li&gt;Time: 15:00 hr
-&lt;li&gt;Location: Science Park, room tba
-&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;Date: Friday 4 July 2025&lt;/li&gt;
+  &lt;li&gt;Time: 15:00 hr&lt;/li&gt;
+  &lt;li&gt;Location: Science Park, room tba&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 
 &lt;p&gt;The first hour of this networking event will consist of short (5 minute) research presentations by
@@ -91,12 +106,12 @@ our (junior) members. This is followed by drinks and snacks.
 Details on registration, signing up for a presentation, and information on the location will follow shortly.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//news/Get-Together/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//news/Get-Together/</guid>
 			</item>
 		
 			<item>
 				<title>AI4Physics lecture series</title>
-				<link>https://ai4science-amsterdam.github.io//news/AI4Physics-lectures/</link>
+				<link>http://127.0.0.1:4000//news/AI4Physics-lectures/</link>
 				<pubDate>Thu, 15 May 2025 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../members/ChristophWeniger.jpg&quot; alt=&quot;Cong Liu&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
@@ -138,12 +153,12 @@ Details on registration, signing up for a presentation, and information on the l
 &lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://indico.nikhef.nl/category/120/&quot;&gt;AI4Physics website&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//news/AI4Physics-lectures/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//news/AI4Physics-lectures/</guid>
 			</item>
 		
 			<item>
 				<title>PhD defence of David Ruhe</title>
-				<link>https://ai4science-amsterdam.github.io//news/phd-defence-david-ruhe/</link>
+				<link>http://127.0.0.1:4000//news/phd-defence-david-ruhe/</link>
 				<pubDate>Tue, 13 May 2025 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../members/DavidRuhe.jpg&quot; alt=&quot;David Ruhe&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
@@ -151,10 +166,11 @@ Details on registration, signing up for a presentation, and information on the l
 Supervisors: Dr. P.D. Forré and Prof. dr. R.A.M.J. Wijers. Co-supervisors: Dr. B.A. Rowlinson and Prof. dr. M. Welling.&lt;/p&gt;
 
 &lt;div class=&quot;alert-box info &quot;&gt;
-&lt;li&gt;Date: 12 June 2025
-&lt;li&gt;Time: 13:00 hr
-&lt;li&gt;Location: &lt;a href=&quot;https://ivi.uva.nl/shared/locaties/en/binnenstad/agnietenkapel.html&quot;&gt;Agnietenkapel&lt;/a&gt;
-&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;Date: 12 June 2025&lt;/li&gt;
+  &lt;li&gt;Time: 13:00 hr&lt;/li&gt;
+  &lt;li&gt;Location: &lt;a href=&quot;https://ivi.uva.nl/shared/locaties/en/binnenstad/agnietenkapel.html&quot;&gt;Agnietenkapel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 
 &lt;h4 id=&quot;phd-thesis-summary&quot;&gt;PhD thesis summary&lt;/h4&gt;
@@ -176,12 +192,12 @@ Supervisors: Dr. P.D. Forré and Prof. dr. R.A.M.J. Wijers. Co-supervisors: Dr. 
 &lt;p&gt;Finally, we explore using normalizing flows to infer gravitational wave parameters from the noisy data of the LIGO and Virgo detectors. It is shown that the resulting posterior predictive distributions align well with ex- isting knowledge or simulated ground truth, paving the way for more efficient, accurate, and high-dimensional inference in the future.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//news/phd-defence-david-ruhe/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//news/phd-defence-david-ruhe/</guid>
 			</item>
 		
 			<item>
 				<title>PhD defence of Fiona Lippert</title>
-				<link>https://ai4science-amsterdam.github.io//news/phd-defence-fiona-lippert/</link>
+				<link>http://127.0.0.1:4000//news/phd-defence-fiona-lippert/</link>
 				<pubDate>Thu, 01 May 2025 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../members/FionaLippert.jpg&quot; alt=&quot;Fiona Lippert&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
@@ -189,10 +205,11 @@ Supervisors: Dr. P.D. Forré and Prof. dr. R.A.M.J. Wijers. Co-supervisors: Dr. 
 Supervisor: Dr. P.D. Forré and Dr. ir. E.E. van Loon. Co-supervisors: Prof. dr. ir. A.G. Hoekstra and Dr. Rer. Nat. B. Kranstauber.&lt;/p&gt;
 
 &lt;div class=&quot;alert-box info &quot;&gt;
-&lt;li&gt;Date: 5 June 2025
-&lt;li&gt;Time: 16:00 hr
-&lt;li&gt;Location: &lt;a href=&quot;https://ivi.uva.nl/shared/locaties/en/binnenstad/agnietenkapel.html&quot;&gt;Agnietenkapel&lt;/a&gt;
-&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;Date: 5 June 2025&lt;/li&gt;
+  &lt;li&gt;Time: 16:00 hr&lt;/li&gt;
+  &lt;li&gt;Location: &lt;a href=&quot;https://ivi.uva.nl/shared/locaties/en/binnenstad/agnietenkapel.html&quot;&gt;Agnietenkapel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 
 &lt;h4 id=&quot;phd-thesis-summary&quot;&gt;PhD thesis summary&lt;/h4&gt;
@@ -210,12 +227,12 @@ Supervisor: Dr. P.D. Forré and Dr. ir. E.E. van Loon. Co-supervisors: Prof. dr.
 &lt;p&gt;More broadly, this thesis demonstrates the potential of integrating process knowledge with data-driven machine learning methods to advance the model- ing of complex ecological processes for which both mechanistic understanding and data are limited.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//news/phd-defence-fiona-lippert/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//news/phd-defence-fiona-lippert/</guid>
 			</item>
 		
 			<item>
 				<title>Classical DFT</title>
-				<link>https://ai4science-amsterdam.github.io//research/jacobus-dijkman1/</link>
+				<link>http://127.0.0.1:4000//research/jacobus-dijkman1/</link>
 				<pubDate>Sun, 20 Apr 2025 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../members/JacobusDijkman.jpg&quot; alt=&quot;Jacobus Dijkman&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
@@ -264,12 +281,12 @@ Jan-Willem van de Meent, and Bernd Ensing, &lt;br /&gt;
 &lt;/ol&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//research/jacobus-dijkman1/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//research/jacobus-dijkman1/</guid>
 			</item>
 		
 			<item>
 				<title>Nanoscale Imaging and Metrology</title>
-				<link>https://ai4science-amsterdam.github.io//research/maximilian-lipp1/</link>
+				<link>http://127.0.0.1:4000//research/maximilian-lipp1/</link>
 				<pubDate>Thu, 10 Apr 2025 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../members/MaximilianLipp.jpg&quot; alt=&quot;Maximilian Lipp&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
@@ -301,12 +318,12 @@ for Nanolithography (ARCNL) and ASML, the world leader in the
 production of the lithography machines.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//research/maximilian-lipp1/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//research/maximilian-lipp1/</guid>
 			</item>
 		
 			<item>
 				<title>Protein Stabilization for Vaccine Design</title>
-				<link>https://ai4science-amsterdam.github.io//research/cong-liu1/</link>
+				<link>http://127.0.0.1:4000//research/cong-liu1/</link>
 				<pubDate>Thu, 10 Apr 2025 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;img src=&quot;../../members/CongLiu.jpg&quot; alt=&quot;Cong Liu&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
 
@@ -340,7 +357,7 @@ leading to the help for designing of stable antigens.&lt;/p&gt;
 &lt;p&gt;Joint work with &lt;a href=&quot;http://amlab.science.uva.nl/people/PatrickForre/&quot;&gt;Patrick Forré&lt;/a&gt;,&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://ai4science-amsterdam.github.io//research/cong-liu1/</guid>
+				<guid isPermaLink="true">http://127.0.0.1:4000//research/cong-liu1/</guid>
 			</item>
 		
 	</channel>

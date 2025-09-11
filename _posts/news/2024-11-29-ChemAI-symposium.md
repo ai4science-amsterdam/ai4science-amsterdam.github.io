@@ -22,8 +22,8 @@ Together with the Amsterdam Chemistry Network and TI-COAST, we are organizing th
 
 
 {% include alert info='
-<li>Date:  29 November 2024
-<li>Location:  Lab42 Room L1.01, Science Park, Amsterdam ' %}
+* Date:  29 November 2024
+* Location:  Lab42 Room L1.01, Science Park, Amsterdam ' %}
 
 <a class="radius button small" href="https://www.acnetwork.nl/chemai">Learn More</a>
 

@@ -1,0 +1,16 @@
+I"�<p>Date: 05-07-2022 14:00-1500 Central European Summer time</p>
+
+<p><img src="../../members/MicheleCeriotti.jpeg" alt="MicheleCeriotti.jpeg" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>Speaker: <strong>Michele Ceriotti</strong></p>
+
+<p><strong>Abstract:</strong> <br /></p>
+
+<p>Simulations of matter at the atomic scale are precious to provide a mechanistic understanding of chemical processes, and to design molecules and materials with predictive accuracy. As with many fields of science, machine learning have become an essential part of the modeling toolbox, with many frameworks having become well-established, and many more being developed in new research directions. The most effective frameworks incorporate fundamental physical principles, such as symmetry, locality, and hierarchical decompositions of the interactions between atoms, in the construction of the ML model. I will discuss a general framework that unifies several of the most recent developments in the field, including the representation of structures in terms of systematically-convergent atom-centered correlations of the neighbor density, as well as equivariant message-passing schemes that build automatically descriptors with equivalent information content. I will discuss a few examples of the implications of these fundamental findings, for both chemical machine learning and in general for problems that require a description of three-dimensional objects in terms of point clouds, and present some examples that highlight the limitations of some common approaches and point to strategies to overcome them.</p>
+
+<p><strong>Bio:</strong><br />
+Michele Ceriotti received his Ph.D. in Physics from ETH Zürich. He spent three years in Oxford as a Junior Research Fellow at Merton College. Since 2013 he leads the laboratory for Computational Science and Modeling, in the institute of Materials at EPFL, that focuses on method development for atomistic materials modeling based on statistical mechanics and machine learning.</p>
+
+<p><a class="radius button small" href="https://drive.google.com/file/d/1piVbnetRwbMxMFyVIgoq1cOvAw3BlqBP/view?usp=sharing">Watch Back ›</a></p>
+
+:ET

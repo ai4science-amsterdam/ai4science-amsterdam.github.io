@@ -28,10 +28,12 @@ followed by a panel discussion with our speakers and
 * **Dr. Daniela Huppenkothen**, staff researcher at SRON Netherlands and Data Science fellow at the University of Washington
 * **Prof. Alfons Hoekstra**, scientific director of the new FNWI Molecular and Material Design hub
 
-This event delves into the evolving role of Artificial Intelligence (AI) in scientific research, exploring the intersection of AI with various disciplines, including physics, humanities, social sciences, mathematics, and biology. Participants will gain insights into how AI is transforming the scientific process, from uncovering new research areas to enhancing dissemination of results. The session will also highlight key challenges such as reproducibility, transparency, and interpretation, as well as broader ethical and societal concerns surrounding AI in science. Discussions will cover the impact of AI on science and the science systems. This event offers a comprehensive platform for exploring AI’s potential while addressing the hurdles that come with its integration into scientific practices.{% include alert info='
-<li>Date: 18 October 2024
-<li>Time: 10.30-12.00 hr
-<li>Location: The Atrium in Lab42, Science Park, Amsterdam ' %}
+This event delves into the evolving role of Artificial Intelligence (AI) in scientific research, exploring the intersection of AI with various disciplines, including physics, humanities, social sciences, mathematics, and biology. Participants will gain insights into how AI is transforming the scientific process, from uncovering new research areas to enhancing dissemination of results. The session will also highlight key challenges such as reproducibility, transparency, and interpretation, as well as broader ethical and societal concerns surrounding AI in science. Discussions will cover the impact of AI on science and the science systems. This event offers a comprehensive platform for exploring AI’s potential while addressing the hurdles that come with its integration into scientific practices.
+
+{% include alert info='
+* Date: 18 October 2024
+* Time: 10.30-12.00 hr
+* Location: The Atrium in Lab42, Science Park, Amsterdam ' %}
 
 Organised in collaboration with the AI4Science Lab, this event is part of the UvA Data Science Day. Throughout the day, you can attend presentations and workshops on data science and AI at various UvA campus locations. You can register for this session only, or choose more sessions that interest you and create your ideal programme!
 

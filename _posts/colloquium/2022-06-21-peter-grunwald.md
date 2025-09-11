@@ -17,9 +17,7 @@ header:
 ---
 
 
-#### E is the New P: Evidence and Optional Continuation
-
-Date: 21-06-2022 14:00-1500 Central European Summer time
+Time: 14:00-1500 Central European Summer time
 
 
  <img src="../../members/PeterGrunwald.jpeg"

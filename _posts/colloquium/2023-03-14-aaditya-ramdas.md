@@ -17,8 +17,6 @@ header:
 ---
 
 
-#### Conformal prediction under distribution shift
-
 Date: 14-03-2023 14:00-1500 Central European Winter time
 
  <img src="../../members/AadityaRamdas.png"

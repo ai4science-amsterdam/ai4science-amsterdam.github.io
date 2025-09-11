@@ -1,0 +1,14 @@
+I"�<p>Time: 14:00-1500 Central European Summer time</p>
+
+<p><img src="../../members/PeterGrunwald.jpeg" alt="PeterGrunwald.jpeg" width="100" style="float: right; margin-right: 10px; border-radius:50%;" /></p>
+
+<p>Speaker: <strong>Peter Grünwald</strong>, CWI</p>
+
+<p><strong>Abstract:</strong> <br /></p>
+
+<p>How much evidence do the data give us about one hypothesis versus another? The standard way to measure evidence is still the p-value, despite a myriad of problems surrounding it. We present the E-value, a recently popularized notion of evidence which overcomes some of these issues. While E-values have lain dormant until 2019, their use has recenty exploded - we just had a one-week workshop (‘SAVI’ - safe anytime-valid inference) with attendees from netflix, booking (A/B testing), clinical trial design and meta-analysis.
+In simple cases, the E-value coincides with the Bayes factor, the notion of evidence preferred by Bayesians. But if the null is composite or nonparametric, or an alternative cannot be explicitly formulated, E-values and Bayes factors become distinct. Unlike the Bayes factor, E-values allow for tests with strict ‘ classical’ Type-I error control under optional continuation and combination of data from different sources. They are also the basic building blocks of anytime-valid confidence intervals that remain valid under optional stopping.</p>
+
+<p>Note: this meeting was performed in person and was not recorded.</p>
+
+:ET

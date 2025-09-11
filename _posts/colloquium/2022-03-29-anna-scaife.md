@@ -16,11 +16,6 @@ header:
    # caption_url: https://unsplash.com/
 ---
 
-#### Catalogue curation, likelihood misspecification and dataset shift: challenges for Bayesian deep-learning in radio astronomy
-
-Date: 29-03-2022 14:00-1500 Central European Summer time
-
-
  <img src="../../members/AnnaScaife.jpeg"
      alt="AnnaScaife"
      width="100"

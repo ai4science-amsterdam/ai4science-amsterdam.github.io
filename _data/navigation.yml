@@ -38,11 +38,11 @@
   side: right
   dropdown:
   - title: "Meetings"
-    url: "/events/"
+    url: "/events/#meetings"
   - title: "Colloquia"
-    url: "/colloquium/"
+    url: "/events/#colloquium"
   - title: "News and Events Archive"
-    url: "/events/"
+    url: "/events/#archive"
 
 - title: "Publications"
   url: "/publications/"

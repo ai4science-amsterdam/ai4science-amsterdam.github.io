@@ -25,9 +25,9 @@ David Ruhe will defend his thesis *Structured Deep Learning with Applications in
 Supervisors: Dr. P.D. Forré and Prof. dr. R.A.M.J. Wijers. Co-supervisors: Dr. B.A. Rowlinson and Prof. dr. M. Welling.
 
 {% include alert info='
-<li>Date: 12 June 2025
-<li>Time: 13:00 hr
-<li>Location: <a href="https://ivi.uva.nl/shared/locaties/en/binnenstad/agnietenkapel.html">Agnietenkapel</a>' %}
+* Date: 12 June 2025
+* Time: 13:00 hr
+* Location: <a href="https://ivi.uva.nl/shared/locaties/en/binnenstad/agnietenkapel.html">Agnietenkapel</a>' %}
 
 
 

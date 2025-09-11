@@ -22,9 +22,10 @@ Promotors: Dr. B. Ensing and Prof. dr. A.G. Hoekstra; co-promotors and daily sup
 and Dr. B.W.J. Pirok.
 
 {% include alert info='
-<li>Date: 8 Novermber 2024
-<li>Time: 13:00 hr
-<li>Location: <a href="https://ivi.uva.nl/shared/locaties/en/binnenstad/agnietenkapel.html">Agnietenkapel</a>' %}
+* Date: 8 Novermber 2024
+* Time: 13:00 hr
+* Location: <a href="https://ivi.uva.nl/shared/locaties/en/binnenstad/agnietenkapel.html">Agnietenkapel</a>'
+%}
 
 
 

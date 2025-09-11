@@ -16,11 +16,6 @@ header:
    # caption_url: https://unsplash.com/
 ---
 
-#### Title: On the use of Bayesian statistics for chromatography and mass spectrometry: dealing with big data
-
-Date: 12-04-2022 11:00-1200 Central European Summer time
-
-
  <img src="../../members/GabrielVivoTruyols.jpeg"
      alt="GabrielVivoTruyols"
      width="100"
