@@ -26,8 +26,17 @@
   side: right
 
 - title: "Education"
-  url: "/education.html"
+  url: "/education/"
   side: right
+  dropdown:
+  - title: "Bachelor courses"
+    url: "/education/#bachelor"
+  - title: "Master courses"
+    url: "/education/#master"
+  - title: "Student Research Projects"
+    url: "/education/#projects"
+  - title: "For UvA teachers"
+    url: "/education/#teachers"
 
 - title: "Members"
   url: "/members/"

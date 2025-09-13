@@ -36,8 +36,9 @@ format: post
 		{% endif %}
             </header>
 
+            {% if page.alert.supervisor or page.alert.institute or page.alert.email or page.alert.website %}{% assign info = "<ul>" %}{% endif %}
 	    {% if page.alert.supervisor %}
-		{% assign info = "<li>Superviser: " | append: page.alert.supervisor %}
+		{% assign info = info | append: "<li>Superviser: " | append: page.alert.supervisor %}
 	    {% endif %}
 	    {% if page.alert.institute %}
 	        {% assign info = info | append: "<li>Institute: " | append: page.alert.institute %}
@@ -46,7 +47,7 @@ format: post
 		{% assign info = info | append: '<li><a href="mailto:' | append: page.alert.email | append: '">Send email</a>'%}
 	    {% endif %}
 	    {% if page.alert.website %}
-		{% assign info = info | append: '<li><a href="' | append: page.alert.website | append: '">Website</a>'%}
+		{% assign info = info | append: '<li><a href="' | append: page.alert.website | append: '">Website</a></li>'%}
 	    {% endif %}
 	    {% include alert info=info %}
 	    
