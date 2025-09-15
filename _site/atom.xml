@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://127.0.0.1:4000//</id>
 	<title>AI4Science Lab</title>
-	<updated>2025-09-13T10:40:57+02:00</updated>
+	<updated>2025-09-15T10:44:13+02:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -25,6 +25,65 @@ We develop and use machine learning techniques to discover patterns in data stre
 
 	<generator uri="http://jekyllrb.com" version="4.2.0">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://127.0.0.1:4000//student/bernd-ensing-masterproject2/</id>
+			<title>Synthetic jet fuel</title>
+			<link href="http://127.0.0.1:4000//student/bernd-ensing-masterproject2/" rel="alternate" type="text/html" title="Synthetic jet fuel" />
+			<updated>2025-09-12T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>GenAI for synthetic fuel catalysis</summary>
+			<content type="html" xml:base="http://127.0.0.1:4000//student/bernd-ensing-masterproject2/">&lt;p&gt;Aviation accounts for approximately 2.5% of human-made global CO&lt;sub&gt;2&lt;/sub&gt;
+emissions, and the road towards fully electrification of airplane
+transport seems particularly long. A significant intermediate step towards our
+aim to avoid fosil fuels would be to use synthetic jet fuels produced
+from more sustainable sources.&lt;/p&gt;
+
+&lt;p&gt;In the Computational Chemistry, we combine quantum chemical
+simulations with machine learning and generative AI models, such as
+language models and denoising diffusion models, to help with the
+design of improved materials and molecules. In this master project, we
+will focus on improving the chemical process of synthetic jet fuel
+production, which starts from conversion of CO&lt;sub&gt;2&lt;/sub&gt; to
+methanol, which is then further converted into longer olefin
+molecules, and finally into synthetic kerosine. In particular, you
+will further develop, condition, and apply a molecular diffusion model
+to generate catalyst materials for olefin polymerisation with improved
+yield and selectivity, using data from quantum chemical calculations.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images//ai4smm_student_project1.png&quot; alt=&quot;Student Project&quot; title=&quot;Title&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This research project is part of a collaborative research line with
+NERA / Maeve Aerospace, a startup company focused on sustainable
+aviation, and researchers from the TU Delft and TU
+Twente.&lt;/p&gt;
+
+&lt;h3 id=&quot;supervision&quot;&gt;Supervision:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bernd Ensing (HIMS)&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="student" />
+			
+			
+				<category term="master ensing 2025" />
+			
+
+			<published>2025-09-12T00:00:00+02:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//news/ChemAI-registration-open/</id>
@@ -522,66 +581,6 @@ production of the lithography machines.&lt;/p&gt;
 			
 			
 				<category term="maximilian  2025" />
-			
-
-			<published>2025-04-10T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://127.0.0.1:4000//research/cong-liu1/</id>
-			<title>Protein Stabilization for Vaccine Design</title>
-			<link href="http://127.0.0.1:4000//research/cong-liu1/" rel="alternate" type="text/html" title="Protein Stabilization for Vaccine Design" />
-			<updated>2025-04-10T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>{&quot;image&quot;=&gt;&quot;author_congliu.jpg&quot;, &quot;name&quot;=&gt;&quot;Cong Liu&quot;, &quot;function&quot;=&gt;&quot;PhD candidate&quot;, &quot;room&quot;=&gt;&quot;Lab42, L4.07&quot;, &quot;contact&quot;=&gt;&quot;c.liu4@uva.nl&quot;, &quot;institute&quot;=&gt;&quot;IvI&quot;, &quot;group&quot;=&gt;&quot;AMLab&quot;, &quot;text&quot;=&gt;&quot;I am a Ph.D. student at Amsterdam Machine Learning Lab (AMLab) and AI4Science Lab. I collaborate my PhD project with Janssen. My research focuses on using deep-learning-based models (e.g. graph neural networks) to design stable mutated proteins for vaccine research &amp; design.&quot;, &quot;site1&quot;=&gt;&quot;Homepage&quot;, &quot;url1&quot;=&gt;&quot;https://congliuuva.github.io&quot;, &quot;site2&quot;=&gt;&quot;AMLab&quot;, &quot;url2&quot;=&gt;&quot;http://amlab.science.uva.nl/people/CongLiu/&quot;, &quot;site3&quot;=&gt;&quot;Google Scholar&quot;, &quot;url3&quot;=&gt;&quot;https://scholar.google.com/citations?user=dBCwoZgAAAAJ&amp;hl=en&quot;, &quot;site4&quot;=&gt;&quot;LinkIn&quot;, &quot;url4&quot;=&gt;&quot;https://www.linkedin.com/in/cong-liu-8468b7190/?locale=en_US&quot;}</name>
-					
-					
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://127.0.0.1:4000//research/cong-liu1/">&lt;p&gt;&lt;img src=&quot;../../members/CongLiu.jpg&quot; alt=&quot;Cong Liu&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;PhD research of &lt;strong&gt;Cong Liu&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Highly contagious viruses, such as SARS-CoV-2, can have a negative
-impact on the health of people and the stability of social
-resources. Vaccines are an effective means of stopping the widespread
-spread of viruses in the population by giving people immunity to a
-particular virus, thereby stopping them from spreading the virus and
-protecting those at risk of being infected. One of the core aspects of
-vaccine development is the development of antigens. One of the ways in
-which antigens are developed is by mutating one/some of the amino
-acids in the antigen, thus making the antigen stable, which in turn
-triggers an immune response and the production of a large number of
-antibodies. Among the methods for finding a viable antigen, the
-structural based approach has worked well and is widely used. However,
-their success rate for single point variants is only 5% to 10%. As a
-result, it can take a considerable amount of time to design a stable
-antigen that is feasible with multiple variants. Thanks to the large
-amount of available protein structure/sequence data, deep
-learning-based approaches have recently achieved unprecedented success
-in research for proteins, e.g. protein property prediction and protein
-structure prediction. In this project, our goal is to apply the
-cutting-edge deep learning methods (e.g. Graph Neural Networks,
-Transformers, Equivariant Neural Networks, AlphaFold2 etc…) to model
-our problems. Allowing the model to suggest variant sites and variant
-amino acids for antigens with correspondingly predicted stabilities,
-leading to the help for designing of stable antigens.&lt;/p&gt;
-
-&lt;p&gt;Joint work with &lt;a href=&quot;http://amlab.science.uva.nl/people/PatrickForre/&quot;&gt;Patrick Forré&lt;/a&gt;,&lt;/p&gt;
-
-</content>
-
-			
-				<category term="research" />
-			
-			
-				<category term="liu forre 2025" />
 			
 
 			<published>2025-04-10T00:00:00+02:00</published>
