@@ -5,7 +5,7 @@ header:
     background-color: "#bacee6"
     image: banner_education.png
 # title: Master Research Projects
-permalink: "/education"
+permalink: "/education/"
 
 bachelor1:
   title: "Data Science for Chemistry"
