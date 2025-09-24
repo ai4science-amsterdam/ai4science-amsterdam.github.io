@@ -10,6 +10,52 @@ We develop and use machine learning techniques to discover patterns in data stre
 		<atom:link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>ChemAI Week</title>
+				<link>http://127.0.0.1:4000//news/chemai-week/</link>
+				<pubDate>Tue, 16 Sep 2025 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;From Monday, November 17th until Friday, November 21st, the Amsterdam Chemistry Network (ACN), Amsterdam AI4Science, and TI-COAST, will host several interesting ChemAI satellite events, such as courses and webinars, on the topic of artificial intelligence and chemistry, culminating in the third ChemAI Symposium on the Friday afternoon.
+Additionally, the ChemAI week is followed by a Lorentz Center Workshop AI for Secure, Safe, and Sustainable Molecules and Materials (AI4S3M2) on 24 - 28 November 2025.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;ChemAI Weekday&lt;/th&gt;
+      &lt;th&gt;What’s happening&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Monday, 25 November&lt;/td&gt;
+      &lt;td&gt;• 11:00 - 12:00 hr: &lt;em&gt;From Contemporary Computational Chemistry to Future Methods of Application&lt;/em&gt; &lt;br /&gt; Research lecture  by &lt;a href=&quot;https://pollicegroup.web.rug.nl/rob.html&quot;&gt;Robert Pollice&lt;/a&gt; in room SP C0.110.&lt;br /&gt;• 15:00 - 17:00 hr: &lt;em&gt;Elements of Artificial Intelligence – a Crash Course on Machine Learning for Chemists&lt;/em&gt; &lt;br /&gt;  hybrid meeting (&lt;a href=&quot;https://uva-live.zoom.us/j/83171698695?pwd=o6md59A7PGTeiEENDaTKXxwbvPDwjM.1&quot;&gt;zoom link&lt;/a&gt;) at Science Park Room H0.08 and online by &lt;a href=&quot;https://www.uva.nl/en/profile/e/n/b.ensing/b.ensing.html&quot;&gt;Bernd Ensing&lt;/a&gt; and &lt;a href=&quot;https://pollicegroup.web.rug.nl/rob.html&quot;&gt;Robert Pollice&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tuesday, 26 November&lt;/td&gt;
+      &lt;td&gt;• 15:00 - 16:00 hr: &lt;em&gt;Harnessing Deep Learning for Drug Discovery: Challenges and Opportunities&lt;/em&gt; &lt;br /&gt;   AI4Science/CSM seminar by &lt;a href=&quot;https://www.tue.nl/en/research/researchers/francesca-grisoni&quot;&gt;Francesca Grisoni&lt;/a&gt; in Science Park 904, Room C4.174 or online (&lt;a href=&quot;https://uva-live.zoom.us/j/84061474557?pwd=7aWyao3iql5pdvNLtia7YpUTIj80wG.1&quot;&gt;meeting link&lt;/a&gt;)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wednesday,  27 November&lt;/td&gt;
+      &lt;td&gt;• 14:00 - 15:00 hr: &lt;em&gt;Machine Learning Acceleration of Electronic Structure Calculations&lt;/em&gt; &lt;br /&gt;  Lecture by &lt;a href=&quot;https://english.hi.is/staff/hj&quot;&gt;Hannes Jonsson&lt;/a&gt; in Science Park 906 room C0.110 &lt;br /&gt; • 15:00 - 16:30 hr: &lt;em&gt;Unlocking Data in the Cambridge Structural Database for Functional Materials Innovation&lt;/em&gt; &lt;br /&gt;  Online workshop by &lt;a href=&quot;https://www.linkedin.com/in/andrew-peel-a1796a1b5/&quot;&gt;Dr. Andrew Peel&lt;/a&gt; of the Cambridge Crystallographic Data Centre (&lt;a href=&quot;https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTUwMDhkZDYtMzY3YS00OTQ5LWI2ZTYtNGNkZTY5YTE0NzQw%40thread.v2/0?context=%7b%22Tid%22%3a%2289fb78ed-acde-4511-b499-33666ca216b4%22%2c%22Oid%22%3a%224699b81f-8040-4055-99e1-ee341e64dbb1%22%7d&quot;&gt;meeting link&lt;/a&gt;)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Thursday,  28 November&lt;/td&gt;
+      &lt;td&gt;• 10:00 - 12:00 hr: &lt;em&gt;Get Hands-On with Open Multi-Modal Foundational Models for Materials and Chemistry&lt;/em&gt; &lt;br /&gt;  Online workshop by &lt;a href=&quot;https://www.linkedin.com/in/seiji-takeda-346a2716/?originalSubdomain=jp&quot;&gt;Dr. Seiji Takeda&lt;/a&gt; and &lt;a href=&quot;https://research.ibm.com/people/indra-priyadarsini-s&quot;&gt;Dr. Indra Priyadarsini&lt;/a&gt; of IBM Research (&lt;a href=&quot;https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTAwZjJiMWUtZTY0NS00MmMyLWEwNGEtZjIzOWUwYjI3Mzc2%40thread.v2/0?context=%7b%22Tid%22%3a%22fcf67057-50c9-4ad4-98f3-ffca64add9e9%22%2c%22Oid%22%3a%220627e681-cf4d-4c1c-aeb6-b127f648ec80%22%7d&quot;&gt;meeting link&lt;/a&gt;)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Friday, 29 November&lt;/td&gt;
+      &lt;td&gt;• Lab tours at Science Park &lt;br /&gt;•  &lt;a href=&quot;https://www.acnetwork.nl/chemai&quot;&gt;ChemAI Symposium&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Monday, 2 December&lt;/td&gt;
+      &lt;td&gt;• 15:00 – 18:30 &lt;em&gt;The Future of Pharma is Active Learning&lt;/em&gt; &lt;br /&gt;  &lt;a href=&quot;https://www.active-learning.uk/&quot;&gt;Online symposium&lt;/a&gt; hosted by Jakob Zeitler (Matterhorn Studio/UCL) with speakers from Novo Nordisk, Bayer, Merck, Exscientia, and more (&lt;a href=&quot;https://www.active-learning.uk/&quot;&gt;further information&lt;/a&gt;).&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+				<guid isPermaLink="true">http://127.0.0.1:4000//news/chemai-week/</guid>
+			</item>
+		
+			<item>
 				<title>Synthetic jet fuel</title>
 				<link>http://127.0.0.1:4000//student/bernd-ensing-masterproject2/</link>
 				<pubDate>Fri, 12 Sep 2025 00:00:00 +0200</pubDate>
@@ -320,43 +366,6 @@ Jan-Willem van de Meent, and Bernd Ensing, &lt;br /&gt;
 
 </description>
 				<guid isPermaLink="true">http://127.0.0.1:4000//research/jacobus-dijkman1/</guid>
-			</item>
-		
-			<item>
-				<title>Nanoscale Imaging and Metrology</title>
-				<link>http://127.0.0.1:4000//research/maximilian-lipp1/</link>
-				<pubDate>Thu, 10 Apr 2025 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;img src=&quot;../../members/MaximilianLipp.jpg&quot; alt=&quot;Maximilian Lipp&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;PhD research of &lt;strong&gt;Maximilian Lipp&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The ever-increasing computational power and ever-shrinking size of
-electronic devices have been enabled by rapid developments in optical
-lithography and the micro-electronics industry. State-of-the-art
-processors require reliable and fast nanoscale engineering methods
-with high production efficiency. The widespread access to
-computational power has already made a big impact on our daily
-lives. New future applications like VR, AR or AI technologies require
-even smaller and more powerful hardware. However, keeping up with the
-aggressive reduction of the semiconductor device feature sizes is a
-challenging task.&lt;/p&gt;
-
-&lt;p&gt;In this project, we will explore deep learning and Bayesian
-optimization techniques to push the boundaries of compact
-semiconductor metrology tools. Label-free optical imaging methods with
-a spatial resolution beyond the Abbe diffraction limit and a temporal
-resolution beyond the Nyquist limit are being developed to
-characterize multi-layer nanostructures. Several modern research areas
-such as computational imaging and compressive sensing are connected
-with cutting-edge Machine Learning tools to develop new methods of
-nanoscale imaging and metrology for the semiconductor industry. The
-project is running in collaboration with &lt;a href=&quot;http://amlab.science.uva.nl/people/PatrickForre/&quot;&gt;Patrick Forré&lt;/a&gt; of AMLab
-and the Advanced Research Center
-for Nanolithography (ARCNL) and ASML, the world leader in the
-production of the lithography machines.&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">http://127.0.0.1:4000//research/maximilian-lipp1/</guid>
 			</item>
 		
 	</channel>

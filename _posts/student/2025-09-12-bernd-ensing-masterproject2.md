@@ -51,8 +51,8 @@ yield and selectivity, using data from quantum chemical calculations.
 ![Student Project](../../images//ai4smm_student_project1.png "Title")
 
 This research project is part of a collaborative research line with
-NERA / Maeve Aerospace, a startup company focused on sustainable
-aviation, and researchers from the TU Delft and TU
+NERA, a startup company focused on developing sustainable
+aviation fuel, and researchers from the TU Delft and TU
 Twente.
 
 
