@@ -16,10 +16,7 @@ header:
    # caption_url: https://unsplash.com/
 ---
 
-Following last year's success, we are organising again various satelite events in the week 
-preceding the [ChemAI Symposium][1] on Friday November 21st.  From Monday to Friday, 17 - 19 November, 
-the Amsterdam Chemistry Network (ACN), Amsterdam AI4Science, and TI-COAST, will host various lectures,
-courses, and webinars on the topic of artificial intelligence for chemistry.
+From Monday, November 17th until Friday, November 21st, the Amsterdam Chemistry Network (ACN), Amsterdam AI4Science, and TI-COAST, will host several interesting ChemAI satellite events, such as courses and webinars, on the topic of artificial intelligence and chemistry, culminating in the third ChemAI Symposium on the Friday afternoon.
 
 Below is a schedule of the ChemAI Week. **To register** for any of these events go the [this website][2].
 
@@ -40,3 +37,4 @@ In addition, the ChemAI week is followed by a Lorentz Center Workshop [*AI for S
 [1]: https://www.acnetwork.nl/chemai
 [2]: https://www.eventbrite.nl/e/chemai-25-satellite-events-tickets-1343878539889?aff=ebdsoporgprofile
 [3]: https://www.lorentzcenter.nl/ai-for-secure-safe-and-sustainable-molecules-and-materials-ai4s3m2.html
+

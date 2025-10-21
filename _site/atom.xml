@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://127.0.0.1:4000//</id>
 	<title>AI4Science Lab</title>
-	<updated>2025-10-21T12:09:15+02:00</updated>
+	<updated>2025-10-21T12:21:39+02:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -86,10 +86,7 @@ We develop and use machine learning techniques to discover patterns in data stre
 				</author>
 			
 			<summary>Webinars, research lectures, tutorials, lab tours; a week long ChemAI satellite events on the topic of Chemistry and AI!</summary>
-			<content type="html" xml:base="http://127.0.0.1:4000//news/chemai-week/">&lt;p&gt;Following last year’s success, we are organising again various satelite events in the week 
-preceding the &lt;a href=&quot;https://www.acnetwork.nl/chemai&quot;&gt;ChemAI Symposium&lt;/a&gt; on Friday November 21st.  From Monday to Friday, 17 - 19 November, 
-the Amsterdam Chemistry Network (ACN), Amsterdam AI4Science, and TI-COAST, will host various lectures,
-courses, and webinars on the topic of artificial intelligence for chemistry.&lt;/p&gt;
+			<content type="html" xml:base="http://127.0.0.1:4000//news/chemai-week/">&lt;p&gt;From Monday, November 17th until Friday, November 21st, the Amsterdam Chemistry Network (ACN), Amsterdam AI4Science, and TI-COAST, will host several interesting ChemAI satellite events, such as courses and webinars, on the topic of artificial intelligence and chemistry, culminating in the third ChemAI Symposium on the Friday afternoon.&lt;/p&gt;
 
 &lt;p&gt;Below is a schedule of the ChemAI Week. &lt;strong&gt;To register&lt;/strong&gt; for any of these events go the &lt;a href=&quot;https://www.eventbrite.nl/e/chemai-25-satellite-events-tickets-1343878539889?aff=ebdsoporgprofile&quot;&gt;this website&lt;/a&gt;.&lt;/p&gt;
 
@@ -176,8 +173,8 @@ yield and selectivity, using data from quantum chemical calculations.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;../../images//ai4smm_student_project1.png&quot; alt=&quot;Student Project&quot; title=&quot;Title&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This research project is part of a collaborative research line with
-NERA / Maeve Aerospace, a startup company focused on sustainable
-aviation, and researchers from the TU Delft and TU
+NERA, a startup company focused on developing sustainable
+aviation fuel, and researchers from the TU Delft and TU
 Twente.&lt;/p&gt;
 
 &lt;h3 id=&quot;supervision&quot;&gt;Supervision:&lt;/h3&gt;
