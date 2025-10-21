@@ -10,6 +10,76 @@ We develop and use machine learning techniques to discover patterns in data stre
 		<atom:link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Molecular MC Tree Search</title>
+				<link>http://127.0.0.1:4000//student/bernd-ensing-masterproject3/</link>
+				<pubDate>Tue, 21 Oct 2025 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;Synthesizing molecules and doing experimental analyses can take weeks or even months of labor-intensive research. Generative AI offers a unique opportunity to speed up this process. By efficiently proposing candidate molecules, Generative AI could help experimentalists narrow down the chemical search space significantly—saving countless work-hours.&lt;/p&gt;
+
+&lt;p&gt;In the current state of the art, most approaches use either a Diffusion/Flow-based model on a graph-based representation or frameworks based on LLMs, for a token-based representation of molecules (SMILES). These approaches are demonstrably effective, but are very dissimilar from the &lt;em&gt;chemical intuition&lt;/em&gt; used by chemists in the same molecular design process. As such, these methods can seem like a black box, which hinders the furtherance of GenAI in this context.&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;AlphaMol&lt;/em&gt; project seeks to address this issue by using a completely different approach to navigating the vast chemical space. Motivated by the success of AlphaZero &amp;amp; Monte Carlo Tree Search (MCTS) in Reinforcement Learning problems, you will design and develop a Reinforcement Learning agent, similar to AlphaZero, on a new domain: molecule generation. In the process, you will create your own algorithm for effectively navigating the chemical space, by autoregressively ‘growing’ a molecule from scratch. This method is more interpretable than the ‘black box’ methods and is much more similar to the thought process of a chemist when designing new molecules.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;../../images/studentproject_alecnoppe.png&quot; alt=&quot;Student Project&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+
+&lt;h3 id=&quot;supervision&quot;&gt;Supervision:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Daily supervision: Alec Noppe (HIMS)&lt;/li&gt;
+  &lt;li&gt;Examinor: Bernd Ensing (HIMS)&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://127.0.0.1:4000//student/bernd-ensing-masterproject3/</guid>
+			</item>
+		
+			<item>
+				<title>ChemAI Week</title>
+				<link>http://127.0.0.1:4000//news/chemai-week/</link>
+				<pubDate>Tue, 16 Sep 2025 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;Following last year’s success, we are organising again various satelite events in the week 
+preceding the &lt;a href=&quot;https://www.acnetwork.nl/chemai&quot;&gt;ChemAI Symposium&lt;/a&gt; on Friday November 21st.  From Monday to Friday, 17 - 19 November, 
+the Amsterdam Chemistry Network (ACN), Amsterdam AI4Science, and TI-COAST, will host various lectures,
+courses, and webinars on the topic of artificial intelligence for chemistry.&lt;/p&gt;
+
+&lt;p&gt;Below is a schedule of the ChemAI Week. &lt;strong&gt;To register&lt;/strong&gt; for any of these events go the &lt;a href=&quot;https://www.eventbrite.nl/e/chemai-25-satellite-events-tickets-1343878539889?aff=ebdsoporgprofile&quot;&gt;this website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In addition, the ChemAI week is followed by a Lorentz Center Workshop &lt;a href=&quot;https://www.lorentzcenter.nl/ai-for-secure-safe-and-sustainable-molecules-and-materials-ai4s3m2.html&quot;&gt;&lt;em&gt;AI for Secure, Safe, and Sustainable Molecules and Materials (AI4S3M2)&lt;/em&gt;&lt;/a&gt; on 24 - 28 November 2025 in Leiden.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;ChemAI Weekday&lt;/th&gt;
+      &lt;th&gt;What’s happening&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Monday, 17 November&lt;/td&gt;
+      &lt;td&gt;• 11:00 - 12:00 hr: &lt;em&gt;From Contemporary Computational Chemistry to Future Methods of Application&lt;/em&gt; &lt;br /&gt; Research lecture  by [Robert Pollice][10] in room SP C0.110.&lt;br /&gt;• 15:00 - 17:00 hr: &lt;em&gt;Elements of Artificial Intelligence – a Crash Course on Machine Learning for Chemists&lt;/em&gt; &lt;br /&gt;  hybrid meeting ([zoom link][42]) at Science Park Room H0.08 and online by [Bernd Ensing][6] and [Robert Pollice][10]&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tuesday, 18 November&lt;/td&gt;
+      &lt;td&gt;• 15:00 - 16:00 hr: &lt;em&gt;Harnessing Deep Learning for Drug Discovery: Challenges and Opportunities&lt;/em&gt; &lt;br /&gt;   AI4Science/CSM seminar by [Francesca Grisoni][11] in Science Park 904, Room C4.174 or online ([meeting link][43])&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wednesday, 19 November&lt;/td&gt;
+      &lt;td&gt;• 14:00 - 15:00 hr: &lt;em&gt;Machine Learning Acceleration of Electronic Structure Calculations&lt;/em&gt; &lt;br /&gt;  Lecture by [Hannes Jonsson][15] in Science Park 906 room C0.110 &lt;br /&gt; • 15:00 - 16:30 hr: &lt;em&gt;Unlocking Data in the Cambridge Structural Database for Functional Materials Innovation&lt;/em&gt; &lt;br /&gt;  Online workshop by [Dr. Andrew Peel][14] of the Cambridge Crystallographic Data Centre ([meeting link][44])&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Thursday,  20 November&lt;/td&gt;
+      &lt;td&gt;• 10:00 - 12:00 hr: &lt;em&gt;Get Hands-On with Open Multi-Modal Foundational Models for Materials and Chemistry&lt;/em&gt; &lt;br /&gt;  Online workshop by [Dr. Seiji Takeda][12] and [Dr. Indra Priyadarsini][13] of IBM Research ([meeting link][45])&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Friday, 21 November&lt;/td&gt;
+      &lt;td&gt;• Lab tours at Science Park &lt;br /&gt;•  [ChemAI Symposium][9]&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+				<guid isPermaLink="true">http://127.0.0.1:4000//news/chemai-week/</guid>
+			</item>
+		
+			<item>
 				<title>Synthetic jet fuel</title>
 				<link>http://127.0.0.1:4000//student/bernd-ensing-masterproject2/</link>
 				<pubDate>Fri, 12 Sep 2025 00:00:00 +0200</pubDate>
@@ -266,97 +336,6 @@ Supervisor: Dr. P.D. Forré and Dr. ir. E.E. van Loon. Co-supervisors: Prof. dr.
 
 </description>
 				<guid isPermaLink="true">http://127.0.0.1:4000//news/phd-defence-fiona-lippert/</guid>
-			</item>
-		
-			<item>
-				<title>Classical DFT</title>
-				<link>http://127.0.0.1:4000//research/jacobus-dijkman1/</link>
-				<pubDate>Sun, 20 Apr 2025 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;img src=&quot;../../members/JacobusDijkman.jpg&quot; alt=&quot;Jacobus Dijkman&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;PhD research of &lt;strong&gt;Jacobus Dijkman&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Although less famous than the quantum version used for electronic
-structure calculations, classical density functional theory (cDFT)
-remains a very appealing approach to describe fluids. However, similar
-as in quantum DFT, the accuracy of the theory is hampered by the lack
-of an exact description of the (free) energy functional. Over the
-years, various approximations have been developed, albeit with mixed
-success.&lt;/p&gt;
-
-&lt;p&gt;Now, with a team of researchers at the Computational Chemistry Group (Van
-‘t Hoff Institute for Molecular Sciences) and the AMLab (Informatics
-Institute), together with the Debye
-Institute for Nanomaterials Science and the Institute for Theoretical
-Physics of Utrecht University, we have developed a machine-learned approximation
-that can significantly improve cDFT calculations of fluids and
-vapours.&lt;/p&gt;
-
-&lt;p&gt;Our ‘neural density functional’ can be trained in two manners. The
-first approach applies the first functional derivative of the free
-energy, which requires for training a large dataset of inhomogeneous
-particle densities on a 3D grid computed with Monte Carlo simulations
-under various external potentials. This is computationally rather
-demanding. The second approach, based on the second functional
-derivatives, requires a dataset of only 1D radial distribution
-functions of only homogeneous densities. This requires significantly
-fewer simulations.&lt;/p&gt;
-
-&lt;p&gt;Remarkably, we were able to show that the second approach
-works as well as the first for a simple Lennard-Jones liquid in a 1D
-planar symmetry. Work is underway to apply the new method to more
-practical applications.&lt;/p&gt;
-
-&lt;p&gt;Joint work with &lt;a href=&quot;https://amlab.science.uva.nl/people/MaxWelling/&quot;&gt;Max Welling&lt;/a&gt;, &lt;a href=&quot;https://jwvdm.github.io/&quot;&gt;Jan-Willem van de Meent&lt;/a&gt;,
-&lt;a href=&quot;https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing/&quot;&gt;Bernd Ensing&lt;/a&gt;, &lt;a href=&quot;https://colloid.nl/people/marjolein-dijkstra/&quot;&gt;Marjolein Dijkstra&lt;/a&gt;, and &lt;a href=&quot;https://colloid.nl/people/212/&quot;&gt;René van Roij&lt;/a&gt;,&lt;/p&gt;
-
-&lt;h4 id=&quot;papers&quot;&gt;Papers&lt;/h4&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1103/PhysRevLett.134.056103&quot;&gt;Learning Neural Free-Energy Functionals with Pair-Correlation Matching&lt;/a&gt; &lt;br /&gt;
-Jacobus Dijkman, Marjolein Dijkstra, René van Roij, Max Welling,
-Jan-Willem van de Meent, and Bernd Ensing, &lt;br /&gt;
-&lt;em&gt;Phys. Rev. Lett.&lt;/em&gt; &lt;strong&gt;134&lt;/strong&gt;, 056103 (2025)&lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-				<guid isPermaLink="true">http://127.0.0.1:4000//research/jacobus-dijkman1/</guid>
-			</item>
-		
-			<item>
-				<title>Nanoscale Imaging and Metrology</title>
-				<link>http://127.0.0.1:4000//research/maximilian-lipp1/</link>
-				<pubDate>Thu, 10 Apr 2025 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;img src=&quot;../../members/MaximilianLipp.jpg&quot; alt=&quot;Maximilian Lipp&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;PhD research of &lt;strong&gt;Maximilian Lipp&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The ever-increasing computational power and ever-shrinking size of
-electronic devices have been enabled by rapid developments in optical
-lithography and the micro-electronics industry. State-of-the-art
-processors require reliable and fast nanoscale engineering methods
-with high production efficiency. The widespread access to
-computational power has already made a big impact on our daily
-lives. New future applications like VR, AR or AI technologies require
-even smaller and more powerful hardware. However, keeping up with the
-aggressive reduction of the semiconductor device feature sizes is a
-challenging task.&lt;/p&gt;
-
-&lt;p&gt;In this project, we will explore deep learning and Bayesian
-optimization techniques to push the boundaries of compact
-semiconductor metrology tools. Label-free optical imaging methods with
-a spatial resolution beyond the Abbe diffraction limit and a temporal
-resolution beyond the Nyquist limit are being developed to
-characterize multi-layer nanostructures. Several modern research areas
-such as computational imaging and compressive sensing are connected
-with cutting-edge Machine Learning tools to develop new methods of
-nanoscale imaging and metrology for the semiconductor industry. The
-project is running in collaboration with &lt;a href=&quot;http://amlab.science.uva.nl/people/PatrickForre/&quot;&gt;Patrick Forré&lt;/a&gt; of AMLab
-and the Advanced Research Center
-for Nanolithography (ARCNL) and ASML, the world leader in the
-production of the lithography machines.&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">http://127.0.0.1:4000//research/maximilian-lipp1/</guid>
 			</item>
 		
 	</channel>
