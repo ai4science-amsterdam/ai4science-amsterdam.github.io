@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://127.0.0.1:4000//</id>
 	<title>AI4Science Lab</title>
-	<updated>2025-11-16T22:02:41+01:00</updated>
+	<updated>2025-11-16T22:11:35+01:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -111,6 +111,10 @@ We develop and use machine learning techniques to discover patterns in data stre
     &lt;tr&gt;
       &lt;td&gt;Wednesday, 19 November&lt;/td&gt;
       &lt;td&gt;• 15:00 - 17:00 hr: &lt;em&gt;AlphaFold Unfolded: How Protein Structure Prediction Actually Works&lt;/em&gt; &lt;br /&gt;  by Ass. Prof. Dr. Halima Mouhib (VU Amsterdam) and Dr. Gustavo Stolf Jeuken (VU Amsterdam)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Friday, 21 November&lt;/td&gt;
+      &lt;td&gt;• 9:00 - 17:00 hr: &lt;em&gt;ChemAI Syposium&lt;/em&gt;  (&lt;strong&gt;SOLD OUT&lt;/strong&gt;) &lt;br /&gt;  For full program and registration see &lt;a href=&quot;https://www.acnetwork.nl/chemai&quot;&gt;ChemAI website&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Monday,  24 November&lt;/td&gt;

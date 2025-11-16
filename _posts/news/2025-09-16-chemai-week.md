@@ -29,6 +29,7 @@ In addition, the ChemAI week is followed by a Lorentz Center Workshop [*AI for S
 | Monday, 17 November |   &#8226; 15:00 - 17:00 hr: *Elements of Artificial Intelligence – a Crash Course on Machine Learning for Chemists* <br>&#8192; hybrid meeting ([zoom link][42]) at Science Park Room A1.16 and online by [Bernd Ensing][6] and [Nong Artrith][10]  |
 | Tuesday, 18 November | &#8226; 15:00 - 16:00 hr: *No Code, No Problem: Conversational Materials Science with ChatGPT* <br>&#8192;  webinar by Ass. Prof. Dr. Kamal Choudhary (NIST & Johns Hopkins University)|
 | Wednesday, 19 November | &#8226; 15:00 - 17:00 hr: *AlphaFold Unfolded: How Protein Structure Prediction Actually Works* <br>&#8192; by Ass. Prof. Dr. Halima Mouhib (VU Amsterdam) and Dr. Gustavo Stolf Jeuken (VU Amsterdam) |
+| Friday, 21 November | &#8226; 9:00 - 17:00 hr: *ChemAI Syposium*  (**SOLD OUT**) <br>&#8192; For full program and registration see [ChemAI website][1] |
 | Monday,  24 November | &#8226; 15:00 CET: *Active Learning Symposium 2025* <br>&#8192; organized by Dr. Jakub Zeitler (Matterhorn Studio) Register at "[Active Learning Symposium 2025][43]" - Online |
 |---|---|
 
