@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://127.0.0.1:4000//</id>
 	<title>AI4Science Lab</title>
-	<updated>2025-10-21T12:21:39+02:00</updated>
+	<updated>2025-11-16T22:02:41+01:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -86,9 +86,9 @@ We develop and use machine learning techniques to discover patterns in data stre
 				</author>
 			
 			<summary>Webinars, research lectures, tutorials, lab tours; a week long ChemAI satellite events on the topic of Chemistry and AI!</summary>
-			<content type="html" xml:base="http://127.0.0.1:4000//news/chemai-week/">&lt;p&gt;From Monday, November 17th until Friday, November 21st, the Amsterdam Chemistry Network (ACN), Amsterdam AI4Science, and TI-COAST, will host several interesting ChemAI satellite events, such as courses and webinars, on the topic of artificial intelligence and chemistry, culminating in the third ChemAI Symposium on the Friday afternoon.&lt;/p&gt;
+			<content type="html" xml:base="http://127.0.0.1:4000//news/chemai-week/">&lt;p&gt;From Monday, November 17th until Friday, November 21st, the Amsterdam Chemistry Network (ACN), Amsterdam AI4Science, and TI-COAST, will host several exciting ChemAI satellite events, such as courses and webinars, on the topic of artificial intelligence and chemistry, culminating in the third ChemAI Symposium on the Friday afternoon.&lt;/p&gt;
 
-&lt;p&gt;Below is a schedule of the ChemAI Week. &lt;strong&gt;To register&lt;/strong&gt; for any of these events go the &lt;a href=&quot;https://www.eventbrite.nl/e/chemai-25-satellite-events-tickets-1343878539889?aff=ebdsoporgprofile&quot;&gt;this website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Below is a schedule of the ChemAI Week. &lt;strong&gt;To register&lt;/strong&gt; for any of these events go &lt;a href=&quot;https://www.eventbrite.nl/e/chemai-25-satellite-events-tickets-1343878539889?aff=ebdsoporgprofile&quot;&gt;this website&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;In addition, the ChemAI week is followed by a Lorentz Center Workshop &lt;a href=&quot;https://www.lorentzcenter.nl/ai-for-secure-safe-and-sustainable-molecules-and-materials-ai4s3m2.html&quot;&gt;&lt;em&gt;AI for Secure, Safe, and Sustainable Molecules and Materials (AI4S3M2)&lt;/em&gt;&lt;/a&gt; on 24 - 28 November 2025 in Leiden.&lt;/p&gt;
 
@@ -102,26 +102,84 @@ We develop and use machine learning techniques to discover patterns in data stre
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;Monday, 17 November&lt;/td&gt;
-      &lt;td&gt;• 11:00 - 12:00 hr: &lt;em&gt;From Contemporary Computational Chemistry to Future Methods of Application&lt;/em&gt; &lt;br /&gt; Research lecture  by [Robert Pollice][10] in room SP C0.110.&lt;br /&gt;• 15:00 - 17:00 hr: &lt;em&gt;Elements of Artificial Intelligence – a Crash Course on Machine Learning for Chemists&lt;/em&gt; &lt;br /&gt;  hybrid meeting ([zoom link][42]) at Science Park Room H0.08 and online by [Bernd Ensing][6] and [Robert Pollice][10]&lt;/td&gt;
+      &lt;td&gt;• 15:00 - 17:00 hr: &lt;em&gt;Elements of Artificial Intelligence – a Crash Course on Machine Learning for Chemists&lt;/em&gt; &lt;br /&gt;  hybrid meeting (&lt;a href=&quot;https://uva-live.zoom.us/j/62945043151&quot;&gt;zoom link&lt;/a&gt;) at Science Park Room A1.16 and online by &lt;a href=&quot;https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing/&quot;&gt;Bernd Ensing&lt;/a&gt; and &lt;a href=&quot;https://www.uu.nl/staff/NArtrith&quot;&gt;Nong Artrith&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Tuesday, 18 November&lt;/td&gt;
-      &lt;td&gt;• 15:00 - 16:00 hr: &lt;em&gt;Harnessing Deep Learning for Drug Discovery: Challenges and Opportunities&lt;/em&gt; &lt;br /&gt;   AI4Science/CSM seminar by [Francesca Grisoni][11] in Science Park 904, Room C4.174 or online ([meeting link][43])&lt;/td&gt;
+      &lt;td&gt;• 15:00 - 16:00 hr: &lt;em&gt;No Code, No Problem: Conversational Materials Science with ChatGPT&lt;/em&gt; &lt;br /&gt;   webinar by Ass. Prof. Dr. Kamal Choudhary (NIST &amp;amp; Johns Hopkins University)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Wednesday, 19 November&lt;/td&gt;
-      &lt;td&gt;• 14:00 - 15:00 hr: &lt;em&gt;Machine Learning Acceleration of Electronic Structure Calculations&lt;/em&gt; &lt;br /&gt;  Lecture by [Hannes Jonsson][15] in Science Park 906 room C0.110 &lt;br /&gt; • 15:00 - 16:30 hr: &lt;em&gt;Unlocking Data in the Cambridge Structural Database for Functional Materials Innovation&lt;/em&gt; &lt;br /&gt;  Online workshop by [Dr. Andrew Peel][14] of the Cambridge Crystallographic Data Centre ([meeting link][44])&lt;/td&gt;
+      &lt;td&gt;• 15:00 - 17:00 hr: &lt;em&gt;AlphaFold Unfolded: How Protein Structure Prediction Actually Works&lt;/em&gt; &lt;br /&gt;  by Ass. Prof. Dr. Halima Mouhib (VU Amsterdam) and Dr. Gustavo Stolf Jeuken (VU Amsterdam)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Thursday,  20 November&lt;/td&gt;
-      &lt;td&gt;• 10:00 - 12:00 hr: &lt;em&gt;Get Hands-On with Open Multi-Modal Foundational Models for Materials and Chemistry&lt;/em&gt; &lt;br /&gt;  Online workshop by [Dr. Seiji Takeda][12] and [Dr. Indra Priyadarsini][13] of IBM Research ([meeting link][45])&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Friday, 21 November&lt;/td&gt;
-      &lt;td&gt;• Lab tours at Science Park &lt;br /&gt;•  [ChemAI Symposium][9]&lt;/td&gt;
+      &lt;td&gt;Monday,  24 November&lt;/td&gt;
+      &lt;td&gt;• 15:00 CET: &lt;em&gt;Active Learning Symposium 2025&lt;/em&gt; &lt;br /&gt;  organized by Dr. Jakub Zeitler (Matterhorn Studio) Register at “&lt;a href=&quot;https://active-learning.uk/&quot;&gt;Active Learning Symposium 2025&lt;/a&gt;” - Online&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+
+&lt;h3 id=&quot;abstracts&quot;&gt;Abstracts&lt;/h3&gt;
+
+&lt;h4 id=&quot;lecture-in-crash-course-on-machine-learning-for-chemists&quot;&gt;Lecture in Crash Course on Machine Learning for Chemists&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Monday, 17 November, 15:00 - 17:00 hr&lt;/li&gt;
+  &lt;li&gt;Science Park Room A1.16 and online ((&lt;a href=&quot;https://uva-live.zoom.us/j/62945043151&quot;&gt;zoom link&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/nongartrith.png&quot; alt=&quot;Nong Artrith&quot; width=&quot;100&quot; height=&quot;100&quot; style=&quot;float: right; margin-right: 10px; margin-bottom: 10px;  border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;from-atoms-to-accelerated-discovery-machine-learning-pathways-for-catalysis-and-materials-innovation&quot;&gt;From Atoms to Accelerated Discovery: Machine Learning Pathways for Catalysis and Materials Innovation&lt;/h4&gt;
+&lt;p&gt;by Dr. Nong Artrith &lt;br /&gt;
+&lt;em&gt;Debye Institute for Nanomaterials Science, Utrecht University, 3584 CG Utrecht, The Netherlands&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The search for efficient, earth-abundant catalysts and functional materials is central to achieving a
+sustainable energy future. My research explores how machine learning (ML), integrated with atomistic
+simulations, enables faster, deeper, and more scalable materials discovery.
+Can ML answer the fundamental question: What makes a catalyst good? ML offers a shortcut through
+complex chemical space by bypassing expensive first-principles calculations. From neural networks
+that learn interatomic interactions to models that recognize patterns in catalytic activity, ML has become
+an essential tool in computational chemistry.
+However, ML needs data, and experimental datasets are often small and inconsistent. To address this,
+we developed a hybrid approach that combines a machine-learned transition-state energy library with
+simple regression models trained on experimental data. Applied to ethanol reforming, this method not
+only explains observed trends but also proposes new, testable bimetallic catalysts.
+Scaling this strategy requires efficient ML infrastructure. Our ænet-PyTorch platform enables GPU-
+accelerated training of neural network potentials, significantly reducing computational cost. Because
+data efficiency remains critical, we apply transfer learning from large open databases such as OC20 to
+improve model generalization, enabling accurate simulations even with limited system-specific data.
+For interfacial reactions such as the oxygen evolution reaction (OER), we use ML-trained potentials to
+perform long-timescale metadynamics on Ni-doped BaTiO₃, revealing mechanistic insights beyond the
+reach of standard DFT.&lt;/p&gt;
+
+&lt;p&gt;REFERENCES&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;N. Artrith, Matter, 2020, 3 (4), 985.&lt;/li&gt;
+  &lt;li&gt;N. Artrith, et al, Nature Chemistry, 2021, 13 (6), 505.&lt;/li&gt;
+  &lt;li&gt;N. Artrith, et al, ACS Catalysis, 2020, 10 (16), 9438.&lt;/li&gt;
+  &lt;li&gt;J. Lopez-Zorrilla, N. Artrith, et al. J. Chem. Phys. 2023, 158 (16), 164105.&lt;/li&gt;
+  &lt;li&gt;A.N.E. Aisnada, K. Boonpalit, N. Artrith, et al, J. Phys. Chem. C, 2025, 129 (1), 658.&lt;/li&gt;
+  &lt;li&gt;K. Boonpalit and N. Artrith (2025): https://doi.org/10.48550/arXiv.2412.15452&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;BIOGRAPHY&lt;br /&gt;
+Nong Artrith is a tenured Assistant Professor in the Materials Chemistry and
+Catalysis Group at the Debye Institute for Nanomaterials Science, Utrecht
+University, (and was a Visiting Researcher at Microsoft Research
+Amsterdam Lab in 2022-2023). Prior to joining Utrecht University, Nong
+was a Research Scientist at Columbia University, USA, and a PI in the
+Columbia Center for Computational Electrochemistry. Nong obtained her
+PhD in Theoretical Chemistry from Ruhr University Bochum, Germany, for
+the development of machine-learning (ML) models for materials chemistry.
+She was awarded a Schlumberger Foundation fellowship for postdoctoral
+research at MIT and subsequently joined UC Berkeley as an associate
+specialist. In 2019, Nong has been named a Scialog Fellow for Advanced
+Energy Storage. Since 2023, Nong is a member of the NL ARC CBBC
+(https://arc-cbbc.nl ). She is the main developer of the open-source ML
+package ænet (http://ann.atomistic.net ) for atomistic simulations. Her
+research interests focus on the development and application of first principles
+and ML methods for the computational discovery of energy materials and for
+the interpretation of experimental observations.&lt;/p&gt;
 
 </content>
 
