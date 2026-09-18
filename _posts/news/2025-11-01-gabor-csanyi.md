@@ -12,10 +12,8 @@ header:
    image_fullwidth: banner.jpg
 ---
 
- <img src="../../members/GaborCsanyi.png"
-     alt="Gábor Csányi"
-     width="100"
-     style="float: right; margin-right: 10px; border-radius:50%;" />
+
+
 
 We are very happy to invite you to an AI4Science and John van Geuns Seminar by Prof Gábor Csányi from Cambridge University entitled
 "*Foundational models for materials chemistry*".
