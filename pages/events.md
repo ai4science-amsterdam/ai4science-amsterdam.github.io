@@ -9,79 +9,55 @@ permalink: "/events/"
 ---
 
 
-<h2 id="meetings">Biweekly Lab Meetings</h2>
-
-The AI4Science Lab Meetings are a series of bi-weekly research and
-literature presentations, held on alternating Thursdays at 11:00 hr,
-starting this academic year on 11 September. All members take a turn
-to present their work or a thought-provoking paper. The meetings take
-place at Science Park and are not online. If you wish to take part in our
-Lab Meetings, send [an email to us][1] with your name, affiliation and
-a one-sentence motivation for joining.
-	
-
----
-
-<h2 id="colloquium">AI4Science Colloquium</h2>
+<h2 id="meetings">Lab Meetings</h2>
 
 Coming AI4Science colloquia. 
 
+#### Mini workshop: Agentic AI for Science Tasks
 
-#### Title: Foundational models for materials chemistry
-Speaker: [Professor Gábor Csány][2], Department of Engineering,
-University of Cambridge, United Kingdom.
+Many of us, if not all, are nowadays using LLMs for our daily work, for example for
+writing, coding, retrieving information, or automating tasks. However, as new AI 
+models and functionalities develop rapidly, it is not easy to keep up with all 
+the possibilities offered by generative AI and agentic AI, and to adapt our 
+working habits to get the most out of them.
+This interactive meeting on Agentic AI for 
+Science Tasks is aimed at discussing interesting use-cases and exchangng ideas. 
 
 {% include alert info='
-* Date: Monday 1 December 2025
-* Time: 13:00 hr
-* Location: Science Park, room tba' %}
+* Date: Wednesday 23 September 2026
+* Time: 15:00 - 17:00 hr
+* Location: Science Park 904 Room H0.08 (little building behind SP904, see <a href="https://www.google.com/maps/place/Science+Park+912,+1012+WX+Amsterdam/@52.3541179,4.9547613,17z/data=!3m1!4b1!4m6!3m5!1s0x47c609454e0dd51b:0x4466d971db31fef4!8m2!3d52.3541179!4d4.9573362!16s%2Fg%2F11c19zvgkp!5m1!1e2?hl=en&entry=ttu&g_ep=EgoyMDI2MDkyMC4wIKXMDSoASAFQAw%3D%3D">Map</a>)' %}
 
-#### Abstract:
-A new computational task has been defined and solved over the past 15
-years for extended material systems: the analytic fitting of the
-Born-Oppenheimer potential energy surface as a function of nuclear
-coordinates. The resulting potentials  ("force fields") are reactive,
-many-body, with evaluation costs that are currently on the order
-of 0.1-10 ms/atom/cpu core (or about 1-10ms on a powerful GPU), and
-reach accuracies of a few meV/atom when trained specifically for a
-given system using iterative or active learning methods. The latest
-and most successful architectures leverage many-body symmetric
-descriptions of local geometry and equivariant message passing
-networks.  Perhaps the most surprising recent result is the stability
-of models trained on very diverse training sets across the whole
-periodic table. Our recent discovery is that the MACE-MP-0 model that
-was trained on just ~150,000 real and hypothetical small inorganic
-crystals (90% of training set < 70 atoms), is capable of stable
-molecular dynamics at ambient conditions on any system tested so far -
-this includes crystals, liquids, surfaces, clusters, molecules, and
-combinations of all of these. The astounding generalisation
-performance of such foundation models open the possibility to creating
-a universally applicable interatomic potential with useful accuracy
-for materials (especially when fine-tuned with a little bit of
-domain-specific data), and democratise quantum-accurate large scale
-molecular simulations by lowering the barrier to entry into the
-field. Similarly, in the domain of organic chemistry, training just on
-small molecules and small clusters allows accurate simulation of
-condensed phase systems, and first principles prediction of quantities
-such as hydration free energies for the first time.
+Speakers:
+* [Prof. dr. J.M. (Joris) Mooij][1]
+* [Dr. D. (David) Dubbeldam][2]
+* [Dr. J. (Jeroen) Zuiddam][3]
+* [Prof. P.T. (Paul) Groth][4]
 
+---
 
-#### Biography
+#### Mini workshop: Starting a deeptech AI startup
 
-Gábor Csányi is a Hungarian-born scientist at the University of Cambridge. He read mathematics in Cambridge as an undergraduate at St. John’s College and did his PhD work in physics at MIT. After postdoctoral research in the Cavendish Laboratory, he joined the faculty in the Department of Engineering at Cambridge. He won an F. W. Bessel award from the Alexander von Humboldt foundation. 
+*Thinking of starting a deeptech AI startup?*
 
-His work is in the field of computational chemistry, and is focused on
-developing algorithms to predict the properties of materials and
-molecules from first principles. He pioneered the application of
-machine learning to molecular modeling which lead to enormous gains in
-the efficiency of molecular dynamics simulation.
+This mini workshop is for UvA students and researchers wanting to know more about how to bring your scientific research towards a startup. We will tell more about the academic startup journey and provide practical information but also will give attendees enough time to interact with the speakers among an academic entrepreneur who went through all this.
 
+{% include alert info='
+* Date: Wednesday 28 October 2026
+* Time: 13:00 - 17:00 hr
+* Location: <a href="https://www.google.com/maps/place/SustainaLab/@52.3555818,4.9519582,17z/data=!3m1!4b1!4m6!3m5!1s0x47c6090030f2ae55:0xaa34c155ca3ded9f!8m2!3d52.3555786!4d4.9545385!16s%2Fg%2F11nvxmwl7t!5m1!1e2?hl=en&entry=ttu&g_ep=EgoyMDI2MDkyMC4wIKXMDSoASAFQAw%3D%3D">Sustainalab, Matrix I</a>, Science Park Amsterdam' %}
 
+Speakers:
+* TBA
 
 <a class="radius button small" href="../colloquium">Previous Colloquia</a>
 
 ---
 
 
-[1]: /contact/
-[2]: https://www.eng.cam.ac.uk/profiles/gc121
+[1]: https://staff.fnwi.uva.nl/j.m.mooij/
+[2]: https://www.compchem.nl/staff_members/dr-d-david-dubbeldam/
+[3]: https://staff.fnwi.uva.nl/j.zuiddam/
+[4]: https://pgroth.com
+
+

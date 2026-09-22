@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://127.0.0.1:4000//</id>
 	<title>AI4Science Lab</title>
-	<updated>2026-09-18T18:07:31+02:00</updated>
+	<updated>2026-09-22T09:23:16+02:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -42,7 +42,7 @@ We develop and use machine learning techniques to discover patterns in data stre
 					
 				</author>
 			
-			<summary>AI4Science workshop</summary>
+			<summary>AI4Science Mini Workshop</summary>
 			<content type="html" xml:base="http://127.0.0.1:4000//news/agentic-ai-meeting/">&lt;p&gt;Many of us, if not all, are nowadays using LLMs for our daily work, for example for
 writing, coding, retrieving information, or automating tasks. However, as new AI 
 models and functionalities develop rapidly, it is not easy to keep up with all 
@@ -57,9 +57,17 @@ You are hereby cordially invited to join this meeting.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Date: Wednesday 23 September 2026&lt;/li&gt;
   &lt;li&gt;Time: 15:00 - 17:00 hr&lt;/li&gt;
-  &lt;li&gt;Location: TBA&lt;/li&gt;
+  &lt;li&gt;Location: Science Park 904 Room H0.08 (little building behind SP904, see &lt;a href=&quot;https://www.google.com/maps/place/Science+Park+912,+1012+WX+Amsterdam/@52.3541179,4.9547613,17z/data=!3m1!4b1!4m6!3m5!1s0x47c609454e0dd51b:0x4466d971db31fef4!8m2!3d52.3541179!4d4.9573362!16s%2Fg%2F11c19zvgkp!5m1!1e2?hl=en&amp;amp;entry=ttu&amp;amp;g_ep=EgoyMDI2MDkyMC4wIKXMDSoASAFQAw%3D%3D&quot;&gt;Map&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+
+&lt;h3 id=&quot;speakers&quot;&gt;Speakers:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://staff.fnwi.uva.nl/j.m.mooij/&quot;&gt;Prof. dr. J.M. (Joris) Mooij&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.compchem.nl/staff_members/dr-d-david-dubbeldam/&quot;&gt;Dr. D. (David) Dubbeldam&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://staff.fnwi.uva.nl/j.zuiddam/&quot;&gt;Dr. J. (Jeroen) Zuiddam&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pgroth.com&quot;&gt;Prof. P.T. (Paul) Groth&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;program&quot;&gt;Program:&lt;/h3&gt;
 
