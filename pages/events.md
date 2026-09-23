@@ -58,6 +58,11 @@ Organisers:
 * [Marco del Tredici (Axiomatic AI)][9]
 
 
+To register for the Lemma Hackathon, please click on this button:
+
+<a class="radius button small" href="https://forms.gle/779totFYb8xZqhhVA">Sign up form</a>
+
+
 ---
 
 #### Mini workshop: Starting a deeptech AI startup
@@ -106,6 +111,10 @@ Organisers:
 * [Dr. O (Oliver) Rieger][13]
 * [Prof. dr. W. (Wouter) Verkerke][14] 
 * [Dr. C. (Christoph) Weniger][15]
+
+To indicate your date preference and availability (for the period 26 Oct - 6 Nov),  please click this button (possible until 25 September):
+
+<a class="radius button small" href=" https://app.rallly.co/invite/rX4xmNjgvQrC (26 Oct - 6 Nov)">date preference poll</a>
 
 ---
 
