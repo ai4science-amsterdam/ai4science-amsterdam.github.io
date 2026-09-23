@@ -114,7 +114,7 @@ Organisers:
 
 To indicate your date preference and availability (for the period 26 Oct - 6 Nov),  please click this button (possible until 25 September):
 
-<a class="radius button small" href=" https://app.rallly.co/invite/rX4xmNjgvQrC (26 Oct - 6 Nov)">date preference poll</a>
+<a class="radius button small" href=" https://app.rallly.co/invite/rX4xmNjgvQrC">date preference poll</a>
 
 ---
 
