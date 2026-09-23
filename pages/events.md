@@ -9,9 +9,12 @@ permalink: "/events/"
 ---
 
 
-<h2 id="meetings">Lab Meetings</h2>
 
-Coming AI4Science colloquia. 
+AI4Science Lab meetings, mini workshops, and hackatons are organised about once a month at Amsterdam Science Park. The meetings are usually not recorded or broadcast as a video conference. To be added to the annoucements mailing list of AI4Science, send your request to [ai4science.info@gmail.com][0] stating your name, position, and affiliation.
+
+---
+
+<h2 id="meetings">Coming Lab Meetings</h2>
 
 #### Mini workshop: Agentic AI for Science Tasks
 
@@ -86,6 +89,10 @@ In order to kick this off and get to know each other, we plan a
 
 The event will be half day, with longer and shorter presentations, and with ample time for discussions. The goal of the event is to provide a first quick overview of ongoing and planned activities, set the context, and conclude with concrete plans for events during the academic year.
 
+{% include alert info='
+* Date: TBA; late October/early November 2026
+* Location: TBA ' %}
+
 **Draft agenda:**
 * 2-3 shorter overview talks about opportunities and open challenges of applying SBI in particle physics, astronomy and astroparticle physics/cosmology
 * coffee break
@@ -106,7 +113,7 @@ Organisers:
 
 ---
 
-
+[0]: mailto:ai4science.info@gmail.com
 [1]: https://staff.fnwi.uva.nl/j.m.mooij/
 [2]: https://www.compchem.nl/staff_members/dr-d-david-dubbeldam/
 [3]: https://staff.fnwi.uva.nl/j.zuiddam/
