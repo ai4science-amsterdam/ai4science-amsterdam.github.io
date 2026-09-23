@@ -12,7 +12,7 @@ header:
 #    title: "News and Events"
 #    image_fullwidth: banner.jpg
    image_fullwidth: "workshop_banner2.jpg"
-   title: <span style="text-transform:none; font-family:inherit; font-size:1.0em;">AI4Science Lab Meeting</span><br><span style="text-transform:none; font-family:FontAwesome,Gill Sans; font-size:0.5em;">t</span>
+   title: <span style="text-transform:none; font-family:inherit; font-size:1.0em;">AI4Science Lab Meeting</span><br><span style="text-transform:none; font-family:FontAwesome,Gill Sans; font-size:0.5em;"> </span>
 ---
 
 Many of us, if not all, are nowadays using LLMs for our daily work, for example for
