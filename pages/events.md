@@ -35,7 +35,7 @@ Speakers:
 * [Prof. P.T. (Paul) Groth][4]
 
 Organiser(s):
-* [Prof. dr. B. (Bernd) Ensing][5]
+* [Bernd Ensing][5]
 
 ---
 
