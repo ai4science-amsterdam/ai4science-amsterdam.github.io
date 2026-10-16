@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://127.0.0.1:4000//</id>
 	<title>AI4Science Lab</title>
-	<updated>2026-09-23T12:34:08+02:00</updated>
+	<updated>2026-10-16T22:20:19+02:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -25,6 +25,129 @@ We develop and use machine learning techniques to discover patterns in data stre
 
 	<generator uri="http://jekyllrb.com" version="4.2.0">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://127.0.0.1:4000//news/miniworkshop-deeptech-startup/</id>
+			<title>Starting a deeptech AI startup</title>
+			<link href="http://127.0.0.1:4000//news/miniworkshop-deeptech-startup/" rel="alternate" type="text/html" title="Starting a deeptech AI startup" />
+			<updated>2026-10-14T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>AI4Science Mini Workshop</summary>
+			<content type="html" xml:base="http://127.0.0.1:4000//news/miniworkshop-deeptech-startup/">&lt;p&gt;&lt;em&gt;Thinking of starting a deeptech AI startup?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This mini workshop is for UvA students and researchers wanting to know more about how to bring your scientific research towards a startup. We will tell more about the academic startup journey and provide practical information but also will give attendees enough time to interact with the speakers among an academic entrepreneur who went through all this.&lt;/p&gt;
+
+&lt;div class=&quot;alert-box info &quot;&gt;
+&lt;ul&gt;
+  &lt;li&gt;Date: Wednesday 28 October 2026&lt;/li&gt;
+  &lt;li&gt;Time: 14:00 - 17:00 hr&lt;/li&gt;
+  &lt;li&gt;Location: &lt;a href=&quot;https://www.google.com/maps/place/SustainaLab/@52.3555818,4.9519582,17z/data=!3m1!4b1!4m6!3m5!1s0x47c6090030f2ae55:0xaa34c155ca3ded9f!8m2!3d52.3555786!4d4.9545385!16s%2Fg%2F11nvxmwl7t!5m1!1e2?hl=en&amp;amp;entry=ttu&amp;amp;g_ep=EgoyMDI2MDkyMC4wIKXMDSoASAFQAw%3D%3D&quot;&gt;Sustainalab, Matrix I&lt;/a&gt;, Science Park Amsterdam&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;program&quot;&gt;Program:&lt;/h3&gt;
+
+&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Time&lt;/th&gt;
+      &lt;th&gt;Activity / Speaker&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;14:00&lt;/td&gt;
+      &lt;td&gt;Welcome by Bernd Ensing&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;14:05&lt;/td&gt;
+      &lt;td&gt;Introduction of the Workshop&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;Peter Westerhuijs - Program Manager TTT-AI&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;14:10&lt;/td&gt;
+      &lt;td&gt;Science to Impact&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;Marcel Bartels - Impact Developer IXA&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;14:25&lt;/td&gt;
+      &lt;td&gt;The AI Startup Journey&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;Ross Gordon - Investment Manager, Amsterdam Venture Studios&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;14:55&lt;/td&gt;
+      &lt;td&gt;How to spinout from the University&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;Annemieke de Raad - Business Developer IXA&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;15:15&lt;/td&gt;
+      &lt;td&gt;break&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;15:30&lt;/td&gt;
+      &lt;td&gt;Entrepreneurship, real world experience&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;Harro Stokman - CEO/Founder Kepler Vision Technologies&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;16:00&lt;/td&gt;
+      &lt;td&gt;Interactive session with the attendees&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;16:30&lt;/td&gt;
+      &lt;td&gt;Drinks &amp;amp; Bites and more interaction&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;registration&quot;&gt;Registration&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;https://forms.gle/WiVfhXu8diidGebm6&quot;&gt;Register here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Organisers:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;[Peter Westerhuijs][6]&lt;/li&gt;
+  &lt;li&gt;[Drs. M.J. (Marcel) Bartels][7]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/miniworkshop_28Oct2026.png&quot; alt=&quot;logos&quot; /&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="news" />
+			
+			
+				<category term="news" />
+			
+
+			<published>2026-10-14T00:00:00+02:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//news/agentic-ai-meeting/</id>
@@ -579,50 +702,6 @@ and ample room for networking with our ca. 300 participants from academia and in
 			
 
 			<published>2025-06-23T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://127.0.0.1:4000//news/Get-Together/</id>
-			<title>AI4Science get together</title>
-			<link href="http://127.0.0.1:4000//news/Get-Together/" rel="alternate" type="text/html" title="AI4Science get together" />
-			<updated>2025-06-04T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Jim Boelrijk</name>
-					
-					
-					
-				</author>
-			
-			<summary>Internal meeting to get to know our new AI4Science members and friends</summary>
-			<content type="html" xml:base="http://127.0.0.1:4000//news/Get-Together/">&lt;p&gt;AI4Science is organising an informaal meeting for all its members and friends to 
-get to know each other and hear about the various AI4Science-related research directions.&lt;/p&gt;
-
-&lt;div class=&quot;alert-box info &quot;&gt;
-&lt;ul&gt;
-  &lt;li&gt;Date: Friday 4 July 2025&lt;/li&gt;
-  &lt;li&gt;Time: 15:00 hr&lt;/li&gt;
-  &lt;li&gt;Location: Science Park, room tba&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;The first hour of this networking event will consist of short (5 minute) research presentations by
-our (junior) members. This is followed by drinks and snacks. 
-Details on registration, signing up for a presentation, and information on the location will follow shortly.&lt;/p&gt;
-
-</content>
-
-			
-				<category term="news" />
-			
-			
-				<category term="news" />
-			
-
-			<published>2025-06-04T00:00:00+02:00</published>
 		</entry>
 	
 </feed>
