@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://127.0.0.1:4000//</id>
 	<title>AI4Science Lab</title>
-	<updated>2026-10-16T22:20:19+02:00</updated>
+	<updated>2026-10-20T13:08:57+02:00</updated>
 
 	<subtitle>The AI4Science Lab is an initiative supported by the Faculty of Science (FNWI) at the University of Amsterdam and located in the Informatics Institute (IvI). The AI4Science Lab is also connected to AMLAB, the Amsterdam Machine Learning Lab.
 We develop and use machine learning techniques to discover patterns in data streams produced by experiments in a wide variety of scientific fields, ranging from ecology to molecular biology and from chemistry to astrophysics.</subtitle>
@@ -25,6 +25,70 @@ We develop and use machine learning techniques to discover patterns in data stre
 
 	<generator uri="http://jekyllrb.com" version="4.2.0">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://127.0.0.1:4000//news/chemai/</id>
+			<title>ChemAI 2026</title>
+			<link href="http://127.0.0.1:4000//news/chemai/" rel="alternate" type="text/html" title="ChemAI 2026" />
+			<updated>2026-10-15T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>AI Technology for Molecules and Materials</summary>
+			<content type="html" xml:base="http://127.0.0.1:4000//news/chemai/">&lt;p&gt;On November 12–13, ChemAI returns to Amsterdam for its 2026 edition, bringing together researchers, industry, startups, and investors working at the intersection of AI, robotics, quantum and chemistry, materials science, and pharma.&lt;/p&gt;
+
+&lt;div class=&quot;alert-box info &quot;&gt;
+&lt;ul&gt;
+  &lt;li&gt;Day 1 – Nov 12 – 12:00-18:00 – “ChemAI Deep Tech Builders” - AI House – Focused on the future of Deep Tech: entrepreneurs, innovators, investors, corporates, and ecosystem leaders&lt;/li&gt;
+  &lt;li&gt;Day 2 – Nov 13 – 9:00-19:00 - “ChemAI Conference” – Hotel Casa – A full day of keynotes, talks, panels, company exhibition, networking, and a poster session, with participants from academia and industry&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The &lt;strong&gt;program&lt;/strong&gt; features keynotes from world-leading researchers and innovators, including:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Prof. Max Welling – CTO &amp;amp; founder of CuspAI&lt;/li&gt;
+  &lt;li&gt;Dr. Heike Riel – IBM Head of Quantum &amp;amp; AI, President of the German Physical Society&lt;/li&gt;
+  &lt;li&gt;Prof. Timothy Noël – University of Amsterdam&lt;/li&gt;
+  &lt;li&gt;Dr. Erik Bekkers - University of Amsterdam&lt;/li&gt;
+  &lt;li&gt;Prof. Steven Latré – VP of AI at IMEC&lt;/li&gt;
+  &lt;li&gt;Prof. Tonio Buonassisi – VP of Sustainable Energy at CSEM&lt;/li&gt;
+  &lt;li&gt;Dr. Yang Cao – Staff Scientist at Acceleration Consortium, University of Toronto&lt;/li&gt;
+  &lt;li&gt;… and many more, including University of Toronto, NYU, TUM, Siemens, NVIDIA, TOPSOE, VSParticle, Quantinuum, etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The &lt;strong&gt;poster session&lt;/strong&gt; offers researchers an opportunity to present their work, with cash prizes awarded to the top three posters thanks to Matterstack.ai.
+The &lt;strong&gt;company exhibition&lt;/strong&gt; connects researchers, startups, and industry.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ChemAI Website: &lt;a href=&quot;https://www.acnetwork.nl/chemai&quot;&gt;https://www.acnetwork.nl/chemai&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Program: &lt;a href=&quot;https://www.canva.com/design/DAHNYv4GNIg/D9jRaLM-Y6_6pP7SHfoDuQ/view&quot;&gt;https://www.canva.com/design/DAHNYv4GNIg/D9jRaLM-Y6_6pP7SHfoDuQ/view&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Day 1 registrations: &lt;a href=&quot;https://luma.com/aihouse-eyno&quot;&gt;https://luma.com/aihouse-eyno&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Day 2 registrations: &lt;a href=&quot;https://www.eventbrite.nl/e/chemai-2026-day-2-conference-nov-13-tickets-1994828364337&quot;&gt;https://www.eventbrite.nl/e/chemai-2026-day-2-conference-nov-13-tickets-1994828364337&lt;/a&gt; (recommended for academics)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We warmly encourage you to share this invitation with colleagues, PhD students, research groups, and industry connections who may be interested in the rapidly developing field of AI for molecules and materials.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/news_2026-10-10-chemai2026.jpg&quot; alt=&quot;ChemAI      Logo&quot; width=&quot;480&quot; style=&quot;display: block; margin: 10px 10px 10px 10px;;&quot; /&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="news" />
+			
+			
+				<category term="news" />
+			
+
+			<published>2026-10-15T00:00:00+02:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://127.0.0.1:4000//news/miniworkshop-deeptech-startup/</id>
@@ -150,6 +214,58 @@ We develop and use machine learning techniques to discover patterns in data stre
 		</entry>
 	
 		<entry>
+			<id>http://127.0.0.1:4000//news/lemma_hackaton/</id>
+			<title>Lemma Hackathon</title>
+			<link href="http://127.0.0.1:4000//news/lemma_hackaton/" rel="alternate" type="text/html" title="Lemma Hackathon" />
+			<updated>2026-09-18T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Jim Boelrijk</name>
+					
+					
+					
+				</author>
+			
+			<summary>Workshop by  Axiomatic AI</summary>
+			<content type="html" xml:base="http://127.0.0.1:4000//news/lemma_hackaton/">&lt;p&gt;Come join us for a one-day working session where students and postdocs (ideally 10 to 15) each bring one research problem and use &lt;a href=&quot;https://axiomatic.ai/lemma/&quot;&gt;Lemma&lt;/a&gt;, a web platform for planning, running and writing up research with an AI agent, to take it from a question to a written-up result. A scientist from &lt;a href=&quot;https://axiomatic.ai&quot;&gt;Axiomatic AI&lt;/a&gt; is in the room or on call for questions the room cannot answer. You bring the problems. We bring the tool, the structure, and access for the day.&lt;/p&gt;
+
+&lt;p&gt;This hackathon is primarily intended for PhD students and postdocs in the physical sciences, mathematics and engineering. The day works best for people who already know a problem well enough to judge whether an answer is right. Below is a tentative schedule for the day.&lt;/p&gt;
+
+&lt;div class=&quot;alert-box info &quot;&gt;
+&lt;ul&gt;
+  &lt;li&gt;Date: Thursday, October 1, 2026&lt;/li&gt;
+  &lt;li&gt;Time: 15:00 - 17:00 hr&lt;/li&gt;
+  &lt;li&gt;Location: Science Park 904 Room TBA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h5 id=&quot;organisers&quot;&gt;Organisers:&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://staff.fnwi.uva.nl/b.d.tencate/&quot;&gt;Balder ten Cate (ILLC)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/marco-del-tredici-316a2984/&quot;&gt;Marco del Tredici (Axiomatic AI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To register for the Lemma Hackathon, please click on this button:&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;radius button small&quot; href=&quot;&quot;&gt;registration closed&lt;/a&gt;
+&lt;!-- &lt;a class=&quot;radius button small&quot; href=&quot;https://forms.gle/788totFYb8xZqhhVA&quot;&gt;Sign up form&lt;/a&gt; --&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="news" />
+			
+			
+				<category term="news" />
+			
+
+			<published>2026-09-18T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
 			<id>http://127.0.0.1:4000//news/agentic-ai-meeting/</id>
 			<title>Agentic AI for Science Tasks</title>
 			<link href="http://127.0.0.1:4000//news/agentic-ai-meeting/" rel="alternate" type="text/html" title="Agentic AI for Science Tasks" />
@@ -184,7 +300,7 @@ You are hereby cordially invited to join this meeting.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;h3 id=&quot;speakers&quot;&gt;Speakers:&lt;/h3&gt;
+&lt;h5 id=&quot;speakers&quot;&gt;Speakers:&lt;/h5&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://staff.fnwi.uva.nl/j.m.mooij/&quot;&gt;Prof. dr. J.M. (Joris) Mooij&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.compchem.nl/staff_members/dr-d-david-dubbeldam/&quot;&gt;Dr. D. (David) Dubbeldam&lt;/a&gt;&lt;/li&gt;
@@ -192,7 +308,7 @@ You are hereby cordially invited to join this meeting.&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://pgroth.com&quot;&gt;Prof. P.T. (Paul) Groth&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;program&quot;&gt;Program:&lt;/h3&gt;
+&lt;h5 id=&quot;program&quot;&gt;Program:&lt;/h5&gt;
 
 &lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
 
@@ -223,8 +339,13 @@ You are hereby cordially invited to join this meeting.&lt;/p&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 id=&quot;registration&quot;&gt;Registration&lt;/h3&gt;
+&lt;h5 id=&quot;registration&quot;&gt;Registration&lt;/h5&gt;
 &lt;p&gt;&lt;a class=&quot;radius button small&quot;&gt;Registration is closed&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;organisers&quot;&gt;Organiser(s):&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https:/compchem.nl/ensing&quot;&gt;Bernd Ensing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 </content>
 
@@ -618,90 +739,6 @@ and ample room for networking with our ca. 300 participants from academia and in
 			
 
 			<published>2025-07-11T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://127.0.0.1:4000//research/abhay-nagaraj1/</id>
-			<title>Electro-catalysis</title>
-			<link href="http://127.0.0.1:4000//research/abhay-nagaraj1/" rel="alternate" type="text/html" title="Electro-catalysis" />
-			<updated>2025-06-25T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>{&quot;image&quot;=&gt;&quot;author_abhaynagaraj1.png&quot;, &quot;name&quot;=&gt;&quot;Abhay Nagaraj&quot;, &quot;function&quot;=&gt;&quot;PhD candidate&quot;, &quot;room&quot;=&gt;&quot;SP C3.234&quot;, &quot;contact&quot;=&gt;&quot;a.nagaraj@uva.nl&quot;, &quot;institute&quot;=&gt;&quot;HIMS&quot;, &quot;group&quot;=&gt;&quot;Computational Chemistry&quot;, &quot;text&quot;=&gt;&quot;Under the supervision of Professor Bernd Ensing, I am currently conducting research with the ANION team, focusing on the investigation of the CO₂ reduction process on various metal surfaces. Our work centers around the development and application of machine-learned interatomic potentials to accurately model the complex interactions and reaction mechanisms involved in CO₂ adsorption and conversion. Our aim is to gain deeper insights into the energetics and dynamics of heterogenous catalysis, ultimately contributing to the design of more efficient and sustainable catalytic systems for CO₂ reduction.&quot;, &quot;site3&quot;=&gt;&quot;Google Scholar&quot;, &quot;url3&quot;=&gt;&quot;https://scholar.google.com/citations?hl=en&amp;authuser=1&amp;user=BsiK0D4AAAAJ&quot;, &quot;site4&quot;=&gt;&quot;LinkedIn&quot;, &quot;url4&quot;=&gt;&quot;https://www.linkedin.com/in/abhay-nagaraj-aa8465236/&quot;, &quot;site5&quot;=&gt;&quot;ORCID&quot;, &quot;url5&quot;=&gt;&quot;https://orcid.org/0009-0007-9210-8586&quot;}</name>
-					
-					
-					
-				</author>
-			
-			<summary>AI-accelerated modeling of the electrode-electrolyte interface</summary>
-			<content type="html" xml:base="http://127.0.0.1:4000//research/abhay-nagaraj1/">&lt;p&gt;&lt;img src=&quot;../../members/AbhayNagaraj.jpg&quot; alt=&quot;Abhay Nagaraj&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;PhD research of &lt;strong&gt;Abhay Nagaraj&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We aim to  investigate the catalytic reduction of carbon dioxide (CO₂) on transition metal surfaces. This reaction is a key step in the development of sustainable technologies for CO₂ capture and conversion. Our approach leverages Machine-Learned Interatomic Potentials (MLIPs)—a powerful and rapidly evolving tool in computational chemistry. MLIPs enable us to model complex chemical processes with near ab initio accuracy, while dramatically extending the time and length scales accessible compared to traditional quantum mechanical methods. This is particularly valuable for studying heterogeneous catalysis, where the interaction between molecules and surfaces involves subtle electronic and structural effects.&lt;/p&gt;
-
-&lt;p&gt;A major challenge in understanding CO₂ reduction lies in modeling the electron transfer processes that drive the reaction. Electrons, being quantum in nature, are notoriously difficult to simulate directly, especially over extended simulations. MLIPs offer an efficient way to study these interactions, allowing us to explore catalytic mechanisms that were previously computationally prohibitive.&lt;/p&gt;
-
-&lt;p&gt;By combining ML-based simulations with experimental insights from our ANION collaborators, this research aims to uncover a more detailed picture of the CO₂ reduction pathway and its dependence on surface composition and structure. Ultimately, our goal is to support the design of more efficient catalysts and contribute to the advancement of green, carbon-neutral chemical processes.&lt;/p&gt;
-
-&lt;p&gt;Working with &lt;a href=&quot;https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing/&quot;&gt;Bernd Ensing&lt;/a&gt; and the &lt;a href=&quot;https://anion.nl&quot;&gt;ANION Consortium&lt;/a&gt;&lt;/p&gt;
-
-</content>
-
-			
-				<category term="research" />
-			
-			
-				<category term="nagaraj ensing anion 2025" />
-			
-
-			<published>2025-06-25T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://127.0.0.1:4000//research/matilde-mercuri1/</id>
-			<title>Nitrogen Fixation</title>
-			<link href="http://127.0.0.1:4000//research/matilde-mercuri1/" rel="alternate" type="text/html" title="Nitrogen Fixation" />
-			<updated>2025-06-23T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>{&quot;image&quot;=&gt;&quot;author_matildemercuri.jpg&quot;, &quot;name&quot;=&gt;&quot;Matilde Mercuri&quot;, &quot;function&quot;=&gt;&quot;PhD candidate&quot;, &quot;room&quot;=&gt;&quot;SP C3.234&quot;, &quot;contact&quot;=&gt;&quot;m.mercuri2@uva.nl&quot;, &quot;institute&quot;=&gt;&quot;HIMS&quot;, &quot;group&quot;=&gt;&quot;Computational Chemistry&quot;, &quot;text&quot;=&gt;&quot;Under Bernd Ensing&apos;s supervision, I am combining DFT calculations and machine learning to investigate the catalytic properties of homogeneous catalysts for nitrogen fixation. By generating high-quality DFT data and by exploring the potential energy surface through enhanced sampling techniques and machine learning potentials, this work aims to capture the energetic and structural features that govern reactivity and can contribute to the development of machine learning models for data-driven catalyst discovery for nitrogen fixation.&quot;, &quot;site1&quot;=&gt;&quot;Computational Chemistry&quot;, &quot;url1&quot;=&gt;&quot;https://www.compchem.nl&quot;, &quot;site2&quot;=&gt;&quot;UvA&quot;, &quot;url2&quot;=&gt;&quot;https://www.uva.nl/profiel/m/e/m.mercuri2/m.mercuri.html&quot;, &quot;site3&quot;=&gt;&quot;LinkedIn&quot;, &quot;url3&quot;=&gt;&quot;https://www.linkedin.com/in/matilde-mercuri-67143b25a/&quot;}</name>
-					
-					
-					
-				</author>
-			
-			<summary>Structure–property relationship exploration for nitrogen reduction catalysis</summary>
-			<content type="html" xml:base="http://127.0.0.1:4000//research/matilde-mercuri1/">&lt;p&gt;&lt;img src=&quot;../../members/MatildeMercuri.jpg&quot; alt=&quot;Matilde Mercuri&quot; width=&quot;100&quot; style=&quot;float: right; margin-right: 10px; border-radius:50%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;PhD research of &lt;strong&gt;Matilde Mercuri&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Nitrogen fixation is a crucial process in the biological cycle, as it provides organisms with ammonia (NH₃), a fundamental precursor for nucleic acids and amino acids. In nature, this transformation is carried out by specialized microorganisms using the enzyme nitrogenase, while in industry it is achieved via the Haber–Bosch process, an energy-intensive method operating under high temperature and pressure.&lt;/p&gt;
-
-&lt;p&gt;In the search for more sustainable and selective catalytic alternatives, homogeneous catalysts, such as coordination complexes, have emerged as promising molecular platforms for N₂ reduction under milder conditions. Unlike heterogeneous systems, homogeneous catalysts offer well-defined active sites that can be fine-tuned at the molecular level through ligand modification. This tunability enables chemists to systematically modulate the electronic and steric properties of the metal center to promote N₂ activation and facilitate multi-electron transfer during reduction reactions.&lt;/p&gt;
-
-&lt;p&gt;Traditionally, the design of homogeneous catalysts has relied on empirical trial-and-error approaches. Although several successful systems have emerged, the vast combinatorial space of metal–ligand architectures renders conventional experimental methods inefficient. Moreover, the high computational cost of simulating electronic properties and reaction pathways using quantum chemistry has further slowed the pace of discovery.&lt;/p&gt;
-
-&lt;p&gt;To address these challenges, we aim to develop a computational workflow that combines density functional theory (DFT) and machine learning to accelerate the discovery of homogeneous nitrogen fixation catalysts. This approach will leverage enhanced sampling techniques and neural-network-based interatomic potentials to efficiently explore the potential energy surface, enabling the systematic evaluation of catalytic performance across chemical space. By generating a dataset of coordination complexes annotated with key descriptors, we aim to establish a foundation for predictive machine learning models capable of proposing novel metal–ligand architectures optimized for nitrogen reduction activity. In doing so, we seek to move toward a data-driven framework for the rational design of homogeneous catalysts.&lt;/p&gt;
-
-&lt;p&gt;Joint work with &lt;a href=&quot;https://www.compchem.nl/staff_members/dr-ir-b-bernd-ensing/&quot;&gt;Bernd Ensing&lt;/a&gt;&lt;/p&gt;
-
-</content>
-
-			
-				<category term="research" />
-			
-			
-				<category term="mercuri ensing 2025" />
-			
-
-			<published>2025-06-23T00:00:00+02:00</published>
 		</entry>
 	
 </feed>

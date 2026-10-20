@@ -1,69 +1,41 @@
-I"�"<p>AI4Science Lab meetings, mini workshops, and hackatons are organised about once a month at Amsterdam Science Park. The meetings are usually not recorded or broadcast as a video conference. To be added to the annoucements mailing list of AI4Science, send your request to <a href="mailto:ai4science.info@gmail.com">ai4science.info@gmail.com</a> stating your name, position, and affiliation.</p>
+I" <p>AI4Science Lab meetings, mini workshops, and hackatons are organised about once a month at Amsterdam Science Park. The meetings are usually not recorded or broadcast as a video conference. To be added to the annoucements mailing list of AI4Science, send your request to <a href="mailto:ai4science.info@gmail.com">ai4science.info@gmail.com</a> stating your name, position, and affiliation.</p>
 
 <hr />
 
 <h2 id="meetings">Coming Lab Meetings</h2>
 
-<h4 id="mini-workshop-agentic-ai-for-science-tasks">Mini workshop: Agentic AI for Science Tasks</h4>
+<h3 id="chemai-ams2026">ChemAI AMS2026</h3>
 
-<p>Many of us, if not all, are nowadays using LLMs for our daily work, for example for
-writing, coding, retrieving information, or automating tasks. However, as new AI 
-models and functionalities develop rapidly, it is not easy to keep up with all 
-the possibilities offered by generative AI and agentic AI, and to adapt our 
-working habits to get the most out of them.
-This interactive meeting on Agentic AI for 
-Science Tasks is aimed at discussing interesting use-cases and exchangng ideas.</p>
+<p>The fourth edition of ChemAI on Nov 12 and 13, 2026. Indeed this year, ChemAI
+will offer 2 days of news and networking for everyone interested in AI, 
+robotics and quantum applied to molecules, materials, and drugs.</p>
 
 <div class="alert-box info ">
 <ul>
-  <li>Date: Wednesday 23 September 2026</li>
-  <li>Time: 15:00 - 17:00 hr</li>
-  <li>Location: Science Park 904 Room H0.08 (little building behind SP904, see <a href="https://www.google.com/maps/place/Science+Park+912,+1012+WX+Amsterdam/@52.3541179,4.9547613,17z/data=!3m1!4b1!4m6!3m5!1s0x47c609454e0dd51b:0x4466d971db31fef4!8m2!3d52.3541179!4d4.9573362!16s%2Fg%2F11c19zvgkp!5m1!1e2?hl=en&amp;entry=ttu&amp;g_ep=EgoyMDI2MDkyMC4wIKXMDSoASAFQAw%3D%3D">Map</a>)</li>
+  <li>Day 1 – Nov 12 – 12:00-18:00 – “ChemAI Deep Tech Builders” - AI House –</li>
+  <li>Day 2 – Nov 13 – 9:00-19:00 - “ChemAI Conference” – Hotel Casa –</li>
 </ul>
 </div>
 
-<p>Speakers:</p>
+<p><img src="../../images/news_2026-10-10-chemai2026.jpg" alt="ChemAI      Logo" width="480" style="float: right; margin: 10px 10px 10px 10px;;" /></p>
+
+<p>The program features keynotes from world-leading researchers and innovators, including Prof Steven Latré (VP of AI at IMEC), Dr Heike Riel (IBM Head of Quantum &amp; AI, President of the German Physical Society), Prof Timothy Noël (UvA), Prof Tonio Buonassisi (MIT, VP of Sustainable Energy at CSEM), Prof Martijn Schut (Amsterdam UMC), Prof Julija Zavadlav (TUM), Dr Stefano Martiniani (NYU), Dr Yang Cao (Acceleration Consortium, University of Toronto), and talks from Siemens, SandboxAQ, NVIDIA, TOPSOE, VSParticle, Envalior, Dunia, Quantinuum, and more…</p>
+
+<p>The poster session offers researchers an opportunity to present their work, with cash prizes awarded to the top three posters thanks to Matterstack.ai.
+The company exhibition connects researchers, startups, and industry.</p>
+
 <ul>
-  <li><a href="https://staff.fnwi.uva.nl/j.m.mooij/">Prof. dr. J.M. (Joris) Mooij</a></li>
-  <li><a href="https://www.compchem.nl/staff_members/dr-d-david-dubbeldam/">Dr. D. (David) Dubbeldam</a></li>
-  <li><a href="https://staff.fnwi.uva.nl/j.zuiddam/">Dr. J. (Jeroen) Zuiddam</a></li>
-  <li><a href="https://pgroth.com">Prof. P.T. (Paul) Groth</a></li>
+  <li>ChemAI Website: <a href="https://www.acnetwork.nl/chemai">https://www.acnetwork.nl/chemai</a></li>
+  <li>Program: <a href="https://www.canva.com/design/DAHNYv4GNIg/D9jRaLM-Y6_6pP7SHfoDuQ/view">https://www.canva.com/design/DAHNYv4GNIg/D9jRaLM-Y6_6pP7SHfoDuQ/view</a></li>
+  <li>Day 1 registrations: <a href="https://luma.com/aihouse-eyno">https://luma.com/aihouse-eyno</a></li>
+  <li>Day 2 registrations: <a href="https://www.eventbrite.nl/e/chemai-2026-day-2-conference-nov-13-tickets-1994828364337">https://www.eventbrite.nl/e/chemai-2026-day-2-conference-nov-13-tickets-1994828364337</a> (recommended for academics)</li>
 </ul>
 
-<p>Organiser(s):</p>
-<ul>
-  <li><a href="https:/compchem.nl/ensing">Bernd Ensing</a></li>
-</ul>
+<p>We warmly encourage you to share this invitation with colleagues, PhD students, research groups, and industry connections who may be interested in the rapidly developing field of AI for molecules and materials.</p>
 
 <hr />
 
-<h4 id="lemma-hackathon">Lemma Hackathon</h4>
-
-<p>Come join us for a one-day working session where students and postdocs (ideally 10 to 15) each bring one research problem and use <a href="https://axiomatic.ai/lemma/">Lemma</a>, a web platform for planning, running and writing up research with an AI agent, to take it from a question to a written-up result. A scientist from <a href="https://axiomatic.ai">Axiomatic AI</a> is in the room or on call for questions the room cannot answer. You bring the problems. We bring the tool, the structure, and access for the day.</p>
-
-<p>This hackathon is primarily intended for PhD students and postdocs in the physical sciences, mathematics and engineering. The day works best for people who already know a problem well enough to judge whether an answer is right. Below is a tentative schedule for the day.</p>
-
-<div class="alert-box info ">
-<ul>
-  <li>Date: Thursday, October 1, 2026</li>
-  <li>Time: TBA</li>
-  <li>Location: TBA</li>
-</ul>
-</div>
-
-<p>Organisers:</p>
-<ul>
-  <li><a href="https://staff.fnwi.uva.nl/b.d.tencate/">Balder ten Cate (ILLC)</a></li>
-  <li><a href="https://www.linkedin.com/in/marco-del-tredici-316a2984/">Marco del Tredici (Axiomatic AI)</a></li>
-</ul>
-
-<p>To register for the Lemma Hackathon, please click on this button:</p>
-
-<p><a class="radius button small" href="https://forms.gle/779totFYb8xZqhhVA">Sign up form</a></p>
-
-<hr />
-
-<h4 id="mini-workshop-starting-a-deeptech-ai-startup">Mini workshop: Starting a deeptech AI startup</h4>
+<h3 id="mini-workshop-starting-a-deeptech-ai-startup">Mini workshop: Starting a deeptech AI startup</h3>
 
 <p><em>Thinking of starting a deeptech AI startup?</em></p>
 
@@ -162,7 +134,7 @@ Science Tasks is aimed at discussing interesting use-cases and exchangng ideas.<
 
 <hr />
 
-<h4 id="sbi-in-physics-and-astronomy-kick-off-event">SBI in Physics and Astronomy Kick-off Event</h4>
+<h3 id="sbi-in-physics-and-astronomy-kick-off-event">SBI in Physics and Astronomy Kick-off Event</h3>
 
 <p>Simulation-based inference (SBI) is playing an increasingly important role in particle physics, astrophysics and cosmology. Various research groups at Science Park are playing an internationally visible role in its development and application, but are currently somewhat disconnected from each other. To connect students and researchers who are using or developing SBI, or who are just interested in getting involved, we aim to establish a regular meeting series, with a shape, form and content tuned to your needs or interests.</p>
 

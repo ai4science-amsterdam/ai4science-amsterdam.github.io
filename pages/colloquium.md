@@ -14,6 +14,8 @@ permalink: "/colloquium/"
 > Knowledge Shared = Knowledge<sup>2</sup>
 
 
+<!--
+
 ## Previous Colloquium
 
 #### Density functional theory and machine learning:  The race to find the next best approximation
@@ -48,7 +50,7 @@ worked extensively on the DFT formalism, extensions to new areas, and
 applications in chemistry, materials science, matter under extreme
 conditions, and so forth. Recently, he has also focused on errors in
 DFT and machine learned density functionals. 
-
+-->
 
 
 
