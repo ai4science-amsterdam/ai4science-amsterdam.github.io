@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Starting a deeptech AI startup"
-subheadline: "28 October 2026"
+subheadline: "Date to be announced"
 teaser: "AI4Science Mini Workshop"
 image: "../../images/workshop_banner.jpg"
 categories:
@@ -21,7 +21,7 @@ This mini workshop is for UvA students and researchers wanting to know more abou
 
 
 {% include alert info='
-* Date: Wednesday 28 October 2026
+* Date: Rescheduled / to be announced
 * Time: 14:00 - 17:00 hr
 * Location: <a href="https://www.google.com/maps/place/SustainaLab/@52.3555818,4.9519582,17z/data=!3m1!4b1!4m6!3m5!1s0x47c6090030f2ae55:0xaa34c155ca3ded9f!8m2!3d52.3555786!4d4.9545385!16s%2Fg%2F11nvxmwl7t!5m1!1e2?hl=en&entry=ttu&g_ep=EgoyMDI2MDkyMC4wIKXMDSoASAFQAw%3D%3D">Sustainalab, Matrix I</a>, Science Park Amsterdam' %}
 
